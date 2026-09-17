@@ -1,0 +1,490 @@
+{
+  "facets": {
+    "division": {
+      "type": "categorical",
+      "values": [
+        {
+          "name": "</b> Chemical<br /><b>",
+          "count": 38
+        },
+        {
+          "name": "</b> Civil Engineering<br /><b>",
+          "count": 29
+        },
+        {
+          "name": "</b> Electronics and Information Technology<br /><b>",
+          "count": 5
+        },
+        {
+          "name": "</b> Electrotechnical<br /><b>",
+          "count": 18
+        },
+        {
+          "name": "</b> Food and Agriculture<br /><b>",
+          "count": 15
+        },
+        {
+          "name": "</b> Management and Systems<br /><b>",
+          "count": 1
+        },
+        {
+          "name": "</b> Mechanical Engineering<br /><b>",
+          "count": 6
+        },
+        {
+          "name": "</b> Medical Equipment and Hospital Planning<br /><b>",
+          "count": 6
+        },
+        {
+          "name": "</b> Metallurgical Engineering<br /><b>",
+          "count": 8
+        },
+        {
+          "name": "</b> Petroleum, Coal, and Related Products<br /><b>",
+          "count": 6
+        },
+        {
+          "name": "</b> Production and General Engineering<br /><b>",
+          "count": 10
+        },
+        {
+          "name": "</b> Textiles<br /><b>",
+          "count": 9
+        },
+        {
+          "name": "</b> Transport Engineering<br /><b>",
+          "count": 19
+        },
+        {
+          "name": "</b> Water Resources<br /><b>",
+          "count": 10
+        }
+      ]
+    },
+    "year": {
+      "type": "range",
+      "min": 1968,
+      "max": 2023,
+      "values": [
+        {
+          "year": 1968,
+          "count": 1
+        },
+        {
+          "year": 1974,
+          "count": 1
+        },
+        {
+          "year": 1976,
+          "count": 1
+        },
+        {
+          "year": 1979,
+          "count": 1
+        },
+        {
+          "year": 1980,
+          "count": 13
+        },
+        {
+          "year": 1981,
+          "count": 54
+        },
+        {
+          "year": 1982,
+          "count": 24
+        },
+        {
+          "year": 1983,
+          "count": 9
+        },
+        {
+          "year": 1984,
+          "count": 5
+        },
+        {
+          "year": 1985,
+          "count": 2
+        },
+        {
+          "year": 1986,
+          "count": 7
+        },
+        {
+          "year": 1987,
+          "count": 6
+        },
+        {
+          "year": 1988,
+          "count": 8
+        },
+        {
+          "year": 1989,
+          "count": 7
+        },
+        {
+          "year": 1990,
+          "count": 6
+        },
+        {
+          "year": 1991,
+          "count": 4
+        },
+        {
+          "year": 1992,
+          "count": 4
+        },
+        {
+          "year": 1993,
+          "count": 1
+        },
+        {
+          "year": 1994,
+          "count": 3
+        },
+        {
+          "year": 1996,
+          "count": 4
+        },
+        {
+          "year": 1997,
+          "count": 2
+        },
+        {
+          "year": 1998,
+          "count": 2
+        },
+        {
+          "year": 1999,
+          "count": 7
+        },
+        {
+          "year": 2000,
+          "count": 3
+        },
+        {
+          "year": 2002,
+          "count": 2
+        },
+        {
+          "year": 2003,
+          "count": 2
+        },
+        {
+          "year": 2004,
+          "count": 1
+        },
+        {
+          "year": 2013,
+          "count": 3
+        },
+        {
+          "year": 2014,
+          "count": 2
+        },
+        {
+          "year": 2018,
+          "count": 4
+        },
+        {
+          "year": 2021,
+          "count": 2
+        },
+        {
+          "year": 2022,
+          "count": 1
+        },
+        {
+          "year": 2023,
+          "count": 5
+        }
+      ]
+    },
+    "status": {
+      "type": "categorical",
+      "values": [
+        {
+          "name": "current",
+          "count": 180
+        },
+        {
+          "name": "superseded",
+          "count": 17
+        }
+      ]
+    },
+    "committee": {
+      "type": "categorical",
+      "values": [
+        {
+          "name": "CED 11",
+          "count": 2
+        },
+        {
+          "name": "CED 15",
+          "count": 2
+        },
+        {
+          "name": "CED 2",
+          "count": 5
+        },
+        {
+          "name": "CED 24",
+          "count": 4
+        },
+        {
+          "name": "CED 29",
+          "count": 1
+        },
+        {
+          "name": "CED 4",
+          "count": 1
+        },
+        {
+          "name": "CED 43",
+          "count": 3
+        },
+        {
+          "name": "CED 47",
+          "count": 1
+        },
+        {
+          "name": "CED 48",
+          "count": 2
+        },
+        {
+          "name": "CED 9",
+          "count": 8
+        },
+        {
+          "name": "CHD 10",
+          "count": 2
+        },
+        {
+          "name": "CHD 15",
+          "count": 1
+        },
+        {
+          "name": "CHD 19",
+          "count": 1
+        },
+        {
+          "name": "CHD 20",
+          "count": 31
+        },
+        {
+          "name": "CHD 23",
+          "count": 1
+        },
+        {
+          "name": "CHD 26",
+          "count": 1
+        },
+        {
+          "name": "CHD 32",
+          "count": 1
+        },
+        {
+          "name": "ETD 16",
+          "count": 3
+        },
+        {
+          "name": "ETD 17",
+          "count": 1
+        },
+        {
+          "name": "ETD 2",
+          "count": 11
+        },
+        {
+          "name": "ETD 33",
+          "count": 1
+        },
+        {
+          "name": "ETD 35",
+          "count": 1
+        },
+        {
+          "name": "ETD 7",
+          "count": 1
+        },
+        {
+          "name": "FAD 12",
+          "count": 1
+        },
+        {
+          "name": "FAD 13",
+          "count": 1
+        },
+        {
+          "name": "FAD 16",
+          "count": 7
+        },
+        {
+          "name": "FAD 19",
+          "count": 4
+        },
+        {
+          "name": "FAD 20",
+          "count": 1
+        },
+        {
+          "name": "FAD 6",
+          "count": 1
+        },
+        {
+          "name": "LITD 4",
+          "count": 1
+        },
+        {
+          "name": "LITD 5",
+          "count": 2
+        },
+        {
+          "name": "LITD 9",
+          "count": 2
+        },
+        {
+          "name": "MED 17",
+          "count": 1
+        },
+        {
+          "name": "MED 25",
+          "count": 1
+        },
+        {
+          "name": "MED 29",
+          "count": 1
+        },
+        {
+          "name": "MED 30",
+          "count": 1
+        },
+        {
+          "name": "MED 7",
+          "count": 1
+        },
+        {
+          "name": "MED 8",
+          "count": 1
+        },
+        {
+          "name": "MHD 5",
+          "count": 3
+        },
+        {
+          "name": "MHD 8",
+          "count": 3
+        },
+        {
+          "name": "MSD 10",
+          "count": 1
+        },
+        {
+          "name": "MTD 13",
+          "count": 1
+        },
+        {
+          "name": "MTD 14",
+          "count": 5
+        },
+        {
+          "name": "MTD 15",
+          "count": 1
+        },
+        {
+          "name": "MTD 25",
+          "count": 1
+        },
+        {
+          "name": "PCD 13",
+          "count": 6
+        },
+        {
+          "name": "PGD 16",
+          "count": 1
+        },
+        {
+          "name": "PGD 27",
+          "count": 1
+        },
+        {
+          "name": "PGD 31",
+          "count": 1
+        },
+        {
+          "name": "PGD 4",
+          "count": 6
+        },
+        {
+          "name": "PGD 9",
+          "count": 1
+        },
+        {
+          "name": "TED 14",
+          "count": 1
+        },
+        {
+          "name": "TED 19",
+          "count": 1
+        },
+        {
+          "name": "TED 2",
+          "count": 15
+        },
+        {
+          "name": "TED 21",
+          "count": 1
+        },
+        {
+          "name": "TED 24",
+          "count": 1
+        },
+        {
+          "name": "TXD 1",
+          "count": 2
+        },
+        {
+          "name": "TXD 12",
+          "count": 2
+        },
+        {
+          "name": "TXD 23",
+          "count": 1
+        },
+        {
+          "name": "TXD 33",
+          "count": 1
+        },
+        {
+          "name": "TXD 5",
+          "count": 1
+        },
+        {
+          "name": "TXD 7",
+          "count": 1
+        },
+        {
+          "name": "TXD 8",
+          "count": 1
+        },
+        {
+          "name": "WRD 12",
+          "count": 5
+        },
+        {
+          "name": "WRD 22",
+          "count": 2
+        },
+        {
+          "name": "WRD 23",
+          "count": 2
+        },
+        {
+          "name": "WRD 5",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,795 @@
+**************** 
+
+
+
+
+Disclosure to Promote the Right To Information 
+
+Whereas the Parliament of India has set out to provide a practical regime of right to 
+information for citizens to secure access to information under the control of public authorities, 
+in order to promote transparency and accountability in the working of every public authority, 
+and whereas the attached publication of the Bureau of Indian Standards is of particular interest 
+to the public, particularly disadvantaged communities and those engaged in the pursuit of 
+education and knowledge, the attached public safety standard is made available to promote the 
+timely dissemination of this information in an accurate manner to the public. 
+
+
+
+
+Mazdoor Kisan Shakti Sangathan 
+"The Right to Information, The Right to Live" 
+
+
+
+IS 10000-7 (1980) : Methods of tests for internal combustion 
+engines, Part 7: Governing tests for constant speed engines 
+and selection of engines for use with electrical generators 
+^TED 2: Automotive Primemovers] 
+
+
+
+
+Jawaharlal Nehru 
+'Step Out From the Old to the New' 
+
+
+
+a^v j i imzzmn^a rafrg amsBs 
+
+
+
+2*S< W I *>S*V2^NK^ 
+
+
+
+^frcvvv^ 
+
+
+
+Satyanarayan Gangaram Pitroda 
+Invent a New India Using Knowledge 
+
+
+
+Bhartrhari — Nitisatakam 
+"Knowledge is such a treasure which cannot be stolen" 
+
+
+
+
+.^^_ 
+
+
+
+• 
+
+
+
+
+BLANK PAGE 
+
+
+
+*rt*2V^ 
+
+
+
+
+
+PROTECTED BY COPYRIGHT 
+
+
+
+UDC 62i-43-oi8-6:62t-3i3-i2 ( Second Reprint APRIL 1990) IS : 10000 ( Part VII )- 1980 
+
+
+
+Indian Standard (Reaffirmed 2001 ) 
+
+METHODS OF TESTS FOR 
+INTERNAL COMBUSTION, ENGINES 
+
+PART VII GOVERNING TESTS FOR CONSTANT SPEED 
+ENGINES AND SELECTION OF ENGINES FOR USE WITH 
+ELECTRICAL GENERATORS 
+
+
+
+1. Scope — Specifies the governing tests for constant speed engines and the guidelines for the 
+selection of the engines for use with an electrical generator. 
+
+2. Governing 
+
+2.1 Definitions— Following definitions shall apply. 
+
+2.1.1 Transient speed change (-Sa ■)■— Maximum deviation of speed Rafter sudden load change from 
+speed at steady state level, expressed as a percentage of the rated speed: 
+
+S d = " max = " r x 100 
+n r 
+
+where 
+
+/?max — transient speed resulting after load change on the engine, rev/min, and 
+
+n r = rated speed of the engine as declared by the manufacturer, rev/min. 
+
+2.1.2 Permanent speed change — Deviation of speed after gradual power change from speed at 
+steady state level, expressed as a percentage of rated speed. 
+
+2.1-3 Steady state speed band ' v * — Width of envelope of variation of the engine speed under 
+steady state conditions expressed as a percentage of- rated speed. 
+
+2.1.4 Recovery time — Time interval from point when speed exceeds steady state speed band 
+after the load change until speed is set up and remains within the steady state speed band 
+associated with the new load, expressed in seconds. 
+
+2.2 The engine shall run at a steady load within its rating. 
+
+2.3 Classes of Governing 
+
+2.3.1 Class Ai governing— Installations where special requirements exist (such as radar, radio, 
+computer supplies and very heavy motor starting duties), the following information shall be supplied 
+by the engine manufacturers: 
+
+a) The maximum load that can be suddenly applied to the engine while it is running at full 
+rated speed, at no load, and at normal running temperatures; 
+
+b) The transient and permanent speed changes that will result from the application of this 
+load; 
+
+c) The transient and permanent speed rise resulting from full load being thrown off; 
+
+d) The trar : entand permanent speed change resulting from a change of load, both off and 
+on, by i teps of 25 percent of the rated full load; and 
+
+e) The steady state speed band and the recovery time to this speed band from all the 
+conditions stated above. 
+
+2.3.1.1 The steady state speed band shall not exceed ±0*5 percent during the performance 
+test [ see IS : 10000 ( Part VIM ) ]. 
+
+
+
+Adopted 30 September 1980 
+
+
+
+© January 1981, BIS 
+
+
+
+Gr 3 
+
+
+
+BUREAU OF INDIAN STANDARDS 
+
+MANAK BHAVAN, 9 BAHADUR SHAH ZAFAR MARG 
+NEW DELHI 110002 
+
+
+
+18 : 10000 ( Part VII ) - 1980 
+
+2.3 2 Class At governing — The engine shall be governed within the following limits: 
+
+
+
+Load Variation at Rated Speed 
+
+
+Maximum Change of Speed 
+
+as a Percentage of Rated 
+
+Speed 
+
+
+Maximum Recovery 
+Time in Seconds 
+
+
+On suddenly taking-off the rated 
+toad 
+
+
+Transient 
+
+
+15 
+
+
+15 
+
+
+Permanent 
+
+
+4'5 
+
+
+— 
+
+
+On a change of load, both on and 
+off, by all steps of 25 percent of 
+the rated load in both directions 
+while putting on load and while 
+taking-off load 
+
+
+Transient 
+
+
+4 
+
+
+5 
+
+
+Permanent 
+
+
+1-5 
+
+
+— 
+
+
+
+2-3.2.1 When the engine is delivering between no load and 100 percent of the rated power 
+output the steady state speed band shall not exceed ± 05 percent of the rated speed for Class A 2 
+governing. The steady state speed band shall be measured for a period of 2 to 5 minutes. 
+The maximum and minimum speed readings shall be taken for the period of steady state^speed 
+band measurement. 
+
+2.3.3 Class B x governing— The engine shall be governed within the following limits: 
+
+
+
+Governed Speed 
+( At Full Load ) 
+
+
+Temporary Speed Change 
+( Full Rated Load to No Load ) 
+
+
+Maximum Permanent 
+
+Speed Change 
+
+( Full Rated Load to No Load ) 
+
+
+100 percent 
+
+
+* 8 percent 
+
+
+15 percent 
+
+
+
+2.3.3.1 The manufacturer while tendering to Class B governing, shall state the rated speed on 
+which the above table is based. Th$ steady state speed band shall not exceed ±1 percent during 
+the performance test [ see IS : 10000 ( Part VIII ) ]. 
+
+2.3.3.2 Engines with Class Bi governors shall be provided with an external means of adjustment 
+of running speed by ±5 percent of the nominal speed at all loads up to the rated load. 
+
+2.3,4 Class B% governing — Engines conforming *o this type of governing shall be governed within 
+the following limits: 
+
+
+
+Governed Speed 
+(At Full Rated Load) 
+
+
+Temporary Speed Change 
+
+(Full Rated Load to 
+
+No Load) 
+
+
+Maximum Permanent 
+, Soeed Change 
+i Full Rated Load to 
+No Load) 
+
+
+percent 
+
+
+percent 
+
+
+percent 
+
+
+100 
+
+
+8 
+
+
+15 
+
+
+80 
+
+
+10 
+
+
+17 
+
+
+60 
+
+
+13'3 
+
+
+20 
+
+
+50 
+
+
+16 
+
+
+25 
+
+
+40 
+
+
+20 
+
+
+30 
+
+
+30 
+
+
+27 
+
+
+40 
+
+
+25 
+
+
+32 
+
+
+50 
+
+
+
+Net. — All the above value, we a* a percentage of the engine design speed. 
+
+2 
+
+
+
+IS : 10000 (Part VII)- 1980 
+
+2.3.4.1 The manufacturer when tendering to Class B 2 governing shall state the design speed of 
+engine. 
+
+2.3.4.2 Steady state speed band shall not exceed ±1 percent during the performance test 
+[see IS: 10000 ( Part VIII ) ]. 
+
+2.3.4.3 Engines with Class B 2 governors shall be provided with an external means of adjustment 
+of the running speed by ±5 percent of the nominal speed at all loads up to the rated loa^. 
+
+3. Selection of Engine for Use with Electrical Generators 
+
+3.1 Cyclic Irregularity of Direct Coupled Engine and Electrical Generators — for a direct-coupled 
+engine and generator, cyclic irregularity as defined in 3.1.1 is independent of the number of 
+poles of the generator and refers to the angular velocity at the rotor of the electrical machine. 
+
+3.1.1 Cyclic irregularity (calculated) — The ratio of the total variation in speed ( instantaneous 
+angular velocity ) at the flywheel during one engine cycle to the mfean speed when the engine is 
+running at any load up to and including rated load and at rated speed. This is conveniently 
+expressed as follows: 
+
+- .. . , ., Maximum speed — Minimum speed 
+Cychc irregularity = Mean speed 
+
+3.1.2 The maximum permissible cyclic irregularity of direct-coupled engine and generator 
+throughout one engine cycle shall conform to the following requirements: 
+
+a) For an engine having one or two cylinders, the cyclic irregularity shall not be worse than 
+1/75 unless a closer limit is specified to avoid flickering of lights; and 
+
+b) For an engine having more than two cylinders, the cyclic irregularity shall not be worse 
+than the following values, unless a closer limit is specified: 
+
+Engine Impulse Cyclic Irregularity not 
+
+per Second Worse Than 
+
+Less than 10 1/150 
+
+10 to 20 Engine impulses per second 
+
+1500 
+
+Above 20 1/75 
+
+3.2 Angular Deviation of Alternating Current Generators in Parallel — The combined flywheel effect of 
+the flywheel and alternator shall be such that the angular deviation in either direction from the 
+position of unifrom rotation shall not at any time exceed two and a half electrical degrees, in 
+addition to complying with the limit of cyclic irregularity specified in 3.1.2. 
+
+3.2.1 The engine manufacturer shall inform the supplier of the alternator, regarding the total 
+flywheel effect, which shall be provided, to ensure that the maximum calculated angular deviation of 
+two and a half electrical degrees is not exceeded. He shall also state the frequencies of such 
+engine-disturbing forces as are of significant magnitude and the supplier of the alternator shall 
+then specify to the engine manufacturer what additional flywheel effect (if any) is necessary for 
+avoiding the effects of resonance due to alternator swing. 
+
+Note 1 — The angular deviation specified is that calculated on the assumption that the torque of the 
+alternator, that is, the torque opposing the motion of the engine, is uniform throughout the engine cycle. 
+
+Note 2 — The angular deviation specified applies to alternators of ordinary regulation. Alternators designed 
+for special regulation may require still closer uniformity of rotation. 
+
+Note 3— An electrical degree is 1/360th of a complete electrical cycle. If P — number of poles of an 
+alternator, the number of electrical cycles in a revolution is P/2, so that 360 mechanical degrees correspond 
+to ( P/2 ) x 360 electrical degrees, or one mechanical degree = P/2 electrical degrees. 
+
+Note 4 — By avoidance of the effects of resonance is meant that the natural frequency of oscillation of the 
+alternator with its flywheel, when connected to the electrical system with which it is to work in parallel, shall not 
+approch the frequency of any engine impulses of significant magnitude. 
+
+4. Torsional Critical Speeds — The main contractor ( be he either engine manufacturer, builder of 
+the driven machinery, or an independent supplier) shall be responsible for ensuring that the torsional 
+vibration conditions of the dynamic system comprising engine ancKdriven machinery are satisfactory. 
+
+3 
+
+
+
+IS: 10000 (Part VII) -1980 
+
+4.1 In installations where a knowledge of the torsional vibration stresses of the complete system is 
+required the following procedure shall be adopted for determining the torsional vibration stresses; 
+
+a) The engine builder shall estimate by calculation the torsional vibration stresses in 
+engine crankshaft and driven machinery shafting resulting from torsional critical speeds. 
+
+b) The main contractor shall be responsible for ensuring that the builder of the driven 
+machinery shall supply adequate and accurate data and plans required for the above 
+calculations, including the dimensions, inertias, and, where applicable, torque curves. 
+The builder of the driven machinery shall also indicate, if available, the maximum 
+permissible torsional stresses and amplitude in the driven machinery. 
+
+c) The engine builder shall certify to the supplier of the driven machinery (either direct or 
+through the main contractor) the estimated values of the stresses and torques in the 
+driven machinery shafting at all normal rotational speeds. He shall also indicate, where 
+necessary, the estimated values of the peak stresses, the rotational speeds at which they 
+occur, and the amplitudes in the system. 
+
+d) If the results of the above mentioned calculations require modifications to the system, 
+then the main contractor will arrange either with the engine builder or with the driven 
+machinery manufacturers ), or any necessary modifications to be made. 
+
+EXPLANATORY NOTE 
+
+The testing and performance of constant speed and variable speed internal combustion 
+engines was earlier covered by the following Indian Standards: 
+
+IS : 1600-1960 Code for type testing of constant speed internal combustion engines for 
+
+general purposes, 
+IS: 1601-1960 Performance of constant speed internal combustion engines for general 
+
+purposes, 
+IS: 1602-1960 Code for type testing of variable speed internal combustion engines for 
+
+automotive purposes, and 
+IS: 1603-1960 Performance of variable speed internal combustion engines for automotive 
+
+purposes. 
+
+These standards were originally issued in the year 1960 and as a result of implementation 
+of these standards by the manufacturers of engines and testing laboratories, as also the 
+operation of ISI Certification Marking Scheme, these standards have now been extensively 
+revised. 
+
+While IS: 1600 and IS : 1602 covered the codes for type testing of constant and variable 
+speed engines respectively, the performance requirements of such engines were covered by IS : 1601 
+and IS : 1603, respectively. These standards are replaced by two sets of standards, one set 
+covers the methods of testing of engines and the other covers the specification and performance 
+requirements of both constant speed and variable speed engines. 
+
+The standard covering methods of tests is being published in following 12 parts (each part 
+covering a particular test method or information related to methods of tests ): 
+
+IS : 10000 Part I Glossary of terms relating to test methods 
+
+IS : 10000 Part II Standard reference conditions 
+
+IS ; 10000 Part III Measurement for testing, units and limits of accuracy 
+
+IS : 10009 Part IV Declarations of power, efficiency, fuel consumption and lubricating oil 
+consumption 
+
+IS : 10000 Part V Preparation for tests and measurements for wear 
+
+IS : 10000 Part VI Recording of test results 
+
+IS : 10000 Part VII Governing tests for constant speed engines and selection of engines for 
+use with electrical generators 
+
+IS : 10000 Part Vill Performance tests 
+
+IS : 10000 Part IX Endurance tests 
+
+IS : 10000 Part X Tests for smoke levels, limits and corrections for smoke levels for variable 
+speed engines 
+
+IS,: 10000 Part XI Information required with inquiry or order and information supplied by 
+the manufacturer with the engine 
+
+IS : 10000 Part XII Test certificates 
+
+I 
+
+4 
+
+
+
+IS : 10000 ( Part VII ) - 1980 
+
+This standard will be complementary to specifications for performance requirements of 
+different types of engines covered by following standards: 
+
+IS: 10001 Specification for performance requirements for constant speed compression 
+
+ignition (diesel) engines for general purposes ( up to 20 kW) 
+IS: 10002 Specification for performance requirements for constant speed compression 
+
+ignition (diesel). engines for general purposes (above 20 kW ) 
+IS: 10003 Specification for performance requirements for variable speed compression 
+
+ignition ( diesel ) engines for automotive purposes 
+IS : 10004 Specification for performance requirements for variable speed spark ignition 
+
+engines for automotive purposes 
+
+Spark ignition engines for sprayers and similar applications have been covered by IS ; 7347- 
+1974 • Specification for performance requirements of small size spark ignition engines for sprayers \ 
+
+Two-stroke spark ignition engines for automotive applications which were earlier covered by 
+IS : 1603 will be covered by a separate specification. 
+
+The revised methods of tests covered by IS : 10000 have been aligned with the current 
+international practices in the field of I. C. engines. These parts are in general agreement with 
+the following ISO standards, issued by the International Organization for Standardization: 
+
+a) ISO 3046/1-1975 Reciprocating internal combustion engines — Performance: Parti 
+
+Standard reference conditions and declarations of power, fuel 
+consumption and lubricating oil consumption 
+
+b) ISO 3046/11-1077 Reciprocating internal combustion engines - Performance: Part II 
+
+Test methods 
+
+c) ISO 3046/111-1979 Reciprocating internal combustion engines — Performance: Part III 
+
+Test measurements 
+
+d) ISO 2710-1978 Reciprocating internal combustion engines — Vocabulary. 
+
+Although ISO has published ISO 3046,1V : Performance — Part IV Speed governing, our 
+national committee has felt that at this time it may not be possible to align this standard with 
+ISO 9046/ IV because our national requirements differ from those given therein. 
+
+IS ; 10000 ( Part I to Part XII ) and IS : 10001, IS ; 10002, IS : 10003 and IS : 10004 collectively 
+supersede IS : 1600*1960, IS : 1601-1960, IS : 1602-1960 and IS : 1603^1960. 
+
+
+
+Reprography Unit, BIS, New Delhi, India 
+
+
+
+AMENDMENT NO. 1 APRIL 1982 
+TO 
+
+IS:10000(Part VII) -1980 METHODS OF TESTS FOR INTERNAL 
+COMBUSTION ENGINES 
+
+PART VII GOVERNING TESTS FOR CONSTANT SPEED 
+
+ENGINES AND SELECTION OF ENGINES FOR USE 
+
+WITH ELECTRICAL GENERATORS 
+
+
+
+Corrigenda 
+
+(Page 2, clause 2.3.3, informal table) 
+the existing table: 
+
+
+
+- Substitute the following for 
+
+
+
+Governed Speed 
+(At Full Rated 
+Load) 
+
+
+Temporary Speed Change 
+{Full Rated Load to 
+No Load) 
+
+
+Maximum Permanent 
+Speed Change 
+
+(Full Rated Load 
+to. No Load) 
+
+
+100 percent 
+
+
+15 percent 
+
+
+8 percent 
+
+
+
+{Page 2, elauoe 2.3.4, informal table) - Substitute the following for 
+the existing table: 
+
+
+
+Governed Speed 
+(At Full Rated 
+Load) 
+
+
+Temporary Speed Change 
+(Full Rated Load to 
+No Load) 
+
+
+Maximum Permanent 
+Speed Change 
+
+(Full Rated Load 
+to Ho Load) 
+
+
+Percent 
+
+
+Percent 
+
+
+Percent 
+
+
+100 
+
+
+15 
+
+
+8 
+
+
+80 
+
+
+IT 
+
+
+10 
+
+
+60 
+
+
+20 
+
+
+13.3 
+
+
+50 
+
+
+25 
+
+
+16 
+
+
+"*o 
+
+
+30 
+
+
+20 
+
+
+30 
+
+
+1*0 r 
+
+
+27 
+
+
+25 
+
+
+50 
+
+
+»■-,. . 
+
+
+
+Rote • All the above r&lues are as a percentage of the engine design speed. 
+
+
+
+(EBC Hi) 
+
+
+
+Reprography Unit, BIS, New Delhi, India 
+
+
+
+AMENDMENT NO. 2 MARCH 1935 
+TO 
+
+IS-.lOOOOtRart 7)-l980 METHODS OF TESTS FOR INTERNAL 
+
+COMBUSTION ENGINES 
+
+PART 7 GOVERNING TESTS FOR CONSTANT SPEED ENGINES 
+AND SELECTION OF ENGINES FOR USE 
+WITH ELECTRICAL GENERATORS 
+
+
+
+(Page 2,. Note under clause 2.3,4) - Substitute 
+the following for the existing note: 
+
+•NOTE - All the above values are as a percentage 
+of the engine rated speed.' 
+
+(EDC lU) 
+
+
+
+Reprography Unit, BIS, New Delhi, India 
+
+
+

@@ -1,0 +1,828 @@
+*••••••••••*•••• 
+
+
+
+-k t^^ 
+
+
+
+
+Disclosure to Promote the Right To Information 
+
+Whereas the Parliament of India has set out to provide a practical regime of right to 
+information for citizens to secure access to information under the control of public authorities, 
+in order to promote transparency and accountability in the working of every public authority, 
+and whereas the attached publication of the Bureau of Indian Standards is of particular interest 
+to the public, particularly disadvantaged communities and those engaged in the pursuit of 
+education and knowledge, the attached public safety standard is made available to promote the 
+timely dissemination of this information in an accurate manner to the public. 
+
+
+
+
+Mazdoor Kisan Shakti Sangathan 
+"The Right to Information, The Right to Live" 
+
+
+
+IS 10026-3-9 (1986) : Insulating varnishes containing 
+solvents. Part 3: Specifications for individual materials. 
+Section 9: Baking varnishes with temperature index 130 for 
+magnetic core sheets [ETD 2: Solid Electrical Insulating 
+Materials and Insulation Systems] 
+
+
+
+
+Jawaharlal Nehru 
+"Step Out From the Old to the New" 
+
+
+
+gyia^/f/raa^^^:^^ 
+
+
+
+S?St^ * I |>&B5^«%^Na«^ 
+
+
+
+\\V^:5^< 
+
+
+
+Satyanarayan Gangaram Pitroda 
+Invent a New India Using Knowledge 
+
+
+
+Bhartrhari — Nitisatakam 
+Knowledge is such a treasure which cannot be stolen" 
+
+
+
+
+ic 
+
+
+
+j^- 
+
+
+
+A 
+
+
+
+
+BLANK PAGE 
+
+
+
+^<*i^ 
+
+
+
+
+
+PROTECTED BY COPYRIGHT 
+
+
+
+IS : 10026 ( Part 3/ Sec 9 ) - 1986 
+
+( Reaffirmed 2004 ) 
+
+Indian Standard 
+
+SPECIFICATION FOR 
+INSULATING VARNISHES 
+CONTAINING SOLVENTS 
+
+PART 3 SPECIFICATIONS FOR INDIVIDUAL MATERIALS 
+
+Section 9 Baking Varnishes with Temperature Index 130 for 
+Magnetic Core Sheets 
+
+( First Reprint JUNE 1996 ) 
+
+
+
+UDC 621.315.617.3 : 667.637.4 
+
+
+
+© Copyright 19^1 
+
+BUREAU OF INDIAN STANDARDS 
+
+MANAK BHAVAN, 9 BAHADUR SHAH ZAFAR MARG 
+NEW DELHI 110002 
+
+Gr2 February 19S7 
+
+
+
+IS : 10026 ( Part 3/Sec 9 } - 1986 
+
+Indian Standard 
+
+SPECIFICATION FOR 
+INSULATING VARNISHES 
+CONTAINING SOLVENTS 
+
+PART 3 SPECIFICATIONS FOR INDIVIDUAL MATERIALS 
+
+Section 9 Baking Varnishes with Temperature Index 130 for 
+Magnetic Core Sheets 
+
+Solid Electrical Insulating Materials Sectional Committee, ETDG 63 
+
+Chairman Representing 
+
+Shbi a. S. Lakshmakan Senapathy Whiteley Ltd, Bangalore 
+
+Members 
+
+Shri B. a. Govindaraj ( AlUmaie to 
+Shri A. S. Lakshmanan ) 
+Shbi S. B. Bapat Dr Beck & Co ( India ) Ltd, Pune 
+
+Shbi R. S. Laad ( Alternate ) 
+SiiRi Gharanjit Singh Directorate General of Supplies and Disposals, 
+
+New Delhi 
+Shri S. M. Dastub Fibre-Glass Pilkington Ltd, Bombay 
+
+Shbi R. K. Aoabwal ( Alternate ) 
+Shbi V. B. Dksai Jyoti Ltf^j Vadodara 
+
+Shri B. G. S harm a ( Alternate ) 
+Dir.FCTOK ( HTD-VIII ) Central Electricity Authority, New Delhi 
+
+DiRHOTOR ( TED ) ( Alternate ) 
+Director General Central Power Research Institute, Bangalore 
+
+Shri K. S, Arukachala Sastby ( Alternate ) 
+LT-Coii J. G, GooATE Ministry of Defence ( DGI ) 
+
+Maj J. Sebastiaxt ( Alternate ) 
+Shri P. N. Hiriyannaiah Kirloskar Electric Go Ltd, Bangalore 
+
+Shbi G. Umbsh ( Alternate ) 
+Joint Director Standards Research, Designs and Standards Organization 
+Ei.ectbical/3 ( Ministry of Railways ), Lucknow 
+
+Additional Director 
+ElectriCal/B1 ( Alternate ) 
+Shri B. Mukhopadhyaya National Test House, Calcutta 
+
+Shri P. C. Pradhan ( Alternate ) 
+Dr M. S. Padbidbi Hindustan Brown Boveri Ltd, Bombay 
+
+Dr P. Satyanabayana ( Alternate ) 
+Shri R. P. Paxil NGEF Ltd, Bangalore 
+
+Shri Aswathanarayana ( Alternate ) 
+
+( Continued on page 2 ) 
+
+
+
+© Cgpyright 1987 
+
+BUREAU OF INDIAN STANDARDS 
+
+This publication is protected under the /lu/tm Copsfright Act ( XIV of 1957 ) and 
+
+reproduction in whole or in part by any means except with written permission of the 
+
+publisher shall be deemed to be an infringement of copyright under the said Act. 
+
+
+
+IS : 10026 ( Part 3/Sec 9 ) - 1986 
+
+( Continued from page 1 ) 
+
+Members Representing 
+
+Shri S. W. Patwardhan Formica India Division, The Bombay Burmah Trading 
+
+Corporation Ltd, Pune 
+
+Shri V. Ranoanathan ( Alttrnate ) 
+Dr G. M. Phadke Indian Electrical Manufacturers* Association, 
+
+Bombay 
+
+Shri K. K. Gosain ( Alternate ) 
+Da T. S. Ramo Indian Institute of Science ( CSIR ), Bangalore 
+
+Puor V. Phabhashaitkbr ( Alternate ) 
+Shhi D. S. Sahney Sahney Kirkwood Pvt Ltd, Pune 
+
+Sitni K. S. Kapoor ( Alternate ) 
+Shri C. G. Sakarda Permali Wallace Ltd, Bhopal 
+
+Dr L. C. Anand ( Alternate ) 
+
+Shri P. N. Srivastava Bharat Heavy Electricals Ltd, Hyderabad 
+
+Shri B. Sudabsan ( Alternate I ) 
+
+Shri P. V. Bhat ( Alternate II ) 
+Shri K. T. Thanawala Jhaveri Thanawala Corporation, Bombay 
+
+Shrt Kinual Thanawala ( Alternate ) 
+Shri J. M. Udia Directorate General of Technical Development, 
+
+New Delhi 
+Dr J. Vaid Peico Electronics & Electricals Ltd, Bombay 
+
+Dr L. Ramatcrishna ( Alternate ) 
+Shri Y. S. Vibneateswarak Lakshmanan Isola Ltd, Ramanagaram 
+
+Shri S. P. Saohdkv, Director General, ISI ( Ex-officio Member ) 
+
+Director { Elec tech ) 
+
+Secretary 
+
+Shri V, Dewan 
+Deputy Director ( Elec tech ), ISI 
+
+
+
+IS : 10026 ( Part 3/Sec 9 ) - 1986 
+
+Indian Standard 
+
+SPECIFICATION FOR 
+INSULATING VARNISHES 
+CONTAINING SOLVENTS 
+
+PART 3 SPECiFiCATiCiSiS FOR iNDiviDUAL MATERIALS 
+
+Section 9 Baking Varnishes with Temperature Index 130 for 
+Magnetic Core Sheets 
+
+
+
+0, FOREWORD 
+
+0.1 This Indian Standard ( Part 3/Sec 9 ) was adopted by the Indian 
+Standards Institution on 30 July 1986, after the draft finalized by the Solid 
+Electrical Insulating Materials Sectional Committee had been approved 
+by the Electrotechnical Division Council. 
+
+0.2 This standard is one among the series of Indian Standards which 
+deal with insulating varnishes containing solvents. This series consists 
+of the following three parts: 
+
+Part 1 Definitions and general requirements 
+
+Part 2 Methods of tests 
+
+Part 3 Specifications lor individual materials 
+
+0,3 This standard ( Part 3/Sec 9 ) covers the requirements for baking 
+varnishes with temperature index 130 for coating magnetic core sheets 
+(laminations ). 
+
+0.4 This standard specifies optional requirements for density, flash point 
+and dilution ability which shall be carried out if agreed to between the 
+purchaser and the supplier, and shall be within the limits when com- 
+pared with the declared values, applying the tolerances given in 
+Table 1. 
+
+0,5 For the purpose of deciding whether a particular requirement of 
+this standard is complied with, the final value, observed or calculated, 
+expressing the result of a test or analysis, shall be rounded off in accord- 
+ance with IS : 2-1960*. The number of significant places retained in 
+the rounded off value should be the same as that of the specified value 
+in this standard. 
+
+*Rules for rounding off numerical values ( uvistd ). 
+
+3 
+
+
+
+IS : 10026 ( Part 3/Sec 9 ) - 1986 
+
+1. SCOPE 
+
+1.1 This standard ( Part 3/Sec 9 ) covers the requirements of baking 
+varnishes, containing solvents, with temperature index 130 for coating 
+magnetic core sheets ( laminations ). 
+
+2. GENERAL REQUIREMENTS 
+
+2.1 All materials in a consignment shall comply with the requirements 
+given in IS : 10026 ( Part 1 )-1981* for colour, conditions of supply and 
+shelf life. 
+
+3. PERFORMANCE REQUIREMENTS 
+
+3.1 When tested according to the relevant methods described in 
+IS : 10026 ( Part 2 )-1982t, the material shall conform to the requirements 
+given in Table 1. 
+
+
+
+
+
+TABLE 1 
+
+
+SCHEDULE OF CHARACTERISTICS 
+
+
+
+
+
+
+{ Clauses OA and 3A ) 
+
+
+
+
+No. 
+
+
+PaOPBUTY 
+
+
+Clause Refe- 
+
+RENflE OF IS : 
+
+10026 ( Part 
+2 )-1982» 
+
+
+Rkquirkment 
+
+
+Remarks 
+
+
+(1) 
+
+
+(2) 
+
+
+(3) 
+
+
+(4) 
+
+
+(5) 
+
+
+i) 
+
+
+Density 
+
+
+3 
+
+
+± 0-05 of the 
+nominal value 
+
+
+Nominal value to 
+be agreed between 
+the purchaser and 
+the supplier 
+
+
+ii) 
+
+
+Viscosity 
+
+
+4 
+
+
+± 1 5 percent of 
+the nominal 
+value 
+
+
+Nominal value to 
+be agreed between 
+the purchaser and 
+the supplier 
+
+
+iii) 
+
+
+Non-volatile matter 
+
+
+5 
+
+
+±2 percent of 
+the nominal 
+value. 40 per- 
+cent (Minimum). 
+
+
+Nominal value to 
+be agreed between 
+the purchaser and 
+the supplier 
+
+
+iv) 
+
+
+Drying in thin film 
+
+
+23 
+
+
+Non-tacky in 
+not more than 
+10minat2lO°C 
+
+
+
+
+V) 
+
+
+Flash point, Min 
+
+
+7 
+
+
+23°C 
+
+
+— 
+
+
+vi) 
+
+
+Dilution ability or 
+compatibility per- 
+cent, Min 
+
+
+8 
+
+
+100 
+
+
+( Continued ) 
+
+
+^^■" 
+
+
+
+
+
+
+
+
+
+
+
+•Specification for insulating varnishes containing solvents: Part 1 Definitions and 
+general requirements. 
+
+fSpecification for insulating varnishes containing solvents: Part 2 Methods of tests. 
+
+4 
+
+
+
+IS : 10026 ( Part 3/Sec 9 ) - 1986 
+
+
+
+
+
+TABLE 1 SCHEDULE OF CHARACTERISTICS - 
+
+
+- Contd 
+
+
+5»L 
+
+
+Property 
+
+
+Clause Rkvk- 
+
+
+Requirement 
+
+
+Rkmabk* 
+
+
+No, 
+
+
+
+
+rencb of is : 
+
+10026 ( Pakt 
+
+2 )-1982* 
+
+
+
+
+
+
+(1) 
+
+
+(2) 
+
+
+(3) 
+
+
+(4) 
+
+
+(5) 
+
+
+vii) 
+
+
+Stability of varnish 
+in an open vessel 
+
+
+12 
+
+
+Change in visco- 
+sity not more 
+than 3 times the 
+original value. 
+No skin forma- 
+tion, precipita* 
+tion or gelled 
+lumps 
+
+
+
+
+viii) 
+
+
+Flexibility ( mandrel 
+
+
+24 
+
+
+No cracking of varnish shall be 
+
+
+
+
+test ) 
+
+
+
+
+detectable by normal vision 
+
+
+ix) 
+
+
+Resistance to trans- 
+former oil 
+a) Visual exami- 
+nation 
+
+
+15 
+
+
+No evidence of 
+attack 
+
+
+
+
+X) 
+
+
+Pencil hardness of the 
+cured film 
+
+
+25 
+
+
+Should not be 
+less than 6 h 
+
+
+
+
+xi) 
+
+
+Resistance to solvent 
+
+
+2G 
+
+
+Cured varnish 
+tilm shall not 
+be removed 
+
+
+
+
+xii) 
+
+
+Adherence test 
+
+
+14-3 
+
+
+Under conside- 
+ration ( set 
+Note 1 ) 
+
+
+
+
+
+xiii) Electric strength in 17 
+
+kV/mm, Min 
+
+a) In air, at room 
+temperature 
+
+b) In air at 130°C 
+
+xiv) Volume resistivity in 19 
+
+ohm cm, Min 
+a) In air 
+Thermal endurance 22 
+
+
+
+xv) 
+
+
+
+50 
+35 
+
+
+
+I X 10" 
+Temperature in- 
+dex not less than 
+130 (iw Note 2) 
+
+
+
+a) Reduction in 
+electric stren- 
+gth to 12 kV/ 
+mm as per 
+IS: 11256 (Part 
+1 )-1985t or 
+b) Loss of mass up 
+
+to 30 percent as 
+per IS : 11256 
+
+( Part 2 )-1985J 
+
+Note 1 — The requirement of adherence test shall be incorporated in col 4 later 
+on. 
+
+Note 2 — Any one of the methods as given in col 5 may be agreed to between the 
+purchaser and the supplier. 
+* Specification for insulating varnishes containing solvents: Part 2 Methods of tests. 
+fMcthod of test for determination of thermal endurance of insulating varnishes: 
+Part I Electric strength method. 
+
+JMethod of test for determination of thermal endurance of insulating varnishes: 
+Part 2 By measurement of loss of mass. 
+
+
+
+BUREAU OF INDIAN STANDARDS 
+
+HeadquarterM: 
+
+Manak Bhavan, 9 Bahadur Shah Zafar Marg, NEW DELHI 1 10002 
+Telephones: 323 0131 , 323 8375, 323 9402 
+Fax : 91 11 3234062, 91 1 1 3239399 
+
+Telegrams : Manedtsanstha 
+(Common to all Offices) 
+
+Central Laboratory : Telephone 
+
+Plot No. 20/9, Site IV, Sahibabad Industrial Area, Sahlbabad 201 01 B-77 00 32 
+
+Regional Offices: 
+
+Central : Manal< Bhavan, 9 Bahadur Shah Zafar Marg, NEW DELHI 1 1 0002 323 76 1 7 
+
+*Eastern : 1/14 CIT Scheme VII M, V.I.P. Road, Maniktola, CALCUTTA 700054 337 86 62 
+
+Northern : SCO 335-336. Sector 34-A, CHANDIGARH 1 60022 60 38 43 
+
+Southern : C.I.T. Campus, IV aoss Road, MADRAS 6001 13 235 23 1 5 
+
+tWestern : Manakalaya, E9, Behind Marol Telephone Exchange, Andheri (Eas^, 832 92 95 
+MUMBAI 400093 
+
+Branch Offices:: 
+
+'Pushpak', Numnohamed Shaikh Marg. Khanpur, AHMEDABAD 380001 550 1 3 48 
+
+♦Peenya Industrial Area, 1 st Stage, Bangalore-Tumkur Road, 839 49 55 
+BANGALORE 560058 
+
+Gangotri Complex, 5th Ftoor, Bhadbhada Road. TT. Nagar. BHOPAL 462003 55 40 2 1 
+
+Plot No. 62-63, Unit VI, Ganga Nagar, BHUBANESHWAR 751 001 40 36 27 
+
+Kalaikathir Buildings, 670 Avinashi Road, COIMBATORE 641 037 21 01 41 
+
+Plot No. 43, Sector 16 A, Mathura Road, FARIDABAD 121001 8-28 88 01 
+
+Savitri Complex, 1 1 6 G.T. Road, GHAZI ABAD 201 001 8-71 1 9 96 
+
+53/5 Ward No.29, R.G. Barua Road, 5th By-4ane. GUWAHATI 781003 54 1 1 37 
+
+5-e-56C, L.N. Gupta Marg, Nampally Station Road, HYDERABAD 500001 20 10 83 
+
+E-52, Chitaranjan Marg, C-Schenr>e, JAIPUR 302001 37 29 25 
+
+1 1 7/41 8 B, Sarvodaya Nagar, KANPUR 208005 21 68 76 
+
+Seth Bhawan, 2nd Fk)or, Behind Leela Cinema, Naval Kishore Road, 23 89 23 
+LUCKNOW 226001 
+
+Patliputra Industrial Estate, PATNA 80001 3 26 23 05 
+
+T.C. No. 14/1421 , University P. O. Palayam, THIRUVANANTHAPURAM 695034 6 2117 
+
+InspecUon Offices (With Sale Point) : 
+
+Pushpanjali, 1st Ftoor^ 205-A, West High Court Road, Shankar Nagar Square, 52 51 71 
+NAGPUR 440010 
+
+Institution of Engineers (India) Building 1332 Shivaji Nagar, PUNE 41 1 005 32 36 35 
+
+
+
+•Sales Office is at 5 Chowringhee Approach, P.O. Princep Street, 27 1 85 
+
+CALCUTTA 700072 
+
+tSales Office is at Novelty Chambers, Grant Road, MUMBAI 400007 309 65 28 
+
+tSales Office is at 'F' Block, Unity Building, Narashimaraja Square, 222 39 71 
+
+BANGALORE 560002 
+
+
+
+Reprography Unit, BIS, New Delhi, India 
+
+
+

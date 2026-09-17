@@ -1,0 +1,1469 @@
+**************** 
+
+
+
+
+Disclosure to Promote the Right To Information 
+
+Whereas the Parliament of India has set out to provide a practical regime of right to 
+information for citizens to secure access to information under the control of public authorities, 
+in order to promote transparency and accountability in the working of every public authority, 
+and whereas the attached publication of the Bureau of Indian Standards is of particular interest 
+to the public, particularly disadvantaged communities and those engaged in the pursuit of 
+education and knowledge, the attached public safety standard is made available to promote the 
+timely dissemination of this information in an accurate manner to the public. 
+
+
+
+
+Mazdoor Kisan Shakti Sangathan 
+"The Right to Information, The Right to Live" 
+
+
+
+IS 101-4-1 (1988) : Methods of Sampling and Test for Paints, 
+Varnishes and Related Products, Part 4: Optical Test, 
+Section 1: Opacity [CHD 20: Paints, Varnishes and Related 
+Products] 
+
+
+
+
+Jawaharlal Nehru 
+'Step Out From the Old to the New' 
+
+
+
+a^yj i iw&*<m&a rsi>frgamsBP 
+
+
+
+2*S< W I *>S*V2^NK^ 
+
+
+
+^frcvvv^ 
+
+
+
+Satyanarayan Gangaram Pitroda 
+Invent a New India Using Knowledge 
+
+
+
+Bhartrhari — Nitisatakam 
+"Knowledge is such a treasure which cannot be stolen" 
+
+
+
+
+.^^_ 
+
+
+
+• 
+
+
+
+
+BLANK PAGE 
+
+
+
+*rt*2V^ 
+
+
+
+
+
+PROTECTED BY COPYRIGHT 
+
+
+
+UDC 667*61 2'6 : 535*345*3 IS : 101 ( Part 4/Sec 1 ) - 1988 
+
+
+
+Indian Standard ( Reaffirmed 2004 ) 
+
+METHODS OF SAMPLING AND TEST FOR 
+PAINTS, VARNISHES AND RELATED PRODUCTS 
+
+PART 4 OPTICAL TEST 
+Section 1 Opacity 
+( Third Revision ) 
+
+
+
+1. Scope — Prescribes three methods for determination of contrast ratio ( opacity ) of paints, 
+varnishes and related products. 
+
+2. Method Using Black and White Charts 
+
+2.1 Principle — This method is based on the observation that contrast ratio is an approximately 
+linear function of the reciprocal film thickness. Over a restricted film thickness range which also 
+corresponds to that used for normal application of white or light coloured paints. It is thus 
+possible to interpolate graphically or by computation between results on films of different thick- 
+nesses, with satisfactory accuracy. 
+
+2.1.1 Since wet film thickness cannot be determined with sufficient accuracy/ the method 
+involves determination of dry film mass per unit area and a calculation of the corresponding wet 
+film thickness. In this latter calculation, values for wet film density and percentage of non- 
+volatile matter content are required. Determination of these values by the methods complying 
+with the relevant Indian Standards has been prescribed. It is, however, recognized that for 
+certain types of paints, non-volatile determination as given in relevant Indian Standard may not 
+exactly correspond to the mass changes of a film during drying under conditions of this test. Any 
+errors in results introduced by this discrepancy should be common to all test laboratories and 
+should not affect comparison of paints of similar types. 
+
+This standard prescribes a method for given paints applied at a spreading rate of 20 m 2 /l to 
+an agreed black and white substrate. 
+
+2.2 Apparatus 
+
+2.2.1 Substrate — Charts, all of same size and measuring at least 100 x 200 mm, printed 
+and varnished to give adjacent black and white areas readily wetted by, but impervious to solvent 
+or water-thinned paints. 
+
+The black and white areas shall each be of dimensions not less than 80 x 80 mm. The 
+reflectance of white areas of the cards shall be 80 ± 2 percent when measured over a white tile 
+using a reflectometer complying with 2.2.3 and that of the black areas shall be not greater than 
+1 percent, unless otherwise agreed. 
+
+To avoid errors due to* variation, from one batch of charts to another, the charts used for a 
+given test should come from the same batch. 
+
+2.2.2 Film applicators — A series of film applicators giving a range of uniform films of wet 
+thicknesses approximately 40 to 60 pm is required. The film laid down shall be at least 70 mm 
+wide, with areas of dimensions not less than 60 x 60 mm and of uniform thickness over both 
+black and white areas of the card. The application of uniform films is facilitated by the use of 
+automatic applicators. 
+
+2.2.3 Reflectometer — A photoelectric instrument giving within 0'3 percent of the indicated 
+reading proportional to the intensity of light reflected from the surface under test and having a 
+spectral response approximating to the product of relative spectral energy distribution of CIE 
+illuminant C or D 65 and the colour matching function y ( A ) of the CIE standard observer. The 
+value measured is R y . 
+
+Note — It is recognized that the relative geometrical arrangement of the illuminating beam and the light 
+detector can affect the measurement of R y but it is considered that variations arising from this factor in commer- 
+cial reflectometers should be considerably less than the reproducibility figure expected. In the evento f dispute, 
+0°/diffuse geometry, excluding specular reflection, should be used. 
+
+
+
+Adopted 1 2 August 1 988 
+
+
+
+©May 1989, BIS 
+
+
+
+Gr 4 
+
+
+
+BUREAU OF INDIAN STANDARDS 
+
+MANAK BHAVAN, 9 BAHADUR SHAH ZAFAR MARG 
+NEW DELHI 110002 
+
+
+
+15:101 (Part4/Sec1 ) * 1988 
+
+2.2.4 Template or die stamp — A metal template or die stamp of dimensions not less than 
+60 x 60 mm is suitable for accurate removal of a closely defined area from a test chart. 
+
+2.3 Procedure 
+
+2.3*1 Preparation of substrate — Store the black and white substrate charts, in single thickness, 
+under the conditions of testing ( 27 ± 2*C and a relative humidity of 65 ± 5 percent ) for at 
+least 24 h before coating, handle them at all times by the edges to avoid finger marks on the areas 
+to be coated. Weigh, to the nearest 1 mg, six charts for coating, and two charts to be kept as 
+blank controls. Prepare the charts for coating by one of the following methods: 
+
+a) Fixing one end by clips or adhesive tape, to a fiat glass plate at least 6 mm thick, or 
+
+b) Using a vacuum suction plate which should be flat to within ±2 pm, or 
+
+c) Fixing one end and laying it over a flat rubber block ( where spiral applicators are to be 
+used ). 
+
+2.3.2 Preparation of coated charts — Immediately before application, mix the paint thoroughly 
+by vigorous stirring to break down any thixotropic structure, taking care not to incorporate air 
+bubbles. 
+
+Apply about 2 to 4 ml of paint according to the film thickness required, in a line across one 
+end of the chart and spread it immediately by drawing down a suitable applicator at a steady 
+velocity to give a uniform layer. Prepare duplicate films with each of three different applicators, 
+chosen to give a range of wet film thicknesses from 40 to 60 ^m approximately. 
+
+Maintain the coated charts in a horizontal position until dry, for example, by taping the edges 
+to a flat substrate. The drying time ( and/or stoving conditions ) will depend on the type of paint 
+material being tested, and should be agreed to by the interested parties. 
+
+2.4 Conditioning — Keep the dried coated charts and the blank charts at 27 ± 2°C and a relative 
+humidity of 65 ± 5 percent for at least 24 h and not more than 168 h before the reflectance 
+measurements are made. 
+
+2.5 Measurement of Reflectance Factors — Measure the reflectances of each coated chart at a 
+minimum of four positions over both the black and white areas of each chart, and calculate the 
+average reflectance factors /? B and /? w , respectively. Then calculate the contrast ratio /? B /ffw for 
+each coated chart. 
+
+2.6 Determination of Surface Density of the Dry Coating — By means of metal template and a 
+sharp knife or precision die stamp, cut equal areas of dimensions at least 60 x 60 mm, from 
+the centres of the blank and the coafed charts. Weigh the detached pieces to the nearest 1 mg. 
+
+Calculate the surface density of the dry coating, Qa in grams per square millimetre, by the 
+formula: 
+
+/774 — mz X m% 
+
+Qa« SSL 
+
+where 
+
+mi = average initial mass, in grams, of the blank control charts; 
+
+/n2 — initial mass, in grams, of the chart to be coated; 
+
+/77 3 — average mass, in grams, of the cut portions of the blank control charts; 
+
+/7) 4 = mass, in grams, of the cut portion of the coated chart; and 
+
+A = area, in square millimetres, of the cut portion of the chart. 
+
+Note — This technique eliminates the effect of changes in the masses of the charts due to variations in 
+moisture content if it can be assumed that blank and coated charts change equally. 
+
+2.7 Calculation of Wet Film Thickness and Spreading Capacity — To calculate the wet film 
+thickness from the surface density of the dry coating, it is necessary to know both the density of 
+the wet paints, and the non-volatile matter content by mass. 
+
+2.7.1 Wet film thickness — Calculate the thickness of the wet paint film, t, in millimetres, using 
+the formula: 
+
+t=s QX A NV X 105 
+where 
+
+Q = density of the paint, in grams, per millimetre; and 
+NV a* non-volatile matter content, as a percent by mass. 
+
+
+
+IS : 101 ( Part 4/Sec 1 ) - 1988 
+
+2.7.2 Spreading capacity — The spreading capacity, SC, in square metres per litre is the 
+reciprocal of wet film thickness, in millimetres, and is given by the formula: 
+
+1 Q X NV . n ^ 
+
+SC = T = -Q— x105 
+and using the formula for surface density in 2.6: 
+
+sc= AXQXNV x1Q - 5 
+
+m± — /7?3 X 7772/ /Wl 
+
+2,8 Determination of Contrast Ratio for a Spreading Capacity of 20 m % \l — It is assumed that for 
+a limited range of film thickness, the contrast ratio is a linear function of the spreading capacity. 
+Therefore, the values of contrast ratio and the corresponding spreading capacities obtained for 
+each of the six films should be plotted graphically and the contrast ratio at a spreading capacity of 
+20 m 2 /t determined by linear interpolation. The calculation can be made less laboriously, where 
+facilities are available, by computing a regression of contrast ratio on spreading capacities from the 
+experimental data. 
+
+3. Method Using Polyester Film 
+
+3.1 Principle — This method is also very similar to the one for determination of opacity by the 
+method using black and white charts. This method prescribes the determination of opacity of 
+given paint films applied at a spreading capacity of 20 m 2 /l to colourless transparent polyester 
+film, the reflectance being measured subsequently over agreed black and white glass plates. 
+
+3.2 Apparatus 
+
+3.2.1 Substrate — Untreated, colourless, transparent polyester film between 30 and 50 ^m in 
+thickness having refractive index value of between 164 to 1 -67 and of dimensions not less than 
+100 x 1 50 mm. The use of thicker film is permitted by the agreement between the parties. 
+
+3.2.2 Film applicators — A series of film applicators giving a range of uniform films of wet 
+thicknesses approximately 40 to 60 pm is required. The film laid down shall be at least 70 mm 
+wide, with areas of dimensions not less than 60 x 60 mm and of uniform thickness over the 
+polyester film. The application of uniform films is facilitated by the use of automatic applicators 
+which are recommended. 
+
+3.2.3 Refiectometer — A photoelectric instrument giving within 0*3 percent of the indicated, 
+reading proportional to the intensity of light reflected from the surface under test, and having a 
+spectral response approximating to the product of the relative special energy distribution of CIE 
+illuminant C or D65 and the colour matching function y ( A ) of the CIE standard observer. The 
+value measured is /?y. 
+
+Note — It is recognized that the relative geometrical arrangement of the illuminating beam and the light 
+detector can affect the measurement of /? y but it is considered that variations arising from this factor in commer- 
+cial ref lectometers should be considerably less than the reproducibility figure expected. In the event of dispute, 
+0°/diffuse geometry, excluding specular reflection, should be used. 
+
+3.2.4 Temp/ate or die stamp — A metal template or die stamp of dimensions not less than 
+60 x 60 mm is suitable for accurate removal of a closely defined area from a test chart. 
+
+3.2.5 Test plates — B\aok and white glass plates, each with a plane, polished surface, of at 
+least 80 x 80 mm. The reflectance of the white plate shall be 80 ± 2 percent when measur- 
+ed using a refiectometer complying with 3.2.3 and that of the black plate not more than 1 percent. 
+
+Both the black and the white plates should be coated on the back and edges with light- 
+excluding paint or adhesive tape. 
+
+3.3 Procedure 
+
+3.3.1 Preparation of substrate — Prepare the polyester film for coating by one of the following 
+methods: 
+
+a) Spreading it on a flat glass plate, at least 6 mm thick, which has first been moistened with 
+a few drops of white spirit just sufficient to hold the film in position by surface tension, 
+ensure that none of the liquid wets the upper surface of the film and that no air-bubbles 
+are trapped under it; or 
+
+b) Fixing it at one end and laying it over a flat rubber block ( where spiral applicators are to 
+be used ). 
+
+
+
+tS : 101 ( Part 4/Sec 1 ) - 1988 
+
+3.3.2 Preparation of coated films — Immediately before application, mix the paint thoroughly 
+by vigorous stirring to break down any thixotropic structure/ taking care not to incorporate air 
+bubbles. 
+
+Apply about 2 to 4 ml of paint, according to the film thickness required, in a line across one 
+end of the polyester film, and spread it immediately by drawing down a suitable applicator at a 
+steady velocity to give a uniform layer. Prepare duplicate films with each of three different 
+applicators, chosen to give a range of wet film thicknesses from 40 to 60 pm approximately. 
+
+Maintain the coated films in a horizontal position until dry, for example, by taping the edges 
+to a flat substrate. The drying time ( and/or stoving conditions ) will depend on the type of paint 
+material being tested, and should be agreed to by the interested parties. 
+
+3.3.3 Conditioning — Keep the dried coated films at 27 ± 2°C and a relative humidity of 
+65 ± 5 percent for at least 24 h and not more than 1 68 h before the reflectance measurements 
+are made. 
+
+3.3.4 Measurement of reflectance factors — Fix the coated film in turn over the white and the 
+black glass plates, introducing a few drops of white spirit between the underside of the film and 
+the glass to ensure optical contact. Measure the reflectances of each coated film at a minimum 
+of four positions over both the black and the white plates, and calculate the average reflectance 
+factors /? B and /? w * respectively. Then calculate the contrast ratio /? B //?w for each coated film. 
+
+3.3.5 Determination of surface density of the dry coating — Remove the coated film from the 
+glass plate, wipe the film from white spirit and allow it to dry. By means of the metal template 
+and a sharp knife or precision die, stamp, cut equal areas of dimensions at least 60 x 60 mm 
+from the centres of the coated polyester films Weigh the detached pieces to the nearest 1 mg. 
+Remove the paint film by the use of a solvent which has been found to have no effect on the 
+dried mass of the polyester film, and after thorough drying, reweigh the film. 
+
+Note — Acetone or dichloromethane are usually suitable as solvents. In cases where the dry coating is 
+resistant to them and a solvent with greater power is required, the effect of the solvent on the mass of 
+uncoated polyster should be determined. 
+
+Calculate the surface density of the drying coating, G A , in grams per square millimetre, by 
+the formula: 
+
+n _ m± — m\ 
+
+
+
+A 
+where 
+
+m\ = mass, in grams, of the uncoated polyester film; 
+
+jt?2 = mass, in grams, of the coated polyester film; and 
+
+A = area, in square millimetres, of the cut portion of the polyester film. 
+
+3.3.6 Calculation of wet film thickness and spreading capacity —To calculate wet film thickness 
+from the surface density of dry coating, it is necessary to know both the density of the wet paint, 
+and the non-volatile matter content by mass. 
+
+3.3*6.1 Wet film thickness — Calculate the thickness of the wet paint film, t, in millimetres, 
+using the formula: 
+
+1 Q X NV 
+where 
+
+Q = density of the paint, in grams per millilitre; and 
+/Vl/ = non-volatile matter content, as a percent by mass. 
+
+3.3.6.2 Spreading capacity — The spreading capacity SC, in square metres per litre, is the 
+reciprocal of the wet film thickness, in millimetres, and is given by the formula: 
+
+SC = ±= Q * NV x10- 
+t Ua 
+
+and using the formula for surface density in 3.3.5 above: 
+
+sc = /lxQXA"/ x10 _ 5 
+/772 — mi 
+
+
+
+IS: 101 ( Part4/Sec1 ) *1988 
+
+3-3.7 Determination of contrast ratio for a spreading capacity of 20m 2 jl — It is assumed that 
+for a limited range of film thickness, the contrast ratio is a linear function of the spreading capacity. 
+Therefore, the values of contrast ratio and the corresponding spreading capacity obtained for 
+each of the six films should be plotted graphically and the contrast ratio at a spreading capacities 
+of 20 m 2 /l determined by linear interpolation. The calculation can of course be made less 
+laboriously where facilities are available, by computing a regression of contrast ratio on spreading 
+capacities from the experimental date. 
+
+4. Pfund Cryptometer Method 
+
+4.1 Principle — The cryptometer is an instrument designed to measure the wet opacity of the 
+paint. It consists of a calibrated wedge and enables the operator to determine the thickness of 
+the paint required for complete obliteration of a contrasting black and white surface. This can be 
+converted to wet opacity per litre. 
+
+4.1.1 The shades for which white/black base is to be used are given in Appendix A. 
+
+4.2 Apparatus 
+
+4.2.1 Pfund cryptometer — The cryptometer as shown in Fig. 1 consists of the following parts: 
+
+a) Base plate ( A in Fig. 7 ) — It consists of two glass plates, black (B) and white (W) fused 
+together along the line LM. 
+
+The reflection coefficients for white and black parts of the base plate are 80 ± 2 percent 
+and less than 8 percent, respectively. Along the two longer edges and perpendicular to the 
+line LM there are two parallel shallow grooves. In the black as well as white glass plates, 
+there are two scales in millimetres along the grooves with '0' graduation at the dividing line 
+LM between the black and white halves. The upper surface of the base plate of both the 
+black and the white glass is optically flat. 
+
+b) Top plate ( P in Fig. / ) — It is made of clear glass with its lower surface optically flat. 
+
+When placed on the base plate, the lower side of the top plate facing the base plate has 
+two small steel legs which form a wedge-shaped film of the paint between the base and the 
+top plates. Two top plates with different wedge angle constants are supplied for use with 
+(1) black and dark-coloured paints, and (2) white and light coloured paints. 
+
+
+
+
+r 
+
+
+
+
+
+
+VIEW OF 
+BASE PLATE 
+
+
+
+BASE PLATE 
+
+
+
+FIG. 1 PFUND CRYPTOMETER 
+
+4.3 Procedure — Place a few drops of the paint sufficient to fill the wedge-shaped clearance 
+between the base plate and the top plate along the dividing line LM between the black and white 
+halves of the base plate. Carefully place the top plate on the paint eliminating bubbles. Gradually 
+draw the top plate along the length of the base plate so that the dividing line just disappears. 
+Note the scale reading at the point of contact with the top plate. Then move the top plate in the 
+opposite direction till the line of demarcation reappears. Again record the scale reading at the 
+point of contact with the top plate. Repeat the experiment ten times and calculate the mean for 
+ten pairs of observations ( that is, 20 readings ) for the disappearance and reappearance of the 
+dividing line LM of the black and white halves. 
+
+
+
+IS: 101 (Part4/Sec1 )-1988 
+4.4 Calculation 
+
+
+
+Wet opacity per litre = 
+
+
+
+KL 
+
+
+
+ma 
+
+
+
+where 
+
+
+
+K = wedge angle constant engraved on the top plate, and 
+L = mean scale reading. 
+
+
+
+APPENDIX A 
+
+( Clause 4.1 .1 ) 
+
+PFUND CRYPTOMETER 
+
+CLASSIFICATION OF ISC SHADES FOR OPACITY DETERMINATION 
+
+PFUND CRYPTOMETER USING BLACK AND WHITE BASE PLATES 
+
+
+
+A-1. White Base 
+
+
+
+SI 
+
+
+Shade 
+
+
+ISC No. 
+
+
+SI 
+
+
+No. 
+
+
+
+
+
+
+No. 
+
+
+1. 
+
+
+Peacock blue 
+
+
+103 
+
+
+38. 
+
+
+2. 
+
+
+Azure blue 
+
+
+104 
+
+
+39. 
+
+
+3. 
+
+
+Oxford blue 
+
+
+105 
+
+
+40. 
+
+
+4. 
+
+
+Aircraft blue 
+
+
+108 
+
+
+41. 
+
+
+5. 
+
+
+Navy blue 
+
+
+106 
+
+
+42. 
+
+
+6. 
+
+
+French blue 
+
+
+166 
+
+
+43. 
+
+
+7. 
+
+
+Traffic blue 
+
+
+169 
+
+
+44. 
+
+
+8. 
+
+
+Grass green 
+
+
+218 
+
+
+45. 
+
+
+9. 
+
+
+Sage green 
+
+
+219 
+
+
+46. 
+
+
+10. 
+
+
+Olive green 
+
+
+220 
+
+
+47. 
+
+
+11. 
+
+
+Brilliant green 
+
+
+221 
+
+
+48. 
+
+
+12. 
+
+
+Light bronze green 
+
+
+222 
+
+
+49. 
+
+
+13. 
+
+
+Middle bronze green 
+
+
+223 
+
+
+50. 
+
+
+14. 
+
+
+Deep bronze green 
+
+
+224 
+
+
+51. 
+
+
+15. 
+
+
+Light brunswick green 
+
+
+225 
+
+
+52. 
+
+
+16. 
+
+
+Mid brunswick green 
+
+
+226 
+
+
+53. 
+
+
+17. 
+
+
+Deep brunswick green 
+
+
+227 
+
+
+54. 
+
+
+18. 
+
+
+Traffic green 
+
+
+267 
+
+
+55. 
+
+
+19. 
+
+
+Lincoln green 
+
+
+276 
+
+
+56. 
+
+
+20. 
+
+
+Cypress green 
+
+
+277 
+
+
+57. 
+
+
+21. 
+
+
+Light olive green 
+
+
+278 
+
+
+58. 
+
+
+22. 
+
+
+Steel furniture green 
+
+
+279 
+
+
+59. 
+
+
+23. 
+
+
+Forest green 
+
+
+282 
+
+
+60. 
+
+
+24. 
+
+
+Aircraft grey green 
+
+
+283 
+
+
+61. 
+
+
+25. 
+
+
+India green 
+
+
+284 
+
+
+62. 
+
+
+26. 
+
+
+Scamic 
+
+
+294 
+
+
+63. 
+
+
+27. 
+
+
+Olive drab 
+
+
+298 
+
+
+64. 
+
+
+28. 
+
+
+Middle buff 
+
+
+359 
+
+
+65. 
+
+
+2a. 
+
+
+Deep buff 
+
+
+360 
+
+
+66. 
+
+
+30. 
+
+
+Middle stone 
+
+
+362 
+
+
+67. 
+
+
+31. 
+
+
+Dark stone 
+
+
+363 
+
+
+68. 
+
+
+32. 
+
+
+Light brown 
+
+
+410 
+
+
+69. 
+
+
+33. 
+
+
+Middle brown 
+
+
+411 
+
+
+70. 
+
+
+34. 
+
+
+Dark brown 
+
+
+412 
+
+
+71. 
+
+
+35. 
+
+
+Nut brown 
+
+
+413 
+
+
+72. 
+
+
+36. 
+
+
+Golden brown 
+
+
+414 
+
+
+73. 
+
+
+37. 
+
+
+India brown 
+
+
+415 
+
+
+
+
+
+Shade 
+
+
+
+ISC No. 
+
+
+
+Orange brown 
+
+
+439 
+
+
+Terra cotta 
+
+
+444 
+
+
+Venetian red 
+
+
+445 
+
+
+Redoxide 
+
+
+446 
+
+
+Deep Indian red 
+
+
+448 
+
+
+Light purple brown 
+
+
+449 
+
+
+Chocolate 
+
+
+451 
+
+
+Gulf red 
+
+
+473 
+
+
+Leaf brown 
+
+
+489 
+
+
+Beech brown 
+
+
+490 
+
+
+Service brown 
+
+
+499 
+
+
+Fire red 
+
+
+536 
+
+
+Signal red 
+
+
+537 
+
+
+Post office red 
+
+
+538 
+
+
+Crimson 
+
+
+540 
+
+
+Maroon 
+
+
+541 
+
+
+Light orange 
+
+
+557 
+
+
+Traffic red 
+
+
+570 
+
+
+India saffron 
+
+
+574 
+
+
+Deep orange 
+
+
+591 
+
+
+International orange 
+
+
+592 
+
+
+Silver grey 
+
+
+628 
+
+
+Quaker grey 
+
+
+629 
+
+
+French grey 
+
+
+630 
+
+
+Light grey 
+
+
+631 
+
+
+Dark admiralty grey 
+
+
+632 
+
+
+AF blue grey 
+
+
+633 
+
+
+Slate 
+
+
+634 
+
+
+Lead 
+
+
+635 
+
+
+Middle graphite 
+
+
+671 
+
+
+Smoke grey 
+
+
+692 
+
+
+Aircraft grey 
+
+
+693 
+
+
+Dove grey 
+
+
+694 
+
+
+Dark blue grey 
+
+
+695 
+
+
+Black 
+
+
+— 
+
+
+Dark violet 
+
+
+796 
+
+
+
+IS: 101 (Part4/Sec1 )-1988 
+
+
+
+A-2. Black Base 
+
+5/ Shade 
+
+No. 
+
+1 . Sky blue 
+
+2. Torquoise blue 
+
+3. Oriental blue 
+
+4. Eau-de-nil 
+
+5. Sea green 
+
+6. Opaline green 
+
+7. Verdigris green 
+
+8. Apple green 
+
+9. Canary yellow 
+
+10. Pale cream 
+
+11. Deep cream 
+
+12. Primrose 
+
+13. Lemon 
+
+14. Golden yellow 
+
+15. Light buff 
+
+
+
+SCNo. 
+
+
+SI 
+No. 
+
+
+Shade 
+
+
+ISCM 
+
+
+101 
+
+
+16. 
+
+
+Light stone 
+
+
+361 
+
+
+102 
+
+
+17. 
+
+
+Portland stone 
+
+
+364 
+
+
+174 
+
+
+18. 
+
+
+Vellum 
+
+
+365 
+
+
+216 
+
+
+19. 
+
+
+Light straw 
+
+
+384 
+
+
+217 
+
+
+20. 
+
+
+Light biscuit 
+
+
+385 
+
+
+275 
+
+
+21. 
+
+
+Champagne 
+
+
+386 
+
+
+280 
+
+
+22. 
+
+
+Sunshine 
+
+
+387 
+
+
+281 
+
+
+23. 
+
+
+Beige 
+
+
+388 
+
+
+309 
+
+
+24. 
+
+
+Jasmine yellow 
+
+
+397 
+
+
+352 
+
+
+25. 
+
+
+Light salmon pink 
+
+
+442 
+
+
+353 
+
+
+26. 
+
+
+Salmon pink 
+
+
+443 
+
+
+354 
+
+
+27. 
+
+
+Light admiralty grey 
+
+
+697 
+
+
+355 
+
+
+28. 
+
+
+White 
+
+
+— 
+
+
+356 
+
+
+29. 
+
+
+Traffic yellow 
+
+
+368 
+
+
+358 
+
+
+
+
+
+
+
+
+
+EXPLANATORY NOTE 
+
+This is one of a series of standards dealing with sampling and testing of paints, varnishes and 
+related products. Because different operators using the same draw down device may obtain films 
+differing significantly in thickness and that reproducible results can be obtained by determination 
+of the contrast ratio corresponding to a precisely fixed spreading capacity by interpolation between 
+measurements at two or more measured film thicknesses, a spreading capacity of 20 m 2 /l ( wet 
+film thickness of 50/tm ) which is considered as an average for brush application of a free flowing 
+paint on a smooth non-porous surface has been fixed. This standard supersedes clause 10 of 
+IS : 101-1964 'Methods of test for ready mixed paints and enamels ( second revision )'. National 
+Test House, Calcutta shall be collecting the opacity values in due course and it shall be specified 
+at the time of next revision. 
+
+
+
+Printed at Printograph, New Delhi, India 
+
+
+

@@ -1,0 +1,2216 @@
+***•••**•••**••• 
+
+
+
+tOT3 
+
+
+
+
+Disclosure to Promote the Right To Information 
+
+Whereas the Parliament of India has set out to provide a practical regime of right to 
+information for citizens to secure access to information under the control of public authorities, 
+in order to promote transparency and accountability in the working of every public authority, 
+and whereas the attached publication of the Bureau of Indian Standards is of particular interest 
+to the public, particularly disadvantaged communities and those engaged in the pursuit of 
+education and knowledge, the attached public safety standard is made available to promote the 
+timely dissemination of this information in an accurate manner to the public. 
+
+
+
+
+Mazdoor Kisan Shakti Sangathan 
+'The Right to Information, The Right to Live'" 
+
+
+
+Jawaharlal Nehru 
+'Step Out From the Old to the New' 
+
+
+
+g^ifi:^:^^^^^/fiiJ^^vv:.^j^^ T s:.:^^i T -t^^a^^ 
+
+
+
+IS 10007 (1981): Lifeboats' Steel Blocks 
+Engineering and Safety Aids] 
+
+
+
+[TED 19: Marine 
+
+
+
+-^JJIi^^^3^^iaVfi/I^taKNMgg^T<>>^irFS 
+
+
+
+;5«. \V I iT^ft2i^5c:%^>^ift^ 
+
+
+
+yy^^i^^^K^^ 
+
+
+
+
+-k 
+
+
+
+
+Satyanarayan Gangaram Pitroda 
+Invent a New India Using Knowledge'' 
+
+
+
+Bhartrhari — Nitisatakam 
+''Knowledge is such a treasure which cannot be stolen" 
+
+
+
+
+
+BLANK PAGE 
+
+
+
+'^liSSlfi, 
+
+
+
+
+
+5> 
+
+
+
+PROTECTED BY COPYRIGHT 
+
+
+
+Indian Standard 
+
+
+
+IS : 10007 - mi 
+
+( Reaffirmed 2002 ) 
+
+
+
+SPECIFICATION FOR 
+
+LIFEBOATS' STEEL BLOCKS 
+
+
+
+UDC ; 629125 5I'<1!4'24 : [669-141 
+
+
+
+
+© Copyright I9S2 
+
+INDIAN STANDARDS INSTITUTION 
+
+MANAK. SHAVAN, 9 BAHADUR SHAH ZAFAB MARG 
+
+NEW DELHJ IJ0CO2 
+
+i,j 5 ^f-f/em^LY J9B2 
+
+
+
+IS : 10007 - 1981 
+
+Indian Standard 
+
+SPECIFICATION FOR 
+LIFEBOATS' STEEL BLOCKS 
+
+Marine lastrumcnts and Safety Aids Sectional Committee, MCPD 4 
+
+Chairman Representing 
+
+Capt p. S. Vanchiswar Directorate Generai of Shipping, Bombay 
+
+Members 
+Capt S. B. Aga Fricson & Richards, Bombay 
+
+Capt N. N. Bhansalt The Company of Master Mariners of India. 
+
+Bombay 
+Shrt a. K. Chopra Indian Rct;islcr of Shipping, Bombay 
+
+Deputy Director of Wkapons Ministry ol Defence ( NHQ ) 
+
+Shri p. R. Govil Cochin Shipyard Ltd, Cochin 
+
+Shri p. J. C. SERtNO ( Alternate ) 
+
+Shri Virendra Sain ( Alternate ) 
+Cmde Hardaval Singh Directorate of Standardization ( Ministry of 
+
+Defence ) DGl ( N ) 
+
+Shri J. L. Bharoava ( Alternate ) 
+Capt T- D, Ha/ari The Shipping Corporation of India Ltd, Bombay 
+
+Capt G. C. Rao ( Alternate ) 
+Rr.pRFsENTATlvE Indian National Shipowners' Association, Bombay 
+
+Smki R. Roy Chowuhury Calcutta Port Trust, Calcutta 
+
+Shri P. A. Smaparia Shaparia Dock & Steel Co Fvt Ltd, Bombay 
+
+Shri C. N, Mistry ( Alternate ) 
+Shri R. Soun]>hh<ara.tan Directorate General of Technical Development, 
+
+New Delhi 
+Shri S. Srintvasan Hindustan Shipyard Ltd, Vishakhapatnam 
+
+Shri B. Krishnappa ( Alternate ) 
+Gp Capt O. P. Tanlja L. W. Stevens & Co Ltd. Madras 
+
+Shri P. S. Das. Director General, ISI ( Ex-oJJicio Member ) 
+
+
+
+Director ( MCPD ) 
+
+
+
+Secretary 
+
+Shri V. K. Sehoal 
+Deputy Director ( Manne ), ISI 
+
+
+
+( Continued on page 1 ) 
+
+
+
+© Covyriekt 1982 
+
+INDIAN STANDARDS INSTITUTION 
+
+This publication is protected under the Indian Copyright Act { XIV of 1957 ) and 
+
+reproduction in whole or in part by any means except with written permission of the 
+
+publisher shall be deemtd to be an infringement of copyright under the said Act. 
+
+
+
+IS : 10007 - 1981 
+
+( Continued from page 1 ) 
+
+Lifeboats, Liferafts and Launching Gear Subcommittee, MCPD 4 : 2 
+
+Convener Representing 
+
+Shri D. B. Irani Directorate General of Shipping, Bombay 
+
+Members 
+Shri P. IC. Bani rjee ( Alternate to 
+
+Shri D. B. Irani ) 
+Shri R. G. Sinuh ( Alternate to 
+Shri D. B. Irani ) 
+Shri S. Y. Banavlikar Swastic Rubber Products Ltd, Bombay 
+
+Shri Y. S. Marathe ( Alternate ) 
+Capt N. N. Bhansali The Company of Master Mariners of India^ 
+
+Bombay 
+DiREcroR OF Naval Construction Ministry of Defence ( NHQ ) 
+Shri P. N. Ghosh Ministry of Defence (R&D) 
+
+Shri A. K. Suri ( Alternate ) 
+Shri S. Gopalan Aero Marine Industries Pvt Ltd, Madras 
+
+Shri T. M. Govindan ( Alternate ) 
+Capt K. V. Hora Meridian Inflatablcs Pvt Ltd, Bombay 
+
+Capt S. K. Chatterjee ( Alternate ) 
+Shri J. K. Nangia Gecta Lngineering Works Pvt Ltd, Bombay 
+
+Shri S. K. Batra ( AUcrnate ) 
+Shri P. A. Shaparia Shuparia Dock & Steel Co Pvt Ltd, Bombay 
+
+Shri C, N. Misiry ( Alternate ) 
+Siiui S, K. SiNHA Garden Reach Shipbuilders & Engineers Ltd, 
+
+Calcutta 
+Shri A. K. Joardar ( Alternate ) 
+Capt V. Subkamaman The Shipping Corporation of fndia Ltd, Bombay 
+
+Capt V. C. Minoc ha ( Alternate ) 
+CaptB. D. Waoia Institute of Marine Technologists, Bombay 
+
+Shki V. G. Damle ( AUernate ) 
+Shri A. T. Joseph ( Alternate ) 
+Capt P, S. Barvf. ( Alternate ) 
+
+
+
+IS : 10007 - 1981 
+
+Indian Standard 
+
+SPECIFICATION FOR 
+LIFEBOATS' STEEL BLOCKS 
+
+0. FOREWORD 
+
+0.1 This Indian Standard was adopted by the Indian Standards Institution 
+on 30 October 1981, after the draft finalized by the Marine Instruments 
+and Safety Aids Sectional Committee had been approved by the Marine, 
+Cargo Movement and Packaging Division Council. 
+
+0.2 Lifeboats* steel blocks are used with the luffing type boat davits. 
+
+0.3 Statutory authorities/classification societies have their own regulations 
+for the construction and testing of lifeboats' steel blocks used on board 
+ships. These rules take into consideration the latest ILO Code of practice 
+of safety and health in dock work. 
+
+0.4 In the preparation of this standard, assistance has been derived from 
+jrs F 3420- J 977 Lifeboats' steel blocks, issued by Japanese Industrial 
+Standards Committee ( JISC ). 
+
+0.5 For the purpose of deciding whether a particular requirement of this 
+standard is complied with, the final value, observed or calculated, express- 
+ing the result of a test or analysis, shall be rounded off in accordance 
+with IS : 2-1960*. The number of significant places retained in the 
+rounded oil value should be the same as that of the specified value in this 
+standard. 
+
+
+
+1. SCOPE 
+
+1.1 This standard specifies the material, dimensions for the various types 
+and parts for lifeboats' steel blocks for use with the luffing type beat davits. 
+
+2. DESCRIPTION 
+
+2.1 Lifeboats' steel blocks consist of the following parts: 
+
+a) Sheave 
+
+b) Cheeks 
+
+c) Supporting straps 
+
+d) Axle pin 
+
+
+
+*Rulcs for rounding oir namerical values ( tvvhcd ). 
+
+3 
+
+
+
+IS : 10007 - 1981 
+
+
+
+e) Swivel 
+
+f ) Thimbles 
+
+g) Distance piece between straps 
+h) Beckets 
+
+3. TERMINOLOGY 
+
+3.0 For the purpose; of this standard, the following definitions shall apply. 
+
+3.1 Cheeks — Checks arc the side plates fitted on either side of the sheave. 
+
+3.2 Safe Working Load — The maximum permissible load in tonnes for the 
+rope of one of the single sheave blocks to take on one end, 
+
+3.3 Nominal Size —The diameter of the sheave in millimetres is the nominal 
+size of the block. 
+
+4. MATERIAL 
+
+4.1 The material used for the various parts of the block shall be as indicated 
+below: 
+
+
+
+Name of Part 
+a) Sheave 
+
+
+
+b) Hush for sheave 
+
+c) Cheeks 
+
+d) Supporting strap 
+
+e) Axle pin 
+
+f ) Swivel 
+g) Beckets 
+
+h) Thimbles 
+
+
+
+Materia/ Conforming to 
+IS: 1865-1974'=' Grade 3 B 
+IS : 2107-1977t 
+IS: 2108-1977: 
+IS: 1 570-1961 § Grade C20 
+rs : 1030-19741 
+IS: 318-19621! 
+IS : 1570-1961§ Open hearth steel, 
+
+killed ofCiS grade 
+fS : 1 570- 196 1 § Open hearth steel, 
+
+killed cf Ci5 grade 
+
+IS: 1 570-1 96 1§ Open hearth steel. 
+
+killed of CI 5 grade 
+
+IS : 1 570- 1 96 1 § Grade C20 
+IS: 1570-1961§ Open hearth steel. 
+killed of CI 5 grade 
+
+IS ; 1570-1961§ Grade C15 Mn 75 
+
+
+
+fully 
+fully 
+fully 
+
+fully 
+
+
+
+♦Iron castings with spheroidal or nodular graphite ( second revision). 
+tSpecificatfon for whitcheart malleable iron castings (first revisi»i ). 
+JSpecification for blackheart malleable iron castings ( first revision ). 
+^Schedules for wrouRht slccl for general engineering purposes. 
+ilCarbon steel castings for general engineering purposes ( second revision ,). 
+llSpccification for leaded tin bronze ingots and castings ( revised ). 
+
+
+
+5. CLASSIFICATION 
+
+5.1 The blocks shall be classified as given in Table 1. 
+
+
+
+
+
+TABLE 
+
+
+1 CLASSIFICATION OF BLOCKS 
+
+
+
+
+Type 
+
+
+
+
+Nominal Diameter, 
+
+
+mm 
+
+
+
+
+
+
+
+
+r- ~ -^- 
+
+
+- ■ - - - - 
+
+
+—— > 
+
+
+lAL 
+
+
+
+
+180 210 
+
+
+
+
+240 
+
+
+IBS 
+
+
+
+
+180 2i0 
+
+
+
+
+240 
+
+
+IBL 
+
+
+
+
+li-!0 210 
+
+
+
+
+240 
+
+
+2AL 
+
+
+
+
+180 210 
+
+
+
+
+240 
+
+
+2AS 
+
+
+
+
+ISO 210 
+
+
+
+
+240 
+
+
+2RS 
+
+
+
+
+180 210 
+
+
+
+
+240 
+
+
+
+NoiT ) The digits 1 and 2 in the Type represent the number of sheaves. 
+
+Noif 2 - - The second letter A in the Type represents the blocks without becket and 
+B with beckct. 
+
+Norr; 3 - The third letter L in the Type represents the blocks with links and S with 
+shack lc;i. 
+
+6. CONSTRUCTION, SHAPE AND DIMENSIONS 
+
+6.1 The construction, shnpe and dimensions shall conform to Tables 2 to 8 
+and shall conform to the following requirements: 
+
+a) Cirease cups conforming to IS : 4672-1 96S* may be used in place of 
+grease nipples QQ\\^o\:v!\m% to IS ; -^^i 009-1 967f; 
+
+b) Split pins conforming to IS : 549-19741; 
+
+c) Shackles used for types IBS, 2AS and 2BS conforming to IS : 6132- 
+1971§; 
+
+d) Thimble used for types IBS, IBL and 2BS conforming to IS : 2315- 
+197811; 
+
+e) Checks may be provided with a rubbing plate to protect the rope; 
+
+f ) Cheek and fork may be secured by countersunk head bolt or rivet; 
+
+g) Swivel pTrt shall be so constructed as to be lubricated with oil or 
+grease; and 
+
+h) Screw threads on swivel part shall conform to tS : 4218-1976*If. 
+
+* Specification for grease clips. 
+
+tSpecificafion for grease nippies. 
+
+JSpeciHc^ition for split pins ( second revision ). 
+
+§Specincation for shackles. 
+
+llSpecification for thimbles for wire ropes ( first revision ). 
+
+il Specification for ISO metric screw threads. 
+
+
+
+IS : 10007 - 1981 
+
+7. TESTING 
+
+7.1 The blocks as a whole covered by this standard shall be individually 
+tested in static condition to a proof load of 25 times the safe working load 
+of the blocks as shown in Table 9. The proof loads and the safe working 
+loads corresponding to the nominal size of the blocks are also indicated in 
+Table 9. The test load shall be maintained for a period of 5 min. 
+
+7.2 At the end of the test, the blocks shall be checked for free rotation, 
+then opened and all parts examined for permanent deformation or other 
+defects in any of the parts. The blocks shall be approved subject to there 
+being no permanent deformation on any of the parts. 
+
+8. DESIGNATION 
+
+8.1 The blocks shall be designated by their type, nominal diameter and this 
+Indian Standard. 
+
+Example : 
+
+A lifeboats*, steel block of type 1 AL and nominal dia 180 mm shall 
+be designated as: 
+
+Lifeboais' Steel Hh)ck lAL, 180 IS : 10007 
+
+9. MARKING 
+
+9.1 All lifeboats' steel blocks shall be marked on the strap in an indelible 
+manner with the following: 
+
+a) The manufacturer's identification mark, 
+
+b) Nominal size, 
+
+c) Safe working load, and 
+
+d) The inspecting authority's seal with date of test. 
+
+9.1.1 Lifeboats' steel blocks may also be marked with the ISf Certifica- 
+tion Mark. 
+
+Note — The use oi the ISI (Certification Mark is governed by the provisions of the 
+Indian Standards Institution ( Certification Marks ) Act and the Rules and Regula- 
+tions made thereunder. The ISI Mark on products covered by an Indian Standard 
+conveys the assurance that liiey have been produced to comply with the requiremenis 
+of rhat standard under a well-dcnned svstem o{ inspection, testing and quality control 
+which is devised and supervised by ISI and operated by the producer. ISJ marked 
+products are also continuously checked by ISl }or conformity to that standard as a 
+further safeguard. Details of conditions under which a Kjcnce for the use of the JSI 
+Certificalion Mark may lie granted to manufacturers or processors, may be obtained 
+from the Indian Standards Inbtiiuiion, 
+
+
+
+TABLE 2 DIMENSIONS FOR STEEL BLOCK, TYPE L\L 
+
+(Clause 6 A ) 
+All dimensions in millimetres. 
+
+
+
+BOLT AND HEX NUT FOR 
+" .DISTANCE PIECE 
+
+
+
+SPLIT 
+
+PIN 
+AXLE PIN AND 
+HEX NUT 
+
+
+
+
+Nominal B By B. Bi d Nominal Sizn lU 
+UiA- , ^- — . 
+
+METER ill di 
+
+
+
+STEEL PLATE FORK 
+d, d, d, H H, 
+
+
+
+If, L R R, R, S t r, 
+
+
+
+180 29 64 50 44 32 M25:<2 MI2 20 30 22 i5A 170 40 26 130 95 20 35 206 9 4-5 
+
+210 33 72 55 50 35 M30x2 Mt2 24 36 26 15A 200 50 30 150 110 20 40 236 10 45 
+
+240 37 84 65 60 40 M36x3 Ml 6 28 42 30 20A 230 60 35 170 125 25 45 270 12 6 
+Remark : The calculated mass includes that of sheave. 
+
+
+
+AlM'LI- 
+
+( AHJi: Di\ 
+
+(VI Sri I.I. 
+
+Wiiu 
+
+K()i>H 
+
+12 
+14 
+16 
+
+
+
+C'alcu- 
+
+I ATI- 1 > 
+
+Mass 
+
+(kg) 
+
+
+
+9-65 
+I4'0S 
+22-21 
+
+
+
+lf\ 
+
+
+
+o 
+o 
+o 
+-J 
+
+
+
+TABLE 3 DIMENSIONS FOR STI EL BLOCKS, TYPE 1«S 
+
+( Clause 6.1 ) 
+Ali dimensions in millimetres. 
+
+
+
+SHACKLE 
+
+
+
+
+Nominal B ^i B^ B^ B^ B^ B^ B^ d 
+Dfametir 
+
+
+
+Nominal Size 
+
+
+
+dr, H H, H, lU H, ^« 
+
+
+
+d. 
+
+
+
+180 29 70 60 80 50 24 26 52 32 M30x2 M12 M27 35 15A 25A 185 50 30 120 75 85 
+210 33 80 70 90 56 26 30 58 35 M36x3 Ml2 M30 42 ]5A 32A 215 60 35 140 80 95 
+240 37 92 80 100 60 30 34 62 40 M40x3 Ml 6 M33 46 20A 32A 245 70 40 160 85 105 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nominal 
+
+
+R 
+
+
+Ri 
+
+
+Rf 
+
+
+
+
+fi 
+
+
+tz 
+
+
+t^ 
+
+
+Shackle 
+
+
+Thimbliz 
+
+
+Applicable 
+
+
+Calculated 
+
+
+Size 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DlA OF 
+
+Steel Wire 
+Roi^R 
+
+
+Mass 
+(kg) 
+
+
+180 
+
+
+95 
+
+
+20 
+
+
+40 
+
+
+9 
+
+
+4-5 
+
+
+38 
+
+
+8 
+
+
+SB 26 
+
+
+B12 
+
+
+12 
+
+
+16-78 
+
+
+210 
+
+
+110 
+
+
+20 
+
+
+48 
+
+
+to 
+
+
+4*5 
+
+
+45 
+
+
+9 
+
+
+SB 32 
+
+
+B14 
+
+
+14 
+
+
+25-97 
+
+
+240 
+
+
+125 
+
+
+25 
+
+
+52 
+
+
+12 
+
+
+6 
+
+
+50 
+
+
+11 
+
+
+SB 36 
+
+
+B16 
+
+
+16 
+
+
+38-38 
+
+
+
+m 
+
+
+
+o 
+o 
+o 
+
+
+
+oo 
+
+
+
+Remark : The calculated mass includes those of sheave, shackle and thimble. 
+
+
+
+^ 
+
+
+
+TABLE 4 DIMENSIONS FOR STEEL BLOCKS, TYPE IBL 
+
+( Clause 6.1 ) 
+All dimensions in millimetres. 
+
+
+
+^Dh -^ 
+
+
+
+SECURING 
+iHEX HEA 
+BOLT AND 
+
+NUT 
+
+BPLIT PIN- 
+BOLT AND HEX 
+NUIFOR DIST- 
+ANCE PIECE- 
+
+
+
+
+HEX HEAD 
+GOLT AND 
+NUT FOR BE 
+CKET 
+
+
+
+BECKET 
+
+
+
+SIDE PLATE 
+FORK H 
+
+■NUT FOR 
+
+
+
+
+LJi L 
+
+
+
+INNER EDGE CE^^^SSi 
+TO BE SUITABLy/N "/ 
+ROUNDED C ~Z ( 
+
+
+
+SWIVEL 
+
+
+
+SECTION AA 
+
+
+
+V 
+
+
+
+\^ 
+
+
+
+^ 
+
+
+
+*B. -* 
+
+
+
+:] 
+
+
+
+- H3 
+
+
+
+SHEAVE 
+
+
+
+CHECK 
+
+PIECE 
+SIDE PLATE 
+AND PARTI- 
+TION PLATE 
+
+
+
+LINK 
+
+
+
+
+STEEL PLATE FORK 
+
+
+
+Nominal 
+
+DrAMPTCR 
+
+
+
+180 
+210 
+240 
+
+
+
+B JJi B^ B; 
+
+
+
+29 70 60 80 
+33 80 70 90 
+37 92 80 100 
+
+
+
+50 
+
+00 
+70 
+
+
+
+B, Br, B, 
+
+
+
+50 24 
+56 26 
+60 30 
+
+
+
+26 
+30 
+
+34 
+
+
+
+i?« 
+
+
+
+52 
+62 
+
+
+
+32 
+3? 
+40 
+
+
+
+NoMrNAL Size 
+
+M30x2 MJ2 
+M36x3 M12 
+M40>:3 MI6 
+
+
+
+d. 
+
+
+
+d, 
+
+
+
+24 36 26 M27 
+30 44 32 M30 
+34 50 36 M33 
+
+
+
+Nominal </« 
+
+DlAMETI R 
+
+
+
+H /f, /f, H, H, 
+
+
+
+Tj t^i TiHMBm Applkaiu f; CAirni.Airn 
+
+
+
+180 25A 15A 180 50 30 
+210 32A 15A 210 60 35 
+240 32A 20A 240 70 40 
+
+
+
+120 75 150 95 20 206 9 4-5 8 ^12 
+140 80 180 110 20 236 10 4'5 9 B14 
+160 85 210 125 25 270 12 6 11 BI6 
+
+
+
+OlA Oi 
+
+Sttpi. Wikh 
+
+ROPH 
+
+12 
+14 
+16 
+
+
+
+Mass 
+(kg) 
+
+
+
+14-48 
+22-13 
+
+33-58 
+
+
+
+CD 
+
+
+
+Remarks : The calculated mass includes those of sheave and thimble. 
+
+
+
+Nominal 
+Diameter 
+
+
+
+TABLE 5 DIMENSIONS FOR STEEL BLOCKS, TYPE 2AS 
+
+( Clause 6.! ) 
+All dimensions in millimetres. 
+
+
+
+SHACKLE 
+
+
+
+
+^On AND HEX 
+NUT FOR DISI 
+ANCE PIECE 
+
+
+
+B Bi B^ 
+
+
+
+NNER EDGE 
+TO BE SUITABLY 
+ROUNDED 
+
+
+
+SECTION AA 
+
+
+
+Nominal. Size 
+
+
+
+d» 6?i> 
+
+
+
+H 
+
+
+
+Hi Hy Ht 
+
+
+
+H, 
+
+
+
+di 
+
+
+
+d. 
+
+
+
+R 
+
+
+
+ISO 29 95-5 65 45 M36x3 JVI12 40 ]5A J90 60 35 110 85 95 20 
+
+210 33 107-5 75 50 M40x3 M12 46 15A 210 70 40 125 95 110 20 
+
+240 37 124 85 58 M45x3 Ml 6 52 20A 235 80 45 145 105 125 25 
+
+
+
+W) 
+
+
+
+00 
+
+
+
+Nominal 
+
+DiAMETfcR 
+
+
+
+180 
+210 
+
+240 
+
+
+
+R2 
+
+
+
+46 
+
+52 
+58 
+
+
+
+Ri 
+
+
+
+50 
+55 
+60 
+
+
+
+12 
+
+14 
+16 
+
+
+
+4-5 
+4*5 
+6 
+
+
+
+Shackle 
+
+
+
+42 SB 30 
+
+50 SB 36 
+
+56 SB 40 
+
+
+
+Applicable 
+
+DiA OF 
+
+Steel Wire 
+Rope 
+
+12 
+14 
+16 
+
+
+
+Calculated 
+Mass 
+(kg) 
+
+22-71 
+33-41 
+50-76 
+
+
+
+Remark : The calculated mass includes those of sheaves and shackle. 
+
+
+
+TABLE 6 DIMENSIONS I OR STEEL BLOCKS, TYPE 2BS 
+
+( Clause 6.1 ) 
+All dimensions in millimetres. 
+
+
+
+pi 
+
+BOLT AND HEX 
+MUT FOR DIST- 
+ANCE PIFCF 
+
+
+
+
+STEEL PLATE FORK 
+
+
+
+LINK 
+
+
+
+Nominal B 
+L:>iAMi;n.ii 
+
+
+r>i 
+
+
+Ih 
+
+
+B, 
+
+
+d Nominal 
+
+< *"- 
+
+
+Sl/F il, 
+
+
+<k 
+
+
+d. 
+
+
+d, 
+
+
+H 
+
+
+ih M, 
+
+
+//a 
+
+
+L 
+
+
+R 
+
+
+
+
+180 25 
+
+
+')5-5 
+
+
+65 
+
+
+6(^ 
+
+
+45 M36 :3 
+
+
+M12 28 
+
+
+42 
+
+
+30 
+
+
+15A 
+
+
+210 
+
+
+60 11(1 
+
+
+35 
+
+
+180 
+
+
+95 
+
+
+
+
+210 33 
+
+
+i07-5 
+
+
+75 
+
+
+70 
+
+
+50 M40V3 
+
+
+M 1 2 34 
+
+
+50 
+
+
+36 
+
+
+15A 
+
+
+2y5 
+
+
+70 125 
+
+
+40 
+
+
+210 
+
+
+no 
+
+
+
+
+240 37 
+
+
+124 
+
+
+85 
+
+
+80 
+
+
+58 M45x3 
+
+
+M!6 38 
+
+s 
+
+
+56 
+
+
+'10 
+I'l 
+
+
+2()A 
+
+
+270 
+
+
+80 145 
+
+
+15 
+
+
+240 
+
+Al ( Of A 
+
+Mass 
+( kg ) 
+
+
+125 
+
+
+
+
+
+
+
+
+J<i 
+
+
+
+
+Nominal 
+J)iAMi;ihfi 
+
+
+
+
+Af'i'i JCAlil E; 
+
+WlKI koi'K 
+
+
+[i [i 
+
+
+(^ 
+
+
+1 80 
+
+
+
+
+
+
+20 
+
+
+50 
+
+
+206 1 2 
+
+
+
+
+4-5 
+
+
+
+
+
+
+12 
+
+
+
+
+18-62 
+
+
+
+
+o 
+
+
+210 
+
+
+
+
+
+
+20 
+
+
+55 
+
+
+236 14 
+
+
+
+
+4-5 
+
+
+
+
+
+
+14 
+
+
+
+
+28-24 
+
+
+
+
+-i 
+
+
+240 
+
+
+
+
+
+
+25 
+
+
+60 
+
+
+270 16 
+
+
+
+
+6 
+
+
+
+
+
+
+li) 
+
+
+
+
+42-65 
+
+
+
+
+1 
+
+
+Remark 
+
+
+1\mz 
+
+
+culcuU 
+
+
+itcd mass includes those of sheaves. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TABLE 7 DIMENSIONS FOR STEEL BLOCKS, TYPE 2BS 
+
+( Clause 6 A ) 
+All dimensions in millimetres. 
+
+
+
+FORK -N 
+
+WASHER ^ 
+
+NUT FOR 
+
+SWIVEL 
+
+DISTANCE 
+
+PIECE ' 
+
+BOLT AND HEX 
+NUT FOR DIST- 
+ANCE PIECE 
+SPLIT PIN 
+
+
+
+
+THIMBLE 
+
+
+
+HEX HEAD BOLT AND 
+HEX NUT FOR SECKET 
+
+SPLIT PIN 
+
+
+
+W 
+
+
+
+O 
+
+
+
+00 
+
+
+
+Nominal B B^ 
+Diameter 
+
+
+
+B, 
+
+
+
+B, 
+
+
+
+d Nominal Size 
+
+
+
+d. 
+
+
+
+dt 
+
+
+
+180 29 95-5 80 100 64 
+
+210 33 107*5 90 115 72 
+
+240 37 124 100 130 76 
+
+
+
+24 26 52 45 M39x3 M12 M27 44 
+26 30 58 50 M45x3 Ml 2 M30 50 
+30 34 62 58 M50x3 M16 M33 56 
+
+
+
+Nominal d^^ 
+Size 
+
+M30 32A 
+
+M36 40A 
+
+M39 40A 
+
+
+
+Nominal </ii // H^ Bj, Hi H^ H^ R R^^ R^ t 
+Diameter 
+
+
+
+ti ts Shackle Thim- Applicable Calculated 
+BLE DiA OF Mass 
+
+Steel Wire ( kg ) 
+Rope 
+
+
+
+180 15A 195 65 38 125 85 85 95 20 50 12 4*5 47 8 
+210 I5A 220 75 45 145 90 95 110 20 55 14 4'5 53 9 
+240 20A 245 85 50 160 95 105 125 25 65 [6 6 62 H 
+
+
+
+SB34 
+
+
+BI2 
+
+
+12 
+
+
+30-53 
+
+
+SB38 
+
+
+B14 
+
+
+14 
+
+
+44-63 
+
+
+SB44 
+
+
+B16 
+
+
+16 
+
+
+68-47 
+
+
+
+Remark : The calculated mass includes those of sheaves, shackle and thimble. 
+
+
+
+T.\BLE 8 DIMENSIONS FOR SHEAVES 
+
+( Clause 6.1 ) 
+All dimensions in millimetres. 
+
+
+
+
+^3E.-M 
+
+
+
+Type 
+
+
+
+Block 
+
+N luminal 
+Diameter 
+
+
+
+r, r. 
+
+
+
+T, D, D, D, 
+
+
+
+£>* 
+
+
+
+JAL 
+IBS 
+IBL 
+
+2AS 
+2AL 
+
+2BS 
+
+
+
+180 
+210 
+240 
+
+ISO 
+210 
+240 
+
+
+
+ISO 
+210 
+240 
+
+
+
+14 
+16 
+
+IS 
+
+
+
+6-5 
+
+7-5 
+
+S-5 
+
+
+
+180 14 65 
+210 16 75 
+240 18 8-5 
+
+
+
+24 23 
+28 ?2 
+32 36 
+
+
+
+24 
+
+2S 
+52 
+
+
+
+32 
+36 
+
+
+
+7 8 6 
+
+8 9 7 
+10 8 
+
+7 8 6 
+
+8 9 7 
+
+9 10 8 
+
+
+
+32-5 
+35-5 
+40-5 
+
+45-5 
+
+50-5 
+58-5 
+
+
+
+45 
+48 
+54 
+
+58 
+
+63 
+72 
+
+
+
+6q 105 
+65 !20 
+
+72 137 
+
+
+
+73 
+80 
+90 
+
+
+
+20 
+28 
+34 
+
+
+
+112 14 
+
+128 20 
+146 25 
+
+
+
+C« 
+
+
+
+o 
+o 
+o 
+
+
+
+00 
+
+
+
+CO 
+
+
+
+TABLE 9 PROOF LOADS AND SAFE \^ORKING LOADS CORRESPONDING TO 
+DlFFERtNT NOMINAL SIZES 
+
+
+
+--1 
+
+
+
+00 
+
+
+
+Nominal 
+DiA, mm 
+
+
+
+^^ 
+
+
+
+Ncminal dia, mm I 180 210 240 
+
+
+
+Proof load, kN j 5S-8 78-5 IC2-3 
+
+
+
+Safe working 
+load, tf 
+
+
+
+2-4 3-2 4-2 
+
+
+
+80 210 240 
+
+
+
+83-4 112-8 147-1 
+
+
+
+3-4 4-6 60 
+
+
+
+r^ 
+
+
+
+rr\ 
+
+
+
+180 210 240 
+
+
+
+105-9 1451 1S9'3 
+
+
+
+4-3 5-9 7-7 
+
+
+
+180 
+
+
+
+5-2 
+
+
+
+
+210 240 
+
+
+
+127-5 174-6 228-5 
+
+
+
+7i 9-3 
+
+
+

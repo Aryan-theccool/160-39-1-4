@@ -1,0 +1,2313 @@
+**************** 
+
+
+
+-k is^ 
+
+
+
+
+
+Disclosure to Promote the Right To Information 
+
+Whereas the Parliament of India has set out to provide a practical regime of right to 
+information for citizens to secure access to information under the control of public authorities, 
+in order to promote transparency and accountability in the working of every public authority, 
+and whereas the attached publication of the Bureau of Indian Standards is of particular interest 
+to the public, particularly disadvantaged communities and those engaged in the pursuit of 
+education and knowledge, the attached public safety standard is made available to promote the 
+timely dissemination of this information in an accurate manner to the public. 
+
+"^^ ^ ^ ^ % ?R^" 
+
+Jawaharlal Nehru 
+
+Step Out From the Old to the New 
+
+
+
+^^iiT'jsiS'SfS^^^^*?*:: 
+
+
+
+
+•^■•■^^^■r 
+
+
+
+
+li^ i/ir w w w w w WW ^ ^ ^ tIt w w w 
+
+
+
+BLANK PAGE 
+
+
+
+^<ii^ 
+
+
+
+
+
+UI> 
+
+
+
+PROTECTED BY COPYRIGHT 
+
+
+
+1810069:1992 
+ISO 4409 :1986 
+
+( Reaffirmed 2002 ) 
+
+( T^^ 5?T^'t^T ) 
+
+Indian Standard 
+
+HYDRAULIC FLUID POWER — POSITIVE 
+
+DISPLACEMENT PUMPS, MOTORS AND 
+
+INTEGRAL TRANSMISSIONS — DETERMINATION 
+
+OF STEADY-STATE PERFORMANCE 
+
+( First Revision ) 
+
+
+
+UDC 62r65-82 : 62016 
+
+
+
+© BIS 1992 
+
+BUREAU OF INDIAN STANDARDS 
+
+MANAK BHAVAN, 9 BAHADUR SHAH ZAFAR MARG 
+NEW DELHI 11C002 
+
+October 1992 Price Group 7 
+
+
+
+Hydraulic Fluid Power Systems Sectional Committee, PE 15 
+
+
+
+NATIONAL FOREWORD 
+
+This Indian Standard which is identical with ISO 4409 : 1986 'Hydraulic fluid power — Positive 
+displacement pumps, motors and irvtegral transmissions — Determination of steady — State 
+performance' issued by the International Organization for Standardization ( ISO ), was adopted 
+by the Bureau of Indian Standards on the recommendations of the Hydraulic Fluid Power 
+Systems Sectional Committee ( PE 15) and approval of Production Engineering Division Council. 
+
+This standard was first published in 1982. To align it with international practices, ISO 4409 : 
+1986 has been adopted in this revision. In this revision, methods for determining the 
+performance and efficiency of motors and integral transmissions have been included along with 
+the positive displacement pumps. It further describes requirements for test installations, test 
+procedures ( under steady-state conditions ) and presentation of test results. 
+
+The text of ISO standard has been approved as suitable for publication as Indian Standard with- 
+out deviation. Certain conventions are however not identical with those used in the Indian 
+Standards. Attention is particularly drawn to the following: 
+
+a) Wherever the words 'International Standard' appear, referring to this standard, they 
+should be read as 'Indian Standard'. 
+
+b) Comma ( , ) has been used as a decimal marker in the International Standard while in 
+Indian Standards the current practice is to use a point ( . ) as the decimal matker. 
+
+In the adopted standard reference appears to certain International Standards for which Indian 
+Standards also exist. The corresponding Indian Standards which are to be substituted in their 
+place are listed below along with their degree of equivalence for the editions indicated. 
+
+International Corresponding Indian Standard Degree of 
+
+Standard Equivalence 
+
+ISO 31 IS 1890 Quantities, units and symbols Identical 
+
+ISO 1219 IS 7513:1974 Graphical symbols for fluid Technically 
+
+power systems equivalent 
+
+ISO 4391 IS 1 1147 : 1984 Recommendations for parameter Identical 
+
+definitions and letter symbols for hydraulic 
+fluid power pumps, motors and integral 
+transmissions 
+
+ISO 5598 IS 10416:1992 Fluid power systems and —do- 
+
+components ■ — Vocabulary 
+
+lEC Pub 34-2 IS 4889:1968 Methods of determination of Technically 
+
+efficiency of rotating electrical machines equivalent 
+
+IECPub51 IS 1248 ( all parts ) Direct acting indicating —do- 
+
+analogue electrical measuring instruments 
+and their accessories 
+
+In reporting the results of a test or analysis made in acc:)r63ince with this standard, if the final 
+value, observed or calculated, is to be rounded off, it shall be done in accordance with 
+IS 2 : 1960, 'Rules for rcunding off numerical values ( revised )'. 
+
+
+
+1810069:1992 
+ISO 4409 : 199t 
+
+
+
+Indian Standard 
+
+HYDRAULIC FLUID POWER — POSITIVE 
+
+DISPLACEMENT PUMPS, MOTORS AND 
+
+INTEGRAL TRANSMISSIONS — DETERMINATION 
+
+OF STEADY-STATE PERFORMANCE 
+
+( First Revision ) 
+
+
+
+Introduction 
+
+In hydraulic fluid power systems, power is transmitted and 
+controlled through a liquid under pressure within an enclosed 
+circuit. Pumps are components which convert rotary 
+mechanical power into hydraulic fluid power. Motors are com- 
+ponents which convert hydraulic fluid power into rotary 
+mechanical power. Integral transmissions (hydraulic drive 
+units) are a combination of one or more hydraulic pumps and 
+motors and appropriate controls forming a component. 
+
+With very few exceptions, all hydraulic fluid power pumps and 
+motors are of the positive displacement type, i.e. they have 
+internal sealing means which make them capable of maintain- 
+ing a relatively constant ratio between rotational speed and 
+fluid flow over wide pressure ranges. They generally use gears, 
+vanes or pistons. Non-positive displacement components, such 
+as centrifugal or turbine types, are seldom associated with 
+hydraulic fluid power systems. 
+
+Pumps and motors are available either as "fixed" or "variable" 
+displacement types. Fixed displacement units have preselected 
+internal geometries which maintain a relatively constant volume 
+of liquid passing through the component per revolution of the 
+component's shaft. Variable displacement components have 
+means for changing the internal geometries so that the volume 
+of liquid passing through the component per revolution of the 
+component's shaft can be changed. 
+
+This International Standard is intended to unify testing 
+methods for hydraulic fluid power positive displacement 
+hydraulic pumps, motors and integral transmissions to enable 
+the performance of different components to be compared. 
+
+
+
+1 Scope and field of application 
+
+This International Standard specifies methods for determining 
+tKe performance and efficiency of hydraulic fluid power 
+positive displacement pumps, motors and integral transmis- 
+sions. It applies to components having continuously rotating 
+shafts. 
+
+This International Standard describes requirements for test 
+installations, test procedures (under steady-state conditions) 
+and the presentation of test results. 
+
+Annex A gives guidance as to the use of practical units for the 
+expression of results. 
+
+
+
+Annex B contains information on errors and classes of 
+measurement accuracy. The measurement accuracy is divided 
+into three classes: A, B and C. 
+
+Annex C provides a pre-test checklist of those items on which 
+agreement is recommended between the parties concerned: 
+
+
+
+2 References 
+
+ISO 1219, Fluid power systems and components 
+symbols. 
+
+
+
+Graphic 
+
+
+
+ISO 4391, Hydraulic fluid power — Pumps, motors and integral 
+transmissions — Parameter definitions and letter symbols. 
+
+ISO 5598, Fluid power systems and components — 
+Vocabulary. 
+
+lEC Publication 34-2, ftotating electrical machines — Part 2: 
+Methods for determining losses and efficiency of rotating elec- 
+trical machinery from tests (excluding machines for traction 
+vehicles). 
+
+lEC Publication 51, Recommendation for direct acting in- 
+dicating electrical measuring instruments and their accessories. 
+
+
+
+3 Definitions 
+
+The definitions of quantities and units, and the letters used as 
+symbols are given in ISO 31 and ISO 4391. 
+
+For the purposes of this International Standard the following 
+definitions of concepts together with their respective symbols 
+(except for concepts in general use defined in ISO KSS) are ap- 
+plicable. 
+
+NOTE — When there is no risk of ambiguity (i.e. when a test has been 
+carried out on a pump or a motor), the superscripts "P", "M" and "T" 
+specrfying that the quantity concerns, respectively, a pump, a motor or 
+an Integral transmission, can be omitted. 
+
+
+
+3.1 Volume flow rate 
+
+
+
+3.1.1 volume flow rate. qy-. The measured flow volume per 
+unit of time. 
+
+
+
+rS 10069: 1992 
+ISO 4409:198-6 
+
+
+
+3.1 .2 drainage flow rate, q y : The volume rate of flow from 
+the casing of a component. 
+
+
+
+3.5 Power 
+
+
+
+3.1.3 effective outlet flow rate of a pump, qy : The 
+
+actual flow rate measured at the pump outlet at the 
+temperature ^2 g and pressure /J2,e 3* ^'^^ outlet of the pump. If 
+the flow rate is measured downstream of the pump at 
+temperature 9 and pressure p, that flow rate is corrected to give 
+the effective outlet value as follows : 
+
+
+
+^'v. 
+
+
+
+2,e 
+
+
+
+Qv M 
+
+
+
+-M 
+
+
+
++ a(92_^-e) 
+
+
+
+3.5.1 mechanical power, P^: The product of the torque 
+and rotational frequency measured at the shaft of a pump or 
+motor. 
+
+
+
+P„ = 2jt nT 
+
+
+
+3.5.2 hydraulic power, P^ : The product of the flow rate and 
+pressure at any point. 
+
+
+
+3.1.4 effective inlet flow rate on a motor, qy : The 
+actual flow rate measured at the motor inlet at the temperature 
+^1 e and pressure /7ie at the inlet to the motor. If the flow rate is 
+measured downstream of the motor outlet at temperature 6 
+and pressure p. that flow rate is corrected to give the effective 
+inlet value as follows: 
+
+
+
+q\^ = Cly 
+
+
+
+[ - W 
+
+
+
++ aWy^-d) 
+
+
+
+Ph = QvP 
+
+
+
+3.5.3 effective outlet hydraulic power of a pump;P2,h' 
+The total outlet hydraulic power of a pump. 
+
+
+
+^2,h = QV.- P2, 
+
+
+
+If the motor has an external drainage, the drainage flow rate 
+shall be corrected to refer to the inlet condition used for 
+
+
+
+
+
+
+,M 
+
+
+
+computing q'y^ as follows: 
+
+
+
+
+
+
+Qv 
+
+
+
++ a{ey^-d)\ + 
+
+
+
++ qv. 
+
+
+
+M 
+-(?^). „«,,.-«, 
+
+
+
+3.2 rotational frequency (shaft speed), n : The number of 
+revolutions of the drive shaft per unit of time. The direction of 
+rotation {clockwise or counter-clockwise) is specified from the 
+point of view of the observer looking at the end of the shaft. It 
+may also be defined by diagram, if necessary. 
+
+
+
+3.5.4 effective inlet hydraulic power of a motor, P^^: 
+The total inlet hydraulic power of a motor. 
+
+
+
+pM 
+
+
+
+'^yye-Py.e 
+
+
+
+NOTE — The total energy of a hydraulic fluid is the sum of the various 
+energies contained in the fluid. In 3.5.3 and 3.5.4, the kinetic, posi- 
+tional and strain energies of the fluid are ignored and the power is 
+calculated using the static pressure only. Should these other energies 
+have a significant effect on the test results, due account should be 
+taken of them. 
+
+
+
+3.6 Efficiency 
+
+
+
+3.3 torque, T: The measured value of the torque in the shaft 
+of the test component. 
+
+
+
+3.4 Pressure 
+
+
+
+3.6.1 pump overall efficiency, 7, : The ratio of the power 
+transferred to the liquid, at its passage through the pump, to 
+the mechanical input power. 
+
+nt = — '■ ' 
+
+2n nT 
+
+
+
+3.4.1 effective pressure, p^: The fluid pressure, relative to 
+atmospheric pressure, having a value which is 
+
+— positive, if this pressure is greater than the atmospheric 
+pressure; or 
+
+— negative, if this pressure is less than the atmospheric 
+pressure. 
+
+
+
+3.4.2 drainage pressure, p^: The pressure, relative to 
+atmospheric pressure, measured at the outlet of a drainage 
+connection on a component casing. 
+
+
+
+3.6.2 motor overall efficiency, f/,^: The ratio of the mech- 
+anical output power to the power transferred from the liquid at 
+its passage through the motor. 
+
+M 27t nT 
+
+
+
+''QV^^-P\J - (9^2, -P^e* 
+
+
+
+3.6.3 integral transmission overall efficiency, r/J : The 
+ratio of the output mechanical power to the input mechanical 
+power. 
+
+
+
+nj 
+
+
+
+"2- 7^2 
+
+
+
+1810069:1992 
+ISO 4409 :198S 
+
+
+
+4 Symbols and units 
+
+
+
+4. 1 The symbols and units used throughout this International 
+Standard are as shown in table 1 . 
+
+
+
+4.2 The letters and figures used as subscripts to the symbols 
+listed in table 1 are as specified in ISO 4391. 
+
+
+
+5.1.1.1 Where a pressurized inlet condition is required, a 
+suitable means shall be provided to maintain the inlet pressure 
+within the specified limits (see 6.2.1). 
+
+5.1.2 A closed test circuit, alternative to figure 1, is shown in 
+figure 2. In this circuit the boost pump provides a flow slightly 
+in excess of the total circuit losses; a greater flow may be pro- 
+vided for cooling purposes. 
+
+
+
+4.3 The graphical symbols used in figures 1, 2 and 3 are in 
+accorHance with ISO 1219. 
+
+
+
+5 Test installations 
+5.1 Pump test circuits ^' 
+
+5. 1 .1 An open test circuit suitable for testing pumps as shown 
+in figure 1 shall be used. 
+
+
+
+5.2 Motor test circuit ^' 
+
+A test circuit suitable for testing motors using a controlled fluid 
+supply as shown in figure 3 shall be used. 
+
+
+
+5.3 General requirements 
+
+5.3.1 The installation shall be designed to prevent air entrap- 
+ment and precautions shall be taken to remove all free air from 
+the system before testing. 
+
+
+
+Table 1 — Symbols and units 
+
+
+
+Reference 
+clause 
+
+
+Quantity 
+
+
+Symbol 
+
+
+Dimensions^* 
+
+
+Unit2) 
+
+
+3.1 
+
+
+Volume flow rate 2' 
+
+
+iv 
+
+
+L3T-1 
+
+
+m3/s 
+
+
+3.2 
+
+
+Rotational frequency 
+
+
+n 
+
+
+T-1 
+
+
+s-i 
+
+
+3.3 
+
+
+Torque 
+
+
+T 
+
+
+ML2T-2 
+
+
+N-m 
+
+
+3.4 
+
+
+Pressure 
+
+
+P 
+
+
+ML-'T-2 
+
+
+Pa3) 
+
+
+3.5 
+
+
+Power 
+
+
+P 
+
+
+ML2T-3 
+
+
+W 
+
+
+
+
+Mass density 
+
+
+Q 
+
+
+IVIL-3 
+
+
+kg/mS 
+
+
+
+
+Isothermal bulk modulus secant 
+
+
+^r 
+
+
+ML-'T-z 
+
+
+Pa 
+
+
+
+
+Kinematic viscosity 
+
+
+V 
+
+
+L2T-1 
+
+
+m2/s 
+
+
+
+
+Temperature 
+
+
+e 
+
+
+
+
+
+K 
+
+
+
+
+Coefficient of cubic thermal 
+expansion 
+
+
+a 
+
+
+0-1 
+
+
+K-1 
+
+
+3.6 
+
+
+Efficiency 
+
+
+ft 
+
+
+Pure number 
+
+
+
+
+
+1) M = mass; L = length; T = time; = temperature 
+
+2) The use of practk;al units for the presentation of results is described in annex A. 
+
+3) 1 Pa = 1 N/m2 
+
+
+
+1) Figures 1, 2 and 3 illustrate basic circuits which do not incorporate all the safety devices necessary to protect against damage in the event of 
+any component failure. It is important that those responsible for carrying out the test give due consideration to safeguarding both personnel ari 
+equipnrant. 
+
+
+
+IS 10069 
+fSO 4409 
+
+
+
+1992 
+198-6 
+
+
+
+5.3.2 The component shall be installed and operated in the 
+test circuit in accordance with the manufacturer's operating 
+instructions. 
+
+5.3.3 Tests shall normally be carried out in still air; the 
+ambient temperature and any variation from still air conditions 
+shall be recorded. 
+
+
+
+6.1.3 Temperatures 
+
+
+
+6.1.3.1 Controlled temperature 
+
+
+
+The tests shall be carried out at a stated fluid temperature 
+measured at the inlet to a pump or motor within the range 
+recommended by the component manufacturer, the indicated 
+temperature being maintained within the limits stated in table 2. 
+
+
+
+5.4 Filtration 
+
+5.4.1 A filter shall be installed which provides a standard of 
+filtration approved by the pump or motor manufacturer. 
+
+5.4.2 The position, number and specific description of each 
+filter used in the test circuit shall be stated. 
+
+
+
+Table 2 — Permissible variation in indicated 
+fluid temperature 
+
+
+
+Class of measurement accuracy 
+
+(see annex B) 
+
+
+A 
+
+
+B 
+
+
+C 
+
+
+Variation of temiterature 
+indication. K 
+
+
+±1,0 
+
+
+±2,0 
+
+
+±4,0 
+
+
+
+5.5 -Positioning of tapping points 
+
+5.5.1 Where pressure measurements are made within a pipe, 
+the pressure-tapping point shall be positioned not less than 
+twice and not more than four times the pipe diameter from the 
+component port face. 
+
+NOTE — Greater distances may be used provided consideration is 
+given to the effect of pipe tosses. 
+
+5.5.2 Where temperature measurements are made within a 
+pipe, the temperature-tapping point shall be positioned be- 
+tween two and four times the pipe diameter from the pressure- 
+tapping point further away from the component. 
+
+
+
+6 Test procedures 
+
+
+
+6.1 General tests 
+
+
+
+6.1.1 Pre-test condition 
+
+Before the tests are carried out, the component shall be "run 
+in" in accordance with the manufacturer's recommendations. 
+
+
+
+6.1.2 Test fluids 
+
+6. 1 .2. 1 Since the performance of a component may vary con- 
+siderably with the viscosity on the fluid, a stated fluid approved 
+by the manufacturer of the component when carrying out the 
+tests shall be used. Information concerning the fluid shall be 
+recorded. 
+
+6.1.2.2 The kinematic viscosity, v, and the mass density of 
+the fluid, Q, at the controlled temperature used during the test 
+shall be stated. 
+
+6.1.2.3 The values used for the isothermal secant bulk 
+modulus, Kj, and for the coefficient of cubic thermal expan- 
+sion, a, shall be stated. 
+
+
+
+6.1.3.2 Other temperatures 
+
+The following temperature measurennents shall be recorded: 
+
+a) the temperature at the outlet of a pump or motor; 
+
+b) the temperature at the point of measurement of flow; 
+
+c) the drainage fluid temperature (if applicable); 
+
+d) the ambient temperature. 
+
+NOTE — For an integral transmission, it may not be possible to 
+measure some of the above. Note this on the test report. 
+
+6.1.4 Atmospheric pressure 
+
+The absolute ambient atmospheric pressure during the test 
+shall be recorded, if it is significant to the test. 
+
+6.1.5 Casing pressure 
+
+If the fluid pressure within the casing of a component may 
+affect its performance, its value shall be recorded during the 
+tests. 
+
+6.1.6 Steady-state conditions 
+
+6.1.6.1 When steady-state test conditions are reached for a 
+specific test condition, only one set of readings of individual 
+quantities shall be taken over concurrent common time 
+periods. Each reading shall be recorded as the mean value of 
+each quantity being measured. 
+
+6.1.6.2 Each set of readings taken for a controlled value of a 
+selected parameter shall be recorded only where the indicated 
+value of the controlled parameter is within the limits shown in 
+table 3. 
+
+6.1.7 Test measurements 
+
+The number of sets of readings to be taken and their disposition 
+over the range shall be selected in order to give a representative 
+indication of the performance of the component over the full 
+range of the quantity being varied. 
+
+
+
+IS 10069 : 1992 
+ISO 440S : 1 3Bb 
+
+
+
+Table 3 — Limits of permissible variation x>f mean 
+indicated values of selected parameters'" 
+
+
+
+
+
+Permissible variation 
+
+
+
+
+for classes of 
+
+
+Parameter 
+
+
+measurement accuracy 
+
+(seeannex B) 
+
+
+
+
+A 
+
+
+B 
+
+
+C 
+
+
+Rotational frequency, % 
+
+
+±0,5 
+
+
+±1,0 
+
+
+±2,0 
+
+
+Torque, % 
+
+
+±0,5 
+
+
+±1,0 
+
+
+±2,0 
+
+
+Volume flow rate, % 
+
+
+±0,5 
+
+
+±1,5 
+
+
+±2,5 
+
+
+Pressures, where p < 
+
+
+
+
+
+
+
+
+2 X 105 Pa gauge. Pa2> 
+
+
+±1 x103 
+
+
+±3x 103 
+
+
+±5x 103 
+
+
+Pressures, where p > 
+
+
+
+
+
+
+
+
+2 X IQS Pa gauge, % 
+
+
++ 0,5 
+
+
+±1,5 
+
+
+±^-5 
+
+
+
+1 1 The permissible variations (isled in this table concern deviation of 
+the indicated instrument reading and do not refer to limits of error of 
+the instrument reading <see annex Q). 
+
+These variations are used as an indicator of steady state, and are also 
+used where graphical results are presented for a parameter of fixed 
+value. The actual indicated value should be used in any subsequent 
+calculation of power or efficiency, 
+
+21 1 Pa = 1 N/m^ 
+
+
+
+6.2.4 Reverse flow 
+
+If the direction of flow for the pump can be reversed by nneans 
+of a capacity control, carry out tests for both directions of flow, 
+if required. 
+
+6.2.5 Non>integral boost pumps 
+
+if the test pump is associated with a boost and the power 
+inputs can be measured separately, the pumps shall be tested 
+independently and the results presented independently for each 
+pump. 
+
+6.2.6 Fult-flow integral boost pump 
+
+6.2.6.1 If the boost pump is integral with the main pump, 
+which results in the power inputs being inseparable, and the 
+boost pump delivers the full flow of the main pump, the two 
+pumps shall be treated as one integral unit and the results 
+presented accordingly. 
+
+NOTE — The inlet pressure measured is the inlet pressure to the boost 
+pump. 
+
+6.2.6.2 Any excess fiow from the boost pump shall be 
+measured and recorded. 
+
+
+
+6.2 Pump tests 
+6.2.1 Inlet pressure 
+
+6.2.1.1 During each test, maintain the inlet pressure constant 
+(see table 3) at a stated value within the permissible range of 
+inlet pressures specified by the manufacturer. 
+
+6.2.1.2 Carry out the tests at different inlet pressures, if 
+required. 
+
+
+
+6.2.7 Secondary-flow integral boost pump 
+
+If the boost pump is integral with the main pump, which results 
+in the power inputs being inseparable, but the boost pump sup- 
+plies only a secondary flow to the hydraulic circuit of the main 
+pump and the remainder is by-passed or used for some auxiliary 
+
+
+
+
+
+
+vvi icfi ^:^ ^1 CI^u viv>civji\3, 
+
+
+
+the flows from the boost pump shall be measured and recorded. 
+
+
+
+6.2.8 Direct coupled pump (Class C only) 
+
+
+
+6.2.2 Test measurements 
+
+6.2.2.1 Take measurements of input torque, outlet flow rate, 
+drainage flow rate (where applicable) and fluid temperatures, at 
+a constant rotational frequency (see table 3) and at a number of 
+outlet pressures so as to give a representative indication of the 
+performance of the pump over the full range of outlet 
+pressures. 
+
+6.2.2.2 Repeat these measurements at other rotational fre- 
+quencies, as required, to give a representative indication of the 
+performance of the pump over the full range of rotational fre- 
+quencies. 
+
+
+
+6.2.8,1 If a pump is directly coupled to an electric motor 
+having a single rotational frequency the characteristic of which 
+varies with load, it is permissible to derive the input mechanical 
+power from the electrical power input. This is applicable when 
+the rotational frequency variation between "no load" and "full 
+load" is not more than 5 %. The measured flow at measured 
+rotational frequency is corrected to give the calculated flow at 
+"no-load" rotational frequency. 
+
+For this purpose, it shall be assumerl that the flow/rotational 
+frequency characteristic of the pump is linear and that the tor- 
+que constant is within the range of correction at any one output 
+pressure. 
+
+
+
+6.2.3 Variable capacity 
+
+If the pump is of the variable capacity type, carry out complete 
+tests for maximum capacity setting and such other settings, as 
+required, e.g. 75, 50 and 25 %. 
+
+Each of these settings shad give the required percentage of the 
+flow rate at the minimum outlet pressure at the minimum rota- 
+tional frequency specified for the test. 
+
+
+
+coupled directly to the pump is used as a means of determining 
+the pump power input, the following conditions shall be com- 
+plied with: 
+
+a) the motor shall only be operated at conditions where 
+the efficiency is (cnown with sufficient accuracy; 
+
+b) the motor efficiency shall be determined in accordance 
+with the recommendations of lEC Publication 34-2. 
+
+
+
+1810069:1992 
+ISO 4409 :198'E 
+
+
+
+6.2.8.3 Measure the electric power input to a.c. driving 
+motors by the two-wattmeter method. 
+
+NOTE — This allows the use of two single-element wattmeters, or one 
+double-element wattmeter, or one single-element wattmeter and 
+suitable switches. 
+
+6.2.8.4 Measure the electric power input to d.c. driving 
+motors by either a wattmeter, or an amperemeter and a 
+voltmeter. 
+
+6.2.8.5 Indicating instruments with the type and grade of 
+accuracy as laid down in lEC Publication 51 shall be used for 
+measuring electric power in accordance with this clause. 
+
+
+
+6.3 Motor tests 
+
+6.3.1 Outlet pressure 
+
+Control the outlet pressure from the motor by a pressure con- 
+trol valve so that a stated outlet pressure is maintained 
+throughout the tests within the limits given in table 3. This 
+outlet pressure shall be consistent both with the applications 
+envisaged for the type of motor and the manufacturer's recom- 
+mendations. 
+
+
+
+6.4 Intagral transmission tests 
+
+6.4.1 Test measurements 
+
+6.4.1.1 Take measurements of input torque, output torque, 
+output rotational frequency and of fluid pressure and 
+temperature, where appropriate, over a power range as recom- 
+mended by the manufacturer for a specified input rotational fre- 
+quency. 
+
+6.4.1.2 Take measurements for several input rotational fre- 
+quencies, as required, kept within the limits specified in table 3. 
+
+6.4.2 Boost pumps 
+
+6.4.2.1 If boost pumps or other auxiliaries are integral with 
+the transmission pump and driven by the same input shaft, the 
+pumps shall be treated as one integral unit and this information 
+shall be stated in the test results. 
+
+6.4.2.2 If boost pumps or other auxiliaries are driven separa- 
+tely, their power requirement shall be excluded from the 
+transmission performance and this information shall be stated 
+in the test results. 
+
+
+
+6.4.3 Reverse rotation 
+
+
+
+6.3.2 Test measurements 
+
+Take measurements of inlet flow rate, drainage flow rate 
+(where applicable), output torque and fluid temperatures, over 
+the full rotational frequency range of the motor and at a 
+number of input pressures so as to give a representative indica- 
+tion of the performance of the motor over the full range of input 
+pressures. 
+
+
+
+If the output shaft is required to operate in both directions of 
+rotation, carry out tests for both directions of rotation, if 
+required. 
+
+
+
+6.5 Expression of results 
+
+
+
+6.5.1 General 
+
+
+
+6.3.3 Variable capacity 
+
+If the motor is of the variable capacity type, carry out complete 
+tests for minimum and maximum capacity settings and such 
+other settings, as required, e.g. 75, 50 and 25 %. 
+
+Obtain the percentage capacity by setting the adjustment to 
+give the required proportional rotational frequency for the same 
+inlet flow rate with zero output torque. The flow rate shall be 
+chosen so that at minimum capacity the motor runs at maxi- 
+mum test rotational frequency. ^^ 
+
+6.3.4 Reverse rotation 
+
+For motors which are required to operate in both directions of 
+rotation, carry out tests for both directions of rotation, if 
+required. 
+
+
+
+All test measurements and the results of calculations derived 
+from them shall be tabulated by the testing agency and, 
+preferably, also presented graphically, as described in 6.5.2, 
+6.5.3 and 6.5.4. 
+
+6.5.2 Pump tests 
+
+6.5.2.1 For a pump tested at one constant rotational fre- 
+quency, a graph shall be plotted of effective inlet mechanical 
+power, effective outlet flow rate and overall efficiency against 
+effective outlet pressure and the constant test fluid and other 
+parameters shall be stated as indicated in figure 41'. 
+
+6.5.2.2 For a pump tested at a number of constant rotational 
+frequencies, the graphical results shall be presented as shown 
+in figure 4 or they shall be plotted against the rotational fre- 
+quency for different pressure values as shown in figure 5^'. 
+
+
+
+1) The graphical results shown in figures 4 to 7 are shown foe style of presentation only. No specific or related values are intended. 
+
+
+
+IS 10069: 
+ISO 4409 
+
+
+
+1992 
+198S 
+
+
+
+6.5.3 Motor tests 
+
+The results of the motor tests shall be plotted to show output 
+torque, effective inlet flow rate and overall efficiency against 
+output rotational frequency for different effective inlet 
+pressures as shown in figure 6 1). 
+
+6.5.4 Integral transmission tests 
+
+For an integral transmission test, the results shall be presented 
+for constant input rotational frequency as the overall efficiency, 
+*.or constant input power, plotted against the output rotational 
+frequency, as shown in figure 71I. 
+
+
+
+7 Identification statement (Reference to this 
+international Standard) 
+
+
+
+Use the following statement in test reports, cat»tofu«s and 
+sales literature when electing to comply with this International 
+Standard : 
+
+
+
+"Test for the determination of steady-state performance con- 
+forms to ISO 4409, Hydraulic fluid power — Positive displace- 
+ment pumps, motors and integral transmissions — Determina- 
+tion of steady- state performance" . 
+
+
+
+1) The graphical results shown in figures 4 to 7 are shown for style of presentation only. No specific or related values are intended. 
+
+
+
+IS 10069 : 1992 
+ISO 4409 :198-E 
+
+
+
+:w 
+
+
+
+Alternative position 
+
+
+
+
+
+m. 
+
+
+
+^M 
+
+
+
+
+Figure 1 — Test circuit for pump unit (open circuit) 
+
+
+
+r^ 
+
+
+
+r — ! 
+
+
+
+■4-i> 
+
+
+
+D« 
+
+
+
+
+
+n 
+
+
+
+Alternative position 
+
+
+
+
+i)(S 
+
+11 Ti) 
+
+
+
+
+\)/ 
+
+
+
+
+(S)q 
+
+
+
+J 
+
+
+
+L_L_I 
+
+Figure 2 — Test circuit for pump unit (closed circuit) 
+
+
+
+
+Controlled fluid 
+flow supply 
+
+
+
+Figure 3 — Test circuit for motor unit 
+
+
+
+1) For pipe lengths, see 5,5. 
+
+
+
+IS 10069 ; 
+ISO 4409 
+
+
+
+1992 
+198^ 
+
+
+
+0) 
+
+
+
+> 
+O 
+
+
+
+Test fluid: 
+
+Temperature at inlet: 
+Kinematic viscosity : 
+Density : 
+
+Effective inlet pressure: 
+Capacity setting : 
+Rotational frequency : 
+
+
+
+
+
+
+Effective outlet pressure, pj.i 
+
+
+
+Figure 4 — Graphs of punnp performance against effective outlet pressure 
+
+
+
+IS 10069 
+ISO 4409 
+
+
+
+1992 
+
+1981^ 
+
+
+
+Test fluid : 
+
+Temperature at iniet; 
+Kinematic viscosity: 
+OensiTY '■ 
+
+Effective Inlet pressure: 
+Capacity setting : 
+Effective outlet pressure 
+
+P2,e.v/' 
+
+Pz.e.y- 
+P2,e.2- 
+
+
+
+
+2,e,z 
+
+
+
+
+o 
+
+Q. 
+
+
+
+0) 
+
+
+
+2,e,y 
+
+
+
+
+/.ew 
+
+
+
+Rotational TrequHncv " 
+
+
+
+Figure 5 Graphs of pump performance against rotational frequency 
+
+
+
+10 
+
+
+
+13 
+
+
+
+IS 10069 -.1992 
+ISO 4409: 198tJ 
+
+
+
+Test fluid : 
+
+Temperature at inlet: 
+Kinematic viscosity: 
+Density: 
+
+Capacity setting : 
+Effective outle-: pressure 
+
+
+
+
+^?,^,w 
+
+
+
+Effective inlet pressure of the motor 
+
+P2,e,w' 
+P2.ey- 
+
+
+
+> 
+O 
+
+
+
+
+2,e,w 
+
+
+
+'2.e,z 
+
+
+
+P?.. 
+
+
+
+-y 
+
+
+
+□. 
+
+o 
+
+
+
+P2. 
+
+
+
+e,x 
+
+
+
+'^2,e,w 
+
+
+
+Rotational frequency, « 
+
+
+
+Figure 6 — Graphs of motor performance against rotational frequency 
+
+
+
+M 
+
+
+
+IS 10069 : 1992 
+ISO 4409 : 1 98^ 
+
+
+
+1 
+
+
+
+
+Output rotational frequency, nj 
+
+
+
+Figure 7 — Integra) transmission performance 
+
+
+
+12 
+
+
+
+(S 10069: 1992 
+(SO 4409 -.1981 
+
+
+
+Annex A 
+
+
+
+Use of practical units 
+
+
+
+A.I Practical units 
+
+The results of tests in either tabular or graphical form may be 
+presented using the practical units as given in table 4. 
+
+Table 4 — Practical units 
+
+
+
+Quantity 
+
+
+
+Symbol 
+
+
+
+Volume flow rate 
+
+
+Qv 
+
+
+l/min 
+
+
+Rotational frequency 
+
+
+n 
+
+
+min-i 
+
+
+Torque 
+
+
+T 
+
+
+Nm 
+
+
+Pressure 
+
+
+P 
+
+
+bar 
+
+
+Power 
+
+
+P 
+
+
+kW 
+
+
+Mass density 
+
+
+e 
+
+
+kg/I 
+
+
+Isothermal secant 
+
+
+
+
+
+
+bulk modulus 
+
+
+Kr 
+
+
+bar** 
+
+
+Kinematic viscosity 
+
+
+V 
+
+
+mm2/s (cSt) 
+
+
+Temperature 
+
+
+e 
+
+
+"C 
+
+
+Total efficiency* 
+
+
+n 
+
+
+- 
+
+
+
+Practical unit 
+
+
+
+* Efficiency may also be stated as a percentage. 
+•* 1 bar = 105 Pa 
+
+
+
+A.2.2 Hydraulic power (see 3.5.2, 3.5.3 and 3.5.4), in 
+kilowatts 
+
+
+
+Ph = 
+
+
+
+P5,h = 
+
+
+
+QV P 
+600 
+
+
+
+'2,e 
+
+
+
+600 
+
+
+
+
+
+
+A.2.3 Pump overall efficiency {see 3.6.1), as a percentage 
+
+
+
+P ■" '^2.e 
+
+nt = 
+
+
+
+^Qv.-PZel - f'?K, •Z'l.e) 
+
+
+
+271 nT 
+
+
+
+X 104 
+
+
+
+A.2.4 Motor overall efficiency (see 3.6.2), as a percentage 
+
+
+
+A. 2 Calculation 
+
+In order to present results in practical units as given in table 4 
+the formulae fliven in this International Standard shall be 
+modified as follows: 
+
+A.2.1 Mechanical power (see 3.5.1), in kilowatts 
+
+2n nT 
+
+
+
+P^ = 
+
+
+
+60 000 
+
+
+
+2n nT 
+
+
+
+It 
+
+
+
+<'7Ki, -Pl.e) - (^ P'2.e ■ '"2,e) 
+
+
+
+A. 2.5 Integral transmission overall efficiency (see 
+3.6.3), as a percentage 
+
+
+
+T "2 ■ 7^2 
+
+ni = — X 100 
+
+
+
+13 
+
+
+
+rS 10069 : 1992 
+ISO 4409 : 198-B 
+
+
+
+Annex B 
+
+
+
+Errors and classes of measurement accuracy 
+
+
+
+NOTE - The conients of this annex are under review and may be subject to amendment In the future. 
+
+
+
+B.I Classes of measurement accuracy 
+
+Depending on the accuracy required, ihe test shall be carried 
+out to cne of three classes of measurement accuracy, A, B or 
+C, as agreed between the parties concerned. 
+
+NOTES 
+
+1 Classes A and B are intended for special cases when there is a need 
+to have the performance more precisely defined. 
+
+2 Attention ps drawn to the fact that class A and B tests require more 
+accurate apparatus and methods, which increases the cost of such 
+tests- 
+
+
+
+B.2 Errors 
+
+Any device or method shall be used which, by calibrafion or 
+comparison with International Standards, has been proven to 
+be capable of measuring witfi systematic errors not exceeding 
+the limits given in table 5, 
+
+
+
+NOTE — The percentage limits given in table 5 appiy to the value of thft 
+quantity being measured and not to the maximum values of the tesi o( 
+the maximum reading of the instrument. 
+
+
+
+B.3 Combmation of errors 
+
+When calculations of power or efficiency are made, the com 
+bination of errors involved in the calculation may be deterniineci 
+by the root mean square method. 
+
+
+
+Example: 
+
+
+
+sn 
+
+
+
+5^, _ , / (^'^y] 
+
+
+
+Sp 
+
+p 
+
+
+
+(7)'-(7) 
+
+
+
+The systematic errors used above, dqy. Sp, Sn, and ST , are 
+the systematic errors of instruments and not the maximum 
+values given in table 5. For more precise summation of errors, 
+refer to Vocabulary of Legal Metrology ~ Fundamental Terms, 
+published by the International Organization of Legal Metrology 
+
+
+
+Table 5 — Permissible systematic errors of 
+
+measuring instruments as determined 
+
+during calibration 
+
+
+
+
+
+Permissible systematic 
+
+
+Parameter of 
+
+
+errors for classes of 
+
+
+measuring instrument 
+
+
+measurement accuracy 
+
+
+
+
+ABC 
+
+
+f-lotationai freqijoncy, % 
+
+
+10.5 1 *1,0 +2,0 
+
+
+Torque, % 
+
+
+±0,5 i t1,0 1 t2,0 
+
+
+Vyh.jme flow rate, "■f. 
+
+
+i0,5 ±1,5 t2,5 
+
+
+F'rfisurc;., wlierK p < 
+
+
+
+
+? ha- gauge, bar 
+
+
+J (t.Ol +0,03 j t0,05 
+
+
+Pre j,'<iirH;i. where ;■> ;» 
+
+
+1 [ 
+
+
+'? li.-ir gauge. % 
+
+
+1 Ofi i i 1,5 ! .12,5 
+
+' « 1 
+
+
+Teriipefciiufe. "C 
+
+
++ 0,b ! ,'10 1 i?0 
+
+
+^^■^wf<r mwchantcoi), "-'o 
+
+
+! i i 
+
+
+(;,.X'fj2.8.!i 
+
+
+t 4,0 
+
+
+
+14 
+
+
+
+rS 10069 : 1992 
+
+ICO AAi\(l 4 00*11 
+
+
+
+Annex C 
+
+
+
+Pre-test checklist 
+
+
+
+The following list constitutes a checklist for the selection of 
+appropriate items upon which agreement is recommended be- 
+tween the parties concerned prior to testing 1': 
+
+a) manufacturer's name; 
+
+b> manufacturer's identification (type No., serial No.); 
+
+c) manufacturer's description of component; 
+
+d) direction of rotation of shaft(s) (see 3.2); 
+
+e) test circuit (see 5.1 or 5.2); 
+
+f) manufacturer's installation requirements (see 5.3.2); 
+
+g) filtration equipment used in test (see 5.4); 
+
+h) position of pressure tapping points and use of pipe 
+losses in calculation (see 5.5.1); 
+
+i) pre-test condition (see 6.1.1); 
+
+j) test fluid (by name and description) (see 6.1.2.1); 
+
+k) kinematic viscosity of test fluid at test temperature (see 
+6.1.2.2); 
+
+I) mass density of test fluid at test temperature (see 
+6.1.2.2); 
+
+m) isothermal secant bulk modulus of test fluid (see 
+6.1.2.3); 
+
+
+
+n) coefficient of cubic thermal expansion of test fluid (see 
+6.1.2.3); 
+
+o) temperature of test fluid during test (see 6. 1 .3. 1 ) ; 
+
+p) maximum permissible casing pressure (see 6.1.5); 
+
+q) inlet pressure for a pump (see 6.2.1); 
+
+r) rotational frequencies for test (see 6.2.2, 6.3.2 and 
+6.4.1); 
+
+s) test pressure values (see 6.2.2, 6.3.2 and 6.4.1); 
+
+t) oercentage capacities for variable displacement (see 
+6.2.3 and 6.3.3); 
+
+u) requirement for reverse flow (see 6.2.4); 
+
+v) boost pump information (see 6.2.5, 6.2.6, 6.2.7 and 
+6.4.2); 
+
+w) outlet pressure for a motor (see 6.3.1); 
+
+x) requirement for reverse rotation (see 6.3.4 and 6.4.3); 
+
+y) expression of results (see 6.5 and annex A); 
+
+z) class of measurement accuracy (see annex B). 
+
+
+
+1) It will not always be necessary to agree upon all these Items. 
+
+
+
+15 
+
+
+
+Printed at Dee Kay Printers, New Delhi, India 
+
+
+
+Standard Mark 
+
+The use of the Standard Mark is governed by the provisions of the Bureau of Indian 
+Standards Act, 1986 and the Rules and Regulations made thereunder. The Standard Mark 
+on products covered by an Indian Standard conveys the assurance that they have been 
+produced to comply with the requirements of that standard under a well defined system 
+of inspection, testing and quality control which is devised and supervised by BIS and 
+operated by the producer. Standard marked products are also continuously checked by 
+BIS for conformity to that standard as a further safeguard. Details of conditions under 
+which a licence for the use of the Standard Mark may be granted to manufacturers or 
+producers may be obtained from the Bureau of Indian Standards. 
+
+
+
+Bureau of Indian Standards 
+
+BIS is a statutory institution established under the Bureau of Indian Standards Act, 1986 to 
+promote harmonious development of the activities of standardization, marking and qtiality 
+certification of goods and attending to connected matters in the country. 
+
+Copyright 
+
+BIS has the copyright of all its publications. No part of thes; publications may be reproduced 
+in any form v/ithout the prior permission in writing oiBlS. This does not preclude the free use, 
+in the course of implementing the standard, of necessary details, such as symbols and sizes, type 
+or grade designations. Enquiries relating to copyright be addressed to the Director 
+( Publications ), BIS. 
+
+Revision of Indian Standards 
+
+Amenc'ments are issued to standards as the need arises on the basis of comments. Standards 
+are also revitA'ed periodically; a standard along wiih amendments is reaffirmed when such review 
+indicates that no changes are needed; if the review indicates that changes are needed, it is taken 
+up for revision. Users of Indian Standards should ascertain that thty are in possession of the 
+latest amendments or editian by referring to the latest issue of 'BIS Handbook and 'Standards 
+Monthly Additions'. Comments on this Indian Standard may be sent to BIS giving the following 
+reference: 
+
+Doc : No. PE 15 ( 5376 ) 
+
+Amendments Issued Since Publication 
+
+Amend No. Date of Issue Text Affected 
+
+
+
+BUREAU OF INDIAN STANDARDS 
+
+Headquarters: 
+
+Manak Bhavan, 9 Bahadur Shah Zafar Marg, New Delhi 110002 
+
+Telephones : 33! 0! 31, 331 13 75 Telegrams : Manaksanstha 
+
+( Common to all Offices ) 
+
+Regional Offices : Telephone 
+
+Central : Manak Bhavan, 9 Bahadur Shah Zafar Marg f331 01 31 
+
+NEW DELHI 110002 1331 13 75 
+
+Eastern : !/14 C. I. T. Scheme VII M, V. I. P. Road, Maniktola C37 84 99, 37 85 61 
+
+CALCUTTA 700054 (37 86 26. 37 86 62 
+
+53 38 43, 53 16 40 
+
+
+
+1 
+
+Northern : SCO 445-446, Sector 35-C, CHANDIGARH 160036 i 
+
+
+
+53 23 84 
+
+
+
+Southern : C. I. T. Campus, IV Cross Road, MADRAS 6001 13 
+
+
+
+235 02 16, 235 04 42 
+235 15 19, 235 23 15 
+
+
+
+Western : Manakalaya, E9 MIDC, Marol, Andheri ( East ) f632 92 95, 632 78 58 
+
+BOMBAY 400093 (632 78 91, 632 78 92 
+
+Branches : AHMADABAD. BANGALORE. BHOPAL. BHUBANESHWAR. COIMBATORE. 
+FARIDABAD. GHAZIABAD. GUWAHATI. HYDERABAD. JAIPUR. KANPUR. 
+LUCKNOW. PATNA. THIRUVANANTHAPURAM. 
+
+
+
+Printed at Printwell Printers, Atigarh. India 
+
+
+

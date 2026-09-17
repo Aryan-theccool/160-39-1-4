@@ -1,0 +1,359 @@
+**************** 
+
+
+
+
+Disclosure to Promote the Right To Information 
+
+Whereas the Parliament of India has set out to provide a practical regime of right to 
+information for citizens to secure access to information under the control of public authorities, 
+in order to promote transparency and accountability in the working of every public authority, 
+and whereas the attached publication of the Bureau of Indian Standards is of particular interest 
+to the public, particularly disadvantaged communities and those engaged in the pursuit of 
+education and knowledge, the attached public safety standard is made available to promote the 
+timely dissemination of this information in an accurate manner to the public. 
+
+
+
+
+Mazdoor Kisan Shakti Sangathan 
+"The Right to Information, The Right to Live'' 
+
+
+
+IS 10000-9 (1980) : Methods of tests for internal combustion 
+engines. Part 9: Endurance tests [TED 2: Automotive 
+Primemovers] 
+
+
+
+
+Jawaharlal Nehru 
+'Step Out From the Old to the New" 
+
+
+
+aj^&vi iJii^s:y%K^ isb^^ni^seg 
+
+
+
+:<>5&i| mT'5K^5?::5:^>^i»l 
+
+
+
+K^^^iXSVCd^ 
+
+
+
+Satyanarayan Gangaram Pitroda 
+Invent a New India Using Knowledge 
+
+
+
+Bhartrhari — Nitisatakam 
+''Knowledge is such a treasure which cannot be stolen" 
+
+
+
+
+^'^^^r 
+
+
+
+k 
+
+
+
+
+BLANK PAGE 
+
+
+
+^*-^^^ 
+
+
+
+
+
+PROTECTED BY COPYRIGHT 
+
+
+
+UDC 621M3-018:620-I6a'i (First Reprint JULY 1988) IS : 10000 ( Part IX)- 1980 
+
+
+
+Indian Standard 
+
+METHODS OF TESTS FOR 
+INTERNAL COMBUSTION ENGINES 
+
+PART !X ENDURANCE TESTS 
+
+
+
+( Reaffirmed 2006 ) 
+
+
+
+1- Scope — Specifies the method of conducting endurance tests on constant speed and variable 
+speed internal combustion engines. 
+
+2. Section I — Endurance Tests for Constant Speed Engines ~ These tests shall be performed 
+after the initial performance tests specified in 13:10000 (Part Vill)-1980 'Methods of tests for 
+internal combustion engines; Part VIII Performance tests '. 
+
+2.1 After completion df the initial performance test the engine shall be run for 32 cycles ( each of 
+16 hours continuous running ) at rated speed. 
+
+2.1.1 Test cycle for IS Rating A 
+
+Load ( Percent of Rated Load ) Running Time (Hours ) 
+
+100 4 (Including warm-up 
+
+period of 0'5 h ) 
+
+50 4 
+
+110 1 
+
+No load (Idling) 0'5 
+
+100 3 
+
+50 3 5 
+
+2.1.2 Test cycle for IS Rating B 
+
+Load ( Percent of Rated Load ) Running Time ( Hours ) 
+
+100 4 ( including warm-up 
+
+period of 0'5 h ) 
+
+50 4 
+
+100 1 
+
+No load (Idling) 0*5 
+
+100 3 
+
+50 35 
+
+2.2 At' the end of each 16 hours cycle, the engine shall be stopped and necessary servicing and 
+minor adjustments may !be carried out in accordance with the manufacturer's schedule. 
+
+2.3 Before starting the next cycle, the temperature of the engine sump oil shall have reached within 
+5 K of the room temperature. 
+
+2.4 The engine shall be topped up with engine oil, if required and the quantity consumed recorded. 
+In case the duration of the endurance test is longer than the period of oil change recommended by 
+the engine manufacturer, the oil shall be changed according to the manufacturer's recommended 
+schedule. The amount of make up oil used during the tests shall be used to establish the 
+lubricating oil consumption rate. 
+
+
+
+Adopted 31 December 1980 
+
+
+
+@May 1981, BIS 
+
+
+
+Gr 2 
+
+
+
+BUREAU OF INDIAN STANDARDS 
+
+MANAK BHAVAN, 9 BAHADUR SHAH 2AFAR MARG 
+
+NEW DELHI 110002 
+
+
+
+IS : 10000 ( Part iX)- 1980 
+
+2.5 If the engine needs to be stopped during any cycle for any minor attention, the running time of 
+that cycle shall not be counted as part of the test and the cycle shall be recommenced. In case of 
+power breakdown or breakdown of testing equipment, the test cycle shall not be scrapped and the 
+remaining cycle time shall be completed on resumption of power or repair of test equipment, as 
+the case may be. In case of a major breakdown the entire test shall be repeated from the beginn- 
+ing on another engine. For this purpose a minor breakdown is one which requires normal service 
+adjustments and replacements as recommended by the manufacturer and a major breakdown is one 
+which requires complete overhaul and changing of parts not covered by normal service adjustments 
+and replacements. The major breakdown will also mean the breakdown or replacement of any of 
+the critical components of the engine listed in 15:10000 (Part VJ )-1980 'Methods of tests for 
+internal combustion engines: Part Vi Recording of test results'. 
+
+2.6 During the endurance tests, periodic checks shall be made of the fuel and oil and they shall 
+conform to the specifications of the manufacturers. 
+
+3. Section II — 100 Hour Test for Variable Speed Engines 
+
+3.1 Test Procedure — The test shall be conducted after the initial performance test and the speed 
+limiter or governor check as specified in IS : 10000 ( Part VIII )-l980. The test shall last for a total 
+of 100 hours running time and shall consist of non-stop running periods of 10 hours duration with 
+not less than 2 hours stoppage between consecutive running periods. 
+
+3.2 Each running period shall consist of five cycles of two hours duration made up fof the following 
+sequence of engine running conditions: 
+
+a) 50 minutes at 75 percent of full load at the declared maximum speed; 
+
+b) 45 minutes at full load at speed corresponding to maximum torque; 
+
+c) 5 minutes at idling; and 
+
+d) 20 minutes at full load at declared maximum speed. 
+
+3.3 During the tests, lubricating oil recommended by the manufacturer shall be used. 
+
+3.4 Before starting the next cycle the engine shall have reached within 5 K of the room temperature. 
+
+3.5 Results of the Test — The above results corrected to standard reference conditions shall be 
+plotted on a time scale in accordance with IS : 10000 ( Part VI )-1980. 
+
+3.6 The corrected power and the corrected torque shall at no time fall by more than 5 percent of 
+the initial readings ( at corresponding speeds ) for more than two consecutive readings. 
+
+3.7 The corrected specific fuel consumption shall at no time increase by more than 5 percent above 
+the initial performance test values. 
+
+3.8 A maximum of two interruptions to correct any fault and mal-adjustment shall be permitted 
+during the full duration of the test. The nature of such adjustments shall be recorded. 
+
+3.9 If the engine needs to be stopped during any cycle for any minor attention, the running time of 
+that cycle shall not be counted as part of the test and the cycle shall be recommenced, in case of 
+power breakdown or breakdown of testing equipment, the test cycle shall not be scrapped and the 
+remaining cycle time shall be completed on resumption of power or repair of test equipment as the 
+case may be. In case of a major breakdown the entire test shall be repeated from the beginning on 
+another engine. For this purpose a minor breakdown Is one which requires normal service 
+adjustments and replacements as recommended by the manufacturer and a major breakdown is one 
+which requires complete overhaul and changing of parts not covered by normal service adjustments 
+and replacements. The major breakdown will also mean the breakdown or replacement of any of 
+the critical components of the engine listed in IS : 10000 ( Part VI )-1980. 
+
+3.10 During the endurance tests, periodic checks shall be made of the fuel and oil. The oil shall 
+conform to the specifications of the manufacturer. 
+
+
+
+IS: 10000 (Part IX) -1980 
+
+EXPLANATORY NOTE 
+
+The testing and performance of constant speed and variable speed internal combustion 
+engines was earlier covered by the following Indian Standards; 
+
+i) 15:1600-1960 'Code for type testing of constant speed internal combustion engines for 
+general purposes ' 
+
+ii) 15:1601-1960 'Performance of constant speed internal combustion engines for general 
+purposes ' 
+
+iil) 15:1602-1960 'Code for type testing of variable speed internal combustion engines for 
+automotive purposes ' 
+
+iv) 15:1603-1960 ' Performance of variable speed internal combustion engines for automotive 
+purposes ' 
+
+These standards were originally issued in the year 1960 and as a result of implementation of 
+these standards by the manufacturers of engines and testing laboratories, as also the operation of 
+151 Certification Marking Scheme, these standards have now been extensively revised. 
+
+While IS : 1600 and IS : 1602 covered the codes for type testing of constant and variable speed 
+engines respectively, the performance requirements of such engines were covered by IS: 1601 and 
+IS : 1603 respectively. These standards are replaced by two sets of standards, one set covers the 
+methods of testing of engines and the other covers the specification and performance requirements 
+of both constant speed and variable speed engines. 
+
+The standard covering methods of tests for Internal combustion engines is being published 
+in the following 12 parts (each part covering a particular test method or Information related to 
+methods of tests): 
+
+i) IS : 10000 (Part I ) Glossary of terms relating to test methods 
+
+ii) IS : 10000 ( Part II ) Standard reference conditions 
+
+ill) IS : 10000 ( Part III ) Measurements for testing, units and limits of accuracy 
+
+iv) IS : 10000 ( Part IV ) Declarations of power, efficiency, fuel consumption and lubricating oil 
+consumption 
+
+v) IS : 10000 ( Part V ) Preparation for tests and measurements for wear 
+
+vi) IS : 10000 ( Part VI ) Recording of test results 
+
+vii) IS : 10000 ( Part Vlf ) Governing tests for constant speed engines and selection of engines 
+for use with electrical generators 
+
+viii) 15:10000 (Part VIII) Performance tests 
+
+ix) IS : 10000 ( Part IX ) Endurance tests 
+
+x) IS: 10000 (Part X ) Tests for smoke levels, limits and corrections for smoke levels for varia- 
+ble speed engines 
+
+xi) IS : 10000 ( Part XI ) Information required with inquiry or order and information supplied by 
+the manufacturer with the engine 
+
+xii) IS : 10000 ( Part XII ) Test certificates 
+
+This standard will be complementary to specifications for performance requirements of 
+different types of engines covered by the following standards: 
+
+1) 15:10001 Specification for performance requirements for constant speed compression 
+ignition ( diesel ) engines for general purposes ( up to 20 kW ) 
+
+ii) IS : 10002 Specification for performance requirements for constant speed compression 
+Ignition (diesel ) engines for general purposes ( above 20 kW ) 
+
+
+
+IS 1 10000 (Part IX) -1980 
+
+iii) 13:10003 Specification for performance requirements for variable speed corfipression 
+ignition ( diesel ) engines for automotive purposes 
+
+iv) 13:10004 Specification for performance requirements for variable speed spark ignition 
+engines for automotive purposes 
+
+Spark ignition engines for sprayers and similar applications have been covered by 13:7347- 
+1974 * Specification for performance requirements of small size spark ignition engines for sprayers *. 
+
+Two stroke spark ignition engines for automotive applications wliich were earlier covered by 
+IS: 1603 will be covered by a separate specification. 
+
+The revised methods of tests covered by 13:10000 have been aligned with the current inter- 
+national practices in the field of I.C. engines. These parts are in general agreement with the 
+following ISO standards — issued by the international Organization for Standardization: 
+
+a) ISO 3046/1-1975 Reciprocating internal combustion engines — Performance: Part I Standard 
+
+reference conditions and declarations of power, fuel consumption and 
+lubrication oil consumption 
+
+b) ISO 3046/11-1977 Reciprocating internal combustion engines — Performance: Part II Test 
+
+methods 
+
+c) ISO 3046/111-1979 Reciprocating internal combustion engines — Performance: Part III Test 
+
+measurements 
+
+d) ISO 2710-1978 Reciprocating internal combustion engines — Vocabulary 
+
+13:10000 (Part I to Part XII) and 15:10001, 18:10002, 15:10003 and 15:10004 collectively 
+supersede IS : 1600, 18:1601, 18: 1602 and 13:1603. 
+
+
+
+Reprography Unit, BIS, New Delhi, India 
+
+
+

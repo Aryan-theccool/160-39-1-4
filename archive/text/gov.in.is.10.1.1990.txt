@@ -1,0 +1,1090 @@
+**************** 
+
+
+ic  ts^ 
+
+
+^n^^^^ 
+
+
+Disclosure  to  Promote  the  Right  To  Information 
+
+Whereas  the  Parliament  of  India  has  set  out  to  provide  a  practical  regime  of  right  to 
+information  for  citizens  to  secure  access  to  information  under  the  control  of  public  authorities, 
+in  order  to  promote  transparency  and  accountability  in  the  working  of  every  public  authority, 
+and  whereas  the  attached  publication  of  the  Bureau  of  Indian  Standards  is  of  particular  interest 
+to  the  public,  particularly  disadvantaged  communities  and  those  engaged  in  the  pursuit  of 
+education  and  knowledge,  the  attached  public  safety  standard  is  made  available  to  promote  the 
+timely  dissemination  of  this  information  in  an  accurate  manner  to  the  public. 
+
+
+Mazdoor  Kisan  Shakti  Sangathan 
+"The  Right  to  Information,  The  Right  to  Live" 
+
+
+Jawaharlal  Nehru 
+'Step  Out  From  the  Old  to  the  New" 
+
+
+IS  10-1  (1990):  Plywood  Tea-Chests:  Part-1  General  [CED  9: 
+Timber  and  Timber  Stores] 
+
+
+A 
+
+
+Satyanarayan  Gangaram  Pitroda 
+Invent  a  New  India  Using  Knowledge 
+
+
+Rhartrbari — Nitisatakam  ^- ''"^ 
+
+
+Bhartrhari — Nitisatakam 
+"Knowledge  is  such  a  treasure  which  cannot  be  stolen" 
+
+
+^^^v^ 
+
+
+BLANK  PAGE 
+
+
+.^fcyg- 
+
+
+^^ 
+
+
+'j*> 
+
+
+PROTECTED  BY  COPYRIGHT 
+
+
+IS10  (  Parti  ):1990 
+
+( Reaffirmed  2005 ) 
+
+(  qt^t  'T^fV^T^  ) 
+
+Indian  Standard 
+PLYWOOD  TEA-CHESTS  —  SPECIFICATION 
+
+PART1  GENERAL 
+
+(  Fifth  Revision  ) 
+
+UDC    621-788123[  674 -419-32:  663-951 
+
+
+©  BIS  1991 
+
+BUREAU    OF    INDIAN    STANDARDS 
+
+MANAK    BHAVAN,    9    BAHADUR    SHAH    ZAFAR     MARG 
+NEW  DELHI  11C002 
+
+jrebruary  1991  P""  Group  3 
+
+
+Timber  Stores  Sectional  Committee,  CED  33 
+
+
+JS  No. 
+
+10  (  Part  1  )  : 
+
+:  1976 
+
+10  (  Part  2  )  : 
+
+1976 
+
+10  (  Part  3  )  : 
+
+1974 
+
+10  (  Part  4  )  : 
+
+1976 
+
+FOREWORD 
+
+This  Indian  Standard  (  Part  1  )  (  Fifth  Revision  )  was  adopted  by  the  Bureau  of  Indian  Standards 
+on  23  March  1990,  after  the  draft  finalized  by  the  Timber  Stores  Sectional  Committee  had  been 
+approved  by  the  Civil  Engineering  Division  Council. 
+
+IS  10  :  1970  covered  provisions  relating  to  different  components  of  plywood  tea-chest.  In  its 
+fouith  revision  it  was  published  in  the  following  five  parts: 
+
+Title 
+
+Specification  for  plywood  tea-chests:  Part  1  General  {fourth  revision  ) 
+
+Specification  for  plywood  tea-chests:  Part  2  Plywood  {fourth  revision  ) 
+
+Specification  for  plywood  tea-chest:  Part  3  Battens  {fourth  revision  ) 
+
+Specification  for  plywood  tea-chest:  Part  4  Metal  fittings  {fourth  revision  ) 
+
+10  (  Part  5  )  :  1976        Specification  for  plywood  tea-chest:  Part   5   Assembly  and  packing  {fourth 
+revision  ) 
+
+In  this  fifth  revision  of  Part  1  Amendments  No.  1  to  3  are  incorporated  and  the  standard  is  updated 
+as  a  result  of  the  experience  gained  by  its  implementation  by  tea-chest  industry  and  the  testing 
+laboratories.  The  methods  of  tests  for  end  compression  test  and  drop  test  and  their  reporting 
+have  been  elaborately  revised  with  reference  to  the  methods  given  for  the  testing  of  transport 
+packages  in  IS  7028  (Part  4  )  :  1987  'Peifoimance  test  for  complete,  filled  transport  packages  :  Part  4 
+Vertical  impact  drop  test  {first  revision  )'  and  IS  7028  (  Part  6  )  :  1973  'Performance  test  for  complete 
+filled  transport  packages:  Part  6  Compression  test'  respectively  which  are  based  on  ISO  standards. 
+
+In  the  formulation  of  this  standard  due  weightage  has  been  given  to  international  coordination 
+among  the  standards  and  practices  prevailing  in  different  countries  in  addition  to  relating  it  to  the 
+practices  in  the  field  in  this  country. 
+
+For  the  purpose  of  deciding  whether  a  particular  requirement  of  this  standard  is  complied  with, 
+the  final  value,  observed  or  calculated,  expressing  the  result  of  a  test  or  analysis,  shall  be  rounded 
+off  in  accordance  with  IS  2  :  1960  'Rules  for  rounding  off  numerical  values  (  revised  )'.  The  number 
+of  significant  places  retained  in  the  rounded  off  value  should  be  the  same  as  that  of  the  specified 
+value  in  this  standard. 
+
+
+IS  10  (  Part  1 )  :  1990 
+
+Indian  Standard 
+PLYWOOD  TEA-CHESTS  —  SPECIFICATION 
+
+
+PART  1     GENERAL 
+
+
+(  Fifth  Revision  ) 
+
+
+1  SCOPE 
+
+1.1  This  Indian  Standard  (  Part  1  )  covers  mate- 
+rials, standard  sizes,  design,  tare  and  tests  for 
+plywood  tea-chests. 
+
+2  REFERENCES 
+
+2.1  The  standards  listed  in  Annex  A  are  neces- 
+sary adjuncts  to  this  standard. 
+
+3  TERMINOLOGY 
+
+3.1  For  the  purpose  of  this  standard,  the  defini- 
+tions given  in  IS  707  :  1976  shall  apply. 
+
+4  IVIATERIAL 
+
+4.1  Battens 
+
+Battens  shall  conform  to  IS  10  (  Part  3  )  :  1974. 
+
+4.2  Plywood 
+
+Plywood  panels  shall  conform  to  IS  10  ( Part  2 )  : 
+1976. 
+
+4.3  Fittings 
+
+Metal  fittings  shall  conform  to  IS  10  (  Part  4  )  : 
+1990. 
+
+4.4  Batten  Covers 
+
+Tissue  paper  shall  be  used  as  cover  for  battens 
+in  the  assembled  tea-chest. 
+
+4.5  Linings 
+
+Any  of  the  following  lining  materials  may  be 
+used: 
+
+a)  Aluminium  foil  of  0  020  ±  0  002  mm 
+interlined  with  tissue  paper; 
+
+b)  Aluminium  foil  of  0  009  ±  0001  mm 
+laminated  with  20  to  30  g/m»  paper 
+conforming  to  IS  8970  :  1978; 
+
+c)  Cellulose  film  of  0-022  mm  ±  10  percent 
+conforming  to  grade  300  coated  with  poly- 
+vinylidene  chloride  (  PVDC  )  or  nitrocel- 
+lulose lacquer  of  IS  5012  :  1987. 
+
+d)  Metallized  polyester  film  of  minimum 
+thickness  12  micron  {0'012  mm  )  and  con- 
+forming to  the  following  requirements: 
+
+SI  Characteristic  Requirement     Method  of  Test 
+No. 
+
+i)   Tensile   stren-    2  060  N/m     12.3   of  IS  1060 
+gth,  Min  (  Part  1  )  :  1966 
+
+ii)  Puncture  stren-     1-42  N.m   9  of  IS  4006 
+gth,  Min  (  Part  2  )  :  1985 
+
+
+SI    Characteristic  Requirement    Method  of  Test 
+No. 
+
+iii)  Water    vapour  5  g/mV24  h  14  of  IS  1060 
+permeability  at  (  Part  2  )  :  1960 
+
+38  +  l°C  and 
+90  ±  2  percent 
+RH,  Max 
+
+
+iv)  Water    absorp-  1  percent 
+tion  24  h,  Max 
+
+
+v)  Toxicity 
+
+
+Non-toxic 
+
+
+A  weighed  sample 
+shall  be  immersed 
+in  distilled  water 
+at  27  ±  rC  for  a 
+period  of  24  h 
+and  the  same 
+shall  be  reweighed 
+after  removing  the 
+surface  water. 
+From  the  weight 
+gain  so  obtained, 
+percentage  water 
+absorption  shall 
+be  calculated. 
+
+Toxicity  shall  be 
+tested  by  prepa- 
+ration of  film 
+extracts  and  sys- 
+temic administra- 
+tion to  laboratory 
+animals  and  im- 
+plantation of 
+polyester  film  in 
+the  muscles  of 
+rabbits.  No  mor- 
+tality or  any  other 
+signs  of  toxicity 
+shall  be  observed. 
+
+Unaffected  The  film  shall  be 
+and  stable  exposed     to    the 
+on  storage  temperature       as 
+at  130°C      stated  for  a  peri- 
+od of  6  weeks  and 
+subjected  to  tests 
+stated  under  4{C) 
+and  4(D).     There 
+shall  be  no  vari- 
+ation in   the  pro- 
+perty of  the  film. 
+4.6  Nails 
+
+Nails  used  for  corner,  top  and  bottom  of  tea- 
+chest  shall  be  slat  nails  (see  IS  723  :  1972  ). 
+
+5  DESIGN  OF  TEA-CHEST 
+
+5.1  The  tea-chest  shall  be  assembled  as  indicated 
+in  Fig.  1  from  six  panels  of  plywood  forming  a 
+shook  and  12  battens  together  with  other  acces- 
+sories specified  in  Table  1. 
+
+
+vi)  Thermal  stabi- 
+lity range 
+
+
+1 
+
+
+IS  10  (  Part  1  )  :  1990 
+
+
+Fig.  1  Tea-Chest 
+
+6  SIZES 
+
+6.1  Tea-chests  shall  be  of  any  of  the  following 
+sizes  the  dimensions  as  given  may  be  the  outside 
+dimensions  of  tea-chest: 
+
+Length  Width  Height 
+
+L  W  H 
+
+mm  mm  mm 
+
+400  500  600 
+
+480  480  600 
+
+480  480  560 
+
+460  460  500 
+
+400  400  600 
+
+400  400  500 
+
+400  400  450 
+
+6.1.1  Any  other  sizes  as  agreed  to  between  the 
+manufacturer  and  the  purchaser  shall  be  permit- 
+ted provided  the  dimensions  do  not  exceed  the 
+maximum  as  specified  in  6,1: 
+
+NOTE  —  For  export  of  tea-chest  shooks  only,  tea- 
+chests  with  the  following  dimensions  may  be  per- 
+mitted: 
+
+a)  490  mm  x  490  mm  x  610  mm, 
+
+b)  410  mm  x  510  mm  x  610  mm,  and 
+
+c)  410  mm  x  410  mm  x  610  mm. 
+
+6.1.2  For  packing  instant  tea,  the  following  size 
+of  tea-chest  may  also  be  permitted  in  addition  to 
+the  sizes  mentioned  under  6.1: 
+
+380  mm  X  685  mm  X  845  mm 
+
+6.1.2.1  The  tea-chest  of  size  mentioned  in  6.1.2, 
+used  for  packing  instant  tea,  shall  conform  to 
+the  provisions  laid  down  iii  Table  1. 
+
+7  TARE 
+
+7.1  Maximum   Permitsible   Mass   of  Empty 
+Tea- Chest 
+
+The  mass  of  tea-chest  when  empty  shall  be  not  a)  the  contents  begin  to  spill  freely,  or 
+
+
+more  than  the  maximum  prescribed  for  it  in  SI 
+No.  {  iv  )  of  Table  1. 
+
+7,1.1  The  mass  of  shocks  if  stipulated  in  the 
+purchase  agreement  shall  not  vary  from  the 
+agreed  mass  by  more  than  ±  3  percent- 
+
+7.2  Certificate  of  Tare 
+
+The  supplier  shall  state  in  the  despatch  document 
+(  challan  )  for  each  consignment  the  tare  of  the 
+tea-chests. 
+
+7.2.1  The  mass  of  tea-chest  shall  not  vary  by  more 
+than  ±10  percent  of  the  mass  as  stated  in  the 
+certificate  of  tare  and  shall  not  exceed  the  maxi- 
+mum specified  in  Table  1. 
+
+7.2.2  The  supplier  shall  also  indicate  in  the 
+despatch  document  (  challan  )  for  each  consign- 
+ment the  species  of  timber  used  for  plywood  and 
+battens  separately  and  the  size  of  tea-chests. 
+
+8  TYPE  APPROVAL  TESTS  FOR 
+TEA-CHESTS 
+
+5.1  End  Compression  Test 
+
+8.1.1  Five  tea-chests  of  the  size  480  mm  x 
+480  mm  X  600  mm  assembled  in  accordance  with 
+Part  5  of  this  standard  shall  be  fully  packed  with 
+dry  saw  dust  weighing  50  kg.  The  tea-chests  shall 
+be  conditioned  at  a  temperature  of  27  ±  2°C 
+and  RH  65  ±  5%  for  48  hours.  The  filled  tea- 
+chests  shall  be  subjected  to  end  compression  test 
+in  vertical  position,  as  per  IS  :  7028  (  Part  6  )  : 
+1973.  The  maximum  compression  load  under 
+which  the  tea-chest  starts  bulging  and  permanent 
+depression  appears  on  the  sides  shall  be  recorded 
+for  each  tea-chests.  The  average  of  the  com- 
+pression loads  at  which  the  tea-chests  fail  shall 
+be  not  less  than  50  kN.  Corresponding  figures 
+for  other  sizes  shall  be  subjected  to  agreement 
+between  the  purchaser  and  the  suppHer. 
+
+8.1.2  Alternative  Test 
+
+The  five  tea-chests  assembled  in  accordance  with 
+Part  5  of  this  standard,  shall  be  filled  with  the 
+saw  dust  and  conditioned  to  the  conditions  as 
+given  in  8.1.1  when  subjected  to  a  constant 
+compression  load  of  20  kN  and  maintained  un- 
+der the  same  condition  for  a  duration  of  3  hours 
+shall  show  no  visible  sign  of  deterioration. 
+Corresponding  figures  for  other  sizes  shall  be 
+subjected  to  agreement  between  the  purchaser 
+and  the  supplier. 
+
+8.2  Corner  Drop  Test 
+
+8.2.1  Five  tea-chests  assembled  and  conditioned 
+as  described  in  8.1.1  shall  be  tested  for  end  drop 
+test  as  per  method  given  in  IS  :  7028  (  Part  4  )  : 
+1987.  Each  tea-chest  shall  be  dropped  on  each 
+corner  from  progressively  increasing  heights 
+until  a  height  of  1  000  mm  is  reached.  The  star- 
+ting height  shall  be  150  mm  with  an  increment 
+of  150  mm  up  to  900  mm  and  the  final  increment 
+of  100  mm.  The  tea-chests  at  the  end  of  each 
+drop  shall  be  examined  for  any  failure.  The 
+tea-chests  shall  be  deemed  to  have  completely 
+failed  when: 
+
+
+Table  1  Accessories  of  Tea-Chest 
+
+(  C/flitJe  5-1,  6.1.2.1  andl.l  ) 
+
+
+IS  10  (  Part  1  )  :  1990 
+
+
+SI     Parts 
+No. 
+
+Location 
+
+i 
+
+Tea-Chest,  mm 
+
+400  X  500  X  600 
+
+4S0  X  480x600 
+
+480  X  480  X  560 
+
+460  X  460  X  500 
+
+400  X  400  X  600 
+
+400  X  400  X  500 
+
+400x400  X  450 
+
+3«0  X  685  X  845 
+
+(1)      (2) 
+
+(3) 
+
+(4) 
+
+(5) 
+
+(6) 
+
+(7) 
+
+(8) 
+
+(9) 
+
+(10) 
+
+(11) 
+
+'i)  Batten 
+covers 
+( tissue 
+paper) 
+
+Comeri. 
+TandB 
+
+4  pieces  SSO  mm  x  100  mm 
+4  pieces  480  mm  x  100  mm 
+4  pieces  380  mm  x  100  mm 
+
+4  pieces  550  mm  x  100  mm 
+8  pieces  460  mm  x  100  mm 
+
+4  pieces  S'lO  mm  x  100  mm 
+8  pieces  460  mm  x  100  mm 
+
+4  pieces  450  mm  x  100  mm 
+8  pieces  440  mm  x  100  mm 
+
+4  pieces  550  mm  X  100  mm 
+8  pieces  380  mm  x  100  mm 
+
+4  pieces  450'mm  x  100  mm 
+8  pieces  380  mm  x  100  mm 
+
+4  pieces  400  mm  x  100  mm 
+8  pieces  380  mm  x  100  mm 
+
+Not  applicable.  Instant  tea 
+shall  be    packed  in   poly- 
+ethylene inner  liners  (bags) 
+
+ii)  'Liniogs  Sides. 
+TandB 
+
+2  sheets  630  mm  X  495  mm 
+2  sheets  630  mm  x  395  mm 
+
+4  sheets  630  mm  x  475  mm 
+2  sheets  475  mm  x  475  mm 
+
+4  sheets  460  mm  x  100  mm 
+2  sheets  475  mm  x  475  mm 
+
+4  sheets  530  mm  x  455  mm 
+
+2  sheets  455  mm  x  455  mm 
+
+4  sheets  630  mm  x  395  mm 
+2  sheets  395  mm  x  395  mm 
+
+4  sheets  S30  mm  x  395  mm 
+2  sheets  395  mm  X  395  mm 
+
+4  sheets  480  mm  x  395  mm 
+2  sheets  395  mm  x  395  mm 
+
+2  sheets  395  mm  x  495  mm 
+
+iii)  Slating 
+nails 
+
+Comer, 
+TandB 
+
+216  pieces  25  mm  x  2  mm 
+distributed  as  follows: 
+
+232  pieces  25  mm  x  2  mm 
+distributed  as  follows: 
+
+208  pieces  25  mm  x  2  mm 
+distributed  as  follows: 
+64  for  4  corner  metals 
+112  for  8  top  and 
+bottom  metals 
+
+184  pieces  25  mm  x  2  mm 
+distributed  as  follows: 
+
+216  pieces  25  mm  x  2  nun 
+distributed  as  follows: 
+
+184  pieces  25  mm  x  2  mm 
+distributed  as  follows: 
+
+184  pieces  25  mm  x  2  mm 
+distributed  as  follows: 
+
+192  pieces  per    tea-chest 
+distributed  as  follows: 
+
+72  for  4  comer  metals 
+112  for  8  top  and 
+bottom  metals 
+
+88  for  4  corner  metals 
+112  for  8  top  and 
+bottom  metals 
+
+64  for  4  comer  metals 
+96  for  8  top  and 
+bottom  metals 
+
+88  for  4  corner  metals 
+96  for  8  top  and  bottom 
+metals 
+
+64  for  4  corner  metals 
+96  for  8  top  and  bottom 
+metals 
+
+64  for  4  corner  metals 
+96  for  8  top  and  bottom 
+metals 
+
+16  for  corner  of 
+38  mm  x  2  mm  size 
+
+24  for    fixing  8  top  and 
+bottom  battens  to  ibooks 
+
+24  for   fixing    8  lop   and 
+bottom  battens  to  sbooks 
+
+24  for    fixing    8  top    and 
+botton  battens  to  shooks 
+
+16  for    fixing  8  top  and 
+bottom  battens  to  sbooks 
+
+8  for  2  top  and  bottom 
+shooks 
+
+8  for  2  top  and  bottom 
+shooks 
+
+8  for  2  top  and  bottom 
+shooks 
+
+176  of  25  mm  x  2  mm 
+size 
+
+8  for    2  top    and  bottom    8  for  2  top    and  bottom    8  for  2    top    and  bottom 
+
+
+shooks 
+
+
+shooks 
+
+
+sbooks 
+
+
+8  for  2  top  and  bottom 
+shooks 
+
+
+24  for  fixing  8  top  and 
+bottom  battens  to 
+shooks 
+
+
+16  for  fixing  8  top  and 
+bottom  battens  to 
+shooks 
+
+
+16  for  fixing  8  lop  and 
+bottom  battens  to 
+shooks 
+
+
+nr)  Maximum    — 
+permissible 
+mass  of 
+empty  tea- 
+chest 
+
+
+9kg 
+
+
+9  kg 
+
+
+T  =  Top 
+
+B  =  Bottom 
+
+
+9  kg 
+
+
+7-5  kg 
+
+
+6kg 
+
+
+6kg 
+
+
+«kg 
+
+
+10  kg 
+
+
+*When  tea-chest  of  any  size  mentioned  under  col  4  to  10  are  used  for  packing  of  instant  tea,  provisions  relating  to  lining  shall  not  be  applicable.  Instant  tea  shall  however,  be  packed  in  polyethylene  inner  liners  (  bags  ). 
+
+
+As  in  the  Original  Standard,  this  Page  is  Intentionally  Left  Blank 
+
+
+JS  10  (  Part  1  )  :  1990 
+
+
+b)  one  edge   breaks  open  along  its    entire 
+length. 
+
+Corresponding  figures  for  other  sizes  shall  be 
+subjected   to  agreement  between  the   purchaser 
+and  the  supplier. 
+8.2.2  Alternative  Test 
+
+Tea-chests,  filled  as  described  in  8.1.2  shall  be 
+dropped  successively  on  each  corner  from  a 
+constant  height  of  600  mm  and  repeated  three 
+times  from  the  same  height.  There  shall  be  no 
+visible  signs  of  deterioration.  Correspondmg 
+figures  for  other  sizes  shall  be  subject  to  agree- 
+ment between  the  purchaser  and  the  supplier. 
+
+KOTE  —  The  following  are  some  of  the  typical 
+visible  signs  of  deterioration  at  the  end  of  the  above 
+tests: 
+
+a)  Appearance  of  bulging  and  depressions  on  sides, 
+
+b)  Wrinkling  of  metal  bindings  on  edges. 
+
+
+c)  Loosening  or  bending  or  breaking  of  any  nails, 
+
+d)  Delamination  of  plies,  and 
+
+e)  Other  failures. 
+
+8.3  Report 
+
+The  results  of  tests  on  the  tea-chests  shall  be 
+reported  as  outlined  in  Annex  B. 
+
+9  MARKING 
+
+9.1  Unless  otherwise  specified,  each  tea-chest 
+shall  be  legibly  and  idelibly  marked  with  the 
+following  information: 
+
+a)  Indication  of  the  source  of  manufacture, 
+
+b)  Year  of  manufacture,  and 
+
+c)  Size  (  see  6.1  ). 
+
+9.1,1  Each  packaging  case  may  also  be  marked 
+with  the  Standard  Mark. 
+
+
+ANNEX  A 
+{  Clause  2.1  ) 
+
+LIST  OF  REFERRED  INDIAN  STANDARDS 
+
+
+JSNo. 
+10  (Part  2):  1976 
+
+
+10  (  Part  5  )  :  1976 
+
+
+Title 
+
+Plywood  tea-chests:  Part  2 
+Plywood  {fourth  revision  ) 
+
+10  (  Part  3  )  :  1974  Plywood  tea-chests:  Part  3 
+Battens  (  fourth  revision  ) 
+
+10  (  Part  4  )  :  1990  Plvwood  tea-chests:  Part  4 
+Metal  fittings  (fifth 
+revision  ) 
+
+Plywood  tea-chests:  Part  5 
+Assembly  and  packing 
+( fourth  revision  ) 
+
+707  :  1976  Glossary  of  terms  applica- 
+
+ble to  timber  technology 
+and  utilization  ( second 
+revision  ) 
+
+723  :  1972  Steel   counter  sunk    head 
+
+wire  nails  (  second  revision) 
+
+1060  (  Part  2  )  :  1960  Method  of  sampling  and 
+test  for  paper  and  alhed 
+products:  Part  2 
+
+
+IS  No.  Title 
+
+1060  (  Part  4  )  :  1966  Method  of  sampling  and 
+test  for  paper  and  allied 
+products:  Part  4  (  revised ) 
+
+4006  (  Part  2  )  :  1985  Methods  of  test  for  paper 
+and  pulp  based  packaging 
+materials:  Part  2  {first 
+revision  ) 
+
+5012  :  1987  Cellulose    film  (first  revi- 
+
+sion ) 
+
+7028  (  Part  4  )  :  1987  Performance  tests  for  com- 
+plete, filled  transport 
+packages:  Part  4  Vertical 
+impact  drop  test  (first  re- 
+vision ) 
+
+7028  (  Part  6  )  :  1973  Performance  tests  for  com- 
+plete, filled  transport  pack- 
+ages: Part  6  Compression 
+test 
+
+8970  :  1978  Paper  aluminium  foil  lamid 
+
+nates  for  packaging  of  foo- 
+and  pharmaceuticals 
+
+
+ANNEX  B 
+(  Clause  8.3  ) 
+
+PROFORMA  OF  REPORT  FOR  TESTS  ON  TEA-CHESTS 
+
+
+Name  and  address  of  maker  or  fabricator 3.  Size  of  tea-chest 
+
+4.  Thickness  of  plywood  in  mm: 
+
+Species  employed  for:  ^^  ^^^.^^j 
+
+a)  Outer  faces ,.    ^         , 
+
+,.   „^,  ^  b)  Actual  average 
+
+b)  Other  veneers ^                       " 
+
+c)  Battens 5.  No.  of  veneers  in  plywood.... 
+
+
+IS  10  {  Part  1  )  :  19M 
+
+6.  Tare: 
+
+a)  Actual  average  mass  of  empty   tea-chest  in 
+kg 
+
+b)  Quoted  mass  of  empty  tea-chest  in  kg 
+
+7.  Results  of  test: 
+
+a)  Sfe  8.1.1  and  8.2.1. 
+
+End-Compression        Progressive  Corner  Drop 
+
+Chest  No.     Maximum        Chest  No.     Maximum 
+Load,  kN  Drop,  cm 
+
+2  7 
+
+3  8 
+
+4  9 
+
+5  10 
+Average                             Average 
+
+b)  Alternate  method  (  see  8.1.2  and  8.2.2  ): 
+
+SI        Failures  End  Compression 
+
+No.  , * 
+
+Chest    Chest      Chest    Chest 
+No.        No.         No.        No. 
+12  3  4 
+
+(1)  (2)  (3)  (4)        (5)  (6) 
+
+i)  Appearance  of 
+bulging  and 
+depression  on 
+sides 
+
+ii)  Wrinkling  of 
+metal  binding 
+on  edges 
+
+iii)  Loosening  or 
+
+bending  or 
+
+breaking  of 
+any  nails 
+
+iv)  Delamination 
+of  piles 
+
+v)  Tearing  of 
+plywood  for 
+metal  fitting 
+through  nails 
+
+vi)  Crushing       of 
+corners 
+
+vii)  Splitting  or 
+breaking  of 
+battens 
+
+viii)  Any  other 
+
+failures 
+
+
+8.  Report  on  the  scheme  of  nailing  and  metal 
+fittings  according  to  Table  1 
+
+9.  General   remarks  on    compliance    with   the 
+specification 
+
+10.  Certified  that: 
+
+Tea-chests  conform  to  IS  10  (  Part  4  )  :  1990 
+'Specification  for  plywood  tea-chests:  Part  1 
+General  (fifth  revision  )'  in  all  respects. 
+
+OR 
+
+Tea-chests  fail  to  conform  to  IS  10  (  Part  1  )  : 
+1990  'Specification  for  plywood  tea-chests: 
+Part  1  General  {fifth  revision )'  for  the 
+reasons  given  in  9  above. 
+
+Signature  of  Testing  Officer 
+
+Designation 
+
+Name  of  Testing  Laboratory 
+
+Corner  Drop 
+
+,     , ^ , 
+
+Chest      Chest    Chest    Chest      Chest     Chest 
+
+No.  No.        No.        No.         No.        No. 
+
+5  6  7  8  9  10 
+
+(7)  (8)        (9)  (10)        (11)        (12) 
+
+
+Standard  Mark 
+
+The  use  of  the  Standard  Mark  is  governed  by  the  provisions  of  the  ^wreau  o//n (//an 
+Standards  Act,  1986  and  the  Rules  and  Regulations  made  thereunder.  The  Standard  Mark  on 
+products  covered  by  an  Indian  Standard  conveys  the  assurance  that  they  have  been  produced 
+to  comply  with  the  requirements  of  that  standard  under  a  well  defined  system  of  inspection, 
+testing  and  quality  control  which  is  devised  and  supervised  by  BIS  and  operated  by  the  pro- 
+ducer. Standard  marked  products  are  also  continuously  checked  by  BIS  for  conformity  to 
+that  standard  as  a  further  safeguard.  Details  of  conditions  under  which  a  licence  for  the  use 
+of  the  Standard  Mark  may  be  granted  to  manufacturers  or  producers  may  be  obtained  from 
+the  Bureau  of  Indian  Standards. 
+
+
+Bureau  of  Indian  Standards 
+
+BIS  is  a  statutory  institution  established  under  the  Bureau  of  Indian  Standards  Act,  1935  to  promote 
+harmonious  development  of  the  activities  of  standardization,  marking  and  quality  certification  of 
+goods  and  attending  to  connected  matters  in  the  country. 
+
+Copyright 
+
+BIS  has  the  copyright  of  all  its  publications.     No  pirt  of  these  publications  may  be  reproduced   in 
+any  form  without  the  prior  permission  in  writing  of  BIS.    This  does  not  preclude  th;  free  use,    in 
+the  course  of  implementing  the  standard,  of  necessary  details,  such  as  symbols  and  sizes,  typ3  or 
+grade  designations.  Enquiries  relating  to  copyright  be  addressed  to  the  Director  (  Publicatio.i ),  BIS. 
+
+Revision  of  Indian  Standards 
+
+Indian  Standards  are  reviewed  periodically  and  revised,  when  necessary  and  amendments,  if  any, 
+are  i^sug^  from  time  to  time.  Users  of  Indian  Standards  should  ascertain  that  they  are  in 
+posse^feifl  of  the  latest  amendments  or  edition.  Comments  on  this  Indian  Standard  may  be  sent 
+to  BIS  giving  the  following  reference  : 
+
+
+Doc  :  No.  CED  33  (  834  ) 
+
+
+Amendments  Issued  Since  Publication 
+
+
+Amend  No. 
+
+
+Date  of  Issue 
+
+
+Text  Affected 
+
+
+BUREAU  OF  INDIAN  STANDARDS 
+
+
+Telegrams :  Manaksanstha 
+(  Common  to  all  Offices  ) 
+
+
+Headquarters  : 
+
+Manak  Bhavan,  9  Bahadur  Shah  Zafar  Marg,  New  Delhi  1 100C2 
+Telephones  :  331  01  31,    3il  13  75 
+
+Regional  Offices : 
+
+Central :  Manak  Bhavan,  9  Bahadur  Shah  Zafar  Marg 
+NEW  DELHI  1 10002 
+
+Eastern  :  1/14  C.I.T.  Scheme  VII  M,  V.I.P.  Road,  Maniktola 
+CALCUTTA  700054 
+
+Northern  :  SCO  445-446,  Sector  35-C,  CHANDIGARH  160036 
+
+Southern  :  C.I.T.  Campus,  IV  Cross  Road,  MADRAS  600113 
+
+Western  :  Manakalaya,  E9  MIDC,  Marol,  Andheri  {  East ) 
+BOMBAY  400093 
+
+Branches  :  AHMADABAD.  BANGALORE.  BHOPAL.  BHUBANESHWAR. 
+COIMBATORE.  FARIDABAD.  GHAZIABAD.  GUWAHATI. 
+HYDERABAD.  JAIPUR.  KANPUR.  PATNA.  THIRUVANANTHAPURAM. 
+
+
+telephone 
+
+> 
+
+331  01  31 
+
+331  13  75 
+
+37  86  62 
+
+2  18  43 
+
+41  29  16 
+
+( 
+
+5  32  92  95 
+
+Printed  at  Swdtantra  Bharai  Press,  Uelhi,  Inaia 
+
+

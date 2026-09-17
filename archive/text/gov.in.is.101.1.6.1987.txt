@@ -1,0 +1,319 @@
+**************** 
+
+
+
+
+Disclosure to Promote the Right To Information 
+
+Whereas the Parliament of India has set out to provide a practical regime of right to 
+information for citizens to secure access to information under the control of public authorities, 
+in order to promote transparency and accountability in the working of every public authority, 
+and whereas the attached publication of the Bureau of Indian Standards is of particular interest 
+to the public, particularly disadvantaged communities and those engaged in the pursuit of 
+education and knowledge, the attached public safety standard is made available to promote the 
+timely dissemination of this information in an accurate manner to the public. 
+
+
+
+
+Mazdoor Kisan Shakti Sangathan 
+"The Right to Information, The Right to Live" 
+
+
+
+IS 101-1-6 (1987) : Methods of sampling and test for paints, 
+varnishes and related products, Part 1: Test on liquid 
+paints (general and physical), Section 6: Flash point [CHD 
+20: Paints, Varnishes and Related Products] 
+
+
+
+
+Jawaharlal Nehru 
+'Step Out From the Old to the New' 
+
+
+
+a^v j i imzzmn^a rafrg amsBs 
+
+
+
+£«> \\ i %^s^^^>9i^: 
+
+
+
+^frcvvv^ 
+
+
+
+Satyanarayan Gangaram Pitroda 
+Invent a New India Using Knowledge 
+
+
+
+Bhartrhari — Nitisatakam 
+"Knowledge is such a treasure which cannot be stolen" 
+
+
+
+
+.^^_ 
+
+
+
+• 
+
+
+
+
+BLANK PAGE 
+
+
+
+*rt*2V^ 
+
+
+
+
+
+PROTECTED BY COPYRIGHT 
+
+
+
+UDC 667*612:543-873 ( First Reprint FEBRUARY 1991) IS : 101 ( Part 1 /Sec 6 ) - 1987! 
+
+
+
+, . ( Reaffirmed 2004 ) 
+
+Indian Standard 
+
+METHODS OF SAMPLING AND TEST FOR 
+PAINTS, VARNISHES AND RELATED PRODUCTS 
+
+PART I TESTS ON LIQUID PAINTS (GENERAL AND PHYSICAL) 
+
+Section 6 Flash Point 
+
+( Third Revision ) 
+
+
+
+1. Scope — Prescribes a test and determination of flash point by closed cup equilibrium method. This 
+standard prescribes flash/no flash test and actual determination, and is applicable between the 
+temperature range of 5° and 110°C. 
+
+2. Principle — In case of flash/no flash test, the sample is heated in a suitably designated closed cup 
+in a suitable water bath. The ignition trial is carried out after the test portion has been maintained 
+under equilibrium conditions for at least 10 minutes at the selected equilibrium temperature. In the 
+actual determination, the sample is heated in a suitably designated closed cup by immersing it to the 
+required level in a suitable bath. The temperature of the bath is slowly raised at such a rate that the 
+difference in temperature between the liquid in the bath and the test portion in the cup never exceeds 
+2°C, and the heating procedure ensures that the temperature of the test portion does not rise more 
+quickly than about 7*5°C in 1-5 minutes. * 
+
+3. Apparatus 
+
+3.1 Test Cup — A closed cup with an internal level indicator; if a stirrer is fitted to the test cup used, it 
+may be operated during the heating-up period but shall be stopped during the ignition trial. If a stirrer 
+originally fitted to the test cup is removed, the aperture in the cover shall be securely plugged before 
+starting the test. 
+
+Essentially, the test cup shall be fitted with a cover which carries an opening slide and an 
+ignition device which is inserted to a prescribed level into one of the openings in the cover when a test 
+is made. The details of the cover, slide, ignition device and its movement shall be in accordance with 
+the appropriate test given in this standard. The equipment is such that an ignition can be performed 
+by opening the slide, inserting and removing the nozzle of the ignition device and closing the slide 
+again, in a period of 2-5 ± 0-5 s. A mechanically driven device for the opening of the slide and applying 
+the ignition device to the air/vapour mixture in the cup is permissible and the source of flame for the 
+ignition device may be any suitable flammable gas. 
+
+3.2 Bath — Any suitable bath capable of being adjusted to the required temperature and of adequate 
+heating capacity to meet the requirements. 
+
+3.3 Thermometers — The test cup shall be fitted with a thermometer of appropriate range and dimen- 
+sions that, when immersed in the test portion, measures its temperature with error not greater 
+than 0'5°C. 
+
+The bath shall be fitted with a thermometer of equal precision when required, the accuracy of 
+the thermometer's shall be checked against a reference standard by an authorized laboratory using the 
+stipulated immersion. 
+
+3.4 Support — for holding the test cup in the bath so that the cover and upper edge are horizontal. 
+The cup is immersed in direct contact with the water in the bath in such a position that the level of the 
+test portion in the cup is the same as that of the water in the bath ( see Fig. 1 ). 
+
+4. Sampling and Sample Treatment 
+
+4.1 Take a representative sample of the product to be tested using appropriate sampling procedure 
+for the prbduct concerned as given in IS : 101 (Part 1/Sec 1)-1985 'Methods of sampling and test for paints, 
+varnishes and related products: Part 1 Tests on liquid paints (general and physical), Section 1 Sampling 
+(third revision )\ The sample shall be kept in air-tight container until it is to be tested. The ullage 
+shall be not more than 10 percent of the total capacity of the container. Samples shall not be stored in 
+plastic containers. Because of the possibility of loss of volatile constituents, the sample containers 
+shall be cooled to at least 10°C below the expected flash point before opening it to remove the test 
+portion. The sample shall receive only the minimum mixing treatment to ensure uniformity. After 
+removal of the test portion, the sample container shall immediately be tightly closed to ensure that loss 
+of volatile components from the container is minimized. If this is not carried out, the product sample 
+shall be deemed unsuitable for further testing. 
+
+
+
+Adopted 30 April 1987 
+
+
+
+December 1987, BIS 
+
+
+
+Gr 2 
+
+
+
+BUREAU OF I ftp IAN STANDARDS 
+MANAK BHAVAN, 9 BAHADUR SHAH ZAFAR MARG 
+NEW DELHI 110002 
+
+
+
+IS : 101 ( Part 1/Sec 6 ) - 1987 
+
+
+
+THERMOMETER, 
+
+
+
+THERMOMETER 
+
+
+
+
+FIG. 1 CLOSED CUP, WITH FITTED STIRRER, IMMERSED IN THE BATH 
+(THE STIRRER FOR THE BATH IS NOT SHOWN ) 
+
+
+
+5. Procedure 
+
+5.1 F/ashj No Flash Test — Adjust the temperature of the bath and maintain it at the selected 
+equilibrium temperature. The selected equilibrium temperature is corrected for variation from an 
+atmospheric pressure of 101-3 kPa by raising the value for a higher pressure or lowering the value for a 
+lower pressure at the rate of 1°C for each 4 kPa difference. Carefully clean and dry the test cup, its 
+cover and thermometer. Bring them to a temperature at least 2°C below the selected equilibrium 
+temperature. Fill the test cup with test portion until the internal level indicator just disappears under 
+the surface of the liquid. Take care to avoid both the formation of bubbles and contact between the 
+sample and the cup wall above the level indicator. If either of these conditions occurs to a significant 
+extent, empty the cup, prepare it again as above and fill it with a fresh test portion. Immediately after 
+filling the test cup, place the cover and thermometer in position and support the cup in the bath so that 
+the cover is horizontal and the cup is immersed in direct contact with the bath liquid and with the 
+surface of the test portion at the same level as the water in the bath. Light the flame of the ignition 
+device and adjust it to the size of a bead of diameter 3-5 ± 0*5 mm. Allow the temperature of the test 
+portion to rise within 0*5°C of the selected equilibrium temperature. Maintain these conditions for 
+10 min, or such longer time interval as is necessary, to permit the temperature of the test portion to 
+reach the selected equilibrium temperature. Then perform the ignition trial by opening the slide, 
+inserting and removing the nozzle of the ignition device and closing the slide again, over a period 
+of 2-5 ± 0-5 seconds. Watch for a flash and close the slide. Record whether a flash has occured. If 
+no flash was observed, maintain the test portion at the test temperature for ten minutes and repeat the 
+test. If the second test results in a flash, the product shall be considered to have flashed at the 
+selected equilibrium temperature. 
+
+5.2 Determine the approximate flash point of the sample by 5.1. This determines the starting 
+temperature for the determination which shall be about 5°C below the expected value. Set up the 
+apparatus in a draught free position and preferably in subdued light. Adjust the temperature of the 
+liquid in the bath to 5°C below the approximate flash point as found out by 5.1. Carefully clean and dry 
+the test cup, its cover and thermometer. Bring them to approximately the same temperature as the 
+bath. Prepare the sample as given in 4 and ensure that, at all times during this preparation, its 
+temperature is at least 10°C below the expected flash point temperature. Fill the cup with the test 
+portion until the internal indicator first disappears under the surface of the liquid. Take care to avoid 
+both the formation of bubbles and contact between the sample and the cup wall above the level 
+indicator. If the either of these conditions occurs to a significant extent, empty the cup, prepare it 
+again as above and fill it with a fresh test portion. Immediately after filling the cup, place the cover 
+and thermometer in position. Support the cup in the bath so that the cover is horizontal and the cup is 
+immersed in direct contact with the liquid in the bath and with the surface of the test portion at the 
+same level as that of the liquid in the bath. Confirm that the bath is at the required temperature. 
+Light the flame of the ignition device and adjust it to an approximately spherical shape of diameter 
+3-5 ± 0-5 mm. As soon as the test portion has attained the same temperature as the liquid in the 
+bath, perform an ignition trial by opening the slide, inserting and removing the nozzle of the ignition 
+
+
+
+IS : 101 { Part 1/Sec 6 ) - 1987 
+
+device and closing the slide again, in a period of 2*5 ± 0*5 s. Watch for a flash between opening and 
+closing the slide. Record whether a flash has occured. If a flash occurs carry out the procedure again 
+with a fresh test portion but starting the test at a temperature about 5°C lower than selected previously. 
+If no flash occurs, heat the bath at a rate such that the difference in temperature between the bath and 
+test portion never exceeds 2°C. When the test portion has increased in temperature by 0-5°C, repeat 
+the ignition test and if no flash is observed repeat the procedure until a temperature is reached at 
+which a flash occurs. Read to the nearest 0-5°C the temperature indicated by the cup thermometer, 
+correct this reading for any known thermometer correction, and record the result as the flash point at 
+that atmospheric pressure prevailing during the test. Record the atmospheric pressure in kPa. Clean 
+the cup and carry out a second determination using a fresh test portion and repeating the procedures 
+described above. Calculate the mean corrected flash point to the nearest 0-5°C. When the test is 
+required for reference purposes, where a higher level of precision is required, the procedure prescribed 
+in 8 shall be followed. 
+
+6. Calculation 
+
+6.1 Calculate the flash point, in degree Celsius, corrected to standard atmospheric pressure of 
+101-3 kPa by adding algebraically to the observed temperature the correction from one of the following 
+equations: 
+
+101*3-P 1 013-/> 760-P 2 
+r — —or t* — i-or- 2 
+
+
+
+4 v ' 40 30 
+
+where 
+
+C = correction, in °C; 
+p = atmospheric pressure, kPa; 
+p t = atmospheric pressure, mbar; and 
+P 2 = atmospheric pressure, mm Hg. 
+Record the mean corrected flash point to the nearest 0*5 C C. 
+
+7. Precision 
+
+7.0 Precision data is not quoted for flash/no flash test. 
+
+7.1 Repeatability — The repeatability for actual determination is expected to lie within 2°C with 
+95 percent probability. 
+
+7.2 Reproducibility — The reproducibility for actual determination is expected to lie within 3°C with 
+95 percent probability. 
+
+8. Test for Referee Purposes 
+
+8.1 More than 2 individual measurements may be required to achieve the necessary agreement. If the 
+difference between the results of two individual tests, calculated according to 6, does not exceed 1-0°C, 
+report the mean value to the nearest 0-5°C as the flashpoint. If the difference exceeds 1 0°C, a third 
+test shall be made. If the greatest difference between the 3 results does not exceed 1*5 C C, report the 
+mean value to the nearest 0-5°C as the flash point. If the greatest difference between the first 3 results 
+exceeds 1-5°C, two further tests shall be made. If only one of the five results differs by more than 1-5°C 
+from the mean value, reject this result and report the mean value of the other four results to the 
+nearest 0-5°C as the flash point. If more than one of the five results differ by more than V5 C C from the 
+mean value, report this mean value to the nearest 0*5°C as the flash point but state also the individual 
+values and add a note to the test report on the irregular flashing of the product tested. 
+
+
+
+EXPLANATORY NOTE 
+
+This Indian Standard is one of the series dealing with the testing of paints, varnishes and 
+related products. In the preparation of this standard, considerable assistance has been derived from 
+ISO 1516-1981 Paints, varnishes, petroleum and related products — Flash/no flash test — Closed cup 
+equilibrium method and ISO: 1523-1983 Paints, varnishes, petroleum and related products— Determina- 
+tion of flash point— Closed cup equilibrium method issued by the international Organization for 
+Standardization ( ISO ). This standard supersedes 24 of IS: 101-1964 'Methods of test for ready mixed 
+paints and enamels (second revision )'. 
+
+
+
+Printed at Central Electric Press, Delhi-28 
+
+
+

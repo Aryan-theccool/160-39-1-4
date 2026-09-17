@@ -1,0 +1,1279 @@
+**************** 
+
+
+
+
+Disclosure to Promote the Right To Information 
+
+Whereas the Parliament of India has set out to provide a practical regime of right to 
+information for citizens to secure access to information under the control of public authorities, 
+in order to promote transparency and accountability in the working of every public authority, 
+and whereas the attached publication of the Bureau of Indian Standards is of particular interest 
+to the public, particularly disadvantaged communities and those engaged in the pursuit of 
+education and knowledge, the attached public safety standard is made available to promote the 
+timely dissemination of this information in an accurate manner to the public. 
+
+
+
+
+Mazdoor Kisan Shakti Sangathan 
+"The Right to Information, The Right to Live'' 
+
+
+
+IS 10028-1 (1985) : Code of Practice for Selection, 
+Installation and Maintenance of Transformers, Part 1: 
+Selection [ETD 16: Transformers] 
+
+
+
+
+Jawaharlal Nehru 
+'Step Out From the Old to the New" 
+
+
+
+aj^&vi iJii^s:y%K^ isb^^ni^seg 
+
+
+
+:<>5&i| mT'5K^5?::5:^>^i»l 
+
+
+
+K^^^iXSVCd^ 
+
+
+
+Satyanarayan Gangaram Pitroda 
+Invent a New India Using Knowledge 
+
+
+
+Bhartrhari — Nitisatakam 
+''Knowledge is such a treasure which cannot be stolen" 
+
+
+
+
+^'^^^r 
+
+
+
+k 
+
+
+
+
+BLANK PAGE 
+
+
+
+^*-^^^ 
+
+
+
+
+
+PROTECTED BY COPYRIGHT 
+
+
+
+IS : moss ( Part t )' lies 
+
+r t* r^ ft ( Reaffirmed 2001 ) 
+
+lnai(m Standard 
+
+CODE OF PRACTICE FOR SELECTION, 
+
+INSTALLATION AND MAINTENANCE 
+
+OF TRANSFORMERS 
+
+PART 1 SELECTION 
+
+
+
+UDC 621 314-21 : 006-76 
+
+
+
+
+
+I 5 W^^'f^J^ 
+
+
+
+
+
+
+
+INDfAN STANDARDS INSTITUTION 
+
+MANAk >1HAVAN% 9 HA!|ADL"R SIlAH ZAFAR MARG 
+
+NEW DELHI 1]liW2 
+
+
+
+Gr 4 
+
+
+
+Irhruftrf !<yS6 
+
+
+
+IS : 10028 ( Part 1 ) - 1985 
+
+Indian Standard 
+
+CODE OF PRACTICE FOR SELECTION, 
+
+INSTALLATION AND MAINTENANCE 
+
+OF TRANSFORMERS 
+
+PART 1 SELECTION 
+
+Transformers Sectional Committee, ETDG 16 
+
+Chairman Representing 
+
+Shei C. R. Varieb Crompton Greaves Ltd, Bombay 
+
+Members 
+
+Shbi S. V. Manerikar ( Alternate to 
+Shri C. R. Varier ) 
+Shri R. S. Aroba Directorate General of Supplies & Disposals 
+
+( Inspection Wing ), New Delhi 
+Shri D. R. Ghandban ( Alternate ) 
+Shbi P. K. Bhattacharya Calcutta Electric Supply Corporation Ltd, 
+
+Calcutta 
+Shbi B. C, Ghosh ( Alternate ) 
+DiBECTOB ( Substations ) Central Electricity Authority, New Delhi 
+
+Deputy Director 
+
+( Substations ) ( Alternate ) 
+Shbi G. L. Dua Rural Electrification Corporation Ltd, New Delhi 
+
+Shri S. G. Khubana ( Alternate ) 
+Shri A. R. Dwabkanath Madhya Pradesh Electricity Board, Jabalpur 
+
+Shbi N. N. Bhabgava ( Alternate ) 
+Shri S. D. Gupta Uttar Pradesh State Electricity Board, Lucknow 
+
+Shbi Satish Kumar ( Alternate ) 
+Shbi P.J, Ingle Central Power Research Institute, Bangalore 
+
+Shbi K. N. S. Mubthy ( Alternate ) 
+Joint DiBECTOB TI ( Substation ) Research, Designs & Standards Organization, 
+
+( Ministry of Railways ), Lucknow 
+Deputy Dibectob Stds 
+( Elec )-C2 ( Alternate ) 
+Shbi R. S, Khode Bharat Bijlee Ltd, Bombay 
+
+Shbi R. G, Pabdhanani ( Alternate ) 
+Shbi D. B. Mehta Tata-Hydro Electric Power Supply Company Ltd, 
+
+Bombay 
+Shri R. Chandramouli ( Alternate) 
+
+( Continued on page 2 ) 
+
+
+
+© Copyright 1986 
+
+INDIAN STANDARDS INSTITUTION 
+
+This publication is protected under the Indian Copyright Act ( XIV of 1957 ) and 
+
+reproduction in whole or in part by any means except with written permission of the 
+
+publisher shall be deemed to be an infringement of copyright under the said Act. 
+
+
+
+IS : 10028 ( Part 1 ) - 1985 
+
+( Continued from page 1 ) 
+
+Members Representing 
+
+Shbi Vishvajit M. Mehta Indian Transformer Manufacturers Association, 
+
+New Delhi 
+Shbi D. V. Narke The General Electric Company of India Ltd, 
+
+Allahabad 
+Shri B. a. Subramanyam ( Alternate ) 
+Shbi Y. K. Palvankar Bombay Electric Supply & Transport Undertaking, 
+
+Bombay 
+Shbi J. L. Rodbigues ( Alternate ) 
+Shbi B. K. Patel Gujarat Electricity Board, Vadodara 
+
+Shbi C. D. Patbi; { Alternate ) 
+Dr G. M. Phadke Indian Electrical Manufacturers' Association, 
+
+Bombay 
+Shbi P. K. Philip ( Alternate ) 
+Dr K. V. N. Rao Electrical Research & Development Association, 
+
+Bombay 
+Shri N.J, Buch ( Alternate ) 
+Shri Chandra K. Rohatgi Pradip Lamp Works, Patna 
+
+Shri P. S. Sawhney Delhi Electric Supply Undertaking, New Delhi 
+
+Shri S. P. Aqgarwal ( Alternate ) 
+Shri R. K. Sehgal Bombay Suburban Electric Supply Ltd, Bombay 
+
+Shri H. S. Natabajan ( Alternate ) 
+Shri K. G. Shanmukhappa NGEF Ltd, Bangalore 
+
+Shri Mohammed Yousuff ( Alternate ) 
+Superintending Engineer Andhra Pradesh State Electricity Department 
+Technical ( Projects ) ( Electricity Projects and Board ), Hydferabad 
+
+( Superintending Engineer 
+( Grid Opebations ) ( Alternate ) 
+Shbi I. O. Tayal Bharat Heavy Electricals Ltd, New Delhi 
+
+Shbi R. S. Shah ( Alternate I ) 
+Shri D. P. Gupta {Alternate II ) 
+Dr Vakil Ahmed Directorate General of Technical Development, 
+
+New Delhi 
+Shbi S. K. Palhan ( Alternate ) 
+Shbi T. V. Vidyaratna Raj Kirloskar Electric Company Ltd, Bangalore 
+
+Shri P. Rangabajan ( Alternate ) 
+Shbi S. P. Sachdev, Director General, ISI ( Ex-officio Member) 
+
+Director ( Elec tech ) 
+
+Secretary 
+
+Shbi K. M. Bhatia 
+
+Joint Director ( Elec tech ), ISI 
+
+Panel for Selection, Installation and Maintenance of 
+Transformers, ETDG 16/P 13 
+
+Convener 
+Shri C. R. Varier Crompton Greaves Ltd, Bombay 
+
+Members 
+Shri S. V. Manerikar ( Alternate to 
+Shri C. R, Varier ) 
+Shri M. M. Bendrb Maharashtra State Electricity Board, Bombay 
+
+( Continued on page 13 ) 
+
+
+
+IS : 10028 ( Part 1 ) - 1985 
+
+Indian Standard 
+
+CODE OF PRACTICE FOR SELECTION, 
+
+INSTALLATION AND MAINTENANCE 
+
+OF TRANSFORMERS 
+
+PART 1 SELECTION 
+0. FOREWORD 
+
+0.1 This Indian Standard ( Part I ) was adopted by the Indian Standards 
+Institution on 21 May 1985, after the draft finalized by the Transformers 
+Sectional Committee had been approved by the Electrotechnical Division 
+Council. 
+
+0.2 The code of practice on installation and maintenance of transformers 
+was originally published in 1961 as IS : 1886, intended as a guide to 
+installation engineers, contractors and others engaged in the installation 
+and maintenance of power and distribution transformers. It was revised 
+subsequently in 1967, with additional details regarding internal inspection 
+of transformers. Apart from the information concerning transformers 
+themselves, the code covered ancillary work, such as ventilation, cabling 
+and isolation of transformers. 
+
+0.3 The persent version of the code has been brought out to include 
+additional details, such as the criteria of selection of transformers and to 
+update the information in other respects. This code has been published 
+in the following three parts: 
+
+Part 1 Selection 
+Part 2 Installation 
+Part 3 Maintenance 
+
+0.4 Attention is drawn to IS : 10561-1983* which may also be referred to 
+for additional guidance for determination and selection of transformer 
+characteristics. Attention is also drawn to the Report of the Committee 
+for Standardization of the Parameters and Specifications of Major Items 
+of 400 kV Substation Equipment and Transmission Line Materials, issued 
+by the Central Electricity Authority in 1984. 
+
+
+
+* Application guide for power transformers. 
+
+3 
+
+
+
+IS : 10028 ( Part 1 ) - 1985 
+
+0.5 In preparation of this standard, assistance has been derived from 
+^Specification for power and distribution transformers' issued by the 
+Central Board of Irrigation and Power, New Delhi. 
+
+
+
+1. SCOPE 
+
+1.1 This standard (Part 1 ) covers guidelines for selection of distribution 
+and power transformers covered by IS : 1180 (Parts 1 and 2)* and 
+IS ; 2026 ( Parts 1 to 4 )t respectively for voltage ratings up to and 
+including 400 kV ( highest system voltage 11^ = 420 kV ). 
+
+2. TERMINOLOGY 
+
+2.0 For the purpose of this standard, the definitions given in IS : 1885 
+(Part 38 )-1977J shall apply. 
+
+3. GENERAL 
+
+3.1 The transformers covered in this standard are classified into the 
+following groups: 
+
+a) Distribution transformers ( up to and including 1 600 kVA ), 
+
+b) Power transformers ( above 1 600 kVA ), 
+
+c) Generator transformers, and 
+
+d) Unit auxiliary and station transformers. 
+
+Note — The terms used here are not in line with IS : 2026 (Part 1 )-1977§ 
+where generator transformers, unit auxiliary and station transformers are covered in 
+the general category of power transformer. This distinction has been made in this 
+code of practice as the selection criteria is different for different groups. 
+
+
+
+♦Specification for outdoor type three-phase distribution transformers up to and 
+including lOOkVA 11 kV: 
+
+Part 1 Non-sealed type {second revision). 
+
+Part 2 Sealed type. 
+fSpecification for power transformers: 
+
+Part 1 General ( first revision ) . 
+
+Part 2 Temperature-rise { first revision) , 
+
+Part 3 Insulation levels and dielectric tests ( second revision ). 
+
+Part 4 Terminal markings, tappings and connections {first revision ), 
+{Electrotechnical vocabulary : Part 38 Transformers {first revision), 
+§Specification for power transformers : Part 1 General ( first revision). 
+
+
+
+IS : 10028 ( Part 1 ) - 1985 
+
+3.2 The following should be considered as the main governing features 
+of each group of transformers for the purposes of selection: 
+
+a) Ratings, 
+
+b) Taps, 
+
+c) Connection symbol, 
+
+d) Impedance, 
+
+e) Termination arrangement, 
+
+f ) Cooling, and 
+
+g) Fittings and accessories. 
+
+4. CRITERIA FOR SELECTION OF DISTRIBUTION 
+
+TRANSFORMERS [UP TO AND INCLUDING 1 600 kVA] 
+
+4.1 Ratings — The kVA ratings should comply with IS ; 2026 
+( Part I )-1977*. The no-load secondary voltage should be 433 volts for 
+transformers to be used in 415 V system. Voltage should be normally in 
+accordance with IS : 585-19621 except for special reasons when other 
+values may be used. For transformers requiring to be operated in 
+parallel, the voltage ratio should be selected in accordance with guidelines 
+given in 12.0.1 and 12-0.1.1 of IS : 10028 ( Part 2 )-1981J. 
+
+4.2 Taps — The transformers of these ratings are normally provided 
+with off-circuit taps on HV side except in special cases when on-load tap, 
+changers are specified. The standard range for ofF-circuit taps which 
+are provided on HV side should be ± 2*5 percent and ± 5*0 percent. In 
+case of on-'load tap changers, the taps m.ay be in steps of 1*25 percent 
+with 16 steps. The positive and negative taps shall be specified to suit 
+the system conditions in which the transformer is to be operated. 
+
+4.3 Connection Synabol — The two winding transformers should be 
+preferably connected in delta/star in accordance with IS : 2026 
+(Part 4 )-1977§. The exact connection symbol { Dyn 1 1 or Dyn 1 ) is to 
+be specified depending upon requirements of parallel operation with other 
+transformers in accordance with guidelines given in 12.0.1 and 12.0.I.1 of 
+IS: 10028(Part2)-1981tand4ofIS: 10561-198311. 
+
+
+
+*Speciiication for power transformers: Part 1 General {first revision). 
+
+tSpecification for voltages and frequency for ac transmission and distribution systems 
+( revised ) . 
+
+JCode of practice for selection, installation and maintenance of transformers: 
+Fart 2 Installation. 
+
+§Specification for power transformers : Part 4 Terminal markings, tappings and 
+connections ( first revision ) . 
+
+II Application guide for power transformers. 
+
+
+
+IS : 10028 ( Part 1 ) - 1985 
+
+4.4 Impedance — Consideration shall be given in the selection of 
+impedance for the standard available rating of the switchgear on the 
+secondary side and associated voltage drops. Hov^^ever, the impedance 
+values shall, as far as possible, conform to those specified in Table 3 of 
+IS : 2026 ( Part I )-1977*. For transformers requiring to be operated in 
+parallel, the percentage impedance should be selected in accordance with 
+guidelines given in 12.0.1 and 12.0.1.1 of IS : 10028 (Part 2)-1981t. 
+
+4.5 Termination Arrangement — The HV and LV terminals may be 
+bare outdoor bushings, cable boxes or bus trunking depending upon the 
+method of installation. Wherever compound filled cable boxes are used, 
+it is preferable to specify disconnecting chamber between transformer 
+terminals and cable box to facilitate disconnection of transformer 
+terminals without disturbing the cable connections {see also IS : 9147-1979J). 
+In case of extruded insulation cables with connections in air, a separate 
+disconnecting chamber is not necessary. 
+
+Note — A separate specification for cable end boxes for oil-immersed transformers 
+suitable for extruded insulated cables is under preparation. 
+
+4.6 Cooling — - The transformers covered in this group are generally 
+ONAN, AN or AN AN cooled. Standard service conditions are given in 3 
+of IS : 2026 ( Part 1 )-1977*. For service conditions different from these, 
+selection of temperature-rise limits should be in accordance with 
+IS : 2025 ( Part 2 )-l977§ or IS : 11171-1985|| as applicable. 
+
+4*7 Fittings and Accessories 
+
+4.7.1 For Oil Filled Transformers — The fittings and accessories should 
+be as specified in Appendix G of IS : 2026 ( Part 1 )-1977*. Explosion 
+vent should be specified for all II kV transformers above 400 kVA rating 
+and all 33 kV transformers. When radiators are required to be detached 
+for transportation, isolating valves should be specified. Alarm and trip 
+contacts for oil temperature indicator, winding temperature indicator 
+and gas actuated relay may be specified when monitoring and control 
+devices are available for the transformer application. 
+
+4.7.2 For Dry Type Transformers — Fittings under serial No. 6, 12 and 
+15 of C-1 and serial No. 1,6 and 7 of C-2 of IS : 2026 ( Part 1 )-1977* 
+are not required for dry type transformers. 
+
+
+
+♦Specification for power transformers; Part \ General (first revision). 
+
+tCode of practice for selection, installation and maintenance of transformers : 
+Part 2 Installation. 
+
+{Specification for cable sealing boxes for oil-immersed transformers suitable for 
+paper-insulated lead-sheathed cables for highest system voltages from 12 kV up to and 
+including 36 kV. 
+
+§Specification for power transformers: Part 2 Temperature-rise {first revision ). 
+
+llSpecification for dry type power transformers. 
+
+
+
+IS: 10028 (Parti) -1985 
+
+5. CRITERIA FOR SELECTION OF POWER TRANSFORMERS 
+( ABOVE 1 600 kVA ) 
+
+5.1 Ratings — The secondary no-load voltage should be specified 
+5 percent more than the nominal voltage to compensate the transformer 
+regulation partly. For transformers requiring to be operated in parallel, 
+the voltage ratio should be selected in accordance with guidelines given 
+in 12.0.1 and 12.0a.l of IS : 10028 ( Part 2 )-1981*, 
+
+5.2 Taps — On-load tap changers on HV side should be specified, 
+wherever system conditions warrant. For interconnecting auto- 
+transformers with on-load tap changer, system conditions may warrant 
+tapping on low voltage side. In case of OLTG, the total number of taps 
+should be 16 in steps of 1*25 percent. The distribution on positive and 
+negative taps shall be decided to suit the system conditions. OfF-circuit 
+taps, when specified, should be in the range of ± 2'5 percent and 
+± 5 percent provided on the HV side. 
+
+5.3 Connection Symbol — The preferred connections for two winding 
+transformers up to 66 kV high voltage ( HV ) side rating are delta/star 
+( Dyn ) and star/star ( YNyn ). For higher voltages, connections star/star 
+{ YNyn ) or star/delta ( YNd ) may be preferred. The selection of 
+connection group should be made taking into consideration the require- 
+ments of parallel operation with other transformers as given in 12.0.1 
+and 12.0.1.1 of IS : 10028 ( Part 2 )-1981*. For transformers of ratings 
+up to 50 MVA, three limb ( Yyo ) construction, no stabilizing winding is 
+required unless the tertiary winding is required for auxiliary loads. In 
+case of unloaded tertiary winding, one terminal should be brought out 
+for testing purposes. 
+
+5.4 Impedance — The transformer impedance is decided taking into 
+consideration the secondary fault levels and the voltage dip. The typical 
+impedance values are given in Table 3 of IS : 2026 f Part 1 )-1977t. 
+For transformers requiring to be operated in parallel, the percentage 
+impedance should be selected in accordance with guidelines given 
+in 12.0.1 and 12.0.1,1 of IS : 10028 (Part 2 )-1981*. 
+
+5.5 Termination Arrangement — Primary and secondary terminals 
+may be bare bushings, cable boxes or bus trunking depending upon the 
+method of installation. Wherever compound filled cable boxes are used, 
+it is preferable to specify disconnecting chamber between transformer 
+terminals and cable box to facilitate disconnection of transformer 
+
+
+
+*Gode of practice for selection, installation and maintenance of transformers: Part 2 
+Installation. 
+
+tSpecification for power transformers: Part ) General {first revision), 
+
+7 
+
+
+
+IS : 10028 ( Part 1 ) - 1985 
+
+terminals without dismantling the cable connections (see also 
+IS : 9147-1979* ), In case of extruded insulation cable connections in 
+air, a separate disconnecting chamber is not necessary. 
+
+Note — A separate specification for cable end boxes for oil-immersed trans- 
+formers suitable for extruded insulated cables is under preparation. 
+
+For transformers up to 33 kV, porcelain bushings and for trans- 
+formers of 66 kV and above, oil-filled condenser type bushings should be 
+specified. For installation in polluted atmospheres, the bushings should 
+be specified with extra creepage distances as given in IS : 2099-l973t. 
+
+5.6 Cooling — The type of cooling may be ONAN, ONAN/ONAF, 
+
+ONAN/ONAF/OFAF or OFWF. Standard service conditions are given 
+in 3 of IS : 2026 (Part 1 )-1977t. For service conditions different from 
+these, selection of temperature-rise limits should be in accordance with 
+IS : 2026 (Part 2)-1977§. The following cooling arrangements are 
+recommended: 
+
+Rating Voltage Class Cooling Type Equipment 
+
+MVA kV 
+
+
+
+a) Up to 10 Up to 66 ONAN 
+
+b) 12-5 to 40 Up to 132 ONAN 
+
+( 60 percent ) 
+
+
+
+ONAF 
+
+
+
+c) 50 to 100 Up to 220 ONAN 
+
+( 50 percent ) 
+
+
+
+ONAF One 100 percent 
+( 62*5 bank with two 
+
+percent ) 100 percent 
+
+OFAN I OFAF pumps ( one 
+
+( 62*5 percent ) \ running and 
+
+one standby ) 
+
+One standby fan or 
+two 50 percent 
+banks with two 
+100 percent 
+
+pumps. (one 
+
+running and 
+one standby ) 
+
+
+
+♦Specification for cable sealing boxes for oil-immersed transformers suitable for 
+paper-insulated lead-sheathed cables for highest system voltages from 12 kV up to and 
+including 36 kV, 
+
+fSpecification for bushings for alternating voltages above 1 000 V (first revision ). 
+
+tSpecification for power transformers : Part 1 General {first revision). 
+
+§Specification for power transformers: Part 2 Temperature-rise (first revision ), 
+
+8 
+
+
+
+IS : 10028 ( Part 1 ) - 1985 
+
+Rating Voltage Class Cooling Type Equipment 
+
+MVA kV 
+
+
+
+d) Above 100 Up to 400 ON AN 
+
+( 50 percent ) 
+
+
+
+Two standby fans, 
+one in each 
+50 percent bank 
+
+ONAF Same as for (c) 
+( 62-5 
+percent ) 
+iOFAF 
+
+
+
+OFAN 
+(62*5 percent) | 
+or 
+OFAF/ODAF Three 50 percent 
+
+OFAF coolers 
+or 
+OFWF/ODWF Two 100 percent 
+
+OFWF coolers 
+
+Note — The manufacturer should be asked to confirm the available rating 
+under complete failure of 50 percent cooling, 
+
+5.7 Fittings and Accessories — The fittings and accessories should be 
+as specified in Appendix G of IS : 2026 ( Part 1 )-1977*. The following, 
+should in addition, be specified: 
+
+a) Skids and hauling lugs; 
+
+b) Magnetic oil level gauge with low level alarm contacts; 
+
+c) Rollers ( bidirectional, if required ). If flanged rollers are 
+required, rail gauge should be specified; 
+
+d) Winding temperature indicator with electrical contacts for 
+alarm/trip and controlling fans and pumps; 
+
+e) Gas smd oil actuated relay with alarm and trip contacts. For 
+OLTG tank, a separate relay or other suitable protective device 
+may be specified; 
+
+f) Explosion vent; 
+
+g) Accessories for cooling arrangement; 
+
+h) Oil temperature indicator with alarm and trip contacts; and 
+j) Two sampling valves at top and bottom of the main tank. 
+
+
+
+•Specification for power ttmnsformers: P«rt 1 General {first revision ). 
+
+9 
+
+
+
+IS : 10028 ( Part 1 ) - 1985 
+
+6. CRITERIA FOR SELECTION OF GENERATOR 
+TRANSFORMERS 
+
+6.1 Ratings — The MVA rating of the generator transformer should be 
+at least equal to the full generator output without considering reduction 
+for unit auxiliary requirements. The no-load voltage of the secondary 
+winding should be specified about 5 percent more than the nominal 
+value to compensate the transformer regulation partly. 
+
+6.2 Taps — The generator transformers are normaly provided with ofF- 
+circuit tap changers except in cases where the system conditions warrant 
+use of on-load tap changers. The standard range for off-circuit tap 
+changer is 2*5 percent to 7*5 percent in steps of 2'5 percent. For 400 kV 
+transformers, on-load/ofF-circuit taps should have tapping range of ± 5 
+percent in steps of ± 2"5 percent. 
+
+6.3 Connection Symbol — The preferred connection symbol for two 
+winding transformers is YNd 11 or YNd 1 with the star neutral solidly 
+earthed. 
+
+6.4 Impedance — The standard impedances are 12*5 to 14 percent with 
+tolerance as given in 18:2026 (Part I )-1977*. The exact value is to be 
+specified based on short-circuit level. 
+
+6.5 Termination Arrangement — The generator side LV terminals 
+should be suitable for bus duct or cable connection. The HV side 
+should have bare bushings suitable for outdoor installation. For 66 kV 
+and above, oil-filled condenser type bushings should be specified. For 
+installation in polluted atmospheres, the bushings shall be specified with 
+extra creepage distance as given in IS : 2099-1973t> 
+
+6.6 Cooling — The type of cooling maybe ONAN, OFAF or OFWF. 
+
+The temperature-rise limits should be as given in IS : 2026 ( Part 2 )-1977t 
+( see 5.6 ). Following cooling arrangements are recommended: 
+
+
+
+Rating 
+MVA 
+
+
+Voltage Class Cooling Type 
+kV 
+
+
+Equipment 
+
+
+Up to 250 
+
+
+Up to 400 ONAN 
+
+(50 percent) 
+OFAN 
+(62 '5 percen 
+
+
+C 
+
+t) 
+
+
+>NAF 
+
+[62-5 percent) 
+OFAF 
+
+
+As in 5.6 (c) 
+
+and (d) 
+
+
+
+
+OFAF/ODAF 
+
+
+
+
+
+
+OFW] 
+
+
+
+
+)DWF 
+
+
+
+
+
+♦Specification for power transformers: Part 1 General {frst revision). 
+tSpecification for bushings for alternating voltages above 1 000 volts {first revision ). 
+^Specification of power transformers: Part 2 Temperature-rise (Jirst revision ). 
+
+10 
+
+
+
+IS : 10028 ( Part 1 ) -* lf85 
+
+6,7 Fittings and Accessories — The fittings and accessories should be 
+as specified in Appendix G of IS : 2026 ( Part 1 )-1977*. The following 
+should, in addition, be specified: 
+
+a) Magnetic oil level gauge; 
+
+b) Gas and oil actuated relay; 
+
+c) Explosion vent; 
+
+d) Winding temperature indicator with electrical contacts for 
+alram/trip and controlling fans and pumps; 
+
+e) Skids and hauling lugs; 
+
+f) Rollers (bidirectional, if required). If flanged rollers are 
+required, rail gauge should be specified; and 
+
+g) Accessories for cooling arrangement. 
+
+7. CRITERIA FOR SELECTION OF AUXILIARY AND STATION 
+TRANSFORMERS 
+
+7.1 Rating — The voltage rating should be specified in such a manner 
+that the secondary voltages are about 5 percent more than the nominal 
+voltages to compensate the transformer regulation. 
+
+The auxiliary loads of thermal power stations require two voltage 
+levels. The high voltage level is 3-3 kV, 6 6 kV or 11 kV ( 6'6 kV 
+being the preferred value ) and the low voltage level is 415 V. 
+
+The number of unit auxiliary transformers ( UAT ) is one or two 
+depending upon the capacity of the unit. The number of station 
+transformers depends on the total number of generators in a power 
+station. It is normal practice to provide one station transformer up to 
+two units and two station transformers for two to five units. 
+
+The capacity of the unit auxiliary transformers is based on the 
+total actual running auxiliary load of the particular unit with 
+a 10 percent margin. If there are two auxiliary transformers per unit, 
+each unit transformer should be rated for minimum 55 percent of the 
+actual running auxiliary load of the unit. 
+
+7.1.1 The capacity of the station transformers should meet the 
+following requirements: 
+
+a) All running auxiliaries for station services at full station load; 
+
+
+
+♦Specification for power transformers: Part 1 General {first revision ). 
+
+11 
+
+
+
+JS^: 10028 (Parti) -1985 
+
+b) The running auxiliaries of one unit bus at full load in the event 
+of outage of one UAT at a time in the power station; and 
+
+c) The auxiliary starting or coasting of another unit which may be 
+taken as 40 percent of the normal auxiliary load. 
+
+7.2 Taps — The UATs are normally provided with ofF-circuit taps 
+with ± 2*5 percent and ± 5 percent on HV side. 
+
+The station transformers are preferably provided with OLTC 
+with ± 10 percent in steps of 1*25 percent on HV side. 
+
+7.3 Connection Symbol — The UATs are connected in delta/star or 
+delta/delta. In case of delta/star, the star neutral is earthed through a 
+resistor. 
+
+The station transformers are connected in star/delta or star/star. 
+In case of star/star, neutral on LV side is earthed through a resistor. 
+
+7.4 Impedance — The impedance is specified taking into consideration 
+the fault level of the auxiliary switchgear and the voltage dip during 
+starting of large motors. Also for station transformers with two 
+secondaries, the impedance shall be specified to limit the fault levels. 
+
+7.5 Termination Arrangement — The HV and LV terminals of the 
+UATs should be suitable for bus duct or cable connection. 
+
+The HV terminals of the station transformer are to be bare 
+bushings suitable for outdoor installation. For rating 66 kV and above, 
+oil filled condenser type bushings should be specified. For installation in 
+polluted atmosphere, bushings should be specified with extra creepage 
+distance in accordance with IS : 2099-1973*. The LV terminals should 
+be suitable for cable or bus duct connection. 
+
+The LV neutrals of UAT and station transformer, wherever 
+applicable, should be brought out for connection to neutral earthing 
+resistor. 
+
+7.6 Cooling — The UATs may be ONAN or ONAN/ONAF cooled 
+( ONAN rating of 50 percent ). 
+
+The station transformers may be ONAN or ONAN/ONAF ( with 
+ONAN rating of 60 percent ) or ONAN/OFAF ( with ONAN rating 
+of 50 percent ), 
+
+7.7 Fittings and Accessories — The fittings and accessories should be 
+as specified in Appendix C of IS : 2026 ( Paff 1 )-1977t with additional 
+fittings as specified in 5.7. 
+
+
+
+♦Specification for bushings for alternating voltages above 1 000 volts (first revision ). 
+fSpecification for power transformers: Part 1 General {first revision )• 
+
+12 
+
+
+
+IS 1 10(K» ( Part 1 ) -1985 
+
+( Continued from page 2 ) 
+
+Members Reprtstniing 
+
+Shri p. K. Bhattachabya Calcutta Electric Supply Corporation Ltd, 
+
+Calcutta 
+
+Shri S. K. Ghosh ( AlUmate ) 
+Chief Engineer ( Elbotbioai»)-1 Central Power Works Department, New Delhi 
+
+Shri A. Majumdar ( Alternate ) 
+Shri B. B, Dass Delhi Electric Supply Undertaking, New Delhi 
+
+Shri Y. P. Sabeen ( Alternate ) 
+Shri G. L. Dua Rural Electrification Corporation Ltd, New Delhi 
+
+Shri M. M. Joag Voltage Limited, Bombay 
+
+Shbi B. L. Raw at Bharat Heavy Electricals Ltd, Bhopal 
+
+Shri C. M. Sbivastava ( Alternate I ) 
+
+Shri S. C. Vbrma ( Alternate II ) 
+Shbi N. R, Santhanam Tata Consulting Engineers, Bombay 
+
+Shbi M, N. Bap at {Alternate ) 
+Shbi K. G. Shanmukhappa NGEF Limited, Bangalore 
+
+Shbi K, V, Jayadev ( Alternate) 
+Shri R. K. Sehoax. Bombay Suburban Electric Supply Limited, 
+
+Bombay 
+Shri I. N. Thukbax. Haryana State Electricity Board, Chandigarh 
+
+Shbi J. L, Aboba ( Alternate) 
+
+
+
+13 
+
+
+
+INTERI<«A'nONAL SYSTEM OF UNITS ( SI UNITS ) 
+
+
+
+Base Units 
+
+
+
+
+
+
+
+
+Quantity 
+
+
+Unit 
+
+
+Symbol 
+
+
+
+
+Length V 
+
+
+metre 
+
+
+m 
+
+
+
+
+Mass 
+
+
+kilogram 
+
+
+kg 
+
+
+
+
+Time 
+
+
+second 
+
+
+s ■; ■.,-■.„■ 
+
+
+
+
+ElectHc current 
+
+
+ampere 
+
+
+A' 
+
+
+
+
+Ther^odyuamic , 
+
+
+kelvin 
+
+
+K 
+
+
+
+
+temperature 
+
+
+
+
+
+
+
+
+Luminqu^ intensity t 
+
+
+candela 
+
+
+cd 
+
+
+
+
+Amount of substance 
+
+
+mole 
+
+
+mol 
+
+
+
+
+Supplementary Units 
+
+
+
+
+
+
+
+
+Quantity 
+
+
+Unit 
+
+
+SYMBOIi 
+
+
+
+
+Plane angle 
+
+
+radian 
+
+
+tad 
+
+
+
+
+Solid angle 
+
+
+steradian 
+
+
+w 
+
+
+
+
+D^|:i^<&4^ Vni||s 
+
+
+
+
+'■' 
+
+
+
+
+Quantity 
+
+
+Unit 
+
+
+Symbol 
+
+
+Dbfinition 
+
+
+Force -■'■ - ' ^:' 
+
+
+riewton 
+
+
+N^ 
+
+
+IN - 1 kg.m/s* 
+
+
+Energy 
+
+
+joule 
+
+
+J 
+
+
+IJ - IN.m 
+
+
+Power 
+
+
+watt 
+
+
+W 
+
+
+1 W « IJ/s 
+
+
+Flux 
+
+
+weber 
+
+
+Wb 
+
+
+IWb- 1 V.8 
+
+
+Flux density 
+
+
+tesia 
+
+
+T 
+
+
+1 T « 1 Wb/m« 
+
+
+Frequency 
+
+
+hertz 
+
+
+Hz 
+
+
+1 Hz - 1 c/s (s-i) 
+
+
+Electric conductance 
+
+
+Siemens 
+
+
+S 
+
+
+IS - 1 A/V 
+
+
+Electromotive force 
+
+
+volt 
+
+
+V 
+
+
+1 V - 1 W/A 
+
+
+Pressure, stress 
+
+
+pascal 
+
+
+Pa 
+
+
+I Pa « 1 N/m» 
+
+
+

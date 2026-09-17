@@ -1,0 +1,888 @@
+**•*•••••*•**••• 
+
+
+A  ♦  ^ 
+
+
+^ 
+
+
+TTH^ 
+
+
+Disclosure  to  Promote  the  Right  To  Information 
+
+Whereas  the  Parliament  of  India  has  set  out  to  provide  a  practical  regime  of  right  to 
+information  for  citizens  to  secure  access  to  information  under  the  control  of  public  authorities, 
+in  order  to  promote  transparency  and  accountability  in  the  working  of  every  public  authority, 
+and  whereas  the  attached  publication  of  the  Bureau  of  Indian  Standards  is  of  particular  interest 
+to  the  public,  particularly  disadvantaged  communities  and  those  engaged  in  the  pursuit  of 
+education  and  knowledge,  the  attached  public  safety  standard  is  made  available  to  promote  the 
+timely  dissemination  of  this  information  in  an  accurate  manner  to  the  public. 
+
+
+Mazdoor  Kisan  Shakti  Sangathan 
+The  Right  to  Information,  The  Right  to  Live' 
+
+
+Jawaharlal  Nehru 
+'Step  Out  From  the  Old  to  the  New' 
+
+
+IS  10074  (1982) :  compaction  mould  assembly  for  light  and 
+heavy  compaction  test  for  soils  [CED  43:  Soil  and 
+Foundation  Engineering] 
+
+
+^■^^^r 
+
+
+^^s^iHf 
+
+
+Satyanarayan  Gangaram  Pitroda 
+Invent  a  New  India  Using  Knowledge 
+
+
+Bhartrhari — Nitisatakarri 
+"Knowledge  is  such  a  treasure  which  cannot  be  stolen' 
+
+
+'^^^^rr 
+
+
+BLANK  PAGE 
+
+
+/Ol 
+
+
+<si£L»iL, 
+
+
+PROTECTED  BY  COPYRIGHT 
+
+
+IS:  10074-  \9^% 
+
+(  Reaffirmed  2006 ) 
+
+Indian  Standard 
+
+SPECIFIC ATION  FOR  COMPACTION  MOULD 
+
+ASSEMBLY  FOR  LIGHT  AND  HEAVY 
+
+COMPACTION  TEST  FOR  SOILS 
+
+
+UDC     624-1 31-373 
+
+
+®    Copyright  1^^2 
+INDIAK     STAKDARDS     INSTITUTION 
+
+MANAK      BHAVAN,     «     fiAKAlUlH      SHAH      7.AFAR      MAUCi 
+
+KEW  DELHI  lllJfflJJ! 
+
+PriVe  Rs  e-o&  M^y  1982 
+
+
+t^  f  10074  -  1962 
+
+Indian  Standard 
+
+SPECIFICATION  FOR  COMPACTION  MOULD 
+
+ASSEMBLY  FOR  LIGHT  AND  HEAVY 
+
+COMPACTION  TEST  FOR  SOILS 
+
+Soil  Engineering  and  Rock  Mechanics  Sectional  Committee,  BDG  23 
+
+Chairman  Representing 
+
+Db  Jagdish  Nabain  University  of  Roorkee,  Roorkee 
+
+Members 
+
+Additional  Dibectob,  IRI  Irrigation  Department,  Government  of  Bihar,  Patna 
+
+Additional        Dibectob         Re-     Ministry  of  Railways 
+SEARCH  (  F.  E.  )  ,  RDSO 
+Deputy  Dibectob  Reseabch 
+(  Soil-Mech  ),  RDSO  {  Alternate ) 
+Shei  p.  D.  Agabwal  Public  Works  Department,  Government   of  Uttar 
+
+Pradesh,  Lucknow 
+Dr  B.  L.  Dhawan  (  Alternate  ) 
+Peof  Alam  Singh  University  of  Jodhpur,  Jodhpur 
+
+Col  Avtab  Singh  Engineer-in-Chief 's  Branch,  Army  Headquarter* 
+
+Lt-Col  V.  K.  Kanitkar  (  Alternate  ) 
+Chief  Engineer  (  D  &  R  )  Irrigation  Department,  Govetnment  of  Punjab, 
+
+Chandigarh 
+Db  G.  S.  Dhillon  (  Alternate ) 
+Shbi  M.  C.  Dandavate  The  Concrete  Association  of  India,  Bombay 
+
+Shri  N.  C.  Dugoal  (  Alternate  ) 
+Shbi  A.  G.  Dastidab  In  personal   capacity    {  5  Hungerford  Street^     iSjl 
+
+Hungerford  Court,  Calcutta-700017  ) 
+Dr  G.  S.  Dhillon  Indian  Geotechnical  Society,  New  Delhi 
+
+Director,  IRI  Irrigation    Department,    Government    of   Uttar 
+
+Pradesh,  Roorkee 
+Shri  A.  H.  DivanJI  Asia   Foundations   and   Construction    (  P  )      Ltd, 
+
+Bombay 
+Shri  A.  N.  Jangle  (  Alternate  ) 
+Dr  GoPal  Ranjan  University  of  Roorkee,  Roorkee 
+
+Db  Gofal  Ranjan  Institution  of  Engineers  {  India  ),  Calcutta 
+
+Shri  S.  Gupta  Cemindia  Co  Ltd,  Bombay 
+
+Shri  N.  V.  De  Sousa  (  Alternate  ) 
+Shri  G.  S.Jain  G.  S.  jain  &  Associates,  Roorkee 
+
+Shri  Vi  jay  K.  Jain  (  Alternate  ) 
+
+(  Continued  on  page  2  ) 
+
+
+©  Copyright  1982 
+
+INDIAN  STANDARDS  INSTITUTION 
+
+This  publication  is    protected    under   the  Indian  Copyright  Act  (  XIV   of  1957  )    and 
+
+reproduction  in  whole  or  in  part  by  any  means  except  with  written  permission  of  the 
+
+publisher  shall  be  deemed  to  be  an  infringement  of  copyright  under  the  said  Act. 
+
+
+is  :  10074  -  198^ 
+
+(  Continued  from  page  1  ) 
+
+Members  Representing 
+
+Shbi  a.  B,  Joshi  Ministry  of  Irrigation 
+
+Deputy  Dibectob   (  CSMRS  ) 
+(  Alternate ) 
+Col  M.  V.  Kaybrkak  Ministry  of  Defence  (R&D) 
+
+Shbi  V.  B.  Ghobpade  (  Alternate  ) 
+Shki  O.  p.  Malhotea  Public  Works  Department,  Chandigarh  Adminis- 
+
+tration, Chandigarh 
+Shbi  D.  R.  Narahabi  Central    Building    Research    Institute    (CSIR), 
+
+Roorkee 
+Shbi  B.  G.  Rao  (  Alternate  ) 
+Shbi  T.  K.  iVATiiAJAif  Central   Road   Research   Institute  (CSIR),  New 
+
+Delhi 
+Db  G.  V.  Rao  Indian  Institute  of  Technology,  New  Delhi 
+
+Db  K.  K.  Gupta  (  Alternate  ) 
+Reseaech  Officbb  (  B  &  RRL  )       Public  Works  Department,  Government  of  Punjab, 
+
+Chandigarh 
+Sbei  K.  R.  Saxbwa  Engineering  Research  Laboratories,    Government 
+
+of  Andhra  Pradesh,  Hyderabad 
+Secretaby  Central  Board  of  Irrigation  &  Power,  New  Delhi 
+
+Deputy  Secbetaby  (  Alternate  ) 
+Shbi  N.  Sivagubu  Roads  Wing  (  Ministry  of  Shipping  and  Trans- 
+
+port ) 
+Shbi  D.  V.  Sikka  (  Alternate  ) 
+Shbi  K.  S.  Sbihivasan  National  Buildings  Organization,  New  Delhi 
+
+Shbi  Sttnil  Berby  (  Alternate  ) 
+Shbi  N,  Subbamanyam  Karnataka      Engineering       Research       Station, 
+
+Krishnarajasagar 
+StrPEBiNTENDiNG  Engineeb  PWD,  Government  of  Tamil  Nadu,  Madras 
+
+(P  &  D  J 
+Executive  Engineeb  (  SMRD  ) 
+(  Alternate ) 
+Shbi  G.  Raman,  Director  General,  ISI  (  Ex~officio  Member  ) 
+
+Director  (  Civ  Engg  ) 
+
+Seaetary 
+
+Shbi  K.  M.  Mathub 
+Deputy  Director  (  Civ  Engg  ),  ISI 
+
+Soil  Testing  Instruments  and  Equipment  Subcommittee,  BDG  23  :  6 
+
+Convener 
+Shbi  H.  C.  Vbbma  Associated  Instrument    Manufacturers    (  I  )    Pvt 
+
+Ltd,  New  Delhi 
+Members 
+
+Shbi  M.  D.  Naib  [Alternate  to 
+Shri  H.  C.  Verma  ) 
+Deputy     Dibectob     Resbaboh    Ministry  of  Railways 
+
+(SoilMeoh),  RDSO 
+Dibectob  (  CSMRS  )  Ministry  of  Irrigation 
+
+Deputy  Dibectob    (  CSMRS  ) 
+(  Alternate  ) 
+
+( Continued  on  page  11) 
+
+
+IS:  10074-1982 
+
+Indian  Standard 
+
+ui  j-jv-'XJL  xv^jn,  X  Avyi'^i    x  v^i\.    v^v^xyxx  2-v%^x  xv/jl"^    r<ii.\j  \j  x^i^ 
+
+ASSEMBLY  FOR  LIGHT  AND  HEAVY 
+COMPACTION  TEST  FOR  SOILS 
+
+
+0.     FOREWORD 
+
+tion  on  20  January  1982,  after  the  draft  finalized  by  the  Soil  Engineering 
+and  Rock  Mechanics  Sectional  Committee  had  been  approved  by  the 
+Civil  Engineering  Division  Council. 
+
+0.2  The  Indian  Standards  Institution  has  already  published  a  series  of 
+standards  on  methods  of  testing  soils.  It  has  been  recognized  that  reliable 
+and  intercomparable  test  results  can  be  obtained  only  with  standard  testing 
+equipment  capable  of  giving  the  desired  level  of  accuracy.  The  Sectional 
+Committee  has,  therefore,  decided  to  bring  out  a  series  of  specifications 
+covering  the  requirements  of  equipment  used  for  testing  soils  to  encourage 
+its  development  and  manufacture  in  the  country. 
+
+0.3  The  equipment  covered  in  this  standard  is  used  for  determination  of 
+water  content:  dry  density  relation  as  covered  in  IS :  2720  (  Part  VII  )- 
+1980*  and  IS :  2720  (  Part  VIII  )-1974t. 
+
+0.4  For  the  purpose  of  deciding  whether  a  particular  requirement  of  this 
+standard  is  complied  with,  the  final  value,  observed  or  calculated, 
+expressing  the  result  of  a  test  or  analysis,  shall  be  rounded  off  in  accordance 
+with  IS:  2-1960J.  The  number  of  significant  places  retained  in  the 
+rounded  off  value  should  be  the  same  as  that  of  the  specified  value  in  this 
+standard. 
+
+
+1.  SCOPE 
+
+1,1  This  standard  covers  the  requirements  of  compaction  mould  assembly 
+used  for  determination  of  water  content:  dry  density  relation  of  soils  using 
+light  and  heavy  compaction. 
+
+♦Methods  of  test  for  soils:  Part  VII  Determination  of  water  content:  dry  density 
+relation  using  light  compaction  (  second  revision  ). 
+
+tMethods  of  test  for  soils:  Part  VIII  Determination  of  water  content:  dry  density 
+relation  using  heavy  compaction  {first  revision  ). 
+
+JRules  for  rounding  off  numerical  values  (  rmsed ) . 
+
+
+IS  110074 -1982 
+
+2.  MATERIALS 
+
+2.1  The  materials  of  construction  of  the   different  component    parts  of 
+compaction  mould  assembly  shall  be  as  given  in  Table  1. 
+
+
+TABLE   I   MATERIALS  OF  CONSTRUCTION  OF  DIFFERENT  COMPONENT 
+PARTS  OF  COMPACTION  MOULD  ASSEMBLY 
+
+Part 
+
+Matebial 
+
+Specific  Require- 
+ments, If  Any 
+
+Reference  to 
+Indian  Standard 
+
+Mould, 
+Collar, 
+Base  plate 
+
+fa)  Copper  alloy 
+^  b)  Brass 
+|_c)  Mild  steelj 
+
+Cadmium  plated 
+
+IS :  318-1962* 
+IS:  292- 196 It 
+IS :  513.1973§ 
+
+Stay  rods 
+
+Mild  steel 
+
+Chromium  plated 
+
+-- 
+
+Wing  nuts 
+
+Cast  steel /Forged 
+steel 
+
+Cadmium  plated 
+
+— 
+
+•Specification  for  leaded  tin  bronze  ingots  and  castings  (  revised). 
+
+tSpecification  for  brass  ingots  and  castings  {revised  ). 
+
+JFor  short  term  use. 
+
+^Specification  for  cold  rolled  carbon  steel  sheets  {  second  revision  ). 
+
+3,  TYPES  AND  DIMENSIONS 
+
+3.1  The  compaction  mould  assembly  shall  be  of  two  types  (  Types  1  and 
+2 ) .  Dimensions  of  component  parts  of  compaction  mould  assembly  shall 
+be  as  detailed  in  Fig.  1  to  Fig.  6.  Except  where  tolerances  are  specifically 
+mentioned  against  the  dimensions,  all  dimensions  shall  be  taken  as 
+nominal  dimensions  and  tolerances  as  given  in  IS  :  2102-1969*  shall  apply. 
+
+4.  CONSTRUCTION 
+
+i,l  Coxnpaction  Mould  —  The  compaction  mould  shall  be  of  two  types 
+as  detailed  in  Fig.  2.  It  shall  be  cylindrical  in  shape  and  finished  smooth 
+inside.  The  mould  shall  have  two  eyes  either  cast  integral  with  the  body 
+or  welded.  It  shall  have  suitable  seatings  at  the  top  end  for  positioning 
+the  collar, 
+
+4.2  Collar  —  The  collar  shall  be  made  from  the  same  material  as  that  of 
+the  mould.  It  shall  be  made  as  detailed  in  Fig,  3.  The  collar  shall  be 
+cylindrical  in  shape  and  finished  smooth  inside.  Two  eyes  either  cast  or 
+welded  to  the  collar  to  secure  it  with  the  mould  and  base  plate  shall  be 
+provided.  It  shall  have  a  suitable  seating  at  the  lower  end  for  sitting 
+flush  with  the  mould. 
+
+
+'Allowable  deviations  for  dimensions  without  specified  tolerances  {first  revision  ), 
+
+4 
+
+
+IS  1 10d74  •>  IfiSI 
+
+
+-COLLAR 
+
+
+MOULD 
+
+
+WiNG  NUT 
+
+
+STAY  ROD 
+
+
+BASE 
+
+
+Fig,  1     Assembly 
+
+
+IS  t  10074  -  1982 
+
+
+-^15 
+
+
+Tvrii 
+
+A 
+nun 
+
+C 
+
+mm 
+
+D 
+
+mm 
+
+150 
+
+E 
+
+mm 
+
+1 
+
+100  ±0-4             106 
+
+112 
+
+2 
+
+150  ±0-4 
+
+156 
+
+200 
+
+162 
+
+All  dimensions  in  millimptres. 
+
+Fig  2     Mould 
+
+
+18:10074-1962 
+
+
+Ui 
+
+
+15 
+
+
+3^ 
+
+
+^ 
+
+
+z 
+
+
+t 
+
+
+0E- 
+-0A- 
+
+
+i 
+
+
+m- 
+
+
+50 
+
+i 
+
+
+oc— diim 
+
+
+10 
+
+
+Type  of 
+Mould 
+
+A 
+mm 
+
+C 
+
+mm 
+
+D 
+
+mm 
+
+E 
+
+mm 
+
+1 
+
+100  ±  0-4 
+
+106 
+
+150 
+
+112 
+
+2 
+
+150  ±  0-4             156 
+
+200 
+
+162 
+
+All  dimensions  in  millimetres. 
+Fig.  3    Collar 
+
+
+Mt  leUKH  - 1982 
+
+
+2-H0l.ES.<^  8-5 
+
+
+I- E -J 
+
+
+Typhi  OS  Mould 
+
+D 
+mm 
+
+E 
+
+mm 
+
+P 
+
+mm 
+
+1 
+
+150 
+
+112-5 
+
+150 
+
+2 
+
+200 
+
+162'5 
+
+200 
+
+All  dimensions  in  millimetres , 
+
+Fig.  4    Base  Plate  (  Square  ) 
+
+
+tS  1 10074  -  19ft) 
+
+
+2 -HOLES,  C&  eS 
+
+
+/-TAPPED 
+HOLES  M8 
+
+
+V77^ 
+
+
+y?////////\///////yA  y^^h-^ 
+
+
+0£- 
+q6  p 
+
+
+1 
+
+
+12 
+
+
+Type  of 
+
+MOXJI-D 
+
+D 
+
+mm 
+
+E 
+mm 
+
+mm 
+
+1 
+
+150 
+
+120-5 
+
+180 
+
+2 
+
+200 
+
+170-5 
+
+230 
+
+All  dimensions  in  millimetres. 
+
+Fig.  5    Base  Plate  (  Circular  ) 
+
+
+IS  1 10074  -  1982 
+
+
+160" 
+
+
+:-^ 
+
+
+M8 
+
+
+6A    Stay  Rod  6B    Wing  Nut 
+
+All  dimensions  in  millimetres. 
+
+Fio.  6    Stay  Rod  and  Wing  Nut 
+
+4.3  Base  Plate  —  The  base  plate  shall  be  made  from  the  same  material 
+as  that  of  the  mould.  The  base  plate  shall  have  a  seating  3  mm  deep  on 
+top  face  for  proper  seating  of  mould.  It  shall  be  square  in  shape  and 
+shall  be  as  detailed  in  Fig.  4.  Alternatively,  the  base  plate  shall  be  made 
+circular  in  shape  as  detailed  in  Fig.  5.  It  shall  have  two  tapped  and  two 
+plain  holes.  The  tapped  holes  across  the  corners  or  diameter  shall 
+be  used  for  fixing  the  stay  rods  (  as  shown  in  Fig.  6A  )  and  the 
+plain  holes  shall  be  used  to  fix  the  base  plate  to  the  base  of  an  automatic 
+compactor.  The  stay  rods  shall  be  fixed  to  suit  the  eyes  on  the  mould 
+and  collar  and  four  wing  nuts  (  as  shown  in  Fig.  6B  )  shall  be  used  to 
+tighten  the  mould  and  collar  with  the  base  plate. 
+
+5.  MARKING 
+
+5,1  The  following  information  shall  be  clearly  and  indelibly  marked  on 
+each  part  of  equipment: 
+
+a)  Name  of  the  manufacturer  or  his  registered  trade-mark; 
+
+b)  Type  of  material  used;  and 
+
+c)  Date  of  manufacture. 
+
+5.1.1  The  equipment  may  also  be  marked  with  the  ISI  Certification 
+Mark. 
+
+Note —  The  use  of  the  ISI  Certification  Mark  is  governed  by  the  provisions  of 
+the  Indian  Standards  Institution  <  Certification  Marks  )  Act  and  the  Rules  and 
+Regulations  made  thereunder.  The  ISI  Mark  on  products  covered  by  an  Indian 
+Standard  conveys  the  assurance  that  they  have  been  produced  to  comply  with  the 
+requirements  of  that  standard  under  a  well-defined  system  of  inspection,  testing  and 
+quality  control  which  is  devised  and  supervised  by  ISI  and  operated  by  the 
+producer.  ISI  marked  products  are  also  continuously  checked  by  ISI  for  conformity 
+to  that  standard  as  a  further  safeguard.  Details  of  conditions  under  which  a  licence 
+for  the  use  of  the  ISI  Certification  Mark  may  be  granted  to  manufacturers  or 
+processors,  may  be  obtained  from  the  Indian  Standards  Institution. 
+
+
+10 
+
+
+t^t  16074 -198^ 
+
+(  Continued  Jri»n  page  2  ) 
+
+Members  Representing 
+
+Shui  H.  K.  Gxjha  Geologists'  Syndicate  Pvt  Ltd,  Calcutta 
+
+Shbi  a.  Bhattachabya  {  Alternate  ) 
+Shbi  a.  K.  Gupta  Saraswati  Engineering  Agency,  Roorkee 
+
+Shbi  Rakesh  Goejd  {  Alternate) 
+Shbi  S.  K.  Gupta  Ministry    of    Defence     ( ENC's    Branch,     Army 
+
+Headquarters ) 
+Db  S.  C.  Handa  University  of  Roorkee,  Roorkee 
+
+Db  B.  R,  Mai-hot E A  Central  Road  Research  Institute  (CSIR),    New 
+
+Delhi 
+Shbi  D.S.  Pathania  Central      Scientific      Instruments     Organization 
+
+(  CSIR  ),  Chandigarh 
+Shbi  Y.  C.  Sood  (  Alternate ) 
+Db  T.  Ramamubthy  Indian  Institute  of  Technology,  Delhi 
+
+Shbi  Resham  Sinqh  Hydraulic  &  Engineering  Instruments  Company, 
+
+New  Delhi 
+Shbi  Jatindee  Singh  (  Alternate  ) 
+Shbi  S.  Vbnkatbsan  Central    Building  Research   Institute    (CSIR), 
+
+Roorkee 
+Shbi  M.  R.  Soneja  (  Alternate  ) 
+
+
+11 
+
+
+INTgRNATlOMAL  dY^T^M  6P  UKlJfS  (^1  UhiltS) 
+
+
+Base  Units 
+
+Quantity 
+
+Length 
+
+Mass 
+
+Time 
+
+Electric  current 
+
+Thermodynamic 
+
+temperature 
+Luminous  intensity 
+Amount  of  substance 
+
+Supplemeritary  Units 
+
+Quantity 
+
+Plane  angle 
+Solid  angle 
+
+Derived  Units 
+
+Quantify 
+Force 
+
+c 
+
+■-iitsiyy 
+
+Power 
+
+Flux 
+
+Flux  density 
+
+Frequency 
+
+Electric  conductance 
+
+Electromotive  force 
+
+Pressure, stress 
+
+
+Unit 
+
+
+Symbol 
+
+
+metre 
+
+m 
+
+kilogram 
+
+kg 
+
+second 
+
+s 
+
+ampere 
+
+A 
+
+kelvin 
+
+K 
+
+candela 
+
+cd 
+
+mol 
+
+mole 
+
+Unit 
+
+Symbol 
+
+radian 
+
+rad 
+
+steradlan 
+
+sr 
+
+Unit 
+
+Symbol 
+
+newton 
+
+N 
+
+joule 
+
+J 
+
+watt 
+
+W 
+
+weber 
+
+Wb 
+
+tesia 
+
+T 
+
+hertz 
+
+Hz 
+
+Siemens 
+
+S 
+
+volt 
+
+V 
+
+pascal 
+
+Pa 
+
+Definition 
+1    N    =  1  kg.m/sS 
+
+1   W  =  1  J/s 
+1  Wb  =  1  V.s 
+1    T    ^  1  Wb/mS 
+1  Hz  =  1  c/s  (s-l) 
+1    S   =  1  A/V 
+1     V  =  1  W/A 
+1  Pa  »=  1  N/m« 
+
+

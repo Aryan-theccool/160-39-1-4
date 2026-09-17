@@ -1,0 +1,1641 @@
+**•*•••••*•**••• 
+
+
+
+A ♦ ^ 
+
+
+
+^ 
+
+
+
+TTH^ 
+
+
+
+
+Disclosure to Promote the Right To Information 
+
+Whereas the Parliament of India has set out to provide a practical regime of right to 
+information for citizens to secure access to information under the control of public authorities, 
+in order to promote transparency and accountability in the working of every public authority, 
+and whereas the attached publication of the Bureau of Indian Standards is of particular interest 
+to the public, particularly disadvantaged communities and those engaged in the pursuit of 
+education and knowledge, the attached public safety standard is made available to promote the 
+timely dissemination of this information in an accurate manner to the public. 
+
+
+
+
+Mazdoor Kisan Shakti Sangathan 
+The Right to Information, The Right to Live' 
+
+
+
+Jawaharlal Nehru 
+'Step Out From the Old to the New' 
+
+
+
+IS 10081 (1981) : Terms Relating to Commercial Explosives, 
+Pyrotechnics and Blasting Practices [CHD 26: Explosives and 
+Pyrotechnics] 
+
+
+
+
+^■^^^r 
+
+
+
+^^s^iHf 
+
+
+
+
+
+
+
+
+
+Satyanarayan Gangaram Pitroda 
+Invent a New India Using Knowledge 
+
+
+
+
+Bhartrhari — Nitisatakarri 
+"Knowledge is such a treasure which cannot be stolen' 
+
+
+
+
+'^^^^rr 
+
+
+
+
+
+
+BLANK PAGE 
+
+
+
+
+/Ol 
+
+
+
+<si£L»iL, 
+
+
+
+
+
+
+PROTECTED BY COPYRIGHT 
+
+
+
+IS r 10001 ■ 19S1 
+
+( Reaffirmed 2005 ) 
+
+Indian Sfmuiard 
+
+GLOSSARY OF 
+TERMS RELATING TO COMMERCIAL 
+EXPLOSIVES, PYROTECHNICS AND 
+' BLASTING PRACTICES 
+
+
+
+UDC 662 1/5^001*4 
+
+
+
+
+® Cff[tynghi 1982 
+INDIAN STANDARDS iNSTITtfTlON 
+
+MA^JAK WHAVAN. 9 BAHADUR SHAH ZAl- AR MARG 
+
+EfEW DFXH1 1 10002 
+
+Qr 7 Srptmkr 1982 
+
+
+
+IS : 10081 - 1981 
+
+Indian Standard 
+
+GLOSSARY OF 
+TERMS RELATING TO COMMERCIAL 
+EXPLOSIVES, PYROTECHNICS AND 
+BLASTING PRACTICES 
+
+
+
+Explosives and Pyrotechnics Sectional Committee:, CDC 51 
+
+Chairman Representing 
+
+S.Ht:i R. G. Deoi-alikki; Directorate Geiioral Ordnance Factories, Calcutta 
+
+Members 
+
+Shki K, p. R. Pii.r.AY ( Alternate to 
+Shri R. G. Deolaliker ) 
+Shri T. p. Balakrishnas" Bharat Coking Coal Ltd, Dhanbad 
+
+Shhi U. W. Datey ( Alternate ) 
+Shri G. S. Belwal National Fertilizers Ltd, New Delhi 
+
+Shri Charanjtt Lal Chief Controller of Explosives, Nagpur 
+
+Shbt B. R. Dave ( Alternate ) 
+Dk a. K. CtiATTEKJEE IDL Chemicals Ltd, Hyderabad 
+
+Dr H. B. Bathina ( Alternate I ) 
+Dr G. D. Prasad ( Alternate II ) 
+Shri G. M, Chopka Indian Explosives Ltd, Gomia 
+
+Db S. N, Sen ( Alternate ) 
+Shri S. C Das Gupta Narenda Explosives Ltd, Dehra Dun 
+
+Shri C. M. Deosthale Indo-Burma Petroleum Co Ltd, New Delhi 
+
+Shri A. V. ChandokxaR ( Alternate ) 
+Director ( Mines Safety Directorate General of Mines Safety, Dhanbad 
+Equipment ) 
+Joint Director of Mines 
+Safety ( Alternate ) 
+Shri A. Gbahadurai National Fireworks Factory, Sivakasi 
+
+Shri R. 'I'hangamariappak ( Alternate ) 
+Shri V. Krishnamurthi Central Mining Research Station, Dhanbad 
+
+Shhi M. M. Bhattacharya ( Alternate ) 
+SiiRi B, MiNj Directorate General of Technical Development, 
+
+New Delhi 
+Shri A. K. Chatteiijee ( Alternate ) 
+Siini K. C. Nakayaxan" Development Commissioner ( Small Scale 
+
+Industries ), New Delhi 
+Shri D. V. Rao National Mineral Development Corporation Ltd, 
+
+Hyderabad 
+Shri P. R. Gupta ( Alternate ) 
+
+( Continued on page 2 ) 
+
+
+
+(g) Copyright 1982 
+INDIAN STANDARDS INSTITUTION 
+
+This publication is protected under the Indian Copyright Act ( XIV of 1957) and 
+reproduction in whole or in part by any means except with written permission of the 
+publisher shall be deemed to be an infringement of copyright under the said Act. 
+
+
+
+IS : 10081 - 1981 
+
+( Continued from page 1 ) 
+
+Members Representing 
+
+Dii K. R. K. Rao Ministry of Defence ( R&D ) 
+
+Shri p. R. Roy Central Mine Planning & Design Institute Limited, 
+
+Ranchi 
+Shki S. S. S.alodkab Coal India Ltd, Calcutta 
+
+Shri U. W. Datey ( Alternate ) 
+Prof V. P. Singh Indian School of Mines, Dhanbad 
+
+Dr Sub jit Sixan Ministry of Defence ( DGI ) 
+
+Shri M. G. Bhagwat ( Alternate ) 
+Dr Hari Bhagwan, Director General, ISI ( Ex-officio Member ) 
+
+Director ( Chem ) 
+
+Secretary 
+
+Shri S. K, Mathxjr 
+Deputy Director ( Chemicals ), ISI 
+
+
+
+Classification and Terminology Subcommittee, CDC 51 : 5 
+
+Convener 
+Dn S. B, Ray Ministry of Defence ( DGI ) 
+
+Members 
+Shri M. G. Bhagwat ( Alternate to 
+Dr S. B. Rav ) 
+Shri Charanjit Lal Chief Controller of Explosives, Nagpur 
+
+Shri B. R. Dave { Alternate ) 
+Shri C. M. Dkosthale Indo-Burma Petroleum Co Ltd, New Delhi 
+
+Shri A. V. Chandorkak ( Alternate ) 
+Shri J. S. Ghabia Explosives Research & Development Laboratory, 
+
+Pune 
+Shri K; Vbskatesan { Alternate ) 
+Joint Director of Mixes Directorate General of Mines Safety, Dhanbad 
+
+Shri V. Krishnamurthi Central Mining Research Station, Dhanbad 
+
+Shri M. M. Bhattacharya ( Alternate ) 
+Shri K. Naoarajan IDL Chemicals Ltd, Hyderabad 
+
+Shri R. Govindarajan ( Alternate ) 
+Shri S. Seshan Indian Explosives Ltd, Gomia 
+
+Shbi B. S. Roy ( Alternate ) 
+
+
+
+IS : 10081 - 1981 
+
+Indian Standard 
+
+GLOSSARY OF 
+TERMS RELATING TO COMMERCIAL 
+EXPLOSIVES, PYROTECHNICS AND 
+BLASTING PRACTICES 
+
+0. FOREWORD 
+
+0.1 This Indian Standard was adopted by the Indian Standards 
+Institution on 3 1 December 1981, after the draft finalized by the Explo- 
+sives and Pyrotechnics Sectional Committee had been approved by the 
+Chemical Division Council. 
+
+0,2 The Explosives and Pyrotechnics Sectional Committee felt the 
+necessity for a comprehensive list of terms used in commercial explosive 
+and pyrotechnic industry and their precise and commonly agreed 
+definitions in order to avoid ambiguity and confusion to manufacturers 
+and consumers. It is expected that this standard would eliminate 
+ambiguity in the interpretation of terms used in trade and industry. 
+
+0.3 Indian Standards for various explosives and their accessories have 
+been formulated. This standard is being issued as an adjunct to these 
+standards. 
+
+
+
+1. SCOPE 
+
+1.1 This standard covers the terms and definitions that are prevalent in 
+commercial explosives, pyrotechnics and blasting practices. 
+
+2. TERMS AND DEFINITIONS 
+
+A 
+
+Abel Heat Test — British official heat test which is generally applied 
+to nitro-expJosives. The principle of the test is to note the time required 
+to produce a standard tint on a potassium iodide-starch paper when the 
+explosive is heated under specified conditions. 
+
+Acoustic Warning — A distinctive audible warning used to indicate 
+the start of blasting operation. 
+
+
+
+IS : 10081 - 1981 
+
+Actuator, Explosive — A self- containing power transmitting device io 
+convert chemical energy into mechanical energy. Removers ( retractors ), 
+thrusters, dimple motors, etc, fall in this category. 
+
+Adiabatic Ignition — Ignition of explosives and pyrotechnic system in 
+which there is no virtual heat transfer. 
+
+Adsorption — The adhesion in an extremely thin layer of molecules of 
+gases or dissolved substances or of liquids to the surfaces of solid bodies 
+with which they are in contact. 
+
+Ageing of Explosives — Changes which may include physical, 
+chemical and/or performance of explosives due to environmental con- 
+ditions. 
+
+Air-Blast — Shock wave transmitted through air. 
+
+Air Gap Sensitivity Test ( Ardeer Double Cartridge, ADC Test ) 
+
+— A test to determine the sensitivity of a charge of a receptor explosive to 
+initiation by the donor charge separated by an air gap in line with the 
+donor. 
+
+Aluminium Block Expansion Test — A test similar to lead block 
+expansion test but superior to it when testing brisance of explosives, 
+especially those containing aluminium. 
+
+Ammunition — Explosive substances when enclosed in any case or 
+contrivance or otherwise adopted or prepared so as to form a cartridge 
+or charge for small arms, guns, rockets or other weapons and components 
+thereof such as caps, detonators, primers, boosters, fuses, shells, warheads, 
+etc. 
+
+AN-FO — An explosive based on ammonium nitrate and fuel oil. 
+
+Approved ( Authorized ) — When used for explosives means approved 
+( authorized ) by competent authority. 
+
+ASA — An initiatory mixture containing lead azide, lead styphnate and 
+aluminium powder. 
+
+Available Energy — • Net useful energy of explosion released for doing 
+work. 
+
+B 
+
+Back Break — Rock broken beyond the lines of drill hole, 
+
+B & J Test ( Bergman Junk Test ) — A test for computing the stability 
+of a propellant and nitro-cellulose by measuring the amount of nitrogen 
+oxides evolved when a sample is heated at 132°C or 120''C for a pres- 
+cribed period. 
+
+
+
+IS : 10081 - 1981 
+
+Bail Poivder — A propeiiant iti srnail and hard splierical form, generally 
+used in small arms ammunition. 
+
+Ballistic Mortar — A type of compound pendulum consisting of a 
+heavy mortar suspended by a rigid frame of light aluminium plates on 
+a knife edge used for ballistic mortar test for the measurement of 
+the power of an explosive [ see 3.11 of IS : 6609 ( Part Il/Sec 1 )- 
+1973» ]. 
+
+Ballistic Pendulum — A compound pendulum propelled by the blast 
+
+of an exnlosive fired from a standard cannon for determininer the oower 
+
+" ~ " " 1" ... ^ ^ 
+
+of an explosive, 
+
+Ballistite — A high calorimetric value double base propellant usually in 
+the form of flakes containing around 40 percent of nitroglycerine. 
+
+Baratol — An explosive composed of barium nitrate and TNT. 
+
+Base Charge ( in a Detanator ) — A high explosive charge which 
+makes the major contribution to the power of the device. 
+
+Base Charge ( of a Propellant ) — The principal component of the 
+propellant charge. 
+
+Bench Blasting — A method of blasting in open cast mines with vertical 
+holes in levels or benches ( in the form of steps ). 
+
+Berger ( Explosive ) — A blasting explosive mixture containing potas- 
+sium chlorate, potassium bichromate, sugar and yellow wax in the 
+proportions 61 : 6"1 ; 27 : 5"1. 
+
+Berger Mixture — A smoke producing pyrotechnic composition based 
+on zinc powder and chlorinated hydrocarbon. 
+
+Binary Explosives — See ' Two-component explosives '. 
+
+Bischel Bomb { Bischel Gauge ) — An equipment used to determine 
+the pressure of explosion and to examine the products of detonation/ 
+explosion. 
+
+Blasjo Cut — See under ' Cut '. 
+
+Blast — Shock wave generated from the point of detonation which 
+includes a shock front, a high pressure area behind the shock front and 
+the following rarefaction. 
+
+Blasting — A process of loosening rocks, minerals, etc, by explosives. 
+
+
+
+♦Methods of test for commercial blasting explosives and accessories : Part II 
+Explosives, Section 1 Explosives, general. 
+
+
+
+IS : 10081 - 1981 
+
+Blasting Agent — Any material or mixture consisting of a fuel and 
+oxidizer intended for blasting not otherwise classified as an explosive and 
+in which none of the ingredients is classified as explosive, provided the 
+finished products, mixed and packed for use or shipment, cannot be 
+detonated by a No. 8 blasting cap when unconfined. 
+
+Blasting Cap — See ' Detonator '. 
+
+Blasting Gelatine — A high explosive based on nitroglycerine con- 
+sisting of about 92 percent nitroglycerine and about 8 percent nitrocel- 
+
+Blasting Machine ( Hell Boxes ) — See ' Exploder '. 
+
+Blasting Mat — A net-like structure made of rope, wire, or any other 
+suitable material placed over a blasting site to prevent fly rocks. 
+
+Blasting Powder { Gun Powder, Black Powder ) — A low explosive 
+incorporating sodium/potassium nitrate, charcoal with and without 
+sulphur. 
+
+Blasting Ratio — Tonnes of rock blasted per kg of an explosive 
+used. 
+
+Blasting Soluble Nitrocellulose ( BSNC ) ™ A type of nitrocellulose 
+used in the manufacture of gelatinous nitroglycerine-based explo- 
+sives. 
+Blister Shooting — See ' Mud capping ' or 'Blaster shooting '. 
+
+Blown Shot — A shot which has not done any useful work on initiation 
+in a blown-out shot. 
+
+■o !_ \_ ]_,.:-,„ ,!„..: 1 c "l : A^^t-.^^.^^Urr^ ^(P^^+ U,, 
+
+launching against a target. 
+
+Booster — An intermediate high explosive charge in an ' explosive 
+train ' which is easily initiated by a detonator or detonating fuse to 
+detonate the main explosive charge completely ( same as 'Primer' ). 
+
+Bore Hole ( Drill Hole ) — A prepared hole for the insertion of explo- 
+sive charge. 
+
+Bottom Charge — A charge loaded into the bottom of a drill hole. 
+
+Box Cut — See under ' Cut '. 
+
+Bridge Wire — A resistance wire connected across t^vo lead wires, 
+
+Brisance — Shattering power of an explosive as distinguished from its 
+total work capacity; it indicates its ability to shatter and fragment 
+hard structures and is dependent upon its velocity of detonation. 
+
+
+
+IS : 10081 - 1981 
+
+Brtska Detonator — A detonator in which extra strength is achieved 
+with the same quantity of base charge by subjecting it to a much higher 
+pressure. 
+
+Bubble Energy — Energy contained in a bubble formed on detonation 
+of an explosive charge under water, in other words, the gas pressure 
+energy component of the total available energy of an explosive. 
+
+Bubble Sensitization — Sensitization of an explosive charge by the 
+adiabatic compression of entrapped gas bubbles. 
+
+Bulk Loaded Explosive — Explosive directly loaded ( without a pro- 
+tective wrapper ) into boreholes. 
+
+Bulk Power — Power per unit volume of explosive. 
+
+Bulled Hole — A bore hole with a chamber at the bottom which is 
+formed by blasting a light charge of explosive to accommodate a large 
+quantity of explosive {see ' Coyote blasting ' ). 
+
+Bullet Impact Test — A test to determine the extent to which various 
+ammunitions or explosives which are packed in regulation containers are 
+safe against the effects of small arms fire. 
+
+Bulling ( Chambering ) — A procedure intended to enlarge a section 
+of a drill hole to obtain a greater concentration of explosive at that 
+point. 
+
+Burden ( Face Burden ) — The distance between the main body of the 
+charge and the nearest free face. 
+
+Burn Cut ( Shatter Cut ) — See under ' Cut '. 
+
+Burning Rate — The linear regression of reaction zone measured per 
+unit of time. Reciprocal of burning rate is the burning time. 
+
+Bursting Time — The time from the application of energy to the 
+bur£.ting of the detonator. 
+
+Butt Hole ( Bottlog Socket ) — A portion of the borehole remaining 
+in a face after firing of the charge. 
+
+
+
+Cannon ( Standard Cannon ) — A heavy steel device used to fire 
+charges for testing permitted explosives [ see 3.1.3 of IS : 6609 ( Part 11/ 
+Sec2 )-1974*]. 
+
+Cap — See ' Detonator ', ' Blasting cap '. 
+
+•Methods of test for commercial blasting explosives rnd accesstries : Part II 
+Explosives, Section 2 Explosives^ permitted. 
+
+
+
+IS : 10081 - 1981 
+
+Cap Sensitive — Any explosive composition which can be efficiently 
+initiated by a commercial No. 6 detonator. 
+
+Capped Fuse — A length of safety fuse with a plain detonator crimped 
+onto one end. 
+
+Cartridge — A preformed unit of explosive wrapped to a predetermined 
+diameter and length. Also a round of small arm or gun ammunition. 
+Also a type of military pyrotechnic store. 
+
+Cast Explosives — Explosives which are melted and loaded by casting 
+into a receptacle. 
+
+Cavity ( Cavitation in Filled Explosives ) — An air space within 
+filled explosive that usually results in non-uniform burning or premature 
+bursting. 
+
+Cavity Charge — See ' Hollow charge '. 
+
+Chambering — See ' Bulling '. 
+
+Characteristic Impedance of an Explosive — The product of 
+density and optimum velocity of detonation of an explosive. 
+
+Charge — A given quantity of an explosive filled in an ammunition or a 
+shot hole. 
+
+Charge Density — Quantity of explosive charge per unit length of the 
+borehole. 
+
+Charge Flash 
+
+a) A readily ignitable explosive charge used in ignition elements of 
+electric primers and detonators. 
+
+b) A pyrotechnic charge used in flash producing items such as 
+photo-flash cartridges, bombs or spotted devices. 
+
+Charge Signal Ejection — An explosive device designed to eject a 
+signal from an underwater mine, used for training. 
+
+Charge Weight — Weight of explosives charged. 
+
+Charging ( Loading ) — The act of placing the explosive in the desired 
+position for blasting. 
+
+Chemical Ammunition — Any ammunition containing casualty 
+agents, riot control agents and incendiaries. 
+
+Circuit — The wiring connecting electric detonator(s) to the source of 
+power for initiating them. 
+
+8 
+
+
+
+IS : 10081 - 1981 
+
+Classification — The division of explosives into classes and divisions 
+according to their general characteristics for storage and transporta- 
+tion. 
+
+fllavr f~lA«»1r / niovr Vfnar \ (~^1q\; nliKT iie*»r1 ff\r <it cum m\rtV 
+
+■^^..j ww« ^ ^.^j - «.{, J J ^ — J-, — ".- o- 
+
+Collar — The space left on the top of the explosive charge in a bore- 
+hole. 
+
+Collar-Prixning — Priming of the main expolsives column in such a 
+way that detonation is initiated at the primer near the collar. 
+
+Column Loading — The charging of a borehole with a train of ex- 
+plosive. 
+
+r^nmna^ihlt-ifv — TJip rtWi]\tv rtf n suhstanrf r\r n rAmbinatinn of snbs- 
+
+tances to remain indefinitely in contact with an explosive without any 
+adverse physical and/or chenvical effects on each other. 
+
+Confined Shots — Charges fired under confined conditions. 
+
+Confinement • — The degree of restraint exerted on the explosive charge 
+
+hv thp! surroundinD' material. 
+
+._ ^ — . _... — .^-j _ .. 
+
+Connector for Ignitor Cord — These are used to provide a connection 
+between the end of the safety fuse and the ignitor cord. 
+
+Continuity of Detonation ( COD ) — The property of an explosive to 
+propagate detonation along the explosives column over a length of 1 m 
+from the point of initiation. 
+
+Cordite — Double based propellant in the form of cords. 
+
+Ccromunt Cut — Sef under ' Cut '. 
+
+Coyote Blasting — See ' Bulled hole '. 
+
+Grater — A denression m the ground caused by an explosion. 
+
+Crimper — A hand tool used for crimping a detonator onto a safety 
+fuse. 
+
+Crimping Machine — - A machine used to crimp detonators to the 
+igniting device. 
+
+Crimping Station ( Capping Station ) — A special room or build- 
+ing used for preparing capped fuses. 
+
+V^niiA^MA A'JmUACLdL J. lie: iiiiiiiiiiuiii taiuiiiv-ivi ut. v* iiii^ii ait ^A|^it^^iw^ 
+
+column when initiated propagates detonation over the entire column. 
+
+Crushed Zone — The zone of rock surrounding the borehole which is 
+crushed by tlie blasting of an explosive charge. 
+
+
+
+IS : 10081 - 1981 
+
+Cushion Blasting — A technique of blasting using space cartridges 
+( see also ' Perimeter blasting ', ' Smooth blasting ' ). 
+
+Cut — An arrangement to provide a free face at the time of blasting an 
+explosive. 
+
+The different types of cut employed in simultaneous blasting are 
+under-cut, middle-cut, over-cut and side-cut. These are defined as 
+follows : 
+
+Under-Cut — provided at the floor level of the rock face. 
+Middle-Cut — provided in the middle portion of the rock face. 
+Over-Cut — provided at the roof level of the rock face. 
+Side-Cut — provided vertically on any side of the rock face. 
+
+The different types of cut employed in delay blasting are ; drag- 
+cut, fan- cut, wedge- cut, blasjo-cut, pyramid or diamond-cut, burn-cut 
+and coromunt cut. These are defined as follows: 
+
+Drag-Cut — A cut in which shot holes are angled in a vertical 
+plane. 
+
+Fan-Cut — A cut in which shot holes are angled in a horizontal 
+plane. 
+
+Wedge-Cut — A cut in which a wedge is formed either vertically or 
+horizontally by pairs of holes drilled at about 60° to the 
+face and meeting or finishing close to each other at the 
+back of the cut. 
+
+Blasjo-Cut — A wedge cut in the horizontal plane in which the pair 
+of shot holes one on each side of the face has between 
+them an angle of 30', with the trimmers at the top and 
+bottom levels of the face. 
+
+Pyramid or Diamond-Cut — A cut consisting of a group of shot 
+holes drilled from the periphery of a core to meet at a 
+point which forms the back of the cut. 
+
+Burn-Cut ( Shatter-Cut ) — A cut comprising a cluster of shot holes 
+drilled approximately at right angles to the face and 
+placed close to each other and parallel throughout 
+their length, with one or more holes left empty in the 
+vicinity of the charged holes, thus forming additional 
+free face to relieve the burden on the charge holes. 
+
+10 
+
+
+
+IS : 10081 • 1981 
+
+Box-Gut — A burn -cut in the pattern of a square or rectangle with 
+one or more empty holes interspersed. 
+
+Line-Gut — A burn-cut in the pattern of a straight line with ahernate 
+charged and uncharged holes. 
+
+Goromunt-Cut — A cut comprising a cluster of parallel shot-holes 
+drilled approximately at right angles to the face and 
+placed close to each other with one or more empty centre 
+holes which are actually two holes drilled close together 
+and slightly over-lapping each other. 
+
+Cut Off — A condition of a hole charged with explosive which has been 
+partially sheered off by the blast of the previous shot. 
+
+Catting Charge — A charge of explosive applied to the outside of an 
+object with the aim of cutting or sheering it off. 
+
+
+
+Dead Pressed — An explosive pressed to such an extent as to lead to 
+loss in sensitivity to detonation. 
+
+Deck Charges ( Deck Loading ) — Charges placed above a base 
+charge at pre-selected intervals and which are separated from the base 
+charge and each other by sand or other spacing materials. 
+
+Decoupling — The extent of air space left between the explosiv-e charge 
+and the inside wall of the borehole. 
+
+Deflagration — Brisk burning of an explosive without detonation. 
+
+DEGN ( EGDN ) — Abbreviation for diethylene glycol dinitrate. 
+
+Delay — A pyrotechnic item mostly of relatively slow reaction time 
+( in mm per s ), suitable for timing sequence of events ( see ' train ' ). 
+
+Delay Detonator — A detonator which functions at a predetermined 
+delay after the application of energy. 
+
+Delay Detonator Relays or Detonating Relays — A component of 
+high explosive train which introduces a delay in the time of functioning 
+of the detonating fuse. 
+
+Delay Element — ■ A component which provides a specific delay in the 
+detonator, fuse, etc. 
+
+Delay Interval — The interval expressed in time between initiation and 
+detonation of the bursting charge. 
+
+Densifi cation — To increase the density of an explosive composition. 
+
+11 
+
+
+
+IS X 10181 - 1981 
+
+Desensitizatxon — Desensitization { oi- phlegmatizalion ) of an explo- 
+sive means rendering it insensitive or less sensitive to heat, shock, impact, 
+percussion, rifle bullet or friction. 
+
+Detonating Cord ( Detonating Fuse ) — Essentially a small round 
+core of high explosive covered with a protective sheath to propagate a 
+detonating impulse. 
+
+Detonation — An exothermic chemical reaction in which the advancing 
+reaction zone in the explosive column is preceded by a shock wave. 
+
+Detonation Front ( Detonation Head ) — The envelope produced by 
+a shock wave detonating an explosive charge. 
+
+Detonation Pressure — Pressuz-e exerted at the detonation front. 
+
+Detonation Trap — A device which arrests further propagation of 
+detonation front. 
+
+Detonation Velocity — The rate of advance of the reaction zone is 
+termed detonation velocity or rate ( see VOD ). 
+
+Detonator — A device to start an explosive process. 
+
+Detonator No. 6 — Standard detonators which when tested by sand 
+bomb test as prescribed in IS : 6609 ( Part III )-I973* give the folloiving 
+quantity of crushed sand: 
+
+a) Percentage of sand passing through 500-micron IS sieve not 
+
+less than 35. 
+
+b) Percentage of sand passing through 250-micron IS sieve not 
+
+more than 30. 
+
+Detonator No. 8 — Standard detonators which when tested by the 
+sand bomb test as prescribed in IS : 6609 { Part III )-1975* give the 
+following quantity of crushed sand : 
+
+a) Percentage of sand passing through 500-micron IS sieve not 
+
+less than 50. 
+
+b) Percentage of sand passing through 250-micron IS sieve not 
+
+more than 45. 
+
+Diamond Cut — See under ' Cut '. 
+
+Direct Initiation — Initiation of a column of explosive from the 
+mouth of the borehole. 
+
+
+
+'Methods of test for commercial blasting explosives and accessories : Part III 
+Detonators, general and permitted. 
+
+12 
+
+
+
+IS t 10081 - 1981 
+
+'Do'wn Line Propagation — Px-opagation of detonation in a column o f 
+explosive charge with the initiating device spread along the length of the 
+explosive column down the borehole. 
+
+Drag Cut — See under ' Cut '. 
+
+Drifting — One of the methods in stoneblasting In coal mines. Th e 
+principles involved are similar to those of tunnelling. 
+
+Drilling — Operation of making boreholes for leading explosive 
+charges. 
+
+Dry Blasting Agent/Explosive — ■ A powder explosive generally con- 
+sisting of ammonium nitrate as the major ingredient with no explouva 
+sensitizer. 
+
+Dynamite — Originally referred to nitroglycerine absorbed in klesel- 
+guhr but now extended to other high explosive compositions based on 
+nitroglycerine. 
+
+Dynamite Gelatine — Explosives based on a gelatinized mixture of NG 
+and NG with other additives. These are also known as gelatines or 
+gelignites. Some gelatine NG/NG mixtures are also i-eferred to as 
+dynamites in continental countries. 
+
+Dynamite, IF, F { Low Freezing ) — High explosive composition based 
+on nitroglycerine as sensitizer Avith other liquid explosive such as DNT, 
+EGDN, etc, to serve for lowering freezing point of nitroglycerine. 
+
+
+
+Electric Detonator ( Electric Cap ) — A detonator having electrical 
+means of ignition. 
+
+Electric Lighters ( for Igniters ) ~ Specially a slotted connector 
+containing a pyrotechnic composition for attachment to igniter cord and 
+which is initiated electrically to ignite the cord. 
+
+f Electric Storm — A storm which may include an electrostatic charge. 
+
+Electro-Explosive Devices — Devices consisting of a charge of explo- 
+sive in contact with an electro-explosive transducer. 
+
+Emulsion Explosive — An explosive in the form of emulsion. 
+
+Excitation Time — The minimum period of time ( usually of the 
+order of milliseconds ) for which the detonator fuse-head should be 
+subjected to the current impulse passing through the bridgewire for 
+ignition of the fusehead. 
+
+Exploder — A device which supplies electrical energy for initiating 
+electric detonators. 
+
+13 
+
+
+
+IS } 10081 - 1981 
+
+Explosion — Liberation of energy sufficiently sudden to cause dynamic 
+stress to the surroundings. 
+
+Explosion Pressure — Pressure developed on explosion. 
+
+Explosive — A material or mixture of materials which w hen initiated 
+undergoes a rapid chemical change with the development of heat 
+and high pressure. Explosives are broadly divided into two main 
+classes. 
+
+a) Low Explosive — A class of explosives which do not detonate but 
+rather generate a large amount of gas and heat when ignited. 
+Normally pyrotechnics and propellants fall under this class. 
+
+b) High Explosives — A class of explosives which detonate when 
+suitably initiated and are characterised by high rate of reaction 
+and pressure. 
+
+Explosive Column — A train of explosive charges. 
+
+Explosive Limit — A limit imposed by the statutory authority 
+specifying the quantity of explosive that can be handled/stored or 
+transported. 
+
+Explosive Primary — An explosive which explodes or detonates on 
+flDnlJration of small external enerev Droduced bv friction, imnact. flame 
+or heat ( see 'Initiatory Explosives' ). 
+
+Explosive Secondary — A term applied to a few high explosives 
+which are not as sensitive as the primary explosives but are more sensitive 
+to initiation by the primary explosives. They are used as booster or 
+exploder charges, for example, tetryl, PETN. 
+
+Explosive Strength — Strength of an explosive expressed as the per- 
+centage equivalent of blasting gelatine which is arbitrarily given a value 
+of 100 percent. This definition may not be applicable for all types of 
+explosives. 
+
+Explosive Switch — A self-contained electrically initiated small unit 
+that causes one or more electric circuits to be opened and/or closed by 
+explosive action. 
+
+Explosive Train — A series of explosive charges specially arranged to 
+produce a desired outcome of detonation or explosion. 
+
+Exudation — The appearance of oily liquid on the inside or outside of 
+
+F 
+
+
+
+an ex'i^losive 
+
+
+
+Face Burden — See ' Burden '. 
+
+14 
+
+
+
+IS I 10081 - 1981 
+
+Fall Hammer — An equipment to assess the sensitiveness of an explosive 
+to impact. 
+
+Fan Cut — See under ' Cut '. 
+
+Fire Damp Emission — A continuous evolution o^ methane ( called 
+fire damp ) in coal mine workings. 
+
+Firing — The act of initiating an explosive. 
+
+Firing Gable — Insulated wires to connect the shots to be fired to the 
+source of energy to be used. 
+
+Firing Circuit — Electrical circuits which may be in series, parallel, 
+series-parallel or parallel-series obtained by connecting detonator lead 
+wire in various ways. 
+
+Firing Device — See ' Exploder ', ' Mains Firing '. 
+
+Flammability — Susceptibility of a substance to ignition and sustained 
+combustion. 
+
+Flammability Range — The difference between the minimum and 
+maximum percentage by volume of the gas in mixture with air that 
+forms a flammable mixture. 
+
+Flares — A pyrotechnic ammunition designed to produce a single source 
+of intense light for relatively long durations for target or air-field illumi- 
+nation or for signalling and other purposes. 
+
+Fly rocks — Rocks thrown at an excessive distance from the blasting 
+
+site. 
+
+Fragmentation — The extent to which the blasted material is shattered 
+
+into small fraginents. The size distribution of the blasted material in 
+
+the muck pile after the blast. 
+
+Freezing and Thawing Test — A test in which samples of NG-based 
+explosives are subjected to alternate freezing and storage at room tempe- 
+rature to see if any gel breakdown occurs. 
+
+Friction Sensitivity — Sensitivity of explosive to initiation by fric- 
+tion. 
+
+Frictional Impact Test ( Torpedo Friction Test ) — Test of 
+explosives for sensitivity to impact and friction simultaneously. 
+
+Fume Characteristics — Characteristics (mainly toxicity) of post 
+detonation fumes of explosives. 
+
+Fuse — A slow burning device designed to initiate an explosive system 
+on being subjected to one of the actions such as ignition, stab, percussion 
+or friction. 
+
+15 
+
+
+
+IS : lOOSl • 1981 
+
+Fuse Detonating — See ' Detonating cord '. 
+
+Fuse Head — An electrical ignition device, without lead wires. 
+
+Fuse Ignitor — A pyrotechnic device which burns with a very hot 
+jetting flame and is used to ensure ready ignition of safety fuse. 
+
+
+
+Gallery Test — A standard test for studying the safety of explosives for 
+general application in underground coal mines. 
+
+Gap Sensitivity — 5"^!? ' Air gap sensitivity '. 
+
+Gap Test — See ' Air gap sensitivity test '. 
+
+Gasless Composition — A pyrotechnic material that reacts with 
+release of very small amount of gaseous products. 
+
+Gelatinous Explosive — An explosive consisting of gelatinized mix- 
+ture of nitrocellulose and nitroglycerine and other additives. 
+
+Gerbe — A pyrotechnic device usually with 20 mm inside diameter from 
+which a jet or spray of fire issues. 
+
+Grit Sensitivity — The sensitivity of an explosive to initiation in the 
+presence of grit. 
+
+Gun Powder — See ' Blasting powder ', ' Black powder '. 
+
+H 
+
+Halved Cartridge Test — An air gap sensitivity test in whicli the explo- 
+sive cartridge is cut into two halves to make a donor and a receptor and 
+the cut ends face each other. 
+
+Hang Fire — A charge which fires later than intended where a deflagra- 
+tion stage precedes the explosion. 
+
+Heat of Explosion — The heat evolved when a substance ( explosive ) 
+is exploded in the absence of oxygen. 
+
+Heat Test — See ' Abel heat test '- 
+
+Heave ( Throw ) — The extent to which the broken mass of the rock is 
+thrown from its original location. 
+
+Hess Test — Lead block compression test £or the determination of 
+brisance of an explosive. 
+
+High Explosive HE — See under ' Explosive '. 
+
+16 
+
+
+
+IS 1 10081 - 1981 
+
+Hollow Charge/Shaped Charge — A charge incorporated with a 
+cavity to produce what is known as 'cavity effect' or ' Munroe effect '. 
+
+Hot Spots — High temperature spots produced in a layer of explosive 
+arising out of impact, friction or adiabatic compression of entrapped gas 
+bubbles. 
+
+
+
+Igniter — A cartridge or a charge with an initiating device. 
+
+Igniter Cord — A cord which burns at a faster rate than that of the 
+safety fuse and which is used to ignite a number of safety fuses in 
+sequence. 
+
+Igniter Cord Connectors — Slotted and recessed metal tubes contain- 
+ing a pyrotechnic composition which are used to connect igniter cord to 
+safety fuse. 
+
+Illuminating Flare — A military device containing a pyrotechnic 
+composition ( usually illuminating ) comprising mixtures based on finely 
+powdered substances like aluminium and magnesium, compressed into 
+the form of a candle. 
+
+Impact Sensitivity — Sensitivity of explosive to initiation by impact 
+( see ' Call hammer ' ). 
+
+Incendiary — A substance used for destructive ignition. 
+
+Incendivity — The degree to which an explosive is prone to ignite gas 
+mixtures or coal dust in a statutory test. 
+
+Induction Time — In firing electric detonators, the time between the 
+breaking of the fuse wire and the detonation of the base charges. 
+
+Initiating Efficiency — Ability of an initiator, primer or booster, to 
+reliably detonate a high explosive charge. 
+
+Initiation — To start an explosive reaction by means of a spark, heat, 
+impact, friction or a Shockwave. 
+
+Initiator — First element of an explosive or pyrotechnic train normally 
+containing a small amount of primary explosive. 
+
+Initiatory Explosive — A primary explosive alone or in combination 
+with other ingredients used for setting off a secondary explosive usually 
+in a detonator system. 
+
+Instantaneous Fuse — A fuse which propagates by burning a't high 
+velocity. 
+
+17 
+
+
+
+IS : 10081 - 1981 
+
+Inverse Initiation — Initiation of an explosive column from the back 
+of the borehole. 
+
+K 
+
+Kast Brisance Meter — An apparatus for measuring the Lrisancc by 
+compression ( crushing ) of a copper cylinder. 
+
+
+
+Lag Time — Time interval between the application of energy to an 
+electric detonator and the breaking of its electric circuit. 
+
+Lances — Paper tubes of light construction measiring 6 to 9 mm dia 
+and 50 to 75 mm length filled with coloured fire composition, which is 
+charged into the tube by temping only. These are used in set pieces, 
+attached to a wooden framewoik and are meant to produce outlines 
+of the figures of the desired pattern such as a flag, words, etc. 
+
+Lanyard — A chord or cable for setting off a firing mechanism from a 
+distance. 
+
+Lead Block Test ( Trauzl Lead Block Test ) — A method of measur- 
+ing the power of an explosive by tlie expansion caused in the cavity of a 
+lead block after firing a charge of explosive. 
+
+Lead Plate Test — A test which is employed for testing the strength of 
+detonators. 
+
+Lead Wires ( Leg l/Vires ) — Insulated wires permanently attached to 
+electric detonators. 
+
+Leakage Resistance — Leakage of current due to insiifficient insulation 
+resistance of the wire leading to the shot. 
+
+Line Cut — See under ' Cut '. 
+
+Liquid Oxygen Explosive ( LOX ) — Charged prepared by soaking 
+an absorbent cartridge made of combustible ingredients in liquid 
+oxygen. 
+
+Liquefaction — Segregation of liquid present in the explosive including 
+segregation of liquefiable oxidizer salts in the explosives by extraneous 
+agencies such as moisture pick up. 
+
+Loading — Filling of blast holes with explosives. 
+
+Loading Density — Charge per unit length of borehole in mining 
+practice. 
+
+Loading Pattern — Pattern of loading explosives into the blast holes. 
+
+18 
+
+
+
+IS t 10081 - 1981 
+
+Low Explosive — See under ' Explosives '. 
+
+liOW Freeze Explosive ( Polar Explosive ) — A nitroglycerine based 
+explosive incorporating a low freeze mixture of nitroglycerine and ethylene 
+glycol dinitrate ( EGDN ) with or without other antifreezing ingre- 
+dients. 
+
+M 
+
+Magazine — An approved store which is exclusively appi^opriated to the 
+keeping of explosives. 
+
+Magazine Shoes — Shoes specially made without iron/steel in the soles 
+and heels for wearing in magazines. 
+
+Mains Firing — Firing of explosives by energising the mains circuit 
+from mains of electric supply. 
+
+Match — Cotton ivicking impregnated with gunpowder, used for conve- 
+ying fire to a piece or parts of pyrotechnical devices* 
+
+Match Fuse — A stick of match fuse safety consisting of a firm solid 
+cigar shaped bulb of a smouldering composition or compositions formed 
+over a layer of inert material around one end of a wooden splinter, 
+chemically treated to merely char but not burst into flame on heating. 
+
+Mats ( Blasting ) — See ' Blasting mat '. 
+
+Methyl Violet Test — A test for stability of propellant ( single based 
+and double based ) by measurement of time required for oxides of 
+nitrogen to be evolved by thermal decomposition under specified condi- 
+tions and change in the colour of methyl violet paper to bright salmon 
+pink. 
+
+Middle Cut — See under ' Cut '. 
+
+Mine ( Explosives ) — An encased explosive or chemical charge placed 
+in position so that it detonates when its target touches or moves near it 
+or when it is touched by remote control. 
+
+Minimum Booster — Minimum quantity of booster required for reli- 
+able detonation of a non-cap sensitive explosive charge. 
+
+Misfire — A charge or a part of charge which for any reason fails to 
+detonate. 
+
+Mud Capping — See ' Plaster shooting '. 
+
+MufSed Blasting — A method of blasting to prevent fly rocks. 
+
+Multiple Fuse Igniter — A device for igniting many lengths of safety 
+fuse simultaneously by means of a master fuse. 
+
+19 
+
+
+
+IS : 10081 - 1981 
+
+Munroe E£Fect ( Cavity Energy Effect ) — The axial reinforcement 
+of waves in a particular direction as a result of explosion. 
+
+Muzzle Burst — Explosion of a projectile near or at the muzzle of a 
+weapon. 
+
+Muzzle Flash — Flame at the muzzle of a gun after a projectile leaves 
+the barrel. 
+
+Muzzle Velocity — The velocity of a projectile at the muzzle end, 
+
+N 
+
+Napalm — Aluminium soap in powder form, gelatinized in gasoline for 
+use in bombs of flame throwers. 
+
+NC — Nitrocellulose. 
+
+NCN — Nitrocarbonitraie. 
+
+NCN Blasting Agent — A, blasting agent either in powder or slurry 
+form based essentially on nitrocarbonitrates. 
+
+NG — Nitroglycerine. 
+
+Nitrous Fumes — Fumes containing various oxides of nitrogen. 
+
+Non-electric Delay Detonators — Delay detonators containing non- 
+electric means of initiation. 
+
+Non-incendive Short Period Delay Detonators — Specially designed 
+detonators for use in gassy and dusty coal mines. 
+
+Non-permitted Explosive — Explosives whose use is not permitted 
+for blasting in underground gassy and dusty coal mines. 
+
+O 
+
+Obturate — To seal an explosive device to prevent explosive gas in a 
+particular direction. 
+
+Ogive — A curved or front section of a projectile or signal. 
+
+Ordinary Detonator — •S'^^ ' Plain detonator '. 
+
+Ordnance — Large size military guns and mortars. 
+
+Over-cut — See under ' Gut '. 
+
+Overdrive — High energy initiation of the explosive column. 
+
+Oxidizer — A substance that furnishes the reactant oxygen. 
+
+Oxygen Balance — Oxygen content relative to the total oxygen required 
+for the complete oxidation of all oxidizable material. 
+
+20 
+
+
+
+IS : 10081 - 1981 
+
+P 
+
+PAD — Propellant actuated device formerly CAD ( cartridge actuated 
+device ). 
+
+Partial Detonation — Incomplete detonation. 
+
+Pattern ( of Blasting ) — A dimensional plan of holes to be drilled for 
+blasting a face. 
+
+Pentalite — Mixture of PETN and TNT. 
+
+PETN — Pentaei-ythritol tetranitrate. 
+
+Percussion Primer — A saTiall capsule containing primary explosives 
+initiated by a firing pin. 
+
+Perimeter Blasting — The firing of lightly charged perimeter holes 
+either prior to or at the same time as the main blast ( see ' Cushion blast- 
+ing \ ' Smooth blasting ' and ' Pre-splitting ' ). 
+
+Permitted Detonator — A specially designed detonator for use in gassy 
+and dusty coal mines. 
+
+Permitted Explosive — A specially designed explosive suitable for 
+use in gassy and dusty coal mineSj which has passed certain statutory 
+tests. 
+
+Phelgmatization — See ' Desensitization '. 
+
+Picrite — Nitroguanidine. 
+
+Plain Detonator — A metal tube closed at one end, charged with the 
+initiating explosive consolidated under pressure, and left open at the other 
+end. It is intended for use with safety fuse. 
+
+Plaster Shooting — Also known as ' Secondary blasting ' and ' Mud 
+capping '. It is a technique where explosive charges are blasted on the 
+rock surface without drilling any holes. The charge is usually covered 
+by mud or clay, and hence the name ' Mud capping '. 
+
+Plastic Explosive — An explosive having plastic properties which can 
+be moulded to the desired shape. 
+
+Polar Explosive — See ' Low freeze explosives '. 
+
+Pop ( Popping, Pop Shooting ) — The breaking of rocks by firing a 
+small charge within holes which have been drilled into them. 
+
+Post-detonation Fumes — Fumes generated by blasting of explosives. 
+
+Powder Explosive — Explosive in powder form. 
+
+21 
+
+
+
+IS : 10081 - 1981 
+
+Powderman { Powder Monkey, Shot Firer ) — See ' Shot firer '. 
+
+Powder Van — A covered van specially designed to carry an explosive 
+safely ( also called ' Explosive van ' ). 
+
+Power — A measure of the amount of energy released by an explosive 
+on detonation and hence of its ability' to do useful work ( same as 
+' Strength ', * Weight strength ' ). 
+
+Power Factor — See ' Blasting ratio '. 
+
+Premature Explosion/Detonation — An explosion \\ hich occurs 
+earlier than it is intended. 
+
+Primer — See ' Booster '- 
+
+Priming Charge — In detonator manufacture, the charge of initiating 
+explosive. 
+
+Propellant — An explosive whicli by its regularity of burning produces 
+sustained pressure in the bore of a gun for imparting acceleration to the 
+projectile. 
+
+Pyramid Cut — See under ' Cut '. 
+
+Pyrotechnic — An explosive containing combustible materials for the 
+production of flame, heat, light, smoke or sound. 
+
+R 
+
+RDX — Cyclotrimethylene trinitramine ( also known as ' Cyclonite 
+Hexogen' ). The origin of the word is * Research Department Explo- 
+sive '. 
+
+Reflection Shooting — A method of seismic prospecting in which 
+charges are fired singly or in multiples to get reflected seismic signals. 
+
+Refraction Shooting — A method of seismic prospecting in which 
+heavy charges of explosives are fired for obtaining refracted signals. 
+
+Relays — See ' Delay detonator relays ' . 
+
+Ripping — ■ In coal mining, the removal of stone after recovery of coa 1 
+to produce a road of normal size. The operation is commonly associated 
+with longwall method of mining coal. 
+
+Rotational Firing ( Sequence Firing ) — The firing of charges in 
+predetermined order. 
+
+22 
+
+
+
+IS : 10081 - 1981 
+
+
+
+Safety Distance 
+
+a) Inside ( ISD ) — The distance between a building or stack con- 
+taining explosives and other such building or stacks inside an 
+enclosed explosive area which will prevent the immediate direct 
+propagation of explosion or fire from one to the other by missile, 
+flame or blast. 
+
+b) Outside ( OSD ) — The distance between a building or stack 
+containing explosives and other buildings, railways, waterways, 
+and main roads outside an enclosed explosive area beyond which 
+ignition or explosion of explosives or dangerous goods will not 
+cause severe structural damage to the building, etc, or serious 
+physical injury to persons. 
+
+Safety Fuse — A fuse for blasting which burns and does not explode 
+and which does not contain its own means of ignition, and which is of 
+such strength and construction and contains an explosive in such quantity 
+that the burning of such fuse would not communicate laterally with other 
+like fuses. 
+
+Salamander Blasting — A blasting technique used to remove sala- 
+mander or solidified slag from blast furnances. 
+
+Sand Bomb Test ( Sand Test ) — A test to assess the strength of a 
+detonator in terms of crushing of sand in a closed chamber. 
+
+Secondary Blasting — A process of breaking, with explosives, boulders 
+from an initial blast which are too large for immediate handling ( see 
+* Blaster shooting ' ). 
+
+Seismic Explosives — Specially designed explosives used for seismic 
+prospecting. 
+
+Sensitivity — Susceptibility of an explosive or pyrotechnic component 
+to react to external stimuli. 
+
+Shaped Charges — An explosive charge designed to produce specific 
+effects by the inclusion of a re-entrant conical or V-shape usually lined 
+with naetal. 
+
+Sheet Explosive — An explosive in the form of a sheet. 
+
+Shelf Life — Length of time in storage during which an item will 
+remain in serviceable condition. 
+
+Shock Wave — A compression wave caused by sudden rise In pressure 
+due to release of a large quantity of gaseous products at high temperature 
+resulting from decomposition of the explosive material. 
+
+23 
+
+
+
+IS : 10081 - 1981 
+
+Short Firing — The firing of explosive charges. 
+
+Shot Delay ( Detonators ) — A delay detonator with functioning time 
+of the order of milliseconds. 
+
+Shot Firer — A person who is authorized and licenced to prepare 
+explosive charges and carry out blast operations ( same as * Powderman ', 
+* Powder monkey' ). 
+
+Shot Firing Gables ( Leads ) — See' Firing cable ' . 
+Side-cut — see under 'Cut'. 
+
+Signal Pistol — A single shot pistol designed to project pyrotechnic 
+signals. 
+
+Single Base Propellant — Propellant based on nitrocellulose only. 
+
+Slurry Blasting Agents ( SBA ) — See'^ Blasting agents '. 
+
+Slurry Explosives ( SE ) — An explosive made by sensitizing a thick- 
+ened slurry of oxidizing salts, fuels and other ingredients ( same as 
+' Water gel explosives ' ). 
+
+Smooth Blasting — A method for firing holes in such a manner as to 
+avoid excessive fracturing with the aim of preserving a smooth outline 
+( see also ' Cushion blasting ', ' Perimeter blasting ' ). 
+
+Socket — A partially blasted shot hole containing undetonated explo- 
+sive. 
+
+Solid Blasting — Blasting any solid rock face when only one free face 
+is available. 
+
+Note — This method is not limited only to blasting of coal but applies to all type!> 
+of rocks. 
+
+Sound Signal — See ' Acoustic warning '. 
+
+Spacers — Non-explosive material ( for example, wood, ceramic ) inter- 
+posed between charges to extend the column of explosives. 
+
+Spacing — The linear distance between the collars of drill holes. 
+
+Spalling — The breaking off of a scab of material from a free face as a 
+result of the reflection of shock waves. 
+
+Spontaneous Ignition — Ignition occurring without external energy 
+input. 
+
+Sporting Powder — Powder used for filling of cartridges with a nitro- 
+cellulose propellant. 
+
+Squib — An electrically fired igniter. 
+
+24 
+
+
+
+IS ; 10081 - 1981 
+
+Stamping — The process of filling up holes with sand, day, soil, etc, 
+after they have been charged with explosive. 
+
+Star — A pyrotechnic light signal of short duration ( but not a flash ) 
+that burn as a speck of light in the air. 
+
+Steady State Velocity — Steady velocity attained by an explosive 
+
+charge after an initial peak pressure. 
+
+Stray Currents — The leakage currents from the electrically operated 
+equipment, current conductors, etc, that may energize the electric shot- 
+firing circuit resulting in accidental detonation. 
+
+Strength — See ' Power ', 'Weight strength '. 
+
+Streaming Velocity — The velocity of the products of detonation in 
+the direction of travel of the detonation wave. 
+
+Sympathetic Detonation — Detonation of an explosive charge caused 
+by explosion of another charge not in contact. 
+
+
+
+Tamping — The act of consolidating explosives or stemming in the 
+drill hole. 
+
+TNT — Trinitrotoluene. 
+
+Toe Blasting — A technique of blasting to avoid toe formation in bench 
+blasting. 
+
+Torpedo Friction Test — See ' Friction test ', 
+
+Train — see ' Delay '. 
+
+Trauzl Test ~ See ' Lead block test '. 
+
+Trunk Line — The main line of detonating fuse to which branch lines 
+are connected. 
+
+Two>component Explosive — Generally refers to an explosive obtained 
+by mixing two components, where neither of the two components is an. 
+explosive by itself ( also known as ' Binary Explosives ' }, 
+
+U 
+
+Under-Cut — See under ' Cut '. 
+
+Underwater Blasting — Blasting of explosive under water. 
+
+25 
+
+
+
+IS : 10081 - 1981 
+
+V 
+
+Vacuum Stability — Test for determination of stability of explosives. In 
+this test, the thermal decomposition of a sample is followed by observing 
+the rise in pressure of the gases given off in vacuum. 
+
+Verey Pistol — A popular but obsolete term for a pistol shaped firing 
+device for pyrotechnic cartridges, now called ' Pyrotechnic pistol '. 
+
+VOD — Velocity of detonation ( See ' Detonation velocity ' ). 
+
+W 
+
+Watergel Explosives — see ' Slurry explosives '. 
+
+Water Stemming — Stemming done using water column in a bore- 
+hole. 
+
+Wedge-Cut — See under ' Cut '. 
+
+Weight Strength — See ' Power of explosives '. 
+
+
+
+26 
+
+
+

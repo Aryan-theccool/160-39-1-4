@@ -1,0 +1,1547 @@
+**************** 
+
+
+
+
+Disclosure to Promote the Right To Information 
+
+Whereas the Parliament of India has set out to provide a practical regime of right to 
+information for citizens to secure access to information under the control of public authorities, 
+in order to promote transparency and accountability in the working of every public authority, 
+and whereas the attached publication of the Bureau of Indian Standards is of particular interest 
+to the public, particularly disadvantaged communities and those engaged in the pursuit of 
+education and knowledge, the attached public safety standard is made available to promote the 
+timely dissemination of this information in an accurate manner to the public. 
+
+
+
+
+Mazdoor Kisan Shakti Sangathan 
+"The Right to Information, The Right to Live'' 
+
+
+
+IS 10053 (1981) : Requirements for equipment for jackson 
+candle turbiditimeter and determination of turbidity [CED 
+24: Public Health Engineering.] 
+
+
+
+
+Jawaharlal Nehru 
+'Step Out From the Old to the New" 
+
+
+
+aj^&vi iJii^s:y%K^ isb^^ni^seg 
+
+
+
+:<>5&i| mT'5K^5?::5:^>^i»l 
+
+
+
+K^^^iXSVCd^ 
+
+
+
+Satyanarayan Gangaram Pitroda 
+Invent a New India Using Knowledge 
+
+
+
+Bhartrhari — Nitisatakam 
+''Knowledge is such a treasure which cannot be stolen" 
+
+
+
+
+^'^^^r 
+
+
+
+k 
+
+
+
+
+BLANK PAGE 
+
+
+
+^*-^^^ 
+
+
+
+
+
+PROTECTED BY COPYRIGHT 
+
+
+
+IS! 100S3- 19B1 
+
+( Reaffirmed 2002 ) 
+
+Indian Standard 
+
+REQUIREMENTS FOR EQUIPMENT FOR 
+
+JACKSON CANDLE TURBJDlMETtR AND 
+
+DETER M [NATION OF TURBiDlTY 
+
+
+
+LTJG litjlVG : r»l3':ilG«3 
+
+
+
+
+INDIAN STANDARDS INSTITUTION 
+
+NfAE^AK bHAVAN, 3 BAElAULit Si I Ail ZAFAS. MAI^G 
+
+M:VV DELHI ITOrti^ 
+
+
+
+
+Gi 4 
+
+
+
+Mfiizh ]9«2 
+
+
+
+IS: 10053 -1981 
+
+Indian Standard 
+
+REQUIREMENTS FOR EQUIPMENT FOR 
+
+JACKSON CANDLE TURBIDIMETER AND 
+
+DETERMINATION OF TURBIDITY 
+
+
+
+Public Health Engineering Equipment 
+Sectional Committee, BDG 40 
+
+Chairman Representing 
+
+Dr B. B. Sundarksan National Environmental Engineering Research 
+
+Institute { GSIR ), Nagpur 
+
+Members 
+Adviser ( PHE ) Ministry of Works & Housing, New Delhi 
+
+Dr S. R. Sukla ( Alternate ) 
+Shri N. S. Bhairvan Public Health Engineering Department, Government 
+
+of Kerala, Bangalore 
+Shri O. P. Bishnoi U, P. Jal Nigam, Lucknow 
+
+Shri S. S. Srivastava. ( Alternate ) 
+Shri R. C. P. Chatidhary Engineers India Limited, New Delhi 
+
+Shri K. Rudrappa ( Alternate ) 
+Shri D, K. Choudhury Geo-Miller & Co Private Ltd, Calcutta 
+
+Shri D, R, Mall ( Alternate ) 
+Chief Engineer Department of Health, Government of West Bengal, 
+
+Calcutta 
+
+Shri T. N. Chatterjee ( Alternate ) 
+Chief Engineer ( Water ) Municipal Corporation of Delhi 
+
+ShriJai Narain ( Alternate ) 
+Shri S. K. Dasgupta Calcutta Metropolitan Development Authority, 
+
+Calcutta 
+
+Shri S. J. Dutta ( Alternate ) 
+Deputy Municipal Commis- Municipal Corporation of Greater Bombay 
+
+SIGNER 
+
+Chief Engineer ( Sewerage ) ( Alternate ) 
+
+Hydraulic Engineer ( Alternate ) 
+Shri B. R. N. Gupta Engineer-in-Chief's Branch, Army Headquarters, 
+
+New Delhi 
+
+Shri K. V. Krishnamurthy ( Alternate ) 
+Shri R, Krishnaswamy Tamil Nadu Water Supply & Drainage Board, 
+
+Madras 
+
+Shri S. A. Jagdesan ( Alternate ) 
+Shri M. Y. Madan The Hindustan Construction Co Ltd, Bombay 
+
+Shri C. E. S. Rao ( Alternate ) 
+
+( Continued on page 2 ) 
+
+
+
+© Copyright 1982 
+
+INDIAN STANDARDS INSTITUTION 
+
+This publication is protected under the Indian Copyright Act ( XIV of 1957 ) and 
+
+reproduction in whole or in part by any means except with written permission of the 
+
+publisher shall be deemed to be an infringement of copyright under the said Act. 
+
+
+
+IS ! 10053 . 1981 
+
+( Continued from page 1 ) 
+
+Members Representing 
+
+Shbi S. R. Majumdkh Paterson Engineering Co ( India ) Ltd, Calcutta 
+
+Membeb-Secretaky Central Board for Prevention and Control of 
+
+Water Pollution ( Ministry of Works & 
+Housing ) 
+Dr K. R. Ranganathan ( Alternate ) 
+Shri L. S. Mehta Indian Chemical Manufacturers Association, 
+
+Bombay 
+Shri R. K. Shtjkla ( Alternate ) 
+Shbi A. R. Mm Public Health Engineering Department, Government 
+
+of Jammu & Kashmir, Srinagar 
+Shbi G. M. Kanth ( Alternate ) 
+Shbi D. V. S. Mubthy M. P. State Prevention and Control of Water 
+
+Pollution Board, Bhopal 
+Shbi V. S. Bansal ( Alternate ) 
+Shbi S. S. Naik Hydraulic & General Engineers Pvt Ltd, Bombay 
+
+Shbi D. R. Kenkre ( Alternate ) 
+Shbi R. Natabajan Hindustan Dorr Oliver Ltd, Bombay 
+
+Shbi B. M. Rahul ( Alternate ) 
+Shbi S. K. Neogi Institution of Public Health Engineers India, 
+
+Calcutta 
+Shbi D. K. Ghosh ( Alternate ) 
+Shbi M. M. Patel Indian Water Works Association, Bombay 
+
+Shbi V. Raman National Environmental Engineering Research 
+
+Institute ( CSIR ), Nagpur 
+Shbi Y. K. Rangabajit The Fertilizer Corporation of India Ltd, New Delhi 
+
+Shbi A. Nabayanan ( Alternate ) 
+Shbi D. R. Jagannath Rao Public Health Engineering Department, Government 
+
+of Madhya Pradesh, Bhopal 
+Shbi M. G. Vaidya {Alternate ) 
+Pbof S. Sxjbiia Rao All India Institute of Hygiene & Public Health, 
+
+Calcutta 
+Shbi A. V. Rao {Alternate ) 
+Repbes^intative Directorate General of Technical Development, 
+
+New Delhi 
+Representative Public Health Engineering Department, Government 
+
+of Punjab, Chandigarh 
+Repbesentative Public Health Engineering Department, Government 
+
+of Haryana 
+Shbi K. K. Gandhi ( Alternate ) 
+Shbi P. V, Somasekhab Public Works & Electric Department, Government of 
+
+Karnataka, Bangalore 
+Shbi S. A. Swamy The Institution of Engineers (India ), Calcutta 
+
+Shbi P, S. Tendolkab Candy Filters ( India ) Ltd, Bombay 
+
+Shbi C. L. Sastri ( Alternate ) 
+Spibi V. Vabadabajan Madras Metropolitan Water Supply and Sewerage 
+
+Board, Madras 
+Shbi S. Daivamani ( Alternate ) 
+Shbi G. Rama^t, Director General, ISI ( Ex-officio Member ) 
+
+Director ( Civ Engg ) 
+
+Secretary 
+
+Shbi A. K. Avasthy 
+Assistant Director ( Civ Engg ), ISI 
+
+( Continued on page 13) 
+
+
+
+IS : 10053 - 1981 
+
+Indian Standard 
+
+REQUIREMENTS FOR EQUIPMENT FOR 
+
+JACKSON CANDLE TURBIDIMETER AND 
+
+DETERMINATION OF TURBIDITY 
+
+0. FOREWORD 
+
+0*1 This Indian Standard was adopted by the Indian Standards 
+Institution on 24 December 1981, after the draft finalized by the Public 
+Health Engineering Equipment Sectional Committee had been approved 
+by the Civil Engineering Division Council. 
+
+0.2 Turbidity is an important parameter or index in assessing the 
+physical quality of water and the performance of the various treatment 
+units in a water treatment system. Turbidity is a'so related to the 
+aesthetic appearance of water. 
+
+0.3 Turbidity indicates the presence of extraneous matter in water, 
+present in suspended or colloidal forms. Turbidity is basically an 
+optical property of a sample which causes light to be scattered and 
+observed, and optical techniques are used as measurement of turbidity. 
+
+0.4 In the formulation of this standard due weightage has been given to 
+international co-ordination among the standards and practices prevailing 
+in different countries in addition to relating to the practices in the field 
+in this country, 
+
+0.5 For the purpose of deciding whether a particular requirement of this 
+standard is complied with, the final value, observed or calculated, 
+expressing the result of a test or analysis, shall be rounded off in 
+accordance with IS : 2-1960*. The number of significant places retained 
+in the rounded off value should be the same as that of the specified value 
+in this standard. 
+
+
+
+1. SCOPE 
+
+1.1 This standard lays down the requirements of equipment for Jackson 
+candle turbidimeter and standards for measurement of turbidity. 
+
+
+
+♦Rules for rounding off numerical values ( revised), 
+
+3 
+
+
+
+IS ! 10053 . 1981 
+
+2. PRINCIPLE 
+
+2.1 Turbidity measurement by Jackson candle turbidimeter is a 
+visual method and is based on the light path through a suspension which 
+first causes the flame of a standard candle to disappear — to become 
+indistinguishable against the general background illumination — when 
+the flame is viewed through the suspension. The longer is the light path, 
+the lower shall be the turbidity. 
+
+2.2 Presence of rapidly settling debris and coarse sediments will 
+interfere with the turbidity measurement. Dirty glassware, presence of 
+air-bubbles and effects of vibrations that disturb the surface visibility of 
+the sample will lead to false results. 
+
+3. UNITS OF TURBIDITY OR TURBIDITY MEASUREMENTS 
+
+3.1 Turbidity measurements by the candle turbidimeter are expressed as 
+Jackson Turbidity Units (JTU ). The Jackson Candle Method can be 
+used for direct measurement of turbidity from 25 JTU to 1000 JTU, 
+even though it is possible to measure higher turbidities with suitable 
+dilutions. For turbidities less than 25 units, indirect secondary methods 
+are employed. 
+
+3.2 Commercial turbidimeters are available for measuring low turbidities 
+which are based on nephelometric principles and measure the intensity 
+of light scattered in one particular direction, predominantly at right 
+angles to the incident light. Turbidity measurements using nephelo- 
+meters are expressed as Nephelometric Turbidity Units ( NTU ). 
+
+3.3 Formazin polymer, a standard reference suspension (i^^ Appendix A ) 
+having reproducible light scattering properties is used for calibration of 
+nephelometers. The turbidity of a given concentration of Formazin 
+suspension is defined as 40 Nephelometric Units. This same suspension 
+of Formazin has an approximate turbidity of 40 Jackson Turbidity Units 
+(JTU), when measured on the Candle Turbidimeter. Therefore, 
+Nephelometric Turbidity Units ( NTU ) based on Formazin will approxi- 
+mate Jackson Candle Turbidity Units (JTU ). 
+
+4. APPARATUS 
+
+4,1 The standard candle turbidimeter, the basic instrument for measuring 
+turbidity, shall consist of the following main parts: 
+
+a) Standard candle as a source of light; 
+
+b) Glass tube (turbidity tube ) calibrated according to Table 1; 
+
+c) Tripod stand with the candle holder and a tube holder; 
+
+d) Bottles for visual comparison — A matched set of 1 litre capacity, 
+glass stoppered bottles made of pyrex or other resistant glass. 
+
+
+
+IS : 10053 - 1981 
+
+4*2 Candle — The standard candle ( see Fig. 1 ) shall be made of 
+paraffin wax or beeswax and spermaceti with solidifying point 
+(congealing point) 58 to 60'*C. It shall be designed to burn within 
+limits of 7-39 to 8'16 g per hour ( 114 to 126 grains/hour ). Length of 
+the candle shall be 150 mm to begin with and shall have a uniform 
+diameter of 20 mm. The flame shall be kept as near constant and also 
+at constant distance from bottom of the glass tube. The wick shall be 
+so prepared that when the candle is burnt under suitable conditions, it 
+shall burn with a clear, neatly white, smokeless and odourless flame. 
+
+
+
+WICK 
+
+
+
+
+^20 f 
+
+
+
+Fig. 1 Typical Sketch of Standard Candle 
+
+To keep the candle pressed against the top of the candle holder 
+which is 76 mm below the bottom of the tube a spring shall be used 
+beneath the candle. The helical compression spring shall be made of 
+spring steel conforming to IS : 4454 ( Part I )-1975*. Before the candle 
+is lighted each time, such portions of the burnt wick should necessarily 
+be removed. 
+
+
+
+♦Specification for steel wires for cold formed springs: Part I Patented and cold 
+drawn steel wires — unalloyed {first revision ). 
+
+
+
+IS : 10053 . 1981 
+
+4.3 Glass Tube — The glass tube called the turbidity tube shall be 
+made of transparent, colourless and clean natural glass with fiat polish 
+optically plain parallel bottom without scratches or dots. When the tube 
+is filled with the liquid and viewed from the top using a light source 
+beneath the tube, there shall be no dark spots nor any lens like distortion 
+of the transmitted light. 
+
+4.3.1 The tube shall be graduated in 1 mm division from to 76 cm 
+which corresponds to 25 to 1 000 turbidity units. The dimensions of the 
+tube shall be as follows: 
+
+a) Internal diameter 25 mm 
+
+b) Total length 250 to 760 mm ( different tubes 
+
+for different ranges of 
+turbidity ). 
+
+4.3.2 The glass tube shall be enclosed in an annular metal tube when 
+observations are being made, for the sake of protection against breakage 
+and to exclude extraneous light. The annular tube shall be made of 
+brass coated with chromium. When long turbidity tubes are used, an 
+annular extension tube made of brass shall be used as an enclosure. 
+
+4.4 Tripod Stand and Support ( see Fig. 2 ) — The support holds 
+and aligns the candle and the turbidity tube. The candle and tube shall 
+be supported in a vertical position so that the centre line of the tube 
+passes through the centreline of the candle. The candle support shall 
+consist of a spring loaded cylinder designed to keep the top of the candle 
+pressed against the top of the support as the candle gradually burns away. 
+The vertical distance from the bottom of the tube and the top of the 
+support for the candle shall be 76 mm. A sketch mdicating necessary 
+details of the standard candle turbidimeter is shown in Fig. 3. The 
+assembly hoitom of the three legged tripod stand shall be made of cast 
+iron while the legs shall be made of brass. The candle holder shall also 
+be made of brass with chromium plating. 
+
+5. PREPARATION OF STANDARD SUSPENSIONS FOR VISUAL 
+COMPARISON 
+
+5.1 Visual comparison standards shall be prepared from natural turbid 
+water or kaolin as per details given in Appendix B. 
+
+
+
+IS : KM>53 - 1981 
+
+
+
+TABLE 1 GRADUATION OF CANDLE TURBIDIMETER 
+
+( Clause 4:A ) 
+
+
+
+Light 
+
+
+TXTBBrDITY 
+
+
+Light 
+
+
+TUBBIDITY 
+
+
+Path* 
+
+
+Units 
+
+
+Path* 
+
+
+Units 
+
+
+cm 
+
+
+
+
+cm 
+
+
+
+
+23 
+
+
+1000 
+
+
+11-4 
+
+
+190 
+
+
+2-6 
+
+
+900 
+
+
+12-0 
+
+
+180 
+
+
+2-9 
+
+
+800 
+
+
+12-7 
+
+
+170 
+
+
+3-2 
+
+
+700 
+
+
+13-5 
+
+
+160 
+
+
+3-5 
+
+
+650 
+
+
+14-4 
+
+
+150 
+
+
+3-8 
+
+
+600 
+
+
+15-4 
+
+
+140 
+
+
+4-1 
+
+
+550 
+
+
+16-6 
+
+
+130 
+
+
+4-5 
+
+
+500 
+
+
+18-0 
+
+
+120 
+
+
+4*9 
+
+
+450 
+
+
+19*6 
+
+
+110 
+
+
+5-5 
+
+
+400 
+
+
+21-5 
+
+
+100 
+
+
+5-6 
+
+
+390 
+
+
+22-6 
+
+
+95 
+
+
+5*8 
+
+
+380 
+
+
+23-8 
+
+
+90 
+
+
+5-9 
+
+
+370 
+
+
+25-1 
+
+
+85 
+
+
+6-1 
+
+
+360 
+
+
+26-5 
+
+
+80 
+
+
+6-3 
+
+
+350 
+
+
+28-1 
+
+
+75 
+
+
+6-4 
+
+
+340 
+
+
+29*8 
+
+
+70 
+
+
+6-6 
+
+
+330 
+
+
+31*8 
+
+
+65 
+
+
+6-8 
+
+
+320 
+
+
+34-1 
+
+
+60 
+
+
+7-0 
+
+
+310 
+
+
+36-7 
+
+
+55 
+
+
+7*3 
+
+
+300 
+
+
+39-8 
+
+
+50 
+
+
+7-5 
+
+
+290 
+
+
+43-5 
+
+
+45 
+
+
+7-8 
+
+
+280 
+
+
+48-1 
+
+
+40 
+
+
+8-1 
+
+
+270 
+
+
+54*0 
+
+
+35 
+
+
+8-4 
+
+
+260 
+
+
+61-8 
+
+
+30 
+
+
+8-7 
+
+
+250 
+
+
+72*9 
+
+
+25 
+
+
+9-1 
+
+
+240 
+
+
+
+
+
+
+9*5 
+
+
+230 
+
+
+
+
+
+
+9-9 
+
+
+220 
+
+
+
+
+
+
+10*3 
+
+
+210 
+
+
+
+
+
+
+10*8 
+
+
+200 
+
+
+
+
+
+
+* Measured from inside bottom of glass tube. 
+
+
+
+
+
+
+
+IS : 10053 - 1981 
+
+
+
+
+-n r 
+
+
+
+0?s 
+
+
+
+ANNULAR TUBE 
+HOLDER OR CAStNO 
+
+ITH CHROMIUM 
+PLATED BASE 
+
+
+
+250 
+TO 
+
+760 
+
+
+
+
+268 
+
+
+
+TRtPOD STAND AND 
+SUPPORT 
+
+
+
+yj 
+
+
+
+TURBIDITY 
+TUBE 
+
+
+
+
+18 
+
+
+
+28 
+
+
+
+CANDLE 
+HOLDER 
+COVER 
+
+
+
+1 TO )-5- 
+
+
+
+J 
+
+
+
+135 
+
+
+
+1 r 
+
+
+
+20 
+
+
+
+
+WIRE 
+SPRING 
+
+
+
+—0 24 
+
+CANDLE HOLDER 
+
+
+
+All dimensions in millimetres. 
+
+Fig. 2 Jackson Standard Turbidimeter Meter ( Detail ) 
+
+8 
+
+
+
+13 : 10053 - 1S81 
+
+
+
+
+-CANDLE HOLDER 
+COVER 
+
+
+
+CANDLE HOtOfcft 
+
+
+
+STAWO 
+
+
+
+All dimensions in millimetres. 
+Fig. 3 Jackson Standard Turbidimeter ( Assembly ) 
+
+9 
+
+
+
+IS: 10053-1981 
+
+APPENDIX A 
+
+( Clause 3.3 ) 
+
+STANDARD REFERENCE SUSPENSION 
+
+A-1. STOCK TURBIDITY SUSPENSION 
+
+A-1.1 Solution I — Dissolve 1*000 g hydrazine sulphate ( NH2 )2.H2S04 
+in distilled water and dilute to 100 ml In a volumetric flask. 
+
+A-1.2 Solution II — Dissolve 10*00 g hexamethylene tetramine 
+( CH2 )6N4 in distilled water and dilute to 100 ml in a volumetric flask. 
+
+A-1.3 In a 100 ml volumetric flaskj mix 50 ml each of solution I and II, 
+Allow to stand for 24 hours at 25 4- 3^G, then dilute to the mark and 
+mix. The turbidity of this suspension is 400 NTU. 
+
+A-2. STANDARD TURBIDITY SUSPENSION 
+
+A-2.1 Dilute 1000 ml of stock turbidity suspension to 100 ml with 
+turbidity free water. The turbidity of this water is defined as 40 NTU. 
+
+Note — Solutions I and II and stock suspensions should be prepared monthly. 
+Standard turbidity suspension should be prepared weekly. 
+
+
+
+APPENDIX B 
+
+( Clause 5.1 ) 
+
+PREPARATION OF STANDARD SUSPENSION FOR VISUAL 
+
+COMPARISON 
+
+B-1* STANDARD SUSPENSION 
+
+B-1.1 Natural Water — For best resuhs, prepare from the natural 
+turbid water from the same source as that to be tested. Determine 
+turbidity with the candle turbidimeter, then dilute portions of the 
+suspension to the turbidity value desired. 
+
+B-1.2 Kaolin — Add approximately 5 g kaolin to 1 litre distilled water, 
+thoroughly agitate and allow to stand for 24 hours. Withdraw the 
+supernatant without disturbing the bottom sediment. Determine 
+turbidity with candle turbidimeter. Dilute portions of the suspension to 
+the turbidity values desired. Preserve standard suspensions by adding 
+1 g mercuric chloride/litre suspension. Shake the suspensions vigorously 
+before taking reading and check monthly with candle turbidimeter. 
+
+10 
+
+
+
+IS : 1€053 " 1981 
+
+B-2. PROCEDURE 
+
+B-2-1 Estimation with Candle Turbidimeter 
+
+B-2.1*l Turbidities Between 25 and 1 000 JTU — Pour the shaken sample 
+into the glass tube until the flame of the candle just disappears from 
+view. Make certain that a uniformly illuminated field with no bright 
+spots materializes. Add the sample slowly towards the end. After the 
+flame has been made to disappear, remove 1 percent of the sample with 
+a pipette to make the flame visible again. Then add small amounts of 
+the removed sample to approach the end-point more carefully. Keep 
+the glass tube clean inside and outside and avoid scratching the glass. 
+Accumulation of soot or moisture on the bottom of the tube interferes 
+with the accuracy of the results. The experiment shall be carried out 
+in a dark area, free from drought to avoid oscillation of flame. 
+
+B-2.1.2 Turbidities Exceeding 1 000 JTU — Dilute the sample with one 
+or more volumes of turbidity-free water until the turbidity falls below 
+1 000 JTU. Compute the turbidity of the original sample from the 
+turbidity of the diluted sample and the dilution factor. For example, 
+if ^\e volumes of turbidity-free water were added to one volume of 
+sample and the diluted sample showed a turbidity of 500 JTU, the 
+turbidity of the original sample was 3 000 JTU. 
+
+B-2,2 Estimation with Bottle Standards 
+
+B-2.2.1 In the range 5 to 100 JTU, compare shaken samples with 
+standard suspensions made by diluting concentrated standard suspensions 
+with turbidity-free water in known ratios. Place the sample and the 
+standards in bottles of the same size, shape and type; leave enough 
+empty space at the top of each bottle to allow adequate shaking before 
+each reading. Compare the sample and the standard through the sides 
+of the bottles by looking through them at the same object and noting the 
+distinctions with which such objects as ruled lines or newsprint can be 
+seen. Arrange the artificial lighting above or below the bottles so that 
+no direct light reaches the eye. Record the turbidity of the sample as 
+that of the standard that provides the visual effect most closely 
+approximating that of the sample. 
+
+
+
+11 
+
+
+
+IS i 10053 • 1981 
+
+B-3. EXPRESSION OF RESULTS 
+
+B-3.1 Record the turbidity readings in the following manner: 
+
+
+
+Turbidity Range J'l U 
+
+
+Record to Nearest Jl U 
+
+
+0-10 
+
+
+01 
+
+
+More than 1-10 
+
+
+1 
+
+
+More than 10-100 
+
+
+5 
+
+
+More than 100-400 
+
+
+10 
+
+
+More than 400-700 
+
+
+50 
+
+
+700 or more 
+
+
+100 
+
+
+
+B-3.1.1 Identify the visual method ( candle turbidimeter or bottle 
+standards ) used for the turbidity estimation. 
+
+
+
+12 
+
+
+
+IS : 10053 - 1981 
+
+( Continued from page 2 ) 
+
+Water Treatment Equipment Subcommittee, BDC 40 : 1 
+
+Convener Representing 
+
+Shtsi Jai Nakain Indian Water Works Association, Bombay 
+
+Members 
+
+Shixi K. R. Sahxj ( Alternate to 
+Shri Jai Narain ) 
+Shri K, R. Bagri Institution of Public Health Engineers India, 
+
+Calcutta 
+
+Shki S. K. Njsogi ( Alternate ) 
+Shri O. P. Bishkoi Uttar Pradesh Jai Nigam, Lucknow 
+
+Shri S. S. Srivastava ( Alternate ) 
+Dr S. N. Chakrabarty Engineers India Limited, New Delhi 
+
+Shri Amit Bastj ( Alternate ) 
+Shri D. K. Ghaudhary Geo-Miller & Co Pvt Ltd, Calcutta 
+
+Shri A. K. Mazumder ( Alternate ) 
+Chief Engineer Public Health Engineering Department, Trivandrum 
+
+Shri M. M. Datta Central Public Health and Environmental 
+
+Engineering Organization, New Delhi 
+
+Dr L Radhakrishnan ( Alternate ) 
+Prof B. L. Mahabal Victoria Jubilee Technical Institute, Bombay 
+
+Shri N. W. Mirchandani Municipal Corporation of Greater Bombay 
+
+Shri V. S. Moke Indian Oil Corporation Ltd, New Delhi 
+
+Shri Anil Raj ( Alternate ) 
+Shri S. S. Naik Hydraulic & General Engineers (P) Ltd, Bombay 
+
+Shri D. R. Kenkre ( Alternate ) 
+Shri R. Natarajan Hindustan Dorr Oliver Ltd, Bombay 
+
+Shri B. M. Rahul ( Alternate ) 
+Dr S. Ramachandra Central Mechanical Engineering Research Institute 
+
+(CSIR ), Durgapur 
+
+SHiii S. Natarajan ( Alternate ) 
+Shri N. Ramachandran Ion Exchange ( India ) Ltd, Bombay 
+
+Shri A. M. Joshi ( Alternate ) 
+Shri V. Raman ' National Environmental Engineering Research 
+
+Institute, Nagpur 
+
+Shri S. D. Badrinath ( Alternate ) 
+Shri C. E. S. Rao The Hindustan Construction Co Ltd, Bombay 
+
+Prof S. Sitbba Rao All India Institute of Hygiene & Public Health, 
+
+Calcutta 
+
+Shri K. J. Nath ( Alternate ) 
+Representative University of Roorkee, Roorkee 
+
+Shri C. L. Sastri Candy Filters ( India ) Ltd, Bombay 
+
+Shri R. N. Tbikanand ( Alternate) 
+Shri Y. Satyamurthi EIMCO — KGP Ltd, Madras 
+
+Shri T. Subrahmanyam ( Alternate ) 
+Shri S. B. Shukla The Dharamsi Morarji Chemicals Co Ltd, Bombay 
+
+Dr M. S. Vaidya ( Alternate ) 
+
+
+
+13 
+
+
+
+INTERNATIONAL SYSTEM OF UNITS { SI UNITS ) 
+
+
+
+Base Units 
+
+
+
+
+
+
+
+
+Q^aANTITY 
+
+
+Unit 
+
+
+Symbol 
+
+
+
+
+Length 
+
+
+metre 
+
+
+m 
+
+
+
+
+Mass 
+
+
+kilogram 
+
+
+kg 
+
+
+
+
+Time 
+
+
+second 
+
+
+S 
+
+
+
+
+Electric current 
+
+
+ampere 
+
+
+A 
+
+
+
+
+Thermodynamic 
+
+
+kelvin 
+
+
+K 
+
+
+
+
+temperature 
+
+
+
+
+
+
+
+
+Luminous intensity 
+
+
+candeia 
+
+
+cd 
+
+
+
+
+Amount of substance 
+
+
+mole 
+
+
+mol 
+
+
+
+
+Supplementary Units 
+
+
+
+
+
+
+
+
+QjUANTlTY 
+
+
+Unit 
+
+
+Symbol 
+
+
+
+
+Plane angle 
+
+
+radian 
+
+
+rad 
+
+
+
+
+Solid angle 
+
+
+St e radian 
+
+
+sr 
+
+
+
+
+Derived Units 
+
+
+
+
+
+
+
+
+Q^OANTITY 
+
+
+Unit 
+
+
+Symbol 
+
+
+Definition 
+
+
+Force 
+
+
+newton 
+
+
+N 
+
+
+1 N « 1 kg.m/s' 
+
+
+Energy 
+
+
+joule 
+
+
+J 
+
+
+1 J « 1 N.m 
+
+
+Power 
+
+
+watt 
+
+
+W 
+
+
+1 W « I J/s 
+
+
+Flux 
+
+
+webei 
+
+
+Wb 
+
+
+1 Wb - 1 V.s 
+
+
+Flux density 
+
+
+tesla 
+
+
+T 
+
+
+1 T - 1 Wb/m 
+
+
+Frequency 
+
+
+hertz 
+
+
+Hz 
+
+
+I Hz ^ 1 c/s(s-V 
+
+
+Electric conductance 
+
+
+Siemens 
+
+
+S 
+
+
+1 S - 1 A/V 
+
+
+Electromotive force 
+
+
+volt 
+
+
+V 
+
+
+1 V «- 1 W/A 
+
+
+Pressure, stress 
+
+
+pascal 
+
+
+Pa 
+
+
+1 Pa - / N/m^ 
+
+
+

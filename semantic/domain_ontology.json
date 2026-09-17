@@ -1,0 +1,2567 @@
+{
+  "domains": {
+    "</b> Textiles<br /><b>": {
+      "count": 9,
+      "standards": [
+        {
+          "id": "IS|1|None|None|1968|None",
+          "title": "IS 1: Specification for The National Flag of India (Cotton Khadi)",
+          "year": 1968
+        },
+        {
+          "id": "IS|10010|None|None|1981|None",
+          "title": "IS 10010: Method for evaluation of strength and shade of pigment dispersion by printing method",
+          "year": 1981
+        },
+        {
+          "id": "IS|10014|1|None|1984|None",
+          "title": "IS 10014-1: METHODS OF TESTS FOR MAN-MADE STAPLE FIBRES, PART 1: DETERMINATION OF LENGTH",
+          "year": 1984
+        },
+        {
+          "id": "IS|10014|2|None|1981|None",
+          "title": "IS 10014-2: Methods of Tests for Man - Made Staple Fibres, Part 2: Determination of Linear Density",
+          "year": 1981
+        },
+        {
+          "id": "IS|10054|None|None|1996|None",
+          "title": "IS 10054: Textiles - High density polyethylene (HDPE) monofilament mosquito netting, round mesh",
+          "year": 1996
+        },
+        {
+          "id": "IS|10055|None|None|1982|None",
+          "title": "IS 10055: Jute Needleloom Felts",
+          "year": 1982
+        },
+        {
+          "id": "IS|10056|None|None|1982|None",
+          "title": "IS 10056: Silk (Viscose Rayon) Ribbon Tape",
+          "year": 1982
+        },
+        {
+          "id": "IS|10057|None|None|1982|None",
+          "title": "IS 10057: Tapes for Wagon Sealing",
+          "year": 1982
+        },
+        {
+          "id": "IS|10099|None|None|1982|None",
+          "title": "IS 10099: Methods for preparation, marking and measuring of fabric specimens and garments in tests for determination of dimensional change",
+          "year": 1982
+        }
+      ],
+      "committees": [
+        "TXD 1",
+        "TXD 12",
+        "TXD 5",
+        "TXD 8",
+        "TXD 33",
+        "TXD 7",
+        "TXD 23"
+      ],
+      "year_range": [
+        1968,
+        1996
+      ]
+    },
+    "</b> Civil Engineering<br /><b>": {
+      "count": 29,
+      "standards": [
+        {
+          "id": "IS|10|1|None|1990|None",
+          "title": "IS 10-1: Plywood Tea-Chests: Part-1 General",
+          "year": 1990
+        },
+        {
+          "id": "IS|10|2|None|1996|None",
+          "title": "IS 10-2: Plywood Tea-Chests: Part-2 Plywood",
+          "year": 1996
+        },
+        {
+          "id": "IS|10|3|None|1974|None",
+          "title": "IS 10-3: Plywood Tea-Chests: Part-3 Battens",
+          "year": 1974
+        },
+        {
+          "id": "IS|10|4|None|1989|None",
+          "title": "IS 10-4: Plywood Tea-Chests: Part-4 Metal Fittings",
+          "year": 1989
+        },
+        {
+          "id": "IS|10|5|None|1976|None",
+          "title": "IS 10-5: Plywood Tea-Chests, Part 5: Assembly and Packing",
+          "year": 1976
+        },
+        {
+          "id": "IS|1003|1|None|2003|None",
+          "title": "IS 1003-1: Timber Panelled and Glazed Shutters, Part 1: Door shutters -",
+          "year": 2003
+        },
+        {
+          "id": "IS|1003|2|None|1994|None",
+          "title": "IS 1003-2: Timber Panelled And Glazed Shutters, Part 2: Windows and Ventilator Shutters",
+          "year": 1994
+        },
+        {
+          "id": "IS|10013|1|None|1981|None",
+          "title": "IS 10013-1: water soluble type wood preservatives, Part 1: Acid-copper-chrome (ACC) preservative",
+          "year": 1981
+        },
+        {
+          "id": "IS|10013|2|None|1981|None",
+          "title": "IS 10013-2: water soluble type wood preservatives, Part 2: Copper-chrome-arsenic (CCA) wood preservative",
+          "year": 1981
+        },
+        {
+          "id": "IS|10013|3|None|1981|None",
+          "title": "IS 10013-3: water soluble type wood preservatives, Part 3: Copper-chrome-boron (CCB) wood preservative",
+          "year": 1981
+        },
+        {
+          "id": "IS|10019|None|None|1981|None",
+          "title": "IS 10019: Specification for mild steel stays and fasteners",
+          "year": 1981
+        },
+        {
+          "id": "IS|10020|4|None|1981|None",
+          "title": "IS 10020-4: Recommendations for design and construction of port and harbour components, Part 4: Slipways",
+          "year": 1981
+        },
+        {
+          "id": "IS|10037|1|None|1981|None",
+          "title": "IS 10037-1: Requirements for sludge dewatering equipment, Part I: Sludge drying beds-sand, gravel and underdrains",
+          "year": 1981
+        },
+        {
+          "id": "IS|10037|2|None|1983|None",
+          "title": "IS 10037-2: Requirements for sludge de-watering equipment, Part 2: Vacuum filtration equipment",
+          "year": 1983
+        },
+        {
+          "id": "IS|10037|3|None|1983|None",
+          "title": "IS 10037-3: Requirements for sludge de-watering equipment, Part 3: Centrifugal equipment (Solid bowl type)",
+          "year": 1983
+        },
+        {
+          "id": "IS|10042|None|None|1981|None",
+          "title": "IS 10042: Code of practice for site investigations for foundation in gravel-boulder deposit",
+          "year": 1981
+        },
+        {
+          "id": "IS|10049|None|None|1981|None",
+          "title": "IS 10049: Code of practice for manufacture of lime based blocks",
+          "year": 1981
+        },
+        {
+          "id": "IS|10050|None|None|1981|None",
+          "title": "IS 10050: Method for determination of slake durability index of rocks",
+          "year": 1981
+        },
+        {
+          "id": "IS|10053|None|None|1981|None",
+          "title": "IS 10053: Requirements for equipment for jackson candle turbiditimeter and determination of turbidity",
+          "year": 1981
+        },
+        {
+          "id": "IS|10067|None|None|1982|None",
+          "title": "IS 10067: Material constants in building works",
+          "year": 1982
+        },
+        {
+          "id": "IS|10070|None|None|1982|None",
+          "title": "IS 10070: Specification for machine for abrasion testing of coarse aggregates",
+          "year": 1982
+        },
+        {
+          "id": "IS|10074|None|None|1982|None",
+          "title": "IS 10074: compaction mould assembly for light and heavy compaction test for soils",
+          "year": 1982
+        },
+        {
+          "id": "IS|10077|None|None|1982|None",
+          "title": "IS 10077: equipment for determination of shrinkage factors",
+          "year": 1982
+        },
+        {
+          "id": "IS|10078|None|None|1982|None",
+          "title": "IS 10078: Specification for jolting apparatus for testing cement",
+          "year": 1982
+        },
+        {
+          "id": "IS|10079|None|None|1982|None",
+          "title": "IS 10079: Specification for cylindrical metal measures for use in tests of aggregates and concrete",
+          "year": 1982
+        },
+        {
+          "id": "IS|10080|None|None|1982|None",
+          "title": "IS 10080: Specification for vibration machine for standard cement mortar cubes",
+          "year": 1982
+        },
+        {
+          "id": "IS|10082|None|None|1981|None",
+          "title": "IS 10082: Method of test for the determination of tensile strength by indirect tests on rock specimens",
+          "year": 1981
+        },
+        {
+          "id": "IS|10086|None|None|1982|None",
+          "title": "IS 10086: Specification for moulds for use in tests of cement and concrete",
+          "year": 1982
+        },
+        {
+          "id": "IS|10090|None|None|1982|None",
+          "title": "IS 10090: Specification for numericals",
+          "year": 1982
+        }
+      ],
+      "committees": [
+        "CED 47",
+        "CED 2",
+        "CED 15",
+        "CED 29",
+        "CED 43",
+        "CED 24",
+        "CED 48",
+        "CED 4",
+        "CED 11",
+        "CED 9"
+      ],
+      "year_range": [
+        1974,
+        2003
+      ]
+    },
+    "</b> Chemical<br /><b>": {
+      "count": 38,
+      "standards": [
+        {
+          "id": "IS|101|1|1|1986|None",
+          "title": "IS 101-1-1: Methods of sampling and test for paints, varnishes and related products, Part 1: Test on liquid paints (general and physical), Section 1: Sampling",
+          "year": 1986
+        },
+        {
+          "id": "IS|101|1|2|1987|None",
+          "title": "IS 101-1-2: Methods of sampling and test for paints, varnishes and related products, Part 1: Test on liquid paints (general and physical), Section 2: Preliminary examination and preparation of samples for testing",
+          "year": 1987
+        },
+        {
+          "id": "IS|101|1|3|1986|None",
+          "title": "IS 101-1-3: Methods of sampling and test for paints, varnishes and related products, Part 1: Test on liquid paints (general and physical), Section 3: Preparation of panels",
+          "year": 1986
+        },
+        {
+          "id": "IS|101|1|4|1987|None",
+          "title": "IS 101-1-4: Methods of sampling and test for paints, varnishes and related products, Part 1: Test on liquid paints (general and physical), Section 4: Brushing test",
+          "year": 1987
+        },
+        {
+          "id": "IS|101|1|5|1989|None",
+          "title": "IS 101-1-5: Methods of sampling and test for paints, varnishes and related products, Part 1: Tests on liquid paints (general and physical), Section 5: Consistency",
+          "year": 1989
+        },
+        {
+          "id": "IS|101|1|6|1987|None",
+          "title": "IS 101-1-6: Methods of sampling and test for paints, varnishes and related products, Part 1: Test on liquid paints (general and physical), Section 6: Flash point",
+          "year": 1987
+        },
+        {
+          "id": "IS|101|1|7|1987|None",
+          "title": "IS 101-1-7: Methods of sampling and test for paints, varnishes and related products, Part 1: Test on liquid paints (general and physical), Section 7: Mass per 10 litres",
+          "year": 1987
+        },
+        {
+          "id": "IS|101|2|1|1988|None",
+          "title": "IS 101-2-1: Methods of sampling and test for paints, varnishes and related products, Part 2: Test on liquid paints (chemical examination), Section 1: Water content",
+          "year": 1988
+        },
+        {
+          "id": "IS|101|2|2|1986|None",
+          "title": "IS 101-2-2: Methods of sampling and test for paints, varnishes and related products, Part 2: Test on liquid paints (chemical examination), Section 2: Volatile matter",
+          "year": 1986
+        },
+        {
+          "id": "IS|101|3|1|1986|None",
+          "title": "IS 101-3-1: Methods of sampling and test for paints, varnishes and related products, Part 3: Tests on paint film formation, Section 1: Drying time",
+          "year": 1986
+        },
+        {
+          "id": "IS|101|3|2|1989|None",
+          "title": "IS 101-3-2: Methods of sampling and test for paints, varnishes and related products, Part 3: Tests on paint film formation, Section 2: Film thickness",
+          "year": 1989
+        },
+        {
+          "id": "IS|101|3|4|1987|None",
+          "title": "IS 101-3-4: Methods of sampling and test for paints, varnishes and related products, Part 3: Tests on paint film formation, Section 4: Finish",
+          "year": 1987
+        },
+        {
+          "id": "IS|101|3|5|1987|None",
+          "title": "IS 101-3-5: Methods of sampling and test for paints, varnishes and related products, Part 3: Tests on paint film formation, Section 5: Fineness of grind",
+          "year": 1987
+        },
+        {
+          "id": "IS|101|4|1|1988|None",
+          "title": "IS 101-4-1: Methods of Sampling and Test for Paints, Varnishes and Related Products, Part 4: Optical Test, Section 1: Opacity",
+          "year": 1988
+        },
+        {
+          "id": "IS|101|4|2|1989|None",
+          "title": "IS 101-4-2: Methods of Sampling and test for paints, varnishes and related products, Part 4: Optical tests, Section 2: Colour",
+          "year": 1989
+        },
+        {
+          "id": "IS|101|4|3|1988|None",
+          "title": "IS 101-4-3: Methods of Sampling and Test for Paints, Varnishes and Related Products, Part 4: Optical Tests, Section 3: Light Fastness Test",
+          "year": 1988
+        },
+        {
+          "id": "IS|101|4|4|1988|None",
+          "title": "IS 101-4-4: Methods of sampling and Test for Paints, Varnishes and Related Products, Part 4: Optical Test, Section 4: Gloss",
+          "year": 1988
+        },
+        {
+          "id": "IS|101|5|1|1988|None",
+          "title": "IS 101-5-1: Methods of sampling and test for paints, varnishes and related products, Part 5: Mechanical test on paint films, Section 1: Hardness tests",
+          "year": 1988
+        },
+        {
+          "id": "IS|101|5|2|1988|None",
+          "title": "IS 101-5-2: Methods of sampling and test for paints, varnishes and related products, Part 5: Mechanical test on paint films, Section 2: Flexibility and adhesion",
+          "year": 1988
+        },
+        {
+          "id": "IS|101|5|3|1999|None",
+          "title": "IS 101-5-3: Methods of Sampling and Test for Paints, Varnishes and Related Products, Part 5: Mechanical Tests, Section 3: Impact Resistance",
+          "year": 1999
+        },
+        {
+          "id": "IS|101|5|4|1988|None",
+          "title": "IS 101-5-4: Methods of sampling and test for paints, varnishes and related products, Part 5: Mechanical test on paint films, Section 4: Print free test",
+          "year": 1988
+        },
+        {
+          "id": "IS|101|6|1|1988|None",
+          "title": "IS 101-6-1: Methods of sampling and test for paints, varnishes and related products, Part 6: Durability tests, Section 1: Resistance to humidity under conditions of condensation",
+          "year": 1988
+        },
+        {
+          "id": "IS|101|6|2|1989|None",
+          "title": "IS 101-6-2: Methods of sampling and test for paints, varnishes and related products, Part 6: Durability tests on paint films, Section 2: Keeping properties",
+          "year": 1989
+        },
+        {
+          "id": "IS|101|6|3|1990|None",
+          "title": "IS 101-6-3: Methods of sampling and test for paints, varnishes and related products, Part 6: Durability tests on paint films, Section 3: Moisture vapour permeability",
+          "year": 1990
+        },
+        {
+          "id": "IS|101|6|4|1991|None",
+          "title": "IS 101-6-4: Methods of sampling and test for paints, varnishes and related products, Part 6: Durability tests on paint films, Section 4: Degradation of coatings (pictorial aids for evaluation)",
+          "year": 1991
+        },
+        {
+          "id": "IS|101|6|5|1997|None",
+          "title": "IS 101-6-5: Method of sampling and test for paints, varnishes and related products, Part 6: Durability test on Paint films, Section 5: Accelerated weathering test",
+          "year": 1997
+        },
+        {
+          "id": "IS|101|7|1|1989|None",
+          "title": "IS 101-7-1: Methods of Sampling and Test for Paints, Varnishes and Related Products, Part 7: Environmental Tests on Paint Films, Section 1: Resistance to water",
+          "year": 1989
+        },
+        {
+          "id": "IS|101|7|2|1990|None",
+          "title": "IS 101-7-2: Methods of sampling and test for paints, varnishes and related products, Part 7: Environmental tests on paint films, Section 2: Resistance to liquids",
+          "year": 1990
+        },
+        {
+          "id": "IS|101|7|3|1990|None",
+          "title": "IS 101-7-3: Methods of sampling and test for paints, varnishes and related products, Part 7: Environmental tests on paint films, Section 3: Resistance to heat",
+          "year": 1990
+        },
+        {
+          "id": "IS|101|7|4|1990|None",
+          "title": "IS 101-7-4: Methods of sampling and test for paints, varnishes and related products, Part 7: Environmental tests on paint films, Section 4: Resistance to bleeding of pigments",
+          "year": 1990
+        },
+        {
+          "id": "IS|10018|None|None|1981|None",
+          "title": "IS 10018: Lacquer, cellulose, nitrate, clear, finishing, glossy for wood",
+          "year": 1981
+        },
+        {
+          "id": "IS|10025|None|None|1981|None",
+          "title": "IS 10025: Polish liquid (white) for canvas footwear",
+          "year": 1981
+        },
+        {
+          "id": "IS|10044|None|None|1981|None",
+          "title": "IS 10044: Guide for Treatment and Disposal of Effluents of Petroleum Refining Industry",
+          "year": 1981
+        },
+        {
+          "id": "IS|10066|None|None|1981|None",
+          "title": "IS 10066: Corrugated fibreboard boxes for packing cigarettes",
+          "year": 1981
+        },
+        {
+          "id": "IS|10072|None|None|1982|None",
+          "title": "IS 10072: Plastics beakers",
+          "year": 1982
+        },
+        {
+          "id": "IS|10073|None|None|1982|None",
+          "title": "IS 10073: Plastics graduated measuring cylinders",
+          "year": 1982
+        },
+        {
+          "id": "IS|10081|None|None|1981|None",
+          "title": "IS 10081: Terms Relating to Commercial Explosives, Pyrotechnics and Blasting Practices",
+          "year": 1981
+        },
+        {
+          "id": "IS|10089|None|None|1981|None",
+          "title": "IS 10089: Metal lasts for knee boots",
+          "year": 1981
+        }
+      ],
+      "committees": [
+        "CHD 15",
+        "CHD 32",
+        "CHD 26",
+        "CHD 19",
+        "CHD 20",
+        "CHD 10",
+        "CHD 23"
+      ],
+      "year_range": [
+        1981,
+        1999
+      ]
+    },
+    "</b> Food and Agriculture<br /><b>": {
+      "count": 15,
+      "standards": [
+        {
+          "id": "IS|1000|None|None|1989|None",
+          "title": "IS 1000: Milk and Milk Products - Lactose Commercial",
+          "year": 1989
+        },
+        {
+          "id": "IS|1005|None|None|1992|None",
+          "title": "IS 1005: Edible Maize Starch (Corn Flour)",
+          "year": 1992
+        },
+        {
+          "id": "IS|1006|None|None|1984|None",
+          "title": "IS 1006: Arrowroot Starch",
+          "year": 1984
+        },
+        {
+          "id": "IS|1007|None|None|1984|None",
+          "title": "IS 1007: Custard Powder",
+          "year": 1984
+        },
+        {
+          "id": "IS|1008|None|None|2004|None",
+          "title": "IS 1008: Sugar Boiled Confectionery",
+          "year": 2004
+        },
+        {
+          "id": "IS|1009|None|None|1979|None",
+          "title": "IS 1009: (wheat flour) Maida for General Purposes",
+          "year": 1979
+        },
+        {
+          "id": "IS|10006|None|None|1981|None",
+          "title": "IS 10006: Grading for Nahor Kernels for Oil Milling",
+          "year": 1981
+        },
+        {
+          "id": "IS|10017|None|None|1981|None",
+          "title": "IS 10017: Code of practice for construction of cocoa beans storage structures",
+          "year": 1981
+        },
+        {
+          "id": "IS|10029|None|None|1981|None",
+          "title": "IS 10029: Methods for sensory evaluation of sweetened condensed milk",
+          "year": 1981
+        },
+        {
+          "id": "IS|10030|None|None|1981|None",
+          "title": "IS 10030: Methods for sensory evaluation of milk powder",
+          "year": 1981
+        },
+        {
+          "id": "IS|10038|None|None|1981|None",
+          "title": "IS 10038: Textured Plant Protein Foods Prepared By Extrusion Cooking",
+          "year": 1981
+        },
+        {
+          "id": "IS|10048|None|None|1999|None",
+          "title": "IS 10048: Rice grader",
+          "year": 1999
+        },
+        {
+          "id": "IS|10059|None|None|1981|None",
+          "title": "IS 10059: Edible Fish Powder",
+          "year": 1981
+        },
+        {
+          "id": "IS|10065|None|None|1981|None",
+          "title": "IS 10065: Roasted Groundnut (Peanut) Kernels",
+          "year": 1981
+        },
+        {
+          "id": "IS|10083|None|None|1982|None",
+          "title": "IS 10083: Method of test for determination of SNF(solids not fat) in milk by the use of lactometers",
+          "year": 1982
+        }
+      ],
+      "committees": [
+        "FAD 12",
+        "FAD 20",
+        "FAD 13",
+        "FAD 19",
+        "FAD 16",
+        "FAD 6"
+      ],
+      "year_range": [
+        1979,
+        2004
+      ]
+    },
+    "</b> Petroleum, Coal, and Related Products<br /><b>": {
+      "count": 6,
+      "standards": [
+        {
+          "id": "IS|1001|None|None|1991|None",
+          "title": "IS 1001: Synthetic Rubber Proofed/Coated Fuel Pump Diaphragm Fabric",
+          "year": 1991
+        },
+        {
+          "id": "IS|10016|1|None|1981|None",
+          "title": "IS 10016-1: Methods of Test for Polybutadiene Rubbers, Part 1: Method of Taking Out Test Portions from Sample Bales",
+          "year": 1981
+        },
+        {
+          "id": "IS|10016|2|None|1984|None",
+          "title": "IS 10016-2: Methods of test for polybutadiene rubbers, Part 2: Determination of ash",
+          "year": 1984
+        },
+        {
+          "id": "IS|10016|4|None|1984|None",
+          "title": "IS 10016-4: Methods of Test for Polybutadiene Rubbers, Part 4: Determination of CIS, Trans and Vinyl Structure",
+          "year": 1984
+        },
+        {
+          "id": "IS|10016|5|None|1981|None",
+          "title": "IS 10016-5: Methods of test for polybutadiene rubbers, Part 5: Determination of gel content",
+          "year": 1981
+        },
+        {
+          "id": "IS|10016|6|None|2000|None",
+          "title": "IS 10016-6: Methods of Test for Polybutadiene Rubbers, Part 6: Evaluation of Vulcanization Characteristics of Polybutadiene Rubbers (BR : 2)",
+          "year": 2000
+        }
+      ],
+      "committees": [
+        "PCD 13"
+      ],
+      "year_range": [
+        1981,
+        2000
+      ]
+    },
+    "</b> Production and General Engineering<br /><b>": {
+      "count": 10,
+      "standards": [
+        {
+          "id": "IS|1004|None|None|1980|None",
+          "title": "IS 1004: Valve Grinding Compound",
+          "year": 1980
+        },
+        {
+          "id": "IS|10022|None|None|1981|None",
+          "title": "IS 10022: Open Ended Cogged V-Belting",
+          "year": 1981
+        },
+        {
+          "id": "IS|10023|None|None|1981|None",
+          "title": "IS 10023: ascenders for mountaineering",
+          "year": 1981
+        },
+        {
+          "id": "IS|10068|1|None|1982|None",
+          "title": "IS 10068-1: Press Working Die Sets (plain type) - Part I : Centre Post Rectangular Die Sets",
+          "year": 1982
+        },
+        {
+          "id": "IS|10068|2|None|1982|None",
+          "title": "IS 10068-2: Press Working Die Sets (plain type) - Part II : Centre Post Square Die Sets",
+          "year": 1982
+        },
+        {
+          "id": "IS|10068|3|None|1990|None",
+          "title": "IS 10068-3: Press Working Die Sets - Plain Type, Part 3: Centre Post Round Die Sets",
+          "year": 1990
+        },
+        {
+          "id": "IS|10068|4|None|1997|None",
+          "title": "IS 10068-4: Press Working Die Sets (Plain Type), Part 4: Rear Post Rectangular Die Sets",
+          "year": 1997
+        },
+        {
+          "id": "IS|10068|5|None|1996|None",
+          "title": "IS 10068-5: Press Working Die Sets (Plain Type), Part 5: Rear Post Square Die Sets",
+          "year": 1996
+        },
+        {
+          "id": "IS|10068|6|None|1996|None",
+          "title": "IS 10068-6: Press Working Die Sets (Plain Type), Part 6: Rear Post Round Die Sets",
+          "year": 1996
+        },
+        {
+          "id": "IS|10069|None|None|1992|None",
+          "title": "IS 10069: Hydraulic fluid power - Positive displacement pumps, motors and integral transmissions - Determination of steady-state performance",
+          "year": 1992
+        }
+      ],
+      "committees": [
+        "PGD 31",
+        "PGD 27",
+        "PGD 16",
+        "PGD 4",
+        "PGD 9"
+      ],
+      "year_range": [
+        1980,
+        1997
+      ]
+    },
+    "</b> Transport Engineering<br /><b>": {
+      "count": 19,
+      "standards": [
+        {
+          "id": "IS|10000|1|None|1980|None",
+          "title": "IS 10000-1: Method of tests for internal combustion engines, Part 1: Glossary of terms relating to test methods",
+          "year": 1980
+        },
+        {
+          "id": "IS|10000|2|None|1980|None",
+          "title": "IS 10000-2: Methods of tests for internal combustion engines, Part 2: Standard reference conditions",
+          "year": 1980
+        },
+        {
+          "id": "IS|10000|3|None|1980|None",
+          "title": "IS 10000-3: Methods of tests for intrnal combustion engines, Part 3: Measuremnts for testing-units and limits of accuracy",
+          "year": 1980
+        },
+        {
+          "id": "IS|10000|4|None|1980|None",
+          "title": "IS 10000-4: Methods of Tests for Internal Combustion Engines, Part IV: Declaration of Power, Efficiency, Fuel Consumption and Lubricating Oil Consumption",
+          "year": 1980
+        },
+        {
+          "id": "IS|10000|5|None|1980|None",
+          "title": "IS 10000-5: Methods of tests for intrnal combustion engines, Part 5: Preparation for tests and measurements for wear",
+          "year": 1980
+        },
+        {
+          "id": "IS|10000|6|None|1980|None",
+          "title": "IS 10000-6: Methods of tests for internal combustion engines, Part 6: Recording of test results",
+          "year": 1980
+        },
+        {
+          "id": "IS|10000|7|None|1980|None",
+          "title": "IS 10000-7: Methods of tests for internal combustion engines, Part 7: Governing tests for constant speed engines and selection of engines for use with electrical generators",
+          "year": 1980
+        },
+        {
+          "id": "IS|10000|8|None|1980|None",
+          "title": "IS 10000-8: Methods of tests for internal combustion engines, Part 8: Perfornance tests",
+          "year": 1980
+        },
+        {
+          "id": "IS|10000|9|None|1980|None",
+          "title": "IS 10000-9: Methods of tests for internal combustion engines, Part 9: Endurance tests",
+          "year": 1980
+        },
+        {
+          "id": "IS|10000|10|None|1980|None",
+          "title": "IS 10000-10: Methods of Tests for Internal Combustion Engines, Part 10: Tests for Smoke Levels, Limits and Corrections for Smoke Levels for Variable Speed Compression Ignition Engines",
+          "year": 1980
+        },
+        {
+          "id": "IS|10000|11|None|1980|None",
+          "title": "IS 10000-11: Methods of tests for internal combustion engines, Part 11: Information to be supplied by the purchaser to the manufacturer and information to be supplied by the manufactuer alongwith the engine",
+          "year": 1980
+        },
+        {
+          "id": "IS|10000|12|None|1980|None",
+          "title": "IS 10000-12: Methods of Tests for Internal Combustion Engines, Part XII: Specimen Test Certificates",
+          "year": 1980
+        },
+        {
+          "id": "IS|10000|13|None|2002|None",
+          "title": "IS 10000-13: Methods of Tests for Internal Combustion Engines, Part 13: Recommendations on Nature of Tests Required for Functional Changes in Critical Components",
+          "year": 2002
+        },
+        {
+          "id": "IS|10001|None|None|1981|None",
+          "title": "IS 10001: Performance requirements for constant speed compression ignition (diesel) engines for general purposes (up to 20 kW)",
+          "year": 1981
+        },
+        {
+          "id": "IS|10002|None|None|1981|None",
+          "title": "IS 10002: Performance Requirements for Constant Speed Compression Ignition (Diesel) Engines for General Purposes (Above 20 kW)",
+          "year": 1981
+        },
+        {
+          "id": "IS|10007|None|None|1981|None",
+          "title": "IS 10007: Lifeboats' Steel Blocks",
+          "year": 1981
+        },
+        {
+          "id": "IS|10041|None|None|1981|None",
+          "title": "IS 10041: Glossary of terms for airlines technical operation",
+          "year": 1981
+        },
+        {
+          "id": "IS|10063|None|None|1982|None",
+          "title": "IS 10063: Dimensions of end fittings of rear shock absorbers for scooters and motorcycles",
+          "year": 1982
+        },
+        {
+          "id": "IS|10097|None|None|1982|None",
+          "title": "IS 10097: Code of practice for the packaging of metal cutting tools",
+          "year": 1982
+        }
+      ],
+      "committees": [
+        "TED 21",
+        "TED 19",
+        "TED 2",
+        "TED 24",
+        "TED 14"
+      ],
+      "year_range": [
+        1980,
+        2002
+      ]
+    },
+    "</b> Management and Systems<br /><b>": {
+      "count": 1,
+      "standards": [
+        {
+          "id": "IS|10005|None|None|1994|None",
+          "title": "IS 10005: SI Units and Recommendations for the Use of their Multiples and of Certain Other Units",
+          "year": 1994
+        }
+      ],
+      "committees": [
+        "MSD 10"
+      ],
+      "year_range": [
+        1994,
+        1994
+      ]
+    },
+    "</b> Mechanical Engineering<br /><b>": {
+      "count": 6,
+      "standards": [
+        {
+          "id": "IS|10008|None|None|1992|None",
+          "title": "IS 10008: Beater addition jointings - Specification",
+          "year": 1992
+        },
+        {
+          "id": "IS|10039|None|None|1981|None",
+          "title": "IS 10039: Specification for Number Printing Machines, Hand-operated",
+          "year": 1981
+        },
+        {
+          "id": "IS|10040|None|None|1981|None",
+          "title": "IS 10040: Specification for Rotating Hooks for Sewing Machines for Industrial Use",
+          "year": 1981
+        },
+        {
+          "id": "IS|10046|None|None|1981|None",
+          "title": "IS 10046: Dog Spikes for Mine Haulage Tracks",
+          "year": 1981
+        },
+        {
+          "id": "IS|10092|None|None|1982|None",
+          "title": "IS 10092: Glossary of terms (and materials of construction) for rotary equipment",
+          "year": 1982
+        },
+        {
+          "id": "IS|10095|None|None|1982|None",
+          "title": "IS 10095: Guidelines for selection of tipplers for broad gauge open railway wagons",
+          "year": 1982
+        }
+      ],
+      "committees": [
+        "MED 25",
+        "MED 29",
+        "MED 8",
+        "MED 17",
+        "MED 30",
+        "MED 7"
+      ],
+      "year_range": [
+        1981,
+        1992
+      ]
+    },
+    "</b> Medical Equipment and Hospital Planning<br /><b>": {
+      "count": 6,
+      "standards": [
+        {
+          "id": "IS|10009|None|None|1981|None",
+          "title": "IS 10009: Breaker and Holder, Razor Blade, Barraquer's Pattern",
+          "year": 1981
+        },
+        {
+          "id": "IS|10011|None|None|1981|None",
+          "title": "IS 10011: Resin-based Dental Filling Materials",
+          "year": 1981
+        },
+        {
+          "id": "IS|10012|None|None|1981|None",
+          "title": "IS 10012: Dental Zinc Oxide/Eugenol Filling Materials",
+          "year": 1981
+        },
+        {
+          "id": "IS|10045|None|None|1981|None",
+          "title": "IS 10045: Punch, Lacrymal Bone, Beyer's Pattern",
+          "year": 1981
+        },
+        {
+          "id": "IS|10058|None|None|1985|None",
+          "title": "IS 10058: Forceps, Fixation, Graefe's Pattern (Modified)",
+          "year": 1985
+        },
+        {
+          "id": "IS|10088|None|None|1981|None",
+          "title": "IS 10088: Retractor, Dental",
+          "year": 1981
+        }
+      ],
+      "committees": [
+        "MHD 5",
+        "MHD 8"
+      ],
+      "year_range": [
+        1981,
+        1985
+      ]
+    },
+    "</b> Water Resources<br /><b>": {
+      "count": 10,
+      "standards": [
+        {
+          "id": "IS|10021|None|None|2000|None",
+          "title": "IS 10021: Guidelines for De-icing System for Hydraulic Installations",
+          "year": 2000
+        },
+        {
+          "id": "IS|10060|None|None|1981|None",
+          "title": "IS 10060: Code of Practice for Subsurface Investigation for Power House Sites",
+          "year": 1981
+        },
+        {
+          "id": "IS|10061|None|None|1991|None",
+          "title": "IS 10061: Proforma for analysis of unit rate of excavation of tunnels by cyclic drilling and blasting",
+          "year": 1991
+        },
+        {
+          "id": "IS|10062|None|None|1991|None",
+          "title": "IS 10062: Proforma for analysis of unit rate of quarrying rock by mechanical means",
+          "year": 1991
+        },
+        {
+          "id": "IS|10084|1|None|1982|None",
+          "title": "IS 10084-1: Criteria for design of diversion works, Part 1: Coffer dams",
+          "year": 1982
+        },
+        {
+          "id": "IS|10084|2|None|1994|None",
+          "title": "IS 10084-2: Design of diversion works - Criteria, Part 2: Diversion channel and open cut or conduit in the body of dam.",
+          "year": 1994
+        },
+        {
+          "id": "IS|10096|1|1|1983|None",
+          "title": "IS 10096-1-1: Recommendations for inspection, testing and maintenance of radial gates and rope drum hoists, Part 1: Inspection, testing and assembly at the manufacturing stage, Section 1: Gates",
+          "year": 1983
+        },
+        {
+          "id": "IS|10096|1|2|1986|None",
+          "title": "IS 10096-1-2: Recommendations for inspection, testing and maintenance of radial gates and rope drum hoists, Part 1: Inspection, testing and assembly at the manufacturing stage, Section 2: Rope Drum Hoists",
+          "year": 1986
+        },
+        {
+          "id": "IS|10096|2|None|1983|None",
+          "title": "IS 10096-2: Recommendations for inspection, testing and maintenance or radial gates and rope drum hoists, Part 2: Inspection, testing and assembly at the time of erection",
+          "year": 1983
+        },
+        {
+          "id": "IS|10096|3|None|2002|None",
+          "title": "IS 10096-3: Recommendations for Inspection, Testing and Maintenance of Radial Gates and Rope Drum Hoists, Part 3: After Erection",
+          "year": 2002
+        }
+      ],
+      "committees": [
+        "WRD 22",
+        "WRD 23",
+        "WRD 5",
+        "WRD 12"
+      ],
+      "year_range": [
+        1981,
+        2002
+      ]
+    },
+    "</b> Electrotechnical<br /><b>": {
+      "count": 18,
+      "standards": [
+        {
+          "id": "IS|10026|1|None|1998|None",
+          "title": "IS 10026-1: Insulating varnishes containing solvents, Part 1: Definitions and general requirements",
+          "year": 1998
+        },
+        {
+          "id": "IS|10026|2|None|1999|None",
+          "title": "IS 10026-2: Insulating Varnishes Containing Solvents, Part 2: Methods of Tests",
+          "year": 1999
+        },
+        {
+          "id": "IS|10026|3|1|1999|None",
+          "title": "IS 10026-3-1: Insulating Varnishes Containing Solvents, Part 3: Specifications for Individual Materials, Section 1: Requirements for Cold Curing Finishing Varnis",
+          "year": 1999
+        },
+        {
+          "id": "IS|10026|3|2|1999|None",
+          "title": "IS 10026-3-2: Insulating varnishes containing solvents, Part 3: Specifications for individual materials, Section 2: Requirements for Hot Curing Varnishes",
+          "year": 1999
+        },
+        {
+          "id": "IS|10026|3|3|1983|None",
+          "title": "IS 10026-3-3: Insulating Varnishes Containing Solvents, Part 3: Specifications for Individual Materials, Section 3: Air Drying Varnishes with Temperature Index 130",
+          "year": 1983
+        },
+        {
+          "id": "IS|10026|3|4|1983|None",
+          "title": "IS 10026-3-4: Insulating varnishes containing solvents, Part 3: Specifications for individual materials, Section 4: Baking varnishes with temperature index 120",
+          "year": 1983
+        },
+        {
+          "id": "IS|10026|3|5|1983|None",
+          "title": "IS 10026-3-5: Insulating varnishes containing solvents, Part 3: Specifications for individual materials, Section 5: Baking varnishes with temperature index 130",
+          "year": 1983
+        },
+        {
+          "id": "IS|10026|3|6|1983|None",
+          "title": "IS 10026-3-6: Insulating Varnishes Containing Solvents, Part 3: Specifications for Individual Materials, Section 6: Baking Varnishes with Temperature Index 155",
+          "year": 1983
+        },
+        {
+          "id": "IS|10026|3|7|1983|None",
+          "title": "IS 10026-3-7: Insulating varnishes containing solvents, Part 3: Specifications for individual materials, Section 7: Baking varnishes with temperature index 180",
+          "year": 1983
+        },
+        {
+          "id": "IS|10026|3|8|1986|None",
+          "title": "IS 10026-3-8: Insulating varnishes containing solvents, Part 3: Specifications for individual materials, Section 8: Baking varnishes with temperature index 200",
+          "year": 1986
+        },
+        {
+          "id": "IS|10026|3|9|1986|None",
+          "title": "IS 10026-3-9: Insulating varnishes containing solvents, Part 3: Specifications for individual materials, Section 9: Baking varnishes with temperature index 130 for magnetic core sheets",
+          "year": 1986
+        },
+        {
+          "id": "IS|10027|None|None|2000|None",
+          "title": "IS 10027: Composite Units of Air-break Switches and Rewirable Type Fuses for Voltages Not Exceeding 650 V a.c.",
+          "year": 2000
+        },
+        {
+          "id": "IS|10028|1|None|1985|None",
+          "title": "IS 10028-1: Code of Practice for Selection, Installation and Maintenance of Transformers, Part 1: Selection",
+          "year": 1985
+        },
+        {
+          "id": "IS|10028|2|None|1981|None",
+          "title": "IS 10028-2: Code of practice for selection, installation and maintenance of transformers; Part 2 Installation",
+          "year": 1981
+        },
+        {
+          "id": "IS|10028|3|None|1981|None",
+          "title": "IS 10028-3: Code of practice for selection, installation and maintenance of transformers, Part 3: Maintenance",
+          "year": 1981
+        },
+        {
+          "id": "IS|10031|None|None|1981|None",
+          "title": "IS 10031: Taper barreled delivery spools for covered round electrical winding wires",
+          "year": 1981
+        },
+        {
+          "id": "IS|10075|None|None|1981|None",
+          "title": "IS 10075: Start relay and overload protector for resistance start induction run hermetic compressors",
+          "year": 1981
+        },
+        {
+          "id": "IS|10098|None|None|1982|None",
+          "title": "IS 10098: General requirements for electric infra-red emitters for heating purposes",
+          "year": 1982
+        }
+      ],
+      "committees": [
+        "ETD 7",
+        "ETD 33",
+        "ETD 35",
+        "ETD 2",
+        "ETD 16",
+        "ETD 17"
+      ],
+      "year_range": [
+        1981,
+        2000
+      ]
+    },
+    "</b> Metallurgical Engineering<br /><b>": {
+      "count": 8,
+      "standards": [
+        {
+          "id": "IS|10032|None|None|1981|None",
+          "title": "IS 10032: Organic no bake binders for use in foundries",
+          "year": 1981
+        },
+        {
+          "id": "IS|10033|None|None|1992|None",
+          "title": "IS 10033: Zircon and Graphite based core and mould washes",
+          "year": 1992
+        },
+        {
+          "id": "IS|10034|None|None|1981|None",
+          "title": "IS 10034: Basic requirement for equipment for determining moisture content in foundry sand",
+          "year": 1981
+        },
+        {
+          "id": "IS|10035|None|None|1993|None",
+          "title": "IS 10035: Bronze powder for metallic filters",
+          "year": 1993
+        },
+        {
+          "id": "IS|10047|None|None|1981|None",
+          "title": "IS 10047: Methods for testing refractory ramming masses",
+          "year": 1981
+        },
+        {
+          "id": "IS|10085|None|None|2003|None",
+          "title": "IS 10085: Chemical Analysis of Zircon Flour or Sand",
+          "year": 2003
+        },
+        {
+          "id": "IS|10091|None|None|1981|None",
+          "title": "IS 10091: Iron oxide powder for use in foundries",
+          "year": 1981
+        },
+        {
+          "id": "IS|10094|None|None|1998|None",
+          "title": "IS 10094: Code of practice for pattern making by using expanded polystyrene material",
+          "year": 1998
+        }
+      ],
+      "committees": [
+        "MTD 15",
+        "MTD 13",
+        "MTD 25",
+        "MTD 14"
+      ],
+      "year_range": [
+        1981,
+        2003
+      ]
+    },
+    "</b> Electronics and Information Technology<br /><b>": {
+      "count": 5,
+      "standards": [
+        {
+          "id": "IS|10052|1|None|1999|None",
+          "title": "IS 10052-1: Radio Disturbance and Immunity Measuring Apparatus and Methods, Part 1: Radio Disturbance and Immunity Measuring Apparatus",
+          "year": 1999
+        },
+        {
+          "id": "IS|10052|2|None|1999|None",
+          "title": "IS 10052-2: Radio Disturbance and Immunity Measuring Apparatus and Methods, Part 2: Methods of Measurement of Disturbances and Immunity",
+          "year": 1999
+        },
+        {
+          "id": "IS|10071|None|None|1981|None",
+          "title": "IS 10071: Methods of measurement for hot cathode gas filled tubes",
+          "year": 1981
+        },
+        {
+          "id": "IS|10076|1|None|1981|None",
+          "title": "IS 10076-1: linearity control units used with TV Picture Tubes, Part I: General Requirements and Tests",
+          "year": 1981
+        },
+        {
+          "id": "IS|10087|None|None|1981|None",
+          "title": "IS 10087: Code of practice for handling of electrostatic sensitive devices",
+          "year": 1981
+        }
+      ],
+      "committees": [
+        "LITD 9",
+        "LITD 5",
+        "LITD 4"
+      ],
+      "year_range": [
+        1981,
+        1999
+      ]
+    }
+  },
+  "relationships": [],
+  "concepts": {
+    "(chemical": [
+      "IS|101|2|1|2018|None",
+      "IS|101|2|2|1986|None",
+      "IS|101|2|1|1988|None"
+    ],
+    "(diesel)": [
+      "IS|10001|None|None|1981|None",
+      "IS|10002|None|None|1981|None"
+    ],
+    "(general": [
+      "IS|101|1|7|1987|None",
+      "IS|101|1|6|1987|None",
+      "IS|101|1|5|1989|None",
+      "IS|101|1|4|1987|None",
+      "IS|101|1|2|1987|None",
+      "IS|101|1|3|1986|None",
+      "IS|101|1|1|1986|None"
+    ],
+    "(plain": [
+      "IS|10068|5|None|1996|None",
+      "IS|10068|4|None|1997|None",
+      "IS|10068|2|None|2018|None",
+      "IS|10068|2|None|1982|None",
+      "IS|10068|6|None|1996|None",
+      "IS|10068|1|None|2018|None",
+      "IS|10068|1|None|1982|None"
+    ],
+    "10068": [
+      "IS|10068|1|None|2018|None",
+      "IS|10068|2|None|2018|None"
+    ],
+    "2013:": [
+      "IS|10|2|None|2013|None",
+      "IS|10032|None|None|2013|None",
+      "IS|10060|None|None|2013|None"
+    ],
+    "2014:": [
+      "IS|10084|2|None|2014|None",
+      "IS|10096|1|2|2014|None"
+    ],
+    "2018:": [
+      "IS|10068|1|None|2018|None",
+      "IS|101|2|1|2018|None",
+      "IS|10027|None|None|2018|None",
+      "IS|10068|2|None|2018|None"
+    ],
+    "2021:": [
+      "IS|1000|None|None|2021|None",
+      "IS|10086|None|None|2021|None"
+    ],
+    "2023:": [
+      "IS|10035|None|None|2023|None",
+      "IS|10047|None|None|2023|None",
+      "IS|1009|None|None|2023|None",
+      "IS|101|1|1|2023|None",
+      "IS|10056|None|None|2023|None"
+    ],
+    "aggregates": [
+      "IS|10079|None|None|1982|None",
+      "IS|10070|None|None|1982|None"
+    ],
+    "air-break": [
+      "IS|10027|None|None|2000|None",
+      "IS|10027|None|None|2018|None"
+    ],
+    "analysis": [
+      "IS|10061|None|None|1991|None",
+      "IS|10085|None|None|2003|None",
+      "IS|10062|None|None|1991|None"
+    ],
+    "apparatus": [
+      "IS|10052|1|None|1999|None",
+      "IS|10078|None|None|1982|None",
+      "IS|10052|2|None|1999|None"
+    ],
+    "assembly": [
+      "IS|10096|1|2|2014|None",
+      "IS|10096|1|2|1986|None",
+      "IS|10|5|None|1976|None",
+      "IS|10096|2|None|1983|None",
+      "IS|10074|None|None|1982|None",
+      "IS|10096|1|1|1983|None"
+    ],
+    "baking": [
+      "IS|10026|3|7|1983|None",
+      "IS|10026|3|9|1986|None",
+      "IS|10026|3|6|1983|None",
+      "IS|10026|3|8|1986|None",
+      "IS|10026|3|4|1983|None",
+      "IS|10026|3|5|1983|None"
+    ],
+    "based": [
+      "IS|10049|None|None|1981|None",
+      "IS|10033|None|None|1992|None"
+    ],
+    "binders": [
+      "IS|10032|None|None|1981|None",
+      "IS|10032|None|None|2013|None"
+    ],
+    "blasting": [
+      "IS|10061|None|None|1991|None",
+      "IS|10081|None|None|1981|None"
+    ],
+    "blocks": [
+      "IS|10007|None|None|1981|None",
+      "IS|10049|None|None|1981|None"
+    ],
+    "bronze": [
+      "IS|10035|None|None|2023|None",
+      "IS|10035|None|None|1993|None"
+    ],
+    "cement": [
+      "IS|10080|None|None|1982|None",
+      "IS|10086|None|None|1982|None",
+      "IS|10086|None|None|2021|None",
+      "IS|10078|None|None|1982|None"
+    ],
+    "centre": [
+      "IS|10068|2|None|2018|None",
+      "IS|10068|2|None|1982|None",
+      "IS|10068|3|None|1990|None",
+      "IS|10068|1|None|2018|None",
+      "IS|10068|1|None|1982|None"
+    ],
+    "channel": [
+      "IS|10084|2|None|1994|None",
+      "IS|10084|2|None|2014|None"
+    ],
+    "combustion": [
+      "IS|10000|8|None|1980|None",
+      "IS|10000|6|None|1980|None",
+      "IS|10000|10|None|1980|None",
+      "IS|10000|4|None|1980|None",
+      "IS|10000|11|None|1980|None",
+      "IS|10000|1|None|1980|None",
+      "IS|10000|12|None|1980|None",
+      "IS|10000|7|None|1980|None",
+      "IS|10000|2|None|1980|None",
+      "IS|10000|9|None|1980|None",
+      "IS|10000|3|None|1980|None",
+      "IS|10000|5|None|1980|None",
+      "IS|10000|13|None|2002|None"
+    ],
+    "commercial": [
+      "IS|10081|None|None|1981|None",
+      "IS|1000|None|None|1989|None"
+    ],
+    "composite": [
+      "IS|10027|None|None|2000|None",
+      "IS|10027|None|None|2018|None"
+    ],
+    "compression": [
+      "IS|10001|None|None|1981|None",
+      "IS|10002|None|None|1981|None",
+      "IS|10000|10|None|1980|None"
+    ],
+    "concrete": [
+      "IS|10079|None|None|1982|None",
+      "IS|10086|None|None|1982|None",
+      "IS|10086|None|None|2021|None"
+    ],
+    "conditions": [
+      "IS|10000|2|None|1980|None",
+      "IS|101|6|1|1988|None"
+    ],
+    "conduit": [
+      "IS|10084|2|None|1994|None",
+      "IS|10084|2|None|2014|None"
+    ],
+    "constant": [
+      "IS|10001|None|None|1981|None",
+      "IS|10002|None|None|1981|None",
+      "IS|10000|7|None|1980|None"
+    ],
+    "construction": [
+      "IS|10020|4|None|1981|None",
+      "IS|10017|None|None|1981|None"
+    ],
+    "containing": [
+      "IS|10026|2|None|1999|None",
+      "IS|10026|3|7|1983|None",
+      "IS|10026|3|1|1999|None",
+      "IS|10026|1|None|1998|None",
+      "IS|10026|3|9|1986|None",
+      "IS|10026|3|3|1983|None",
+      "IS|10026|3|6|1983|None",
+      "IS|10026|3|8|1986|None",
+      "IS|10026|3|2|1999|None",
+      "IS|10026|3|4|1983|None",
+      "IS|10026|3|5|1983|None"
+    ],
+    "content": [
+      "IS|10016|5|None|1981|None",
+      "IS|101|2|1|2018|None",
+      "IS|10034|None|None|1981|None",
+      "IS|101|2|1|1988|None"
+    ],
+    "criteria": [
+      "IS|10084|2|None|2014|None",
+      "IS|10084|1|None|1982|None"
+    ],
+    "curing": [
+      "IS|10026|3|2|1999|None",
+      "IS|10026|3|1|1999|None"
+    ],
+    "de-watering": [
+      "IS|10037|3|None|1983|None",
+      "IS|10037|2|None|1983|None"
+    ],
+    "density": [
+      "IS|10054|None|None|1996|None",
+      "IS|10014|2|None|1981|None"
+    ],
+    "dental": [
+      "IS|10088|None|None|1981|None",
+      "IS|10012|None|None|1981|None",
+      "IS|10011|None|None|1981|None"
+    ],
+    "design": [
+      "IS|10084|2|None|2014|None",
+      "IS|10020|4|None|1981|None",
+      "IS|10084|2|None|1994|None",
+      "IS|10084|1|None|1982|None"
+    ],
+    "determination": [
+      "IS|10082|None|None|1981|None",
+      "IS|10069|None|None|1992|None",
+      "IS|10077|None|None|1982|None",
+      "IS|10099|None|None|1982|None",
+      "IS|10014|2|None|1981|None",
+      "IS|10016|5|None|1981|None",
+      "IS|10016|4|None|1984|None",
+      "IS|10050|None|None|1981|None",
+      "IS|10083|None|None|1982|None",
+      "IS|10014|1|None|1984|None",
+      "IS|10053|None|None|1981|None",
+      "IS|10016|2|None|1984|None"
+    ],
+    "dispersion": [
+      "IS|10010|None|None|1981|None",
+      "IS|10010|None|None|2022|None"
+    ],
+    "disturbance": [
+      "IS|10052|1|None|1999|None",
+      "IS|10052|2|None|1999|None"
+    ],
+    "diversion": [
+      "IS|10084|2|None|1994|None",
+      "IS|10084|2|None|2014|None",
+      "IS|10084|1|None|1982|None"
+    ],
+    "drying": [
+      "IS|101|3|1|1986|None",
+      "IS|10037|1|None|1981|None",
+      "IS|10026|3|3|1983|None"
+    ],
+    "durability": [
+      "IS|101|6|4|1991|None",
+      "IS|101|6|3|1990|None",
+      "IS|101|6|5|1997|None",
+      "IS|101|6|1|1988|None",
+      "IS|10050|None|None|1981|None",
+      "IS|101|6|2|1989|None"
+    ],
+    "edible": [
+      "IS|10059|None|None|1981|None",
+      "IS|1000|None|None|2021|None",
+      "IS|1005|None|None|1992|None"
+    ],
+    "electrical": [
+      "IS|10031|None|None|1981|None",
+      "IS|10000|7|None|1980|None"
+    ],
+    "engines": [
+      "IS|10001|None|None|1981|None",
+      "IS|10000|10|None|1980|None",
+      "IS|10002|None|None|1981|None",
+      "IS|10000|7|None|1980|None"
+    ],
+    "engines,": [
+      "IS|10000|8|None|1980|None",
+      "IS|10000|6|None|1980|None",
+      "IS|10000|10|None|1980|None",
+      "IS|10000|4|None|1980|None",
+      "IS|10000|11|None|1980|None",
+      "IS|10000|1|None|1980|None",
+      "IS|10000|12|None|1980|None",
+      "IS|10000|7|None|1980|None",
+      "IS|10000|2|None|1980|None",
+      "IS|10000|9|None|1980|None",
+      "IS|10000|3|None|1980|None",
+      "IS|10000|5|None|1980|None",
+      "IS|10000|13|None|2002|None"
+    ],
+    "environmental": [
+      "IS|101|7|3|1990|None",
+      "IS|101|7|1|1989|None",
+      "IS|101|7|4|1990|None",
+      "IS|101|7|2|1990|None"
+    ],
+    "equipment": [
+      "IS|10037|2|None|1983|None",
+      "IS|10092|None|None|1982|None",
+      "IS|10034|None|None|1981|None",
+      "IS|10077|None|None|1982|None",
+      "IS|10053|None|None|1981|None",
+      "IS|10037|3|None|1983|None"
+    ],
+    "equipment,": [
+      "IS|10037|1|None|1981|None",
+      "IS|10037|3|None|1983|None",
+      "IS|10037|2|None|1983|None"
+    ],
+    "erection": [
+      "IS|10096|2|None|1983|None",
+      "IS|10096|3|None|2002|None"
+    ],
+    "evaluation": [
+      "IS|10010|None|None|1981|None",
+      "IS|10030|None|None|1981|None",
+      "IS|10010|None|None|2022|None",
+      "IS|10029|None|None|1981|None",
+      "IS|10016|6|None|2000|None"
+    ],
+    "examination),": [
+      "IS|101|2|2|1986|None",
+      "IS|101|2|1|1988|None"
+    ],
+    "exceeding": [
+      "IS|10027|None|None|2000|None",
+      "IS|10027|None|None|2018|None"
+    ],
+    "fabric": [
+      "IS|1001|None|None|1991|None",
+      "IS|10099|None|None|1982|None"
+    ],
+    "fibres,": [
+      "IS|10014|1|None|1984|None",
+      "IS|10014|2|None|1981|None"
+    ],
+    "filling": [
+      "IS|10012|None|None|1981|None",
+      "IS|10011|None|None|1981|None"
+    ],
+    "films,": [
+      "IS|101|5|1|1988|None",
+      "IS|101|7|1|1989|None",
+      "IS|101|6|4|1991|None",
+      "IS|101|6|3|1990|None",
+      "IS|101|6|5|1997|None",
+      "IS|101|5|4|1988|None",
+      "IS|101|7|2|1990|None",
+      "IS|101|7|3|1990|None",
+      "IS|101|7|4|1990|None",
+      "IS|101|6|2|1989|None",
+      "IS|101|5|2|1988|None"
+    ],
+    "filters": [
+      "IS|10035|None|None|2023|None",
+      "IS|10035|None|None|1993|None"
+    ],
+    "first": [
+      "IS|10068|1|None|2018|None",
+      "IS|10086|None|None|2021|None"
+    ],
+    "fittings": [
+      "IS|10|4|None|1989|None",
+      "IS|10063|None|None|1982|None"
+    ],
+    "flour)": [
+      "IS|1009|None|None|1979|None",
+      "IS|1005|None|None|1992|None"
+    ],
+    "formation,": [
+      "IS|101|3|1|1986|None",
+      "IS|101|3|4|1987|None",
+      "IS|101|3|5|1987|None",
+      "IS|101|3|2|1989|None"
+    ],
+    "foundries": [
+      "IS|10091|None|None|1981|None",
+      "IS|10032|None|None|1981|None",
+      "IS|10032|None|None|2013|None"
+    ],
+    "fuses": [
+      "IS|10027|None|None|2000|None",
+      "IS|10027|None|None|2018|None"
+    ],
+    "gates": [
+      "IS|10096|1|2|2014|None",
+      "IS|10096|1|2|1986|None",
+      "IS|10096|3|None|2002|None",
+      "IS|10096|2|None|1983|None",
+      "IS|10096|1|1|1983|None"
+    ],
+    "general": [
+      "IS|10076|1|None|1981|None",
+      "IS|10098|None|None|1982|None",
+      "IS|1009|None|None|1979|None",
+      "IS|10026|1|None|1998|None",
+      "IS|101|1|1|2023|None",
+      "IS|10001|None|None|1981|None",
+      "IS|10002|None|None|1981|None",
+      "IS|10|1|None|1990|None"
+    ],
+    "glazed": [
+      "IS|1003|1|None|2003|None",
+      "IS|1003|2|None|1994|None"
+    ],
+    "glossary": [
+      "IS|10092|None|None|1982|None",
+      "IS|10041|None|None|1981|None",
+      "IS|10000|1|None|1980|None"
+    ],
+    "guidelines": [
+      "IS|10095|None|None|1982|None",
+      "IS|10021|None|None|2000|None"
+    ],
+    "hoists": [
+      "IS|10096|1|2|1986|None",
+      "IS|10096|1|2|2014|None"
+    ],
+    "hoists,": [
+      "IS|10096|1|1|1983|None",
+      "IS|10096|2|None|1983|None",
+      "IS|10096|1|2|1986|None",
+      "IS|10096|3|None|2002|None"
+    ],
+    "house": [
+      "IS|10060|None|None|2013|None",
+      "IS|10060|None|None|1981|None"
+    ],
+    "hydraulic": [
+      "IS|10021|None|None|2000|None",
+      "IS|10069|None|None|1992|None"
+    ],
+    "ignition": [
+      "IS|10001|None|None|1981|None",
+      "IS|10002|None|None|1981|None",
+      "IS|10000|10|None|1980|None"
+    ],
+    "immunity": [
+      "IS|10052|1|None|1999|None",
+      "IS|10052|2|None|1999|None"
+    ],
+    "index": [
+      "IS|10026|3|7|1983|None",
+      "IS|10026|3|9|1986|None",
+      "IS|10026|3|3|1983|None",
+      "IS|10050|None|None|1981|None",
+      "IS|10026|3|6|1983|None",
+      "IS|10026|3|8|1986|None",
+      "IS|10026|3|4|1983|None",
+      "IS|10026|3|5|1983|None"
+    ],
+    "individual": [
+      "IS|10026|3|7|1983|None",
+      "IS|10026|3|1|1999|None",
+      "IS|10026|3|9|1986|None",
+      "IS|10026|3|3|1983|None",
+      "IS|10026|3|6|1983|None",
+      "IS|10026|3|8|1986|None",
+      "IS|10026|3|2|1999|None",
+      "IS|10026|3|4|1983|None",
+      "IS|10026|3|5|1983|None"
+    ],
+    "inspection,": [
+      "IS|10096|1|2|2014|None",
+      "IS|10096|1|2|1986|None",
+      "IS|10096|3|None|2002|None",
+      "IS|10096|2|None|1983|None",
+      "IS|10096|1|1|1983|None"
+    ],
+    "installation": [
+      "IS|10028|2|None|1981|None",
+      "IS|10028|1|None|1985|None",
+      "IS|10028|3|None|1981|None"
+    ],
+    "insulating": [
+      "IS|10026|2|None|1999|None",
+      "IS|10026|3|7|1983|None",
+      "IS|10026|3|1|1999|None",
+      "IS|10026|1|None|1998|None",
+      "IS|10026|3|9|1986|None",
+      "IS|10026|3|3|1983|None",
+      "IS|10026|3|6|1983|None",
+      "IS|10026|3|8|1986|None",
+      "IS|10026|3|2|1999|None",
+      "IS|10026|3|4|1983|None",
+      "IS|10026|3|5|1983|None"
+    ],
+    "internal": [
+      "IS|10000|8|None|1980|None",
+      "IS|10000|6|None|1980|None",
+      "IS|10000|10|None|1980|None",
+      "IS|10000|4|None|1980|None",
+      "IS|10000|11|None|1980|None",
+      "IS|10000|1|None|1980|None",
+      "IS|10000|12|None|1980|None",
+      "IS|10000|7|None|1980|None",
+      "IS|10000|2|None|1980|None",
+      "IS|10000|9|None|1980|None",
+      "IS|10000|13|None|2002|None"
+    ],
+    "intrnal": [
+      "IS|10000|3|None|1980|None",
+      "IS|10000|5|None|1980|None"
+    ],
+    "investigations": [
+      "IS|10042|None|None|1981|None",
+      "IS|10060|None|None|2013|None"
+    ],
+    "kernels": [
+      "IS|10065|None|None|1981|None",
+      "IS|10006|None|None|1981|None"
+    ],
+    "lactose": [
+      "IS|1000|None|None|2021|None",
+      "IS|1000|None|None|1989|None"
+    ],
+    "light": [
+      "IS|10074|None|None|1982|None",
+      "IS|101|4|3|1988|None"
+    ],
+    "limits": [
+      "IS|10000|3|None|1980|None",
+      "IS|10000|10|None|1980|None"
+    ],
+    "liquid": [
+      "IS|101|2|1|2018|None",
+      "IS|101|1|1|2023|None",
+      "IS|101|1|7|1987|None",
+      "IS|101|1|6|1987|None",
+      "IS|10025|None|None|1981|None",
+      "IS|101|1|5|1989|None",
+      "IS|101|1|4|1987|None",
+      "IS|101|1|2|1987|None",
+      "IS|101|2|2|1986|None",
+      "IS|101|2|1|1988|None",
+      "IS|101|1|3|1986|None",
+      "IS|101|1|1|1986|None"
+    ],
+    "machine": [
+      "IS|10080|None|None|1982|None",
+      "IS|10070|None|None|1982|None"
+    ],
+    "maida": [
+      "IS|1009|None|None|2023|None",
+      "IS|1009|None|None|1979|None"
+    ],
+    "maintenance": [
+      "IS|10096|1|2|2014|None",
+      "IS|10096|1|2|1986|None",
+      "IS|10096|3|None|2002|None",
+      "IS|10096|2|None|1983|None",
+      "IS|10028|2|None|1981|None",
+      "IS|10028|1|None|1985|None",
+      "IS|10028|3|None|1981|None",
+      "IS|10096|1|1|1983|None"
+    ],
+    "manufacturing": [
+      "IS|10096|1|1|1983|None",
+      "IS|10096|1|2|1986|None",
+      "IS|10096|1|2|2014|None"
+    ],
+    "material": [
+      "IS|10067|None|None|1982|None",
+      "IS|10094|None|None|1998|None"
+    ],
+    "materials": [
+      "IS|10092|None|None|1982|None",
+      "IS|10012|None|None|1981|None",
+      "IS|10011|None|None|1981|None"
+    ],
+    "materials,": [
+      "IS|10026|3|7|1983|None",
+      "IS|10026|3|1|1999|None",
+      "IS|10026|3|9|1986|None",
+      "IS|10026|3|3|1983|None",
+      "IS|10026|3|6|1983|None",
+      "IS|10026|3|8|1986|None",
+      "IS|10026|3|2|1999|None",
+      "IS|10026|3|4|1983|None",
+      "IS|10026|3|5|1983|None"
+    ],
+    "measurement": [
+      "IS|10052|2|None|1999|None",
+      "IS|10071|None|None|1981|None"
+    ],
+    "measuring": [
+      "IS|10052|1|None|1999|None",
+      "IS|10099|None|None|1982|None",
+      "IS|10073|None|None|1982|None",
+      "IS|10052|2|None|1999|None"
+    ],
+    "mechanical": [
+      "IS|101|5|3|1999|None",
+      "IS|101|5|1|1988|None",
+      "IS|10062|None|None|1991|None",
+      "IS|101|5|4|1988|None",
+      "IS|101|5|2|1988|None"
+    ],
+    "metal": [
+      "IS|10|4|None|1989|None",
+      "IS|10097|None|None|1982|None",
+      "IS|10079|None|None|1982|None",
+      "IS|10089|None|None|1981|None"
+    ],
+    "metallic": [
+      "IS|10035|None|None|2023|None",
+      "IS|10035|None|None|1993|None"
+    ],
+    "method": [
+      "IS|10010|None|None|1981|None",
+      "IS|10047|None|None|2023|None",
+      "IS|10016|1|None|1981|None",
+      "IS|10010|None|None|2022|None",
+      "IS|101|6|5|1997|None",
+      "IS|10082|None|None|1981|None",
+      "IS|10000|1|None|1980|None",
+      "IS|10050|None|None|1981|None",
+      "IS|10083|None|None|1982|None"
+    ],
+    "methods": [
+      "IS|10026|2|None|1999|None",
+      "IS|10000|4|None|1980|None",
+      "IS|10000|11|None|1980|None",
+      "IS|10099|None|None|1982|None",
+      "IS|101|7|2|1990|None",
+      "IS|101|1|5|1989|None",
+      "IS|101|6|1|1988|None",
+      "IS|101|1|2|1987|None",
+      "IS|101|6|2|1989|None",
+      "IS|101|7|3|1990|None",
+      "IS|101|2|1|1988|None",
+      "IS|101|1|3|1986|None",
+      "IS|101|1|1|1986|None",
+      "IS|101|4|1|1988|None",
+      "IS|10000|8|None|1980|None",
+      "IS|10047|None|None|1981|None",
+      "IS|101|5|3|1999|None",
+      "IS|10030|None|None|1981|None",
+      "IS|10000|6|None|1980|None",
+      "IS|10000|10|None|1980|None",
+      "IS|10000|1|None|1980|None",
+      "IS|10016|6|None|2000|None",
+      "IS|10000|7|None|1980|None",
+      "IS|10016|4|None|1984|None",
+      "IS|10000|3|None|1980|None",
+      "IS|10000|5|None|1980|None",
+      "IS|10000|13|None|2002|None",
+      "IS|10016|2|None|1984|None",
+      "IS|101|5|2|1988|None",
+      "IS|101|7|1|1989|None",
+      "IS|10071|None|None|1981|None",
+      "IS|101|5|1|1988|None",
+      "IS|101|6|4|1991|None",
+      "IS|101|3|1|1986|None",
+      "IS|10029|None|None|1981|None",
+      "IS|10000|12|None|1980|None",
+      "IS|101|1|6|1987|None",
+      "IS|101|4|3|1988|None",
+      "IS|101|5|4|1988|None",
+      "IS|101|7|4|1990|None",
+      "IS|101|1|4|1987|None",
+      "IS|101|3|5|1987|None",
+      "IS|101|2|2|1986|None",
+      "IS|10000|2|None|1980|None",
+      "IS|10000|9|None|1980|None",
+      "IS|101|3|2|1989|None",
+      "IS|10016|5|None|1981|None",
+      "IS|10052|2|None|1999|None",
+      "IS|101|2|1|2018|None",
+      "IS|10016|1|None|1981|None",
+      "IS|101|1|1|2023|None",
+      "IS|101|3|4|1987|None",
+      "IS|101|1|7|1987|None",
+      "IS|101|6|3|1990|None",
+      "IS|101|4|4|1988|None",
+      "IS|10014|2|None|1981|None",
+      "IS|101|4|2|1989|None",
+      "IS|10014|1|None|1984|None"
+    ],
+    "methods,": [
+      "IS|10052|1|None|1999|None",
+      "IS|10052|2|None|1999|None"
+    ],
+    "moisture": [
+      "IS|10034|None|None|1981|None",
+      "IS|101|6|3|1990|None"
+    ],
+    "mould": [
+      "IS|10033|None|None|1992|None",
+      "IS|10074|None|None|1982|None"
+    ],
+    "moulds": [
+      "IS|10086|None|None|1982|None",
+      "IS|10086|None|None|2021|None"
+    ],
+    "optical": [
+      "IS|101|4|3|1988|None",
+      "IS|101|4|1|1988|None",
+      "IS|101|4|4|1988|None",
+      "IS|101|4|2|1989|None"
+    ],
+    "organic": [
+      "IS|10032|None|None|1981|None",
+      "IS|10032|None|None|2013|None"
+    ],
+    "packing": [
+      "IS|10|5|None|1976|None",
+      "IS|10066|None|None|1981|None"
+    ],
+    "paint": [
+      "IS|101|5|1|1988|None",
+      "IS|101|7|1|1989|None",
+      "IS|101|6|4|1991|None",
+      "IS|101|3|1|1986|None",
+      "IS|101|3|4|1987|None",
+      "IS|101|6|3|1990|None",
+      "IS|101|6|5|1997|None",
+      "IS|101|5|4|1988|None",
+      "IS|101|7|2|1990|None",
+      "IS|101|7|3|1990|None",
+      "IS|101|7|4|1990|None",
+      "IS|101|3|5|1987|None",
+      "IS|101|6|2|1989|None",
+      "IS|101|3|2|1989|None",
+      "IS|101|5|2|1988|None"
+    ],
+    "paints": [
+      "IS|101|2|1|2018|None",
+      "IS|101|1|1|2023|None",
+      "IS|101|1|7|1987|None",
+      "IS|101|1|6|1987|None",
+      "IS|101|1|5|1989|None",
+      "IS|101|1|4|1987|None",
+      "IS|101|1|2|1987|None",
+      "IS|101|2|2|1986|None",
+      "IS|101|2|1|1988|None",
+      "IS|101|1|3|1986|None",
+      "IS|101|1|1|1986|None"
+    ],
+    "paints,": [
+      "IS|101|7|2|1990|None",
+      "IS|101|1|5|1989|None",
+      "IS|101|6|1|1988|None",
+      "IS|101|1|2|1987|None",
+      "IS|101|6|2|1989|None",
+      "IS|101|7|3|1990|None",
+      "IS|101|2|1|1988|None",
+      "IS|101|1|3|1986|None",
+      "IS|101|1|1|1986|None",
+      "IS|101|4|1|1988|None",
+      "IS|101|5|3|1999|None",
+      "IS|101|6|5|1997|None",
+      "IS|101|5|2|1988|None",
+      "IS|101|7|1|1989|None",
+      "IS|101|5|1|1988|None",
+      "IS|101|6|4|1991|None",
+      "IS|101|3|1|1986|None",
+      "IS|101|1|6|1987|None",
+      "IS|101|4|3|1988|None",
+      "IS|101|5|4|1988|None",
+      "IS|101|7|4|1990|None",
+      "IS|101|1|4|1987|None",
+      "IS|101|3|5|1987|None",
+      "IS|101|2|2|1986|None",
+      "IS|101|3|2|1989|None",
+      "IS|101|2|1|2018|None",
+      "IS|101|3|4|1987|None",
+      "IS|101|1|7|1987|None",
+      "IS|101|6|3|1990|None",
+      "IS|101|4|4|1988|None",
+      "IS|101|4|2|1989|None"
+    ],
+    "panelled": [
+      "IS|1003|1|None|2003|None",
+      "IS|1003|2|None|1994|None"
+    ],
+    "pattern": [
+      "IS|10094|None|None|1998|None",
+      "IS|10058|None|None|1985|None",
+      "IS|10045|None|None|1981|None",
+      "IS|10009|None|None|1981|None"
+    ],
+    "performance": [
+      "IS|10069|None|None|1992|None",
+      "IS|10001|None|None|1981|None",
+      "IS|10002|None|None|1981|None"
+    ],
+    "physical),": [
+      "IS|101|1|7|1987|None",
+      "IS|101|1|6|1987|None",
+      "IS|101|1|5|1989|None",
+      "IS|101|1|4|1987|None",
+      "IS|101|1|2|1987|None",
+      "IS|101|1|3|1986|None",
+      "IS|101|1|1|1986|None"
+    ],
+    "pigment": [
+      "IS|10010|None|None|1981|None",
+      "IS|10010|None|None|2022|None"
+    ],
+    "plastics": [
+      "IS|10073|None|None|1982|None",
+      "IS|10072|None|None|1982|None"
+    ],
+    "plywood": [
+      "IS|10|4|None|1989|None",
+      "IS|10|2|None|2013|None",
+      "IS|10|5|None|1976|None",
+      "IS|10|2|None|1996|None",
+      "IS|10|3|None|1974|None",
+      "IS|10|1|None|1990|None"
+    ],
+    "polybutadiene": [
+      "IS|10016|1|None|1981|None",
+      "IS|10016|6|None|2000|None",
+      "IS|10016|4|None|1984|None",
+      "IS|10016|5|None|1981|None",
+      "IS|10016|2|None|1984|None"
+    ],
+    "powder": [
+      "IS|10035|None|None|2023|None",
+      "IS|10030|None|None|1981|None",
+      "IS|10059|None|None|1981|None",
+      "IS|10091|None|None|1981|None",
+      "IS|10035|None|None|1993|None",
+      "IS|1007|None|None|1984|None"
+    ],
+    "power": [
+      "IS|10060|None|None|2013|None",
+      "IS|10069|None|None|1992|None",
+      "IS|10060|None|None|1981|None"
+    ],
+    "practice": [
+      "IS|10097|None|None|1982|None",
+      "IS|10049|None|None|1981|None",
+      "IS|10042|None|None|1981|None",
+      "IS|10060|None|None|1981|None",
+      "IS|10094|None|None|1998|None",
+      "IS|10028|2|None|1981|None",
+      "IS|10028|1|None|1985|None",
+      "IS|10028|3|None|1981|None",
+      "IS|10060|None|None|2013|None",
+      "IS|10087|None|None|1981|None",
+      "IS|10017|None|None|1981|None"
+    ],
+    "preparation": [
+      "IS|101|1|3|1986|None",
+      "IS|10000|5|None|1980|None",
+      "IS|101|1|2|1987|None"
+    ],
+    "preservative": [
+      "IS|10013|2|None|1981|None",
+      "IS|10013|1|None|1981|None",
+      "IS|10013|3|None|1981|None"
+    ],
+    "preservatives,": [
+      "IS|10013|2|None|1981|None",
+      "IS|10013|1|None|1981|None",
+      "IS|10013|3|None|1981|None"
+    ],
+    "press": [
+      "IS|10068|5|None|1996|None",
+      "IS|10068|4|None|1997|None",
+      "IS|10068|2|None|2018|None",
+      "IS|10068|2|None|1982|None",
+      "IS|10068|3|None|1990|None",
+      "IS|10068|6|None|1996|None",
+      "IS|10068|1|None|2018|None",
+      "IS|10068|1|None|1982|None"
+    ],
+    "printing": [
+      "IS|10010|None|None|1981|None",
+      "IS|10010|None|None|2022|None",
+      "IS|10039|None|None|1981|None"
+    ],
+    "products": [
+      "IS|101|1|1|2023|None",
+      "IS|101|2|1|2018|None",
+      "IS|1000|None|None|1989|None"
+    ],
+    "products,": [
+      "IS|101|7|2|1990|None",
+      "IS|101|1|5|1989|None",
+      "IS|101|6|1|1988|None",
+      "IS|101|1|2|1987|None",
+      "IS|101|6|2|1989|None",
+      "IS|101|7|3|1990|None",
+      "IS|101|2|1|1988|None",
+      "IS|101|1|3|1986|None",
+      "IS|101|1|1|1986|None",
+      "IS|101|4|1|1988|None",
+      "IS|101|5|3|1999|None",
+      "IS|101|6|5|1997|None",
+      "IS|101|5|2|1988|None",
+      "IS|101|7|1|1989|None",
+      "IS|101|5|1|1988|None",
+      "IS|101|6|4|1991|None",
+      "IS|101|3|1|1986|None",
+      "IS|101|1|6|1987|None",
+      "IS|101|4|3|1988|None",
+      "IS|101|5|4|1988|None",
+      "IS|101|7|4|1990|None",
+      "IS|101|1|4|1987|None",
+      "IS|101|3|5|1987|None",
+      "IS|101|2|2|1986|None",
+      "IS|101|3|2|1989|None",
+      "IS|101|3|4|1987|None",
+      "IS|101|1|7|1987|None",
+      "IS|101|6|3|1990|None",
+      "IS|101|4|4|1988|None",
+      "IS|101|4|2|1989|None"
+    ],
+    "proforma": [
+      "IS|10061|None|None|1991|None",
+      "IS|10062|None|None|1991|None"
+    ],
+    "purposes": [
+      "IS|10098|None|None|1982|None",
+      "IS|1009|None|None|1979|None",
+      "IS|10001|None|None|1981|None",
+      "IS|10002|None|None|1981|None"
+    ],
+    "radial": [
+      "IS|10096|1|2|2014|None",
+      "IS|10096|1|2|1986|None",
+      "IS|10096|3|None|2002|None",
+      "IS|10096|2|None|1983|None",
+      "IS|10096|1|1|1983|None"
+    ],
+    "radio": [
+      "IS|10052|1|None|1999|None",
+      "IS|10052|2|None|1999|None"
+    ],
+    "ramming": [
+      "IS|10047|None|None|1981|None",
+      "IS|10047|None|None|2023|None"
+    ],
+    "recommendations": [
+      "IS|10096|1|2|2014|None",
+      "IS|10005|None|None|1994|None",
+      "IS|10096|1|2|1986|None",
+      "IS|10096|3|None|2002|None",
+      "IS|10000|13|None|2002|None",
+      "IS|10020|4|None|1981|None",
+      "IS|10096|2|None|1983|None",
+      "IS|10096|1|1|1983|None"
+    ],
+    "rectangular": [
+      "IS|10068|1|None|1982|None",
+      "IS|10068|4|None|1997|None",
+      "IS|10068|1|None|2018|None"
+    ],
+    "refractory": [
+      "IS|10047|None|None|1981|None",
+      "IS|10047|None|None|2023|None"
+    ],
+    "related": [
+      "IS|101|7|2|1990|None",
+      "IS|101|1|5|1989|None",
+      "IS|101|6|1|1988|None",
+      "IS|101|1|2|1987|None",
+      "IS|101|6|2|1989|None",
+      "IS|101|7|3|1990|None",
+      "IS|101|2|1|1988|None",
+      "IS|101|1|3|1986|None",
+      "IS|101|1|1|1986|None",
+      "IS|101|4|1|1988|None",
+      "IS|101|5|3|1999|None",
+      "IS|101|6|5|1997|None",
+      "IS|101|5|2|1988|None",
+      "IS|101|7|1|1989|None",
+      "IS|101|5|1|1988|None",
+      "IS|101|6|4|1991|None",
+      "IS|101|3|1|1986|None",
+      "IS|101|1|6|1987|None",
+      "IS|101|4|3|1988|None",
+      "IS|101|5|4|1988|None",
+      "IS|101|7|4|1990|None",
+      "IS|101|1|4|1987|None",
+      "IS|101|3|5|1987|None",
+      "IS|101|2|2|1986|None",
+      "IS|101|3|2|1989|None",
+      "IS|101|2|1|2018|None",
+      "IS|101|1|1|2023|None",
+      "IS|101|3|4|1987|None",
+      "IS|101|1|7|1987|None",
+      "IS|101|6|3|1990|None",
+      "IS|101|4|4|1988|None",
+      "IS|101|4|2|1989|None"
+    ],
+    "relating": [
+      "IS|10000|1|None|1980|None",
+      "IS|10081|None|None|1981|None"
+    ],
+    "requirements": [
+      "IS|10076|1|None|1981|None",
+      "IS|10098|None|None|1982|None",
+      "IS|10026|3|1|1999|None",
+      "IS|10037|3|None|1983|None",
+      "IS|10037|2|None|1983|None",
+      "IS|10026|1|None|1998|None",
+      "IS|10001|None|None|1981|None",
+      "IS|10002|None|None|1981|None",
+      "IS|10037|1|None|1981|None",
+      "IS|10053|None|None|1981|None",
+      "IS|10026|3|2|1999|None"
+    ],
+    "resistance": [
+      "IS|101|5|3|1999|None",
+      "IS|10075|None|None|1981|None",
+      "IS|101|7|2|1990|None",
+      "IS|101|7|4|1990|None",
+      "IS|101|7|3|1990|None",
+      "IS|101|6|1|1988|None",
+      "IS|101|7|1|1989|None"
+    ],
+    "revision": [
+      "IS|10068|1|None|2018|None",
+      "IS|101|2|1|2018|None",
+      "IS|10027|None|None|2018|None",
+      "IS|10086|None|None|2021|None"
+    ],
+    "rewirable": [
+      "IS|10027|None|None|2000|None",
+      "IS|10027|None|None|2018|None"
+    ],
+    "ribbon": [
+      "IS|10056|None|None|1982|None",
+      "IS|10056|None|None|2023|None"
+    ],
+    "round": [
+      "IS|10054|None|None|1996|None",
+      "IS|10068|6|None|1996|None",
+      "IS|10031|None|None|1981|None",
+      "IS|10068|3|None|1990|None"
+    ],
+    "rubbers,": [
+      "IS|10016|1|None|1981|None",
+      "IS|10016|6|None|2000|None",
+      "IS|10016|4|None|1984|None",
+      "IS|10016|5|None|1981|None",
+      "IS|10016|2|None|1984|None"
+    ],
+    "sampling": [
+      "IS|101|7|2|1990|None",
+      "IS|101|1|5|1989|None",
+      "IS|101|6|1|1988|None",
+      "IS|101|1|2|1987|None",
+      "IS|101|6|2|1989|None",
+      "IS|101|7|3|1990|None",
+      "IS|101|2|1|1988|None",
+      "IS|101|1|3|1986|None",
+      "IS|101|1|1|1986|None",
+      "IS|101|4|1|1988|None",
+      "IS|101|5|3|1999|None",
+      "IS|101|6|5|1997|None",
+      "IS|101|5|2|1988|None",
+      "IS|101|7|1|1989|None",
+      "IS|101|5|1|1988|None",
+      "IS|101|6|4|1991|None",
+      "IS|101|3|1|1986|None",
+      "IS|101|1|6|1987|None",
+      "IS|101|4|3|1988|None",
+      "IS|101|5|4|1988|None",
+      "IS|101|7|4|1990|None",
+      "IS|101|1|4|1987|None",
+      "IS|101|3|5|1987|None",
+      "IS|101|2|2|1986|None",
+      "IS|101|3|2|1989|None",
+      "IS|101|2|1|2018|None",
+      "IS|101|1|1|2023|None",
+      "IS|101|3|4|1987|None",
+      "IS|101|1|7|1987|None",
+      "IS|101|6|3|1990|None",
+      "IS|101|4|4|1988|None",
+      "IS|101|4|2|1989|None"
+    ],
+    "section": [
+      "IS|101|7|2|1990|None",
+      "IS|101|1|5|1989|None",
+      "IS|101|6|1|1988|None",
+      "IS|101|1|2|1987|None",
+      "IS|101|6|2|1989|None",
+      "IS|101|7|3|1990|None",
+      "IS|101|2|1|1988|None",
+      "IS|101|1|3|1986|None",
+      "IS|101|1|1|1986|None",
+      "IS|101|4|1|1988|None",
+      "IS|101|5|3|1999|None",
+      "IS|10026|3|9|1986|None",
+      "IS|101|6|5|1997|None",
+      "IS|10026|3|3|1983|None",
+      "IS|10096|1|2|1986|None",
+      "IS|101|5|2|1988|None",
+      "IS|101|7|1|1989|None",
+      "IS|10026|3|4|1983|None",
+      "IS|101|5|1|1988|None",
+      "IS|10026|3|1|1999|None",
+      "IS|101|6|4|1991|None",
+      "IS|101|3|1|1986|None",
+      "IS|101|1|6|1987|None",
+      "IS|101|4|3|1988|None",
+      "IS|101|5|4|1988|None",
+      "IS|101|7|4|1990|None",
+      "IS|101|1|4|1987|None",
+      "IS|101|3|5|1987|None",
+      "IS|101|2|2|1986|None",
+      "IS|101|3|2|1989|None",
+      "IS|10096|1|1|1983|None",
+      "IS|101|2|1|2018|None",
+      "IS|10026|3|7|1983|None",
+      "IS|10096|1|2|2014|None",
+      "IS|101|3|4|1987|None",
+      "IS|101|1|7|1987|None",
+      "IS|101|6|3|1990|None",
+      "IS|101|4|4|1988|None",
+      "IS|101|4|2|1989|None",
+      "IS|10026|3|6|1983|None",
+      "IS|10026|3|8|1986|None",
+      "IS|10026|3|2|1999|None",
+      "IS|10026|3|5|1983|None"
+    ],
+    "selection": [
+      "IS|10095|None|None|1982|None",
+      "IS|10028|1|None|1985|None",
+      "IS|10000|7|None|1980|None"
+    ],
+    "selection,": [
+      "IS|10028|2|None|1981|None",
+      "IS|10028|1|None|1985|None",
+      "IS|10028|3|None|1981|None"
+    ],
+    "sensory": [
+      "IS|10029|None|None|1981|None",
+      "IS|10030|None|None|1981|None"
+    ],
+    "shade": [
+      "IS|10010|None|None|1981|None",
+      "IS|10010|None|None|2022|None"
+    ],
+    "shutters": [
+      "IS|1003|1|None|2003|None",
+      "IS|1003|2|None|1994|None"
+    ],
+    "shutters,": [
+      "IS|1003|1|None|2003|None",
+      "IS|1003|2|None|1994|None"
+    ],
+    "sites": [
+      "IS|10060|None|None|2013|None",
+      "IS|10060|None|None|1981|None"
+    ],
+    "sludge": [
+      "IS|10037|1|None|1981|None",
+      "IS|10037|3|None|1983|None",
+      "IS|10037|2|None|1983|None"
+    ],
+    "soluble": [
+      "IS|10013|2|None|1981|None",
+      "IS|10013|1|None|1981|None",
+      "IS|10013|3|None|1981|None"
+    ],
+    "solvents,": [
+      "IS|10026|2|None|1999|None",
+      "IS|10026|3|7|1983|None",
+      "IS|10026|3|1|1999|None",
+      "IS|10026|1|None|1998|None",
+      "IS|10026|3|9|1986|None",
+      "IS|10026|3|3|1983|None",
+      "IS|10026|3|6|1983|None",
+      "IS|10026|3|8|1986|None",
+      "IS|10026|3|2|1999|None",
+      "IS|10026|3|4|1983|None",
+      "IS|10026|3|5|1983|None"
+    ],
+    "specification": [
+      "IS|10008|None|None|1992|None",
+      "IS|10035|None|None|2023|None",
+      "IS|10019|None|None|1981|None",
+      "IS|1000|None|None|2021|None",
+      "IS|1|None|None|1968|None",
+      "IS|10078|None|None|1982|None",
+      "IS|1009|None|None|2023|None",
+      "IS|10039|None|None|1981|None",
+      "IS|10070|None|None|1982|None",
+      "IS|10040|None|None|1981|None",
+      "IS|10056|None|None|2023|None",
+      "IS|10068|2|None|2018|None",
+      "IS|10079|None|None|1982|None",
+      "IS|10080|None|None|1982|None",
+      "IS|10090|None|None|1982|None",
+      "IS|10027|None|None|2018|None",
+      "IS|10086|None|None|1982|None",
+      "IS|10068|1|None|2018|None"
+    ],
+    "specifications": [
+      "IS|10026|3|7|1983|None",
+      "IS|10026|3|1|1999|None",
+      "IS|10026|3|9|1986|None",
+      "IS|10026|3|3|1983|None",
+      "IS|10026|3|6|1983|None",
+      "IS|10026|3|8|1986|None",
+      "IS|10026|3|2|1999|None",
+      "IS|10026|3|4|1983|None",
+      "IS|10026|3|5|1983|None"
+    ],
+    "specimens": [
+      "IS|10082|None|None|1981|None",
+      "IS|10099|None|None|1982|None"
+    ],
+    "speed": [
+      "IS|10001|None|None|1981|None",
+      "IS|10000|10|None|1980|None",
+      "IS|10002|None|None|1981|None",
+      "IS|10000|7|None|1980|None"
+    ],
+    "square": [
+      "IS|10068|2|None|1982|None",
+      "IS|10068|5|None|1996|None",
+      "IS|10068|2|None|2018|None"
+    ],
+    "stage,": [
+      "IS|10096|1|1|1983|None",
+      "IS|10096|1|2|1986|None"
+    ],
+    "standard": [
+      "IS|10000|2|None|1980|None",
+      "IS|10080|None|None|1982|None"
+    ],
+    "staple": [
+      "IS|10014|1|None|1984|None",
+      "IS|10014|2|None|1981|None"
+    ],
+    "starch": [
+      "IS|1006|None|None|1984|None",
+      "IS|1005|None|None|1992|None"
+    ],
+    "steel": [
+      "IS|10007|None|None|1981|None",
+      "IS|10019|None|None|1981|None"
+    ],
+    "strength": [
+      "IS|10010|None|None|1981|None",
+      "IS|10010|None|None|2022|None",
+      "IS|10082|None|None|1981|None"
+    ],
+    "switches": [
+      "IS|10027|None|None|2000|None",
+      "IS|10027|None|None|2018|None"
+    ],
+    "tea-chests:": [
+      "IS|10|4|None|1989|None",
+      "IS|10|2|None|1996|None",
+      "IS|10|3|None|1974|None",
+      "IS|10|1|None|1990|None"
+    ],
+    "temperature": [
+      "IS|10026|3|7|1983|None",
+      "IS|10026|3|9|1986|None",
+      "IS|10026|3|3|1983|None",
+      "IS|10026|3|6|1983|None",
+      "IS|10026|3|8|1986|None",
+      "IS|10026|3|4|1983|None",
+      "IS|10026|3|5|1983|None"
+    ],
+    "terms": [
+      "IS|10092|None|None|1982|None",
+      "IS|10041|None|None|1981|None",
+      "IS|10000|1|None|1980|None",
+      "IS|10081|None|None|1981|None"
+    ],
+    "test,": [
+      "IS|101|4|1|1988|None",
+      "IS|101|4|4|1988|None"
+    ],
+    "testing": [
+      "IS|10047|None|None|1981|None",
+      "IS|10078|None|None|1982|None",
+      "IS|10096|1|2|2014|None",
+      "IS|10070|None|None|1982|None",
+      "IS|10096|1|2|1986|None",
+      "IS|10096|3|None|2002|None",
+      "IS|101|1|2|1987|None",
+      "IS|10096|2|None|1983|None",
+      "IS|10096|1|1|1983|None"
+    ],
+    "tests": [
+      "IS|10026|2|None|1999|None",
+      "IS|10076|1|None|1981|None",
+      "IS|10000|4|None|1980|None",
+      "IS|10000|11|None|1980|None",
+      "IS|10099|None|None|1982|None",
+      "IS|101|7|2|1990|None",
+      "IS|101|1|5|1989|None",
+      "IS|101|7|3|1990|None",
+      "IS|101|6|2|1989|None",
+      "IS|10086|None|None|1982|None",
+      "IS|10000|8|None|1980|None",
+      "IS|10000|6|None|1980|None",
+      "IS|10000|10|None|1980|None",
+      "IS|10000|1|None|1980|None",
+      "IS|10000|7|None|1980|None",
+      "IS|10000|3|None|1980|None",
+      "IS|10000|5|None|1980|None",
+      "IS|10000|13|None|2002|None",
+      "IS|101|7|1|1989|None",
+      "IS|101|5|1|1988|None",
+      "IS|101|6|4|1991|None",
+      "IS|101|3|1|1986|None",
+      "IS|10082|None|None|1981|None",
+      "IS|10079|None|None|1982|None",
+      "IS|10000|12|None|1980|None",
+      "IS|101|7|4|1990|None",
+      "IS|10000|2|None|1980|None",
+      "IS|10000|9|None|1980|None",
+      "IS|101|3|5|1987|None",
+      "IS|10086|None|None|2021|None",
+      "IS|101|3|2|1989|None",
+      "IS|101|1|1|2023|None",
+      "IS|101|3|4|1987|None",
+      "IS|101|6|3|1990|None",
+      "IS|10014|2|None|1981|None",
+      "IS|10014|1|None|1984|None"
+    ],
+    "tests,": [
+      "IS|101|4|3|1988|None",
+      "IS|101|5|3|1999|None",
+      "IS|101|4|2|1989|None",
+      "IS|101|6|1|1988|None"
+    ],
+    "textiles": [
+      "IS|10054|None|None|1996|None",
+      "IS|10056|None|None|2023|None"
+    ],
+    "timber": [
+      "IS|1003|1|None|2003|None",
+      "IS|1003|2|None|1994|None"
+    ],
+    "transformers,": [
+      "IS|10028|1|None|1985|None",
+      "IS|10028|3|None|1981|None"
+    ],
+    "type)": [
+      "IS|10068|1|None|1982|None",
+      "IS|10037|3|None|1983|None",
+      "IS|10068|1|None|2018|None",
+      "IS|10068|2|None|1982|None"
+    ],
+    "type),": [
+      "IS|10068|6|None|1996|None",
+      "IS|10068|5|None|1996|None",
+      "IS|10068|4|None|1997|None"
+    ],
+    "units": [
+      "IS|10076|1|None|1981|None",
+      "IS|10027|None|None|2000|None",
+      "IS|10005|None|None|1994|None",
+      "IS|10027|None|None|2018|None"
+    ],
+    "varnishes": [
+      "IS|10026|2|None|1999|None",
+      "IS|101|7|2|1990|None",
+      "IS|101|1|5|1989|None",
+      "IS|101|6|1|1988|None",
+      "IS|101|1|2|1987|None",
+      "IS|101|6|2|1989|None",
+      "IS|101|7|3|1990|None",
+      "IS|101|2|1|1988|None",
+      "IS|101|1|3|1986|None",
+      "IS|101|1|1|1986|None",
+      "IS|101|4|1|1988|None",
+      "IS|101|5|3|1999|None",
+      "IS|10026|1|None|1998|None",
+      "IS|10026|3|9|1986|None",
+      "IS|101|6|5|1997|None",
+      "IS|10026|3|3|1983|None",
+      "IS|101|5|2|1988|None",
+      "IS|101|7|1|1989|None",
+      "IS|10026|3|4|1983|None",
+      "IS|101|5|1|1988|None",
+      "IS|10026|3|1|1999|None",
+      "IS|101|6|4|1991|None",
+      "IS|101|3|1|1986|None",
+      "IS|101|1|6|1987|None",
+      "IS|101|4|3|1988|None",
+      "IS|101|5|4|1988|None",
+      "IS|101|7|4|1990|None",
+      "IS|101|1|4|1987|None",
+      "IS|101|3|5|1987|None",
+      "IS|101|2|2|1986|None",
+      "IS|101|3|2|1989|None",
+      "IS|101|2|1|2018|None",
+      "IS|10026|3|7|1983|None",
+      "IS|101|1|1|2023|None",
+      "IS|101|3|4|1987|None",
+      "IS|101|1|7|1987|None",
+      "IS|101|6|3|1990|None",
+      "IS|101|4|4|1988|None",
+      "IS|101|4|2|1989|None",
+      "IS|10026|3|6|1983|None",
+      "IS|10026|3|8|1986|None",
+      "IS|10026|3|2|1999|None",
+      "IS|10026|3|5|1983|None"
+    ],
+    "voltages": [
+      "IS|10027|None|None|2000|None",
+      "IS|10027|None|None|2018|None"
+    ],
+    "water": [
+      "IS|10013|2|None|1981|None",
+      "IS|101|2|1|2018|None",
+      "IS|10013|1|None|1981|None",
+      "IS|10013|3|None|1981|None",
+      "IS|101|2|1|1988|None",
+      "IS|101|7|1|1989|None"
+    ],
+    "working": [
+      "IS|10068|5|None|1996|None",
+      "IS|10068|4|None|1997|None",
+      "IS|10068|2|None|2018|None",
+      "IS|10068|2|None|1982|None",
+      "IS|10068|3|None|1990|None",
+      "IS|10068|6|None|1996|None",
+      "IS|10068|1|None|2018|None",
+      "IS|10068|1|None|1982|None"
+    ],
+    "works": [
+      "IS|10067|None|None|1982|None",
+      "IS|10084|2|None|1994|None",
+      "IS|10084|2|None|2014|None"
+    ],
+    "zircon": [
+      "IS|10085|None|None|2003|None",
+      "IS|10033|None|None|1992|None"
+    ]
+  }
+}

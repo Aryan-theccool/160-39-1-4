@@ -1,0 +1,726 @@
+**************** 
+
+
+
+*■ fe^K 
+
+
+
+
+Disclosure to Promote the Right To Information 
+
+Whereas the Parliament of India has set out to provide a practical regime of right to 
+information for citizens to secure access to information under the control of public authorities, 
+in order to promote transparency and accountability in the working of every public authority, 
+and whereas the attached publication of the Bureau of Indian Standards is of particular interest 
+to the public, particularly disadvantaged communities and those engaged in the pursuit of 
+education and knowledge, the attached public safety standard is made available to promote the 
+timely dissemination of this information in an accurate manner to the public. 
+
+
+
+
+Mazdoor Kisan Shakti Sangathan 
+"The Right to Information, The Right to Live" 
+
+
+
+IS 10-5 (1976): Plywood Tea-Chests, Part 5: Assembly and 
+Packing [CED 9: Timber and Timber Stores] 
+
+
+
+
+Jawaharlal Nehru 
+'Step Out From the Old to the New' 
+
+
+
+■K^y / 1 juaaaws^fea rs^^TTF^ 
+
+
+
+2*S< W I *>S*V2^NK^ 
+
+
+
+^frcvvv^ 
+
+
+
+Satyanarayan Gangaram Pitroda 
+Invent a New India Using Knowledge 
+
+
+
+Bhartrhari — Nitisatakam 
+"Knowledge is such a treasure which cannot be stolen" 
+
+
+
+
+.^^_ 
+
+
+
+• 
+
+
+
+
+BLANK PAGE 
+
+
+
+*rt*2V^ 
+
+
+
+
+
+PROTECTED BY COPYRIGHT 
+
+
+
+IS:10(Part V)-1976 
+
+( Reaffirmed 2005 ) 
+
+Indian Standard 
+
+SPECIFICATION FOR 
+PLYWOOD TEA-CHESTS 
+
+PART V ASSEMBLY AND PACKING 
+
+(Fourth Revision) 
+
+
+
+First Reprint FEBRUARY 1989 
+UDC 621. 798. 123. 002. 72. 00U. 3: 67 4—119. 32: 663. 95 
+
+
+
+© Cofryrighl 1976 
+
+BUREAU OF INDIAN STANDARDS 
+
+MANAK BHAVAN, 9 BAHADUR SHAH ZAFAR MARG 
+NEW DELHI 110002 
+
+Gr 3 September 1976 
+
+
+
+IS:10(PartV)-1976 
+
+Indian Standard 
+
+SPECIFICATION FOR 
+PLYWOOD TEA-CHESTS 
+
+PART V ASSEMBLY AND PACKING 
+
+(Fourth Revision) 
+
+Wood Products Sectional Committee, BDC 20 
+
+Chairman Representing 
+
+Shri A. C. Sekhar Forest Research Institute and Colleges ( Timber 
+
+Mechanics Branch ), Dehra Dun 
+
+Members 
+Assistant Director Ministry of Railways 
+
+( Specifications ) RDSO, 
+Lucknow 
+Shri J. Bain Indian Tea Association, Calcutta 
+
+Shri P R. Chandrasekhar Directorate General of Civil Aviation, New Delhi 
+
+Shri L. N. Dokania Federation of Indian Plywood and Panel Industry, 
+
+New Delhi 
+Shri M. R. Motayed ( Alternate ) 
+Dr Joseph George Indian Plywood Industries* Research Institute, 
+
+Bangalore 
+Dr D. C. Roy ( Alternate ) , 
+
+Shri M. A. Islam Forest Department, Government of Assam, Dispur 
+
+Shpi A. K. Kaderkutty The Western India Plywood Ltd, Baliapatam 
+
+( Kerala ) 
+Shri K. S. Latjly The South Indian Plywood Manufacturers* Associa- 
+
+tion, Calicut 
+Shri Thomas Paul ( Alternate ) 
+Shri G. R. Mavinktjrva Forest Department, Government of Karnataka, 
+
+Bangalore 
+•Shri Y. M. L. Sharma ( Alternate ) 
+Shri P. V. Mehta Directorate General of Technical Development, New 
+
+Delhi 
+Lt-Col S. A. Mohile Ministry of Defence (R&D) 
+
+Shri B. B. Mehta ( Alternate) 
+Shri M. R. Motayed Plywood Manufacturers* Association of West Bengal, 
+
+Calcutta 
+Shri 6. K. Dutta ( Alternate ) 
+
+( Continued on page 2 ) 
+
+
+
+® Copyright 1976 
+
+BUREAU OF INDIAN STANDARDS 
+
+This publication is protected under the Indian Copyright Act ( XIV of 1957 ) and 
+reproduction in whole or in part by any means except with written permission of 
+the publisher shall be deemed to be an infringement of copyright under the said Act. 
+
+
+
+IStlO (Part V) -1976 
+
+( Continued from page 1 ) 
+
+Members Representing 
+
+Dr A. N. Nayer In personal capacity ( 1001, Arya Samaj Road, Karol 
+
+Bagk, Mew Delhi ) 
+Shri D. E. Neai-e United Planter's Association of Southern India, 
+
+Cochin 
+Dr R. S. Ratra National Building Organization 
+
+Shri P. R. Rusinghani Engineer-in-Chief*s Branch, Army Headquarters 
+
+Maj M. Goswami ( Alternate ) 
+Shri Sharan Singh Directorate General of Supplies' and Disposals, New 
+
+Delhi 
+Dr S. M. Singh Central Building Research Institute ( CSIR ), 
+
+Roorkee 
+Shri Arjun Das ( Alternate ) 
+Superintending Surveyor of Central Public Works Department, New Delhi 
+
+Works ( II ) 
+Shri H. Thomson Sitapur Plywood Manufacturers* Ltd, Sitapur 
+
+Shri G. W. M. Whittle ( Alternate ) 
+Shri D. V. Verma Ministry of Defence ( DGI ) 
+
+Shri Nirmal Singh ( Alternate ) 
+Shri D. Ajitha Simha, Director General, ISI ( Ex-officio Member ) 
+
+Director ( Civ Engg ) 
+
+Secretary 
+
+Shri J. R. Mehta 
+Deputy Director ( Civ Engg ) , ISI 
+
+
+
+Plywood Subcommittee, BDC 20 : 1 
+
+Convener 
+Shri A. K. Kaderktjtty The Western India Plywood Ltd, Baliapatam 
+
+( Kerala ) 
+
+Members 
+Shri B. Anandaswamy Central Food Technological Research Institute 
+
+(CSIR), Mysore 
+Shri J. Bain Indian Tea Association, Calcutta 
+
+Shri Balia Biswas Calcutta Tea-Chest Fittings Manufacturers' Associa- 
+
+tion, Calcutta 
+Shri B. K. Khaitan ( Alternate ) 
+Shri P. R. Chandrasekhar Directorate General of Civil Aviation, New Delhi 
+
+Shri P. G. Deshmukh Indian Institute of Packaging, Bombay 
+
+Shri C. S. Purushothaman ( Alternate ) 
+Shri M. K. Dutt Tea Board, Calcutta 
+
+Dr K. K. Mitra ( Alternate) 
+Dr Joseph George Indian Plywood Industries* Research Institute, 
+
+Bangalore 
+Shri V. Sivananda ( Alternate ) 
+Shri C. P. Goenka Indian Tea-Chest Battens Manufacturers' Associa- 
+
+tion, Yamunanagar 
+Shri J. N. Kapur ( Alternate ) 
+
+( Continued on page 9 ) 
+
+
+
+IS: 10 (Part V). 1976 
+
+Indian Standard 
+
+SPECIFICATION FOR 
+PLYWOOD TEA-CHESTS 
+
+PART V ASSEMBLY AND PACKING 
+
+(Fourth Revision) 
+
+0. FOREWORD 
+
+0.1 This Indian Standard (Part V) (Fourth Revision) was adopted by 
+the Indian Standards Institution on 22 June 1976, after the draft finalized 
+by the Wood Products Sectional Committee had been approved by the 
+Civil Engineering Division Council. 
+
+0.2 This standard covered provisions relating to different components 
+of plywood tea-chest, namely, battens, plywood panels, metal fittings, 
+etc. Besides it also covered provisions in respect of sizes and testing of 
+assembled tea-chest. Since some of these aspects are the concern of 
+different trades, such as plywood, battens, metal fittings and to assist the 
+quality enforcement procedures, it has been felt necessary that this 
+standard ( IS: 10) be issued in parts. Accordingly, this standard is being 
+published in the following parts: 
+
+Part I General 
+
+Part II Plywood 
+
+Part III Battens 
+
+Part IV Metal fittings 
+
+Part V Assembly and packing 
+
+0.2.1 During the course of working to the standard a need has been 
+felt for the preparation of a separate standard giving guidance regarding 
+the assembly and packing of plywood tea-chest. These provisions had 
+not been so far covered in IS: 10-1970. These requirements are now 
+covered in this part. 
+
+0.3 In the formulation of this standard due weightage has been given to 
+international co-ordination among the standards and practices prevailing 
+in different countries in addition to relating it to the practices in the 
+field in this country. 
+
+0.4 For the purpose of deciding whether a particular requirement of this 
+standard is complied with, the final value, observed or calculated, 
+
+3 
+
+
+
+lS:10(Part V)-1976 
+
+expressing the result of a test, shall be rounded off in accordance 
+with IS: 2-1960*. The number of significant places retained in the 
+rounded off value should be the same as that of the specified value in this 
+standard. 
+
+
+
+1. SCOPE 
+
+1.1 This standard (PartV) covers the requirements for assembly and 
+packing of plywood tea-chests. 
+
+2. TERMINOLOGY 
+
+2*1 For the purpose of this standard, the definitions given in IS : 707- 
+1976t shall apply. 
+
+3. DESIGN OF TEA-CHEST 
+
+3.1 The tea-chest shall be assembled as indicated in Fig. 1 from six 
+panels of plywood forming a shook and 12 battens together with other 
+accessories specified in IS: 10 (Part I)-1976J. 
+
+4. SIZES 
+
+4.1 The outside dimensions of tea-chests shall conform to the provisions 
+of IS:10(PartI)-1976J. 
+
+5. COMPONENTS 
+
+5.1 Plywood — The plywood shall conform to the requirements of 
+IS:i0(PartII)-1976§. 
+
+5.2 Battens — The battens shall conform to the requirements of 
+IS: 10 (Part III )-1974||. 
+
+5.3 Metal Fittings — The metal fittings shall conform to the require- 
+ments laid down in IS: 10 (Part IV)-1976f. 
+
+5.4 Nails — The nails shall conform to the requirements laid down in 
+IS:10(PartI)-1976t 
+
+5.5 Linings and Tissue Paper — The linings and tissue paper shall 
+conform to the requirements laid down in Table 1 of IS: 10 ( Part I )- 
+
+
+
+♦Rules for rounding off numerical values ( revised ). 
+
+fGlossary of terms applicable to timber technology and utilization ( second revision ). 
+{Specification for plywood tea-chests: Part I General {fourth revision ). 
+§Specification for plywood tea-chests: Part II Plywood (fourth revision ). 
+||Specification for plywood tea-chests: Part III Battens (fourth revision ). 
+^Specification for plywood tea-chests: Part IV Fittings (fourth revision ). 
+
+
+
+IS:10(PartV)-1976 
+
+
+
+
+Fig. 1 Complete Tea-Chest 
+
+
+
+6, ASSEMBLY 
+
+6.1 A tea-chest shall be assembled by following the operations given 
+under 6.1.1 to 6.1.7. For ease in reference the assembly of 48 X 48 X 60 cm 
+tea-chest is explained under 6.1.1 to 6.1.7. 
+
+6.1.1 Operation No. / — Collect all the required material as listed 
+in Table 1 of IS : 10 ( Part I )-1976* and keep them conveniently near the 
+place of assembly. Battens should be covered with tissue paper and 
+panels with linings internally before assembling the chest. Tissue paper 
+and linings are not necessary for chests assembled for test. 
+
+6.1.2 Operation No. 2 — Assemble the four sides of the chest in 
+clockwise direction with metal fittings externally and corner battens 
+internally in flush with the vertical corners. The battens are so fixed 
+that a distance of 2*2 cm is left from each end, to provide clearance for 
+the mitred top and bottom battens. Each corner batten is fixed with 
+nine nails on each face, such that the end nails are approximately 4 cm 
+from the end of corners, and the rest of the nails are each 6*5 cm apart. 
+Thus 72 nails are consumed in this process ( see Fig. 2A ). 
+
+6.1.3 Operation No. 3~ Fix the appropriate battens in the bottom and 
+top ends first by three nails on each batten internally. Thus 24 more 
+nails are consumed in this operation (see Fig. 2B) . 
+
+♦Specification for plywood tea-chests: Part I General (fourth revision ). 
+
+5 
+
+
+
+O) 
+
+
+
+
+-47-5 
+
+
+
+6-5 cm APART 
+
+
+
+47- 
+
+
+
+=TP^ 
+
+
+
+All dimensions in centimetres. 
+
+
+
+-1 
+
+
+
+Tl 
+
+
+
+in 
+
+
+
+x=J}L 
+
+
+
+2A Operation 2 Fixing of Corner Battens 
+and Side Panels 
+
+
+
+2B Operation 3 Fixing of Bottom 
+and Top Battens 
+
+
+
+Fig. 2 Assembly of A Tea-Chest of Size 48 X 48 X 60 cm -Contd 
+
+
+
+C0 
+
+
+
+IB 
+
+
+
+
+
+
+IS:10(PartV)-1976 
+
+
+
+00 
+
+
+
+7cm APART 
+
+
+
+j- 
+
+
+
+-v NOTCH METAL 
+FITTINGS 
+
+
+
+-*7-5 
+
+
+
+All dimensions in centimetres. 
+
+2C Operation 4 Fixinq of Bottom Panel and 'V Notched 
+Metal Fittings 
+
+Fig. 2 Assembly of A Tea-Chest of Size 48 X 48 X 60 cm 
+
+
+
+6.1.4 Operation No. 4 — Place the bottom end panel on the bottom 
+battens and fix with one nail in the centre of each batten. Then place 
+the bottom metal corners such that * V s notch in each coincides with a 
+corner and fix the metal fittings in clockwise direction with 7 nails on 
+each face along each edge such that the end nails are approximately 
+3 cm from the corner and the rest of the nails are each 7 cm apart. 
+Thus 60 more nails are consumed in this operation ( see Fig. 2G). 
+
+6.1.5 Operation No. 5 — Reverse the chest and repeat this process for 
+the top end of the chest but do not fix the top panel permanently with 
+nails. This panel will now be in a position to slide in one direction so 
+that the tea-chest can be easily filled when required at the time of 
+packing tea, 
+
+Now fix one nail on each of the two sides of eight corners and thus 
+16 nails are consumed making total 88 nails along metal corners. 
+
+
+
+IS: 10 (Part V)- 1976 
+
+6.1.6 Operation No. 6— At the time of packing tea, the tea-chests shall 
+be fully packed with tea. Complete the unfinished nailing work similar 
+to the bottom so that tea-chest is now completely closed as shown 
+in Fig. 1. 
+
+6.1.7 Distribution of nails in a 48 X 48 X 60 cm tea-chest: 
+
+a) Mitred face battens (45°) with panel 4x6 =24 No. 
+
+b) Straight battens with (90°) metal fittings 9x8 = 72 No. 
+
+c) 48 X 48 top and bottom panels with battens 4 X 2 — 8 No. 
+
+d) 'V notch metal fittings to cover 48 X 48 top = 112 No. 
+and bottom panels 56 x 2 
+
+e) Fixing the ' V notch fittings with the side = 16 No. 
+panels 8x2 
+
+232 No. 
+
+7. PACKING 
+
+7.1 A belt conveyor shall be used for filling the chests with tea. Tea 
+which is ready for packing shall be fed manually at one end of the 
+conveyor and at the other end tea is allowed to fall into the chests which 
+are kept on a platform. Platform shall be mechanically vibrated at 
+about a speed of 500 rev/min during the operation of filling. Normally 
+two chests are filled at a time. Chests shall be fully packed with tea 
+without leaving any space at the top. 
+
+7.2 Larger the chest, lighter shall be the tea to be packed in. Dust tea 
+which has higher range of density shall therefore be packed in a smaller 
+chest and leaf type and other lighter grades shall be packed in larger 
+sizes. The exact amount of tea to be packed in different sizes of tea- 
+chests shall therefore depend on various grades of tea manufactured and 
+their density. The maximum weight of tea to be packed" in different 
+sizes of tea chests shall however be determined based on the ratio of 
+weight in grams to volume in cubic centimetres not exceeding 0*36. 
+
+7.3 Packed chests shall then be taken to a weighing balance through a 
+roller conveyor. 
+
+8. MASS 
+
+8.1 Maximum mass of empty chests shall be in accordance with the 
+provisions of IS : 10 ( Part I )-1976\ 
+
+8.2 Both gross mass of the chest and the net mass of the tea packed in 
+shall be marked on the chest. Top panel shall then be fixed similar to 
+the bottom as specified in 5.5. 
+
+♦Specification for plywood tea-chests: Part I General (fourth revision)- 
+
+8 
+
+
+
+IS: 10 (Part V)-1976 
+
+( Continued from page 2 ) 
+
+Members Representing 
+
+Dr R. C. Gupta Forest Research Institute and Colleges ( Wood 
+
+Composite Branch ), Dehra Dun 
+Shri P. V. Mehta Directorate General of Technical Development, 
+
+New Delhi 
+Lt-Col 3. A, Mohile Ministry of Defence (R&D) 
+
+Shri B. B. Mehta ( Alternate ) 
+Shri A. C. Sekhar Forest Research Institute and Colleges ( Timber 
+
+Mechanics Branch ), Dehra Dun 
+Shri S. K. Sanganaria Assam Plywood Manufacturers' Association, Tinsukia 
+
+( Assam ) 
+Shri N. P. Nair ( Alternate ) 
+Shri R. K. Talukdar Plywood Manufacturers' Association of West Bengal, 
+
+Calcutta 
+Shri S. K. Dutta ( Alternate ) 
+Shri H. Thomson Sitapur Plywood Manufacturers Ltd, Sitapur 
+
+Shri Purshotam Dayal ( Alternate ) 
+Shri N. Venkataraman The South Indian Plywood Manufacturers Associa- 
+
+tion, Calicut 
+Shri Thomas Paul ( Alternate ) 
+
+
+
+BUREAU OF INDIAN STANDARDS 
+
+Headquarters : 
+
+Manak Bhavan, 9 Bahadur Shah Zafar Marg, NEW DELHI 110002 
+Telephones ; 3 31 01 31, 3 31 13 75 Telegrams : Manaksanstha 
+
+( Common to all Offices ) 
+Regional Offices : Telephone 
+
+*Western ; Manakalaya, E9 MiDC, Marol, Andheri ( East ), 6 32 92 95 
+
+BOMBAY 400093 
+fEastern : 1/14 C. I. T. Scheme VII M, V. I. P. Road, 36 24 99 
+
+Maniktola, CALCUTTA 700054 
+Northern : SCO 445-446, Sector 35-C f 2 18 43 
+
+CHANDIGARH 160036 \3 16 41 
+
+Southern : C. I. T. Campus, MADRAS 600113 f 41 24 42 
+
+i 41 25 19 
+141 29 16 
+Branch Offices ; 
+Pushpak/ Nurmohamed Shaikh Marg, Khanpur, J" 2 63 48 
+
+
+
+{! 
+
+
+
+AHMADABAD 380001 \2 63 49 
+
+'F' Block, Unity Bldg, Narasimharaja Square, 22 48 05 
+
+BANGALORE 560002 
+
+Gangotri Complex, 5th Floor, Bhadbhada Road, T. T. Nagar, 6 27 16 
+
+BHOPAL 462003 
+Plot No. 82/83, Lewis Road, BHUBANESHWAR 751002 5 36 27 
+
+53/5 Ward No. 29, R. G. Barua Road, 
+
+5th Byeiane, GUWAHATI 781003 ~~ 
+
+5-8-56C L N. Gupta Marg, (Nampally Station Road), 22 10 83 
+
+HYDERABAD 500001 
+R14 Yudhister Marg, C Scheme, JAIPUR 302005 f6 34 71 
+
+
+
+\6 98 32 
+
+
+
+117/418B Sarvodaya Nagar, KANPUR 208005 f21 68 76 
+
+\21 82 92 
+Patliputra Industrial Estate, PATNA 800013 6 23 05 
+
+Hantex Bldg ( 2nd Floor ), Rly Station Road. 52 27 
+
+TRIVANDRUM 695001 
+Inspection Office ( With Sale Point ): 
+
+Institution of Engineers ( India ) Building, 1332Shivaji Nagar, 5 24 35 
+PUNE 410005 
+
+
+
+•Sales Office in Bombay is at Novelty Chambers, Grant Road, 89 65 28 
+
+Bombay 400007 
+
+fSales Office in Calcutta is at 5 Chowringhee Approach, P, O. Princep 27 68 00 
+Street, Calcutta 700072 
+
+Reprography Unit, BIS, New Delhi, India 
+
+
+

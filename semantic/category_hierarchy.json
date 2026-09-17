@@ -1,0 +1,878 @@
+{
+  "divisions": {
+    "</b> Textiles<br /><b>": {
+      "count": 9,
+      "standards": [
+        "IS|1|None|None|1968|None",
+        "IS|10010|None|None|1981|None",
+        "IS|10014|1|None|1984|None",
+        "IS|10014|2|None|1981|None",
+        "IS|10054|None|None|1996|None",
+        "IS|10055|None|None|1982|None",
+        "IS|10056|None|None|1982|None",
+        "IS|10057|None|None|1982|None",
+        "IS|10099|None|None|1982|None"
+      ]
+    },
+    "</b> Civil Engineering<br /><b>": {
+      "count": 29,
+      "standards": [
+        "IS|10|1|None|1990|None",
+        "IS|10|2|None|1996|None",
+        "IS|10|3|None|1974|None",
+        "IS|10|4|None|1989|None",
+        "IS|10|5|None|1976|None",
+        "IS|1003|1|None|2003|None",
+        "IS|1003|2|None|1994|None",
+        "IS|10013|1|None|1981|None",
+        "IS|10013|2|None|1981|None",
+        "IS|10013|3|None|1981|None",
+        "IS|10019|None|None|1981|None",
+        "IS|10020|4|None|1981|None",
+        "IS|10037|1|None|1981|None",
+        "IS|10037|2|None|1983|None",
+        "IS|10037|3|None|1983|None",
+        "IS|10042|None|None|1981|None",
+        "IS|10049|None|None|1981|None",
+        "IS|10050|None|None|1981|None",
+        "IS|10053|None|None|1981|None",
+        "IS|10067|None|None|1982|None",
+        "IS|10070|None|None|1982|None",
+        "IS|10074|None|None|1982|None",
+        "IS|10077|None|None|1982|None",
+        "IS|10078|None|None|1982|None",
+        "IS|10079|None|None|1982|None",
+        "IS|10080|None|None|1982|None",
+        "IS|10082|None|None|1981|None",
+        "IS|10086|None|None|1982|None",
+        "IS|10090|None|None|1982|None"
+      ]
+    },
+    "</b> Chemical<br /><b>": {
+      "count": 38,
+      "standards": [
+        "IS|101|1|1|1986|None",
+        "IS|101|1|2|1987|None",
+        "IS|101|1|3|1986|None",
+        "IS|101|1|4|1987|None",
+        "IS|101|1|5|1989|None",
+        "IS|101|1|6|1987|None",
+        "IS|101|1|7|1987|None",
+        "IS|101|2|1|1988|None",
+        "IS|101|2|2|1986|None",
+        "IS|101|3|1|1986|None",
+        "IS|101|3|2|1989|None",
+        "IS|101|3|4|1987|None",
+        "IS|101|3|5|1987|None",
+        "IS|101|4|1|1988|None",
+        "IS|101|4|2|1989|None",
+        "IS|101|4|3|1988|None",
+        "IS|101|4|4|1988|None",
+        "IS|101|5|1|1988|None",
+        "IS|101|5|2|1988|None",
+        "IS|101|5|3|1999|None",
+        "IS|101|5|4|1988|None",
+        "IS|101|6|1|1988|None",
+        "IS|101|6|2|1989|None",
+        "IS|101|6|3|1990|None",
+        "IS|101|6|4|1991|None",
+        "IS|101|6|5|1997|None",
+        "IS|101|7|1|1989|None",
+        "IS|101|7|2|1990|None",
+        "IS|101|7|3|1990|None",
+        "IS|101|7|4|1990|None",
+        "IS|10018|None|None|1981|None",
+        "IS|10025|None|None|1981|None",
+        "IS|10044|None|None|1981|None",
+        "IS|10066|None|None|1981|None",
+        "IS|10072|None|None|1982|None",
+        "IS|10073|None|None|1982|None",
+        "IS|10081|None|None|1981|None",
+        "IS|10089|None|None|1981|None"
+      ]
+    },
+    "</b> Food and Agriculture<br /><b>": {
+      "count": 15,
+      "standards": [
+        "IS|1000|None|None|1989|None",
+        "IS|1005|None|None|1992|None",
+        "IS|1006|None|None|1984|None",
+        "IS|1007|None|None|1984|None",
+        "IS|1008|None|None|2004|None",
+        "IS|1009|None|None|1979|None",
+        "IS|10006|None|None|1981|None",
+        "IS|10017|None|None|1981|None",
+        "IS|10029|None|None|1981|None",
+        "IS|10030|None|None|1981|None",
+        "IS|10038|None|None|1981|None",
+        "IS|10048|None|None|1999|None",
+        "IS|10059|None|None|1981|None",
+        "IS|10065|None|None|1981|None",
+        "IS|10083|None|None|1982|None"
+      ]
+    },
+    "</b> Petroleum, Coal, and Related Products<br /><b>": {
+      "count": 6,
+      "standards": [
+        "IS|1001|None|None|1991|None",
+        "IS|10016|1|None|1981|None",
+        "IS|10016|2|None|1984|None",
+        "IS|10016|4|None|1984|None",
+        "IS|10016|5|None|1981|None",
+        "IS|10016|6|None|2000|None"
+      ]
+    },
+    "</b> Production and General Engineering<br /><b>": {
+      "count": 10,
+      "standards": [
+        "IS|1004|None|None|1980|None",
+        "IS|10022|None|None|1981|None",
+        "IS|10023|None|None|1981|None",
+        "IS|10068|1|None|1982|None",
+        "IS|10068|2|None|1982|None",
+        "IS|10068|3|None|1990|None",
+        "IS|10068|4|None|1997|None",
+        "IS|10068|5|None|1996|None",
+        "IS|10068|6|None|1996|None",
+        "IS|10069|None|None|1992|None"
+      ]
+    },
+    "</b> Transport Engineering<br /><b>": {
+      "count": 19,
+      "standards": [
+        "IS|10000|1|None|1980|None",
+        "IS|10000|2|None|1980|None",
+        "IS|10000|3|None|1980|None",
+        "IS|10000|4|None|1980|None",
+        "IS|10000|5|None|1980|None",
+        "IS|10000|6|None|1980|None",
+        "IS|10000|7|None|1980|None",
+        "IS|10000|8|None|1980|None",
+        "IS|10000|9|None|1980|None",
+        "IS|10000|10|None|1980|None",
+        "IS|10000|11|None|1980|None",
+        "IS|10000|12|None|1980|None",
+        "IS|10000|13|None|2002|None",
+        "IS|10001|None|None|1981|None",
+        "IS|10002|None|None|1981|None",
+        "IS|10007|None|None|1981|None",
+        "IS|10041|None|None|1981|None",
+        "IS|10063|None|None|1982|None",
+        "IS|10097|None|None|1982|None"
+      ]
+    },
+    "</b> Management and Systems<br /><b>": {
+      "count": 1,
+      "standards": [
+        "IS|10005|None|None|1994|None"
+      ]
+    },
+    "</b> Mechanical Engineering<br /><b>": {
+      "count": 6,
+      "standards": [
+        "IS|10008|None|None|1992|None",
+        "IS|10039|None|None|1981|None",
+        "IS|10040|None|None|1981|None",
+        "IS|10046|None|None|1981|None",
+        "IS|10092|None|None|1982|None",
+        "IS|10095|None|None|1982|None"
+      ]
+    },
+    "</b> Medical Equipment and Hospital Planning<br /><b>": {
+      "count": 6,
+      "standards": [
+        "IS|10009|None|None|1981|None",
+        "IS|10011|None|None|1981|None",
+        "IS|10012|None|None|1981|None",
+        "IS|10045|None|None|1981|None",
+        "IS|10058|None|None|1985|None",
+        "IS|10088|None|None|1981|None"
+      ]
+    },
+    "</b> Water Resources<br /><b>": {
+      "count": 10,
+      "standards": [
+        "IS|10021|None|None|2000|None",
+        "IS|10060|None|None|1981|None",
+        "IS|10061|None|None|1991|None",
+        "IS|10062|None|None|1991|None",
+        "IS|10084|1|None|1982|None",
+        "IS|10084|2|None|1994|None",
+        "IS|10096|1|1|1983|None",
+        "IS|10096|1|2|1986|None",
+        "IS|10096|2|None|1983|None",
+        "IS|10096|3|None|2002|None"
+      ]
+    },
+    "</b> Electrotechnical<br /><b>": {
+      "count": 18,
+      "standards": [
+        "IS|10026|1|None|1998|None",
+        "IS|10026|2|None|1999|None",
+        "IS|10026|3|1|1999|None",
+        "IS|10026|3|2|1999|None",
+        "IS|10026|3|3|1983|None",
+        "IS|10026|3|4|1983|None",
+        "IS|10026|3|5|1983|None",
+        "IS|10026|3|6|1983|None",
+        "IS|10026|3|7|1983|None",
+        "IS|10026|3|8|1986|None",
+        "IS|10026|3|9|1986|None",
+        "IS|10027|None|None|2000|None",
+        "IS|10028|1|None|1985|None",
+        "IS|10028|2|None|1981|None",
+        "IS|10028|3|None|1981|None",
+        "IS|10031|None|None|1981|None",
+        "IS|10075|None|None|1981|None",
+        "IS|10098|None|None|1982|None"
+      ]
+    },
+    "</b> Metallurgical Engineering<br /><b>": {
+      "count": 8,
+      "standards": [
+        "IS|10032|None|None|1981|None",
+        "IS|10033|None|None|1992|None",
+        "IS|10034|None|None|1981|None",
+        "IS|10035|None|None|1993|None",
+        "IS|10047|None|None|1981|None",
+        "IS|10085|None|None|2003|None",
+        "IS|10091|None|None|1981|None",
+        "IS|10094|None|None|1998|None"
+      ]
+    },
+    "</b> Electronics and Information Technology<br /><b>": {
+      "count": 5,
+      "standards": [
+        "IS|10052|1|None|1999|None",
+        "IS|10052|2|None|1999|None",
+        "IS|10071|None|None|1981|None",
+        "IS|10076|1|None|1981|None",
+        "IS|10087|None|None|1981|None"
+      ]
+    }
+  },
+  "committees": {
+    "TXD 8": {
+      "count": 1,
+      "standards": [
+        "IS|1|None|None|1968|None"
+      ]
+    },
+    "CED 9": {
+      "count": 8,
+      "standards": [
+        "IS|10|1|None|1990|None",
+        "IS|10|2|None|1996|None",
+        "IS|10|3|None|1974|None",
+        "IS|10|4|None|1989|None",
+        "IS|10|5|None|1976|None",
+        "IS|10013|1|None|1981|None",
+        "IS|10013|2|None|1981|None",
+        "IS|10013|3|None|1981|None"
+      ]
+    },
+    "CHD 20": {
+      "count": 31,
+      "standards": [
+        "IS|101|1|1|1986|None",
+        "IS|101|1|2|1987|None",
+        "IS|101|1|3|1986|None",
+        "IS|101|1|4|1987|None",
+        "IS|101|1|5|1989|None",
+        "IS|101|1|6|1987|None",
+        "IS|101|1|7|1987|None",
+        "IS|101|2|1|1988|None",
+        "IS|101|2|2|1986|None",
+        "IS|101|3|1|1986|None",
+        "IS|101|3|2|1989|None",
+        "IS|101|3|4|1987|None",
+        "IS|101|3|5|1987|None",
+        "IS|101|4|1|1988|None",
+        "IS|101|4|2|1989|None",
+        "IS|101|4|3|1988|None",
+        "IS|101|4|4|1988|None",
+        "IS|101|5|1|1988|None",
+        "IS|101|5|2|1988|None",
+        "IS|101|5|3|1999|None",
+        "IS|101|5|4|1988|None",
+        "IS|101|6|1|1988|None",
+        "IS|101|6|2|1989|None",
+        "IS|101|6|3|1990|None",
+        "IS|101|6|4|1991|None",
+        "IS|101|6|5|1997|None",
+        "IS|101|7|1|1989|None",
+        "IS|101|7|2|1990|None",
+        "IS|101|7|3|1990|None",
+        "IS|101|7|4|1990|None",
+        "IS|10018|None|None|1981|None"
+      ]
+    },
+    "FAD 19": {
+      "count": 4,
+      "standards": [
+        "IS|1000|None|None|1989|None",
+        "IS|10029|None|None|1981|None",
+        "IS|10030|None|None|1981|None",
+        "IS|10083|None|None|1982|None"
+      ]
+    },
+    "PCD 13": {
+      "count": 6,
+      "standards": [
+        "IS|1001|None|None|1991|None",
+        "IS|10016|1|None|1981|None",
+        "IS|10016|2|None|1984|None",
+        "IS|10016|4|None|1984|None",
+        "IS|10016|5|None|1981|None",
+        "IS|10016|6|None|2000|None"
+      ]
+    },
+    "CED 11": {
+      "count": 2,
+      "standards": [
+        "IS|1003|1|None|2003|None",
+        "IS|1003|2|None|1994|None"
+      ]
+    },
+    "PGD 9": {
+      "count": 1,
+      "standards": [
+        "IS|1004|None|None|1980|None"
+      ]
+    },
+    "FAD 16": {
+      "count": 7,
+      "standards": [
+        "IS|1005|None|None|1992|None",
+        "IS|1006|None|None|1984|None",
+        "IS|1007|None|None|1984|None",
+        "IS|1008|None|None|2004|None",
+        "IS|1009|None|None|1979|None",
+        "IS|10038|None|None|1981|None",
+        "IS|10065|None|None|1981|None"
+      ]
+    },
+    "TED 2": {
+      "count": 15,
+      "standards": [
+        "IS|10000|1|None|1980|None",
+        "IS|10000|2|None|1980|None",
+        "IS|10000|3|None|1980|None",
+        "IS|10000|4|None|1980|None",
+        "IS|10000|5|None|1980|None",
+        "IS|10000|6|None|1980|None",
+        "IS|10000|7|None|1980|None",
+        "IS|10000|8|None|1980|None",
+        "IS|10000|9|None|1980|None",
+        "IS|10000|10|None|1980|None",
+        "IS|10000|11|None|1980|None",
+        "IS|10000|12|None|1980|None",
+        "IS|10000|13|None|2002|None",
+        "IS|10001|None|None|1981|None",
+        "IS|10002|None|None|1981|None"
+      ]
+    },
+    "MSD 10": {
+      "count": 1,
+      "standards": [
+        "IS|10005|None|None|1994|None"
+      ]
+    },
+    "FAD 13": {
+      "count": 1,
+      "standards": [
+        "IS|10006|None|None|1981|None"
+      ]
+    },
+    "TED 19": {
+      "count": 1,
+      "standards": [
+        "IS|10007|None|None|1981|None"
+      ]
+    },
+    "MED 30": {
+      "count": 1,
+      "standards": [
+        "IS|10008|None|None|1992|None"
+      ]
+    },
+    "MHD 5": {
+      "count": 3,
+      "standards": [
+        "IS|10009|None|None|1981|None",
+        "IS|10045|None|None|1981|None",
+        "IS|10058|None|None|1985|None"
+      ]
+    },
+    "TXD 7": {
+      "count": 1,
+      "standards": [
+        "IS|10010|None|None|1981|None"
+      ]
+    },
+    "MHD 8": {
+      "count": 3,
+      "standards": [
+        "IS|10011|None|None|1981|None",
+        "IS|10012|None|None|1981|None",
+        "IS|10088|None|None|1981|None"
+      ]
+    },
+    "TXD 1": {
+      "count": 2,
+      "standards": [
+        "IS|10014|1|None|1984|None",
+        "IS|10014|2|None|1981|None"
+      ]
+    },
+    "FAD 6": {
+      "count": 1,
+      "standards": [
+        "IS|10017|None|None|1981|None"
+      ]
+    },
+    "CED 15": {
+      "count": 2,
+      "standards": [
+        "IS|10019|None|None|1981|None",
+        "IS|10090|None|None|1982|None"
+      ]
+    },
+    "CED 47": {
+      "count": 1,
+      "standards": [
+        "IS|10020|4|None|1981|None"
+      ]
+    },
+    "WRD 12": {
+      "count": 5,
+      "standards": [
+        "IS|10021|None|None|2000|None",
+        "IS|10096|1|1|1983|None",
+        "IS|10096|1|2|1986|None",
+        "IS|10096|2|None|1983|None",
+        "IS|10096|3|None|2002|None"
+      ]
+    },
+    "PGD 31": {
+      "count": 1,
+      "standards": [
+        "IS|10022|None|None|1981|None"
+      ]
+    },
+    "PGD 27": {
+      "count": 1,
+      "standards": [
+        "IS|10023|None|None|1981|None"
+      ]
+    },
+    "CHD 23": {
+      "count": 1,
+      "standards": [
+        "IS|10025|None|None|1981|None"
+      ]
+    },
+    "ETD 2": {
+      "count": 11,
+      "standards": [
+        "IS|10026|1|None|1998|None",
+        "IS|10026|2|None|1999|None",
+        "IS|10026|3|1|1999|None",
+        "IS|10026|3|2|1999|None",
+        "IS|10026|3|3|1983|None",
+        "IS|10026|3|4|1983|None",
+        "IS|10026|3|5|1983|None",
+        "IS|10026|3|6|1983|None",
+        "IS|10026|3|7|1983|None",
+        "IS|10026|3|8|1986|None",
+        "IS|10026|3|9|1986|None"
+      ]
+    },
+    "ETD 7": {
+      "count": 1,
+      "standards": [
+        "IS|10027|None|None|2000|None"
+      ]
+    },
+    "ETD 16": {
+      "count": 3,
+      "standards": [
+        "IS|10028|1|None|1985|None",
+        "IS|10028|2|None|1981|None",
+        "IS|10028|3|None|1981|None"
+      ]
+    },
+    "ETD 33": {
+      "count": 1,
+      "standards": [
+        "IS|10031|None|None|1981|None"
+      ]
+    },
+    "MTD 14": {
+      "count": 5,
+      "standards": [
+        "IS|10032|None|None|1981|None",
+        "IS|10033|None|None|1992|None",
+        "IS|10034|None|None|1981|None",
+        "IS|10091|None|None|1981|None",
+        "IS|10094|None|None|1998|None"
+      ]
+    },
+    "MTD 25": {
+      "count": 1,
+      "standards": [
+        "IS|10035|None|None|1993|None"
+      ]
+    },
+    "CED 24": {
+      "count": 4,
+      "standards": [
+        "IS|10037|1|None|1981|None",
+        "IS|10037|2|None|1983|None",
+        "IS|10037|3|None|1983|None",
+        "IS|10053|None|None|1981|None"
+      ]
+    },
+    "MED 25": {
+      "count": 1,
+      "standards": [
+        "IS|10039|None|None|1981|None"
+      ]
+    },
+    "MED 29": {
+      "count": 1,
+      "standards": [
+        "IS|10040|None|None|1981|None"
+      ]
+    },
+    "TED 14": {
+      "count": 1,
+      "standards": [
+        "IS|10041|None|None|1981|None"
+      ]
+    },
+    "CED 43": {
+      "count": 3,
+      "standards": [
+        "IS|10042|None|None|1981|None",
+        "IS|10074|None|None|1982|None",
+        "IS|10077|None|None|1982|None"
+      ]
+    },
+    "CHD 32": {
+      "count": 1,
+      "standards": [
+        "IS|10044|None|None|1981|None"
+      ]
+    },
+    "MED 8": {
+      "count": 1,
+      "standards": [
+        "IS|10046|None|None|1981|None"
+      ]
+    },
+    "MTD 15": {
+      "count": 1,
+      "standards": [
+        "IS|10047|None|None|1981|None"
+      ]
+    },
+    "FAD 20": {
+      "count": 1,
+      "standards": [
+        "IS|10048|None|None|1999|None"
+      ]
+    },
+    "CED 4": {
+      "count": 1,
+      "standards": [
+        "IS|10049|None|None|1981|None"
+      ]
+    },
+    "CED 48": {
+      "count": 2,
+      "standards": [
+        "IS|10050|None|None|1981|None",
+        "IS|10082|None|None|1981|None"
+      ]
+    },
+    "LITD 9": {
+      "count": 2,
+      "standards": [
+        "IS|10052|1|None|1999|None",
+        "IS|10052|2|None|1999|None"
+      ]
+    },
+    "TXD 23": {
+      "count": 1,
+      "standards": [
+        "IS|10054|None|None|1996|None"
+      ]
+    },
+    "TXD 33": {
+      "count": 1,
+      "standards": [
+        "IS|10055|None|None|1982|None"
+      ]
+    },
+    "TXD 12": {
+      "count": 2,
+      "standards": [
+        "IS|10056|None|None|1982|None",
+        "IS|10057|None|None|1982|None"
+      ]
+    },
+    "FAD 12": {
+      "count": 1,
+      "standards": [
+        "IS|10059|None|None|1981|None"
+      ]
+    },
+    "WRD 5": {
+      "count": 1,
+      "standards": [
+        "IS|10060|None|None|1981|None"
+      ]
+    },
+    "WRD 23": {
+      "count": 2,
+      "standards": [
+        "IS|10061|None|None|1991|None",
+        "IS|10062|None|None|1991|None"
+      ]
+    },
+    "TED 21": {
+      "count": 1,
+      "standards": [
+        "IS|10063|None|None|1982|None"
+      ]
+    },
+    "CHD 15": {
+      "count": 1,
+      "standards": [
+        "IS|10066|None|None|1981|None"
+      ]
+    },
+    "CED 29": {
+      "count": 1,
+      "standards": [
+        "IS|10067|None|None|1982|None"
+      ]
+    },
+    "PGD 4": {
+      "count": 6,
+      "standards": [
+        "IS|10068|1|None|1982|None",
+        "IS|10068|2|None|1982|None",
+        "IS|10068|3|None|1990|None",
+        "IS|10068|4|None|1997|None",
+        "IS|10068|5|None|1996|None",
+        "IS|10068|6|None|1996|None"
+      ]
+    },
+    "PGD 16": {
+      "count": 1,
+      "standards": [
+        "IS|10069|None|None|1992|None"
+      ]
+    },
+    "CED 2": {
+      "count": 5,
+      "standards": [
+        "IS|10070|None|None|1982|None",
+        "IS|10078|None|None|1982|None",
+        "IS|10079|None|None|1982|None",
+        "IS|10080|None|None|1982|None",
+        "IS|10086|None|None|1982|None"
+      ]
+    },
+    "LITD 4": {
+      "count": 1,
+      "standards": [
+        "IS|10071|None|None|1981|None"
+      ]
+    },
+    "CHD 10": {
+      "count": 2,
+      "standards": [
+        "IS|10072|None|None|1982|None",
+        "IS|10073|None|None|1982|None"
+      ]
+    },
+    "ETD 35": {
+      "count": 1,
+      "standards": [
+        "IS|10075|None|None|1981|None"
+      ]
+    },
+    "LITD 5": {
+      "count": 2,
+      "standards": [
+        "IS|10076|1|None|1981|None",
+        "IS|10087|None|None|1981|None"
+      ]
+    },
+    "CHD 26": {
+      "count": 1,
+      "standards": [
+        "IS|10081|None|None|1981|None"
+      ]
+    },
+    "WRD 22": {
+      "count": 2,
+      "standards": [
+        "IS|10084|1|None|1982|None",
+        "IS|10084|2|None|1994|None"
+      ]
+    },
+    "MTD 13": {
+      "count": 1,
+      "standards": [
+        "IS|10085|None|None|2003|None"
+      ]
+    },
+    "CHD 19": {
+      "count": 1,
+      "standards": [
+        "IS|10089|None|None|1981|None"
+      ]
+    },
+    "MED 17": {
+      "count": 1,
+      "standards": [
+        "IS|10092|None|None|1982|None"
+      ]
+    },
+    "MED 7": {
+      "count": 1,
+      "standards": [
+        "IS|10095|None|None|1982|None"
+      ]
+    },
+    "TED 24": {
+      "count": 1,
+      "standards": [
+        "IS|10097|None|None|1982|None"
+      ]
+    },
+    "ETD 17": {
+      "count": 1,
+      "standards": [
+        "IS|10098|None|None|1982|None"
+      ]
+    },
+    "TXD 5": {
+      "count": 1,
+      "standards": [
+        "IS|10099|None|None|1982|None"
+      ]
+    }
+  },
+  "categories": {
+    "Early Standards (1-100)": {
+      "count": 100,
+      "standards": [
+        "IS|10|1|None|1990|None",
+        "IS|10|2|None|1996|None",
+        "IS|10|2|None|2013|None",
+        "IS|10|3|None|1974|None",
+        "IS|10|4|None|1989|None",
+        "IS|10|5|None|1976|None",
+        "IS|101|1|1|1986|None",
+        "IS|101|1|1|2023|None",
+        "IS|101|1|2|1987|None",
+        "IS|101|1|3|1986|None",
+        "IS|101|1|4|1987|None",
+        "IS|101|1|5|1989|None",
+        "IS|101|1|6|1987|None",
+        "IS|101|1|7|1987|None",
+        "IS|101|2|1|1988|None",
+        "IS|101|2|1|2018|None",
+        "IS|101|2|2|1986|None",
+        "IS|101|3|1|1986|None",
+        "IS|101|3|2|1989|None",
+        "IS|101|3|4|1987|None",
+        "IS|101|3|5|1987|None",
+        "IS|101|4|1|1988|None",
+        "IS|101|4|2|1989|None",
+        "IS|101|4|3|1988|None",
+        "IS|101|4|4|1988|None",
+        "IS|101|5|1|1988|None",
+        "IS|101|5|2|1988|None",
+        "IS|101|5|3|1999|None",
+        "IS|101|5|4|1988|None",
+        "IS|101|6|1|1988|None",
+        "IS|101|6|2|1989|None",
+        "IS|101|6|3|1990|None",
+        "IS|101|6|4|1991|None",
+        "IS|101|6|5|1997|None",
+        "IS|101|7|1|1989|None",
+        "IS|101|7|2|1990|None",
+        "IS|101|7|3|1990|None",
+        "IS|101|7|4|1990|None",
+        "IS|1003|1|None|2003|None",
+        "IS|1003|2|None|1994|None",
+        "IS|10000|1|None|1980|None",
+        "IS|10000|2|None|1980|None",
+        "IS|10000|3|None|1980|None",
+        "IS|10000|4|None|1980|None",
+        "IS|10000|5|None|1980|None",
+        "IS|10000|6|None|1980|None",
+        "IS|10000|7|None|1980|None",
+        "IS|10000|8|None|1980|None",
+        "IS|10000|9|None|1980|None",
+        "IS|10000|10|None|1980|None",
+        "IS|10000|11|None|1980|None",
+        "IS|10000|12|None|1980|None",
+        "IS|10000|13|None|2002|None",
+        "IS|10013|1|None|1981|None",
+        "IS|10013|2|None|1981|None",
+        "IS|10013|3|None|1981|None",
+        "IS|10014|1|None|1984|None",
+        "IS|10014|2|None|1981|None",
+        "IS|10016|1|None|1981|None",
+        "IS|10016|2|None|1984|None",
+        "IS|10016|4|None|1984|None",
+        "IS|10016|5|None|1981|None",
+        "IS|10016|6|None|2000|None",
+        "IS|10020|4|None|1981|None",
+        "IS|10026|1|None|1998|None",
+        "IS|10026|2|None|1999|None",
+        "IS|10026|3|1|1999|None",
+        "IS|10026|3|2|1999|None",
+        "IS|10026|3|3|1983|None",
+        "IS|10026|3|4|1983|None",
+        "IS|10026|3|5|1983|None",
+        "IS|10026|3|6|1983|None",
+        "IS|10026|3|7|1983|None",
+        "IS|10026|3|8|1986|None",
+        "IS|10026|3|9|1986|None",
+        "IS|10028|1|None|1985|None",
+        "IS|10028|2|None|1981|None",
+        "IS|10028|3|None|1981|None",
+        "IS|10037|1|None|1981|None",
+        "IS|10037|2|None|1983|None",
+        "IS|10037|3|None|1983|None",
+        "IS|10052|1|None|1999|None",
+        "IS|10052|2|None|1999|None",
+        "IS|10068|1|None|1982|None",
+        "IS|10068|1|None|2018|None",
+        "IS|10068|2|None|1982|None",
+        "IS|10068|2|None|2018|None",
+        "IS|10068|3|None|1990|None",
+        "IS|10068|4|None|1997|None",
+        "IS|10068|5|None|1996|None",
+        "IS|10068|6|None|1996|None",
+        "IS|10076|1|None|1981|None",
+        "IS|10084|1|None|1982|None",
+        "IS|10084|2|None|1994|None",
+        "IS|10084|2|None|2014|None",
+        "IS|10096|1|1|1983|None",
+        "IS|10096|1|2|1986|None",
+        "IS|10096|1|2|2014|None",
+        "IS|10096|2|None|1983|None",
+        "IS|10096|3|None|2002|None"
+      ]
+    }
+  }
+}

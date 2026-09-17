@@ -1,0 +1,788 @@
+**************** 
+
+
+
+
+Disclosure to Promote the Right To Information 
+
+Whereas the Parliament of India has set out to provide a practical regime of right to 
+information for citizens to secure access to information under the control of public authorities, 
+in order to promote transparency and accountability in the working of every public authority, 
+and whereas the attached publication of the Bureau of Indian Standards is of particular interest 
+to the public, particularly disadvantaged communities and those engaged in the pursuit of 
+education and knowledge, the attached public safety standard is made available to promote the 
+timely dissemination of this information in an accurate manner to the public. 
+
+
+
+
+Mazdoor Kisan Shakti Sangathan 
+"The Right to Information, The Right to Live'' 
+
+
+
+IS 10082 (1981) : Method of test for the determination of 
+tensile strength by indirect tests on rock specimens [CED 
+48: Rock Mechanics] 
+
+
+
+
+Jawaharlal Nehru 
+'Step Out From the Old to the New" 
+
+
+
+aj^&vi iJii^s:y%K^ isb^^ni^seg 
+
+
+
+:<>5&i| mT'5K^5?::5:^>^i»l 
+
+
+
+K^^^iXSVCd^ 
+
+
+
+Satyanarayan Gangaram Pitroda 
+Invent a New India Using Knowledge 
+
+
+
+Bhartrhari — Nitisatakam 
+''Knowledge is such a treasure which cannot be stolen" 
+
+
+
+
+^'^^^r 
+
+
+
+k 
+
+
+
+
+BLANK PAGE 
+
+
+
+^*-^^^ 
+
+
+
+
+
+PROTECTED BY COPYRIGHT 
+
+
+
+(Reaffirmed 2001) 
+
+Indian Standard 
+
+METHOD OF TEST FOR 
+
+DETERMINATION OF TENSILE STRENGTH 
+
+BY INDIRECT TESTS ON ROCK SPECIMENS 
+
+
+
+UDC 6912 J 620172 
+
+
+
+
+^ Copyrighi 1982 
+
+INDTAN STANDARDS INSTITUTION 
+
+MANAK. BllAVAN. 9 liAllADUR SHAH ZAFAR MAUG 
+NEW IlKUIl 1JMQ2 
+
+
+
+fjT 3 
+
+
+
+j^QbtmbsT lyB:^ 
+
+
+
+IS : 10082 - 1981 
+
+Indian Standard 
+
+METHOD OF TEST FOR 
+DETERMINATION OF TENSILE STRENGTH 
+BY INDIRECT TESTS ON ROCK SPECIMENS 
+
+Soil Engineering and Rock Mechanics Sectional CommitteCj BDC 23 
+
+Chairman Representing 
+
+Dr Jagdish Narain University of Roorkee, Roorkee 
+
+Members 
+Additional Director Research Ministry of Railways 
+(F. E. ),RDSO 
+Deputy Director Research 
+
+( Soil Mech ), RDSO ( Alternate ) 
+Shri p. D. Agarwal Public Works Department, Government of Uttar 
+
+Pradesh, Lucknow 
+Dr B. L. Dhawan ( Alternate ) 
+Prof Alam Singh University of Jodhpur, Jodhpur 
+
+Col Avtar Singh Engineer-in-Chief 's Branch, Army Headquarters 
+
+Lt-Col V. K. Kanitkar ( Alternate ) 
+Chief Engineer ( D & R ) Irrigation Department, Government of Punjab, 
+
+Chandigarh 
+Dr G. S. Dhillon ( Alternate ) 
+Shri M. G. Dandavate The Concrete Association of India, Bombay 
+
+Shri N, G. Duggal ( Alternate ) 
+Shri A. G. Dastidar In personal capacity ( 5 Hungerford Street, 12/1, 
+
+Hungerford Cottrt, Calcutta 700 017 ) 
+Dr G, S. Dhillon Indian Geotechnical Society, New Delhi 
+
+Director, IRI Irrigation Department, Government of Uttar Pradesh, 
+
+Roorkee 
+Shri A. H. Divanji Asia Foundations and Construction ( P ) Ltd, 
+
+Bombay 
+Shri A. N. Jangle ( Alternate ) 
+Dr Gopal Rajan Institution of Engineers ( India ), Calcutta 
+
+Dr Gopal Ranjan University of Roorkee, Roorkee 
+
+Shri S. Gupta Gemindia Co Ltd, Bombay 
+
+Shri N. V. De-Sousa ( Alternate ) 
+Shri G. S. Jain G. S. Jain & Associates, Roorkee 
+
+Shri Vijay K. Jain ( Alternate ) 
+Shri A. B. Joshi Central Water Commission, New Delhi 
+
+Deputy Director ( CSMRS ) ( Alternate ) 
+CoL M. V. Kayerkar Ministry of Defence (R&D) 
+
+Shri V. B. Ghorpade ( Alternate ) 
+
+( Continued on page 2 ) 
+
+
+
+© Copyright 1982 
+
+INDIAN STANDARDS INSTITUTION 
+
+This publication is protected under the Indian Copyright Act ( XIV of 1957 ) and 
+
+reproduction in whole or in part by any means except with written permission of the 
+
+publisher shall be deemed to be an infringement of copyright under the said Act. 
+
+
+
+IS : 10082 -1981 
+
+( Continued from page 1 ) 
+
+Members Representing 
+
+Shri O. p. Malhotra Public Works Department, Chandigarh Administra- 
+
+tioRj Chandigarh 
+Shri D. R. Narahari Central Building Research Institute ( CSIR ), 
+
+Roorkee 
+Shri B. G. Rao ( Alternate ) 
+Skri T. K. Natarajan Central Road Research Institute, New Delhi 
+
+Dr G. B. Rao Indian Institute of Technology, New Delhi 
+
+Dr K. K. Gupta ( Alternate ) 
+Research Officer ( B & RRL ) Public Works Department, Government of Punjab, 
+
+Chandigarh 
+Shri K. R. Saxena Engineering Research Laboratories, Government 
+
+of Andhra Pradesh, Hyderabad 
+Secretary Central Board of Irrigation & Power, New Delhi 
+
+Deputy Secretary ( Alternate ) 
+Shri N. Sivaguru Roads Wing ( Ministry of Shipping & Transport ) 
+
+Shri D. V. Sikka ( Alternate ) 
+Shri K. S. Srinivasan National Buildings Organization, New Delhi 
+
+Shri Sunil Berry ( Alternate ) 
+Shri N. Subramanyam Karnataka Engineering Research Station, Krishna- 
+
+raj asagar 
+Superintending Engineer ( P&DG ) Public Works Department, Government of Tamil 
+
+Nadu, Madras 
+Executive Engineer ( SMRD ) ( Alternate ) 
+Shri G. Raman, Director General, ISI ( Ex~oJficio Member ) 
+
+Director ( Civ Engg ) 
+
+Secretary 
+
+Shri K. M. Mathur 
+
+Deputy Director ( Civ Engg ), ISI 
+
+Rock Mechanics Subcommittee^ BDC 23 : 5 
+
+Convener 
+Dr B. Singh Central Mining Research Station, Dhanbad 
+
+Members 
+
+Shri A. K. Dube ( AUemaie to 
+Dr B. Singh ) 
+Shri Amar Singh Central Building Research Institute, Roorkcc 
+
+Shri Chandra PrakasJtI ( Alternate ) 
+Prof Bhawani Singh University of Roorkee, Roorkee 
+
+Director ( CSMRS ) Ministry of Irrigation 
+
+Director ( CW & PRS ) Central Water & Power Research Station, Pune 
+
+Shri S.L. Mokashi ( Alternate ) 
+Prof B. K, Kaul Kurukshtera University, Kurukshetra 
+
+Shri M. D. Nair Associated Instrument Mfrs ( India ) Private Limited, 
+
+New Delhi 
+
+Prof T. S. Nagaraj ( Alternate ) 
+Shri P. L. Narula Geological Survey of India, Calcutta 
+
+Dr T. Ramamurthi Indian Institute of Technology, New Delhi 
+
+Dr Y. V. Ramana National Geophysical Research Institute, Hyderabad 
+
+Research Officer, SRPD ( MERI ) Irrigation Department, Bombay 
+Secretary ( CBIP ) Central Board of Irrigation & Power, New Delhi 
+
+Deputy Secretary, CBIP ( Alternate ) 
+
+
+
+IS : 10082 - 1981 
+
+Indian Standard 
+
+METHOD OF TEST FOR 
+DETERMINATION OF TENSILE STRENGTH 
+BY INDIRECT TESTS ON ROCK SPECIMENS 
+
+0, FOREWORD 
+
+0.1 This Indian Standard was adopted by the Indian Standards Institution 
+on 24 December 1981, after the draft finalized by the Soil Engineering 
+and Rock Mechanics Sectional Committee had been approved by the 
+Civil Engineering Division Council. 
+
+0.2 In order to assess the various properties of rock, Indian Standards 
+covering standard method of tests are being formulated and this standard 
+covers methods of tests for tensile strength. Because of difficulties in con- 
+ducting a direct uniaxial tensile strength test, methods of indirect deter- 
+mination of tensile strength of rocks have become popular. Several such 
+indirect methods are available. Brazilian test, though strictly not uniaxial 
+in nature, has become quite widely known because the values obtained 
+are comparable with those of direct tests. Ring test has come into vogue 
+in order to initiate fracture from the centre of the specimen, which may 
+be not so in some rocks and is also considered to be more appropriate from 
+fracture mechanics view-point. While these two tests are conducted on 
+cylindrical rock specimens, the line load test is used for testing rock prisms. 
+The point load test may also be used for testing rock prisms and is also 
+considered to be reliable. In a given project, it is preferable to use only 
+one of these methods for evaluation of tensile strength, as it is highly de- 
+pendent of the type of test, as well as the size of the specimen. 
+
+0,3 In reporting the result of a test made in accordance with this standard, 
+if the final value, observed or calculated, is to be rounded off, it shall be 
+done in accordance with IS : 2-1960*. 
+
+
+
+1. SCOPE 
+
+!•! This standard covers the methods for the determination of tensile 
+strength of rocks by indirect tests on rock specimens, namely, Brazilian 
+Test, Ring Test, Point Load Test and Line Load Test. 
+
+
+
+*Rules for rounding off numerical values ( revised ) . 
+
+3 
+
+
+
+IS : 10082 - 1981 
+
+1.2 The tests may be carried out either in the laboratory or at the drilling 
+site. 
+
+2. TERMINOLOGY 
+
+2.0 For the purpose of this standard, the following definitions shall apply. 
+
+2.1 Core — It is any single solid cylindrical piece of rock obtained from 
+drilling process. 
+
+2.2 Disc — It is any single circular solid piece cut out of the rock core. 
+
+2.3 Ring — It is any single circular solid piece cut out of the rock core 
+which has a central hole of specified radius. 
+
+2.4 Rock-Prism — It is any single solid prism of rock cut out of rock. 
+
+2.5 Tensile Strength — It is the maximum tensile stress at failure. 
+However, it is not unique characteristic of a brittle material and is dependent 
+upon the type of test and the size of specimen. 
+
+3, PREPARATION OF SAMPLES 
+
+3.1 The specimen shall be selected to represent a true average of the type 
+of rock under consideration and shall be prepared as per IS : 9179-1979*. 
+
+3.2 In the laboratory, the rock specimens shall be obtained from the same 
+block of rock as on site and drilled in the same direction. 
+
+3.3 In the field, the rock specimen shall be obtained from the same bore 
+hole, and geological horizon and within the shortest possible difference 
+in their elevations in the bore holes. 
+
+3.4 The diameter of the disc and ring specimens for the Brazilian Test 
+and Ring Test respectively, shall not be less than 45 mm and thickness 
+shall be approximately equal to half the diameter. 
+
+3.5 The inner radius of the ring in the ring test shall be approximately 
+one tenth of the outer radius, 
+
+3.6 The hole in a core for the ring test shall be made by drilling on a lathe 
+machine. Then the core shall be cut showly and carefully by a diamond 
+saw to the required thickness. 
+
+
+
+♦Method for preparation of rock specimen for laboratory testing. 
+
+4 
+
+
+
+IS : 10082 - 1981 
+
+3 J The side of the square rock-prism to be used in the line load test shall 
+not be less than 50 mm. The thickness of square prism should be about 
+two-third of the side of the square base. 
+
+3.8 The diameter of the cores for point load test shall not be more than 
+35 mm and not less than 12 mm. The length of core shall be more than 
+its diameter. For the point load test on rock-prism the length shall be greater 
+than its width. The irregular shaped specimen shall be roughly egg shaped 
+with the ratio of largest to shortest diameter of about 1*5:1 and volume 
+of about 100 cm^ obtained by breaking lumps of rock. The difference in 
+mass of different specimens should be less than 2 percent. 
+
+3.9 The total number of specimens should be such that at least 10 tests 
+of any one of the types under consideration are possible. 
+
+3.10 The specimens may be air dried in open air for 15 to 20 days after 
+their preparation and then tested. If the test is to be performed on saturated 
+rock, the specimens should be saturated carefully before performing the 
+tests. 
+
+3.11 The dimensions of the test specimens shall be measured to the nearest 
+• 1 mm. The thickness of the disc, ring or prism shall be measured at or 
+near the centre. 
+
+4. BRAZILIAN TEST 
+4.1 Apparatus 
+
+4.1.1 Two steel loading jaws designed so as to contact a disc shaped 
+rock samples at diametrically opposed surfaces over an arc of contact of 
+about lO'' at failure ( see Fig. 1 ). The critical dimensions of the apparatus 
+are the radius of curvature of the jaws, the clearance and length of the 
+guide pins coupling the two curved jaws and the width of the jaws. Radius 
+of jaws shall be 1*5 times specimen radius. Guide pin clearance shall be 
+such as to permit rotation of one jaw relative to the other by 4 x 10'^ radians 
+out of plane of the apparatus {25 mm penetration of guide pin with 0* 1 mm 
+clearance ). The width of jaws shall be 1 * 1 times the specimen thickness. 
+The remaining dimensions shall be as scaled from Fig. 1 . The upper jaw 
+contains a spherical seating conveniently formed by a 25 mm diameter 
+half ball bearing. 
+
+4.1.2 Double thickness ( 0*2 to 0*4 mm ) adhesive paper strip ( masking 
+tap ) with a width equal to or slightly greater than the specimen thickness. 
+
+4.1.3 A suitable machine for applying and measuring compressive 
+loads to the specimens. It shall be of sufficient capacity and be capable 
+of applying loads at a rate conforming to the requirement set out. 
+
+
+
+IS : 10082 - 1981 
+
+
+
+HALF BALL 
+BEARING 
+
+
+
+UPPER JAW 
+
+
+
+
+HOLE WITH 
+CLEARANCE 
+ON DOWEL 
+
+
+
+GUIDE 
+
+PIN 
+
+
+
+LOWER 
+JAW 
+
+
+
+-TEST SPECIMEN 
+Fig. 1 Apparatus for Brazilian Test 
+
+
+
+
+4.1.4 A spherical seat, if any, of the testing machine shall be placed 
+in a locked position, the two loading surfaces of the machine being parallel 
+to each other. 
+
+4.1.5 It is preferable but not obligatory that the testing machine be 
+fitted with a chart recorder to record load against displacement to aid in 
+the measurement of failure load. 
+
+4.2 Testing Procedure 
+
+4.2.1 The test specimen shall be wrapped around its periphery with 
+one layer of the adhesive paper tape and mounted squarely in the test 
+apparatus such that the curved platens load the specimen diametrically 
+with the axes of rotation for specimen and apparatus coincident. 
+
+4*2.2 Load on the specimen shall be applied continuously at a constant 
+rate such that failure in the weakest rocks occurs within 15 to 30 seconds. 
+A loading rate of 200 N/s is recommended. 
+
+4.2.3 The maximum load on the specimen shall be recorded in Newtons 
+with one percent accuracy. 
+
+
+
+IS : 10082 - 1981 
+
+4,2*4 Where the testing machine is fitted with a force/displacement 
+recorder, a record should be taken during testing so that the load for 
+primary fracture can be precisely determined ( in some cases load continues 
+to increase after primary failure as the split specimen is still bearing load ). 
+If a load/displacement recorder is not available on the testing machine, 
+care shall be taken by the operator to detect the load at primary failure. 
+At primary failure, there shall be a brief pause in the motion of the indicator 
+needle. However, the difference between the load of primary failure and 
+ultimate load bearing capacity is at the most only 5 percent. 
+
+4.3 Mode of Failure 
+
+4.3,1 The correct mode of failure is vertical splitting starting from the 
+centre towards loading points. This failure mode is an indication of a 
+successful test [see Fig, 2). 
+
+
+
+
+
+OESlf^ABlE MODE OF FAILURE UNOESmABlE MODE OF FA)LU»E 
+2 A SRAZtLIAh) TEST 
+
+
+
+
+
+IP Pi 
+
+DESIRABLE MOOE OF FAILURE UNDESIRABLE MODE OF FAtLWf 
+
+2 6 RING TEST 
+Fig. 2 Modes of Failure 
+
+
+
+IS : 10082 -1981 
+
+4.3.2 In a few cases, failure may initiate from loading points, with 
+formation of wedges {see Fig. 2). This undesirable mode of failure may 
+be due to lack of load distribution on lO"" arc. In such cases, instead of 
+Brazilian test, a ring test may be performed. 
+
+4*4 Calculation 
+
+4.4.1 Tensile strength of rock shall be calculated from the following 
+expression provided the mode of failure is as indicated in 4.3.1. 
+
+^'-^ ^^) 
+
+where 
+
+qt = Tensile strength in MN/m^, 
+P = Load at failure in Newtons, 
+D = Diameter of test specimen in mm, and 
+t = Thickness of test specimen measured at the centre in mm. 
+
+
+
+5. RING TEST 
+
+5.1 Apparatus and Procedure 
+
+5.1.1 The apparatus shall be the same as for the Brazilian Test ( see 4.1 ). 
+
+5.1.2 The procedure as given in 4.2 shall be followed. 
+
+5.2 Mode of Failure 
+
+5.2.1 The ring test is considered to have ideal condition from fracture 
+mechanics consideration. 
+
+5.2.2 The chances of vertical splitting increase considerably in the 
+ring test because the central hole acts as a stress raiser. The cracks initiate 
+from top and bottom of the hole and propagate towards loading points 
+( see Fig. 2 ) . 
+
+5.2.3 In a few cases, fractures may initiate from loading points. In such 
+cases, the diameter of the hole should be increased slightly so that the hole 
+acts effectively as a stress raiser. 
+
+5.3 Calculation 
+
+5.3.1 The tensile strength of rock shall be calculated from the following 
+expression if the mode of failure is as indicated in 5.2.2. 
+
+8 
+
+
+
+IS : 10082 - 1981 
+
+== 2iP[^ + 38(Do/JP)^] 
+
+where ^D\ *i)o' are outer and inner diameters of ring in mm, and 
+^t, P, t are same as specified in 4.4.1- 
+
+6. LINE LOAD TEST 
+
+6.1 Apparatus 
+
+6.1.1 The apparatus shall have two flat loading platens with sufficient 
+loading capacity. 
+
+6.1.2 Packings of steel bar of square cross-section, 12 mm side and a 
+double layer of adhesive paper tape shall be used at top and bottom. The 
+packings shall be of width equal to one-twelfth of the side of a square- 
+prism. 
+
+6.1.3 The line load test is suited to test rock-prism of building materials. 
+
+6.2 Testing Procedure 
+
+6.2.1 The square prism shall be laid horizontally, the thickness shall 
+be parallel to the loading platens ( see Fig. 3 ). 
+
+
+
+
+Fig. 3 Point Load Test on Rock-Prism 
+
+6.2.2 The load on the specimen shall be applied continuously at a constant 
+rate of about 200 N/s. The maximum load shall be recorded with one 
+percent accuracy. 
+
+
+
+IS : 10082 - 1981 
+
+6,3 Calculation 
+
+6.3.1 The tensile strength of rock shall be calculated from the following 
+expression ( see Fig. 4 ) . 
+
+
+
+TOTAL 
+LOAD 
+
+
+
+
+STEEL PACKING 
+OVER DOUBLE LAYER 
+OF ADHESIVE PAPER 
+STRIP 
+
+
+
+EFFECTIVE 
+AREA 
+
+
+
+Fig. 4 Line Load Test on Rock-Prism 
+
+
+
+a) For the case where specimen is supported on packing of steel bar 
+0-98x2P 
+
+
+
+qt = 
+
+
+
+rD't 
+
+
+
+b) For the case where the specimen rests directly on the lower platen 
+P 
+
+7TU t 
+
+where D' is the side of square base in mm, and qt, P and ' / ' are 
+same as specified in 4.4. 
+
+7. POINT LOAD TEST 
+
+7.1 Apparatus 
+
+7.1.1 The apparatus used for point load test is given in IS : 8764-1978*. 
+
+7.1.2 The point load test is the only test suitable for field testing of 
+cores because there is no need of cutting or finishing the ends of the core. 
+
+
+
+♦Method for determination of point load stroagth index of rocks. 
+
+10 
+
+
+
+IS : 10082 - 1981 
+7.2 Test Procedure 
+
+7,2.1 The testing procedure is same as given in 18:8764-1978*. 
+
+73 Calculation 
+
+a) The tensile strength of the rock cores shall be calculated from the 
+following expression: 
+
+qt =0-96P/Z)2 
+
+b) The tensile strength of rock prisms shall be obtained from the 
+
+following expression: 
+
+0-70 P 
+
+c) The tensile strength of irregular shaped specimens shall be obtained 
+
+by either of the following equations : 
+
+
+
+P 9P 
+
+where 
+
+
+
+D = Distance between the loading points in mm; 
+
+V = volume of specimen in mm^; 
+
+W = width of the specimen (lesser of the base dimension ) 
+in mm\ and qt P are same as specified in 4.4.1. 
+
+8. REPORTING OF TEST RESULTS 
+
+8.1 The report of tests shall include the following information: 
+
+a) Lithologic description of the rock; 
+
+b) Orientation of the axis of loading with respect to specimens aniso- 
+trophy, for example, bedding planes, foliations, etc; 
+
+c) Source of sample, including geographic location, depth and orienta- 
+tion, dates and method of sampling and storage history and 
+environment ; 
+
+d) Type of indirect tensile strength test; 
+
+e) Number of specimens tested; 
+
+
+
+♦Method for determination of point load strength index of rocks. 
+
+11 
+
+
+
+IS : 10082 - 1981 
+
+f) Specimen diameter and height; 
+
+g) Water content and degree of saturation at the time of test; 
+h) Test duration and stress rate; 
+
+j ) Date of testing and type of testing machine ; 
+
+k) Mode of failure ; and 
+
+m) Any other observations or available physical data such as specific 
+gravity, porosity and permeability citing the method of deter- 
+mination for each. 
+
+8.2 The tensile strength for each specimen in the sample, expressed to 
+three significant decimal places together with the average result for the 
+same. 
+
+
+
+12 
+
+
+

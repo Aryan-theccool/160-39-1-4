@@ -1,0 +1,1157 @@
+**************** 
+
+
+*  tOT£ 
+
+
+Disclosure  to  Promote  the  Right  To  Information 
+
+Whereas  the  Parliament  of  India  has  set  out  to  provide  a  practical  regime  of  right  to 
+information  for  citizens  to  secure  access  to  information  under  the  control  of  public  authorities, 
+in  order  to  promote  transparency  and  accountability  in  the  working  of  every  public  authority, 
+and  whereas  the  attached  publication  of  the  Bureau  of  Indian  Standards  is  of  particular  interest 
+to  the  public,  particularly  disadvantaged  communities  and  those  engaged  in  the  pursuit  of 
+education  and  knowledge,  the  attached  public  safety  standard  is  made  available  to  promote  the 
+timely  dissemination  of  this  information  in  an  accurate  manner  to  the  public. 
+
+
+Mazdoor  Kisan  Shakti  Sangathan 
+"The  Right  to  Information,  The  Right  to  Live" 
+
+
+Jawaharlal  Nehru 
+'Step  Out  From  the  Old  to  the  New" 
+
+
+IS  101-5-2  (1988)  :  Methods  of  sampling  and  test  for  paints, 
+varnishes  and  related  products,  Part  5:  Mechanical  test  on 
+paint  films,  Section  2:  Flexibility  and  adhesion  [CHD  20: 
+Paints,  Varnishes  and  Related  Products] 
+
+
+Satyanarayan  Gangaram  Pitroda 
+Invent  a  New  India  Using  Knowledge 
+
+
+5fR  TT^  ^TT  <sMHI  |  *ft  ^fft  ^TRT  ^ff  ^TT  ^T^fT  )f 
+
+Bhartrhari — Nltisatakam 
+"Knowledge  is  such  a  treasure  which  cannot  be  stolen" 
+
+
+BLANK  PAGE 
+
+
+<*i  *3f», 
+
+
+*?W!& 
+
+
+PROTECTED  BY  COPYRIGHT 
+
+
+UDceera^^m :  62om-4     (Third  Reprint  AUGUST  2004)   IS  :  101  (  Part  5/SeCR2j  J988 
+
+
+llJll 
+
+
+Indian  Standard  reaffirmed 
+
+METHODS  OF  SAMPLING  AND  TEST  NuvZ|04 
+
+FOR  PAINTS,  VARNISHES  AND  RELATED  PRODUCTS 
+
+PART  5    MECHANICAL  TESTS 
+Section  2    Flexibility  and  Adhesion 
+
+(  Third  Revision  ) 
+
+
+1.  Scope  —  Prescribes  the  following  four  tests  for  determination  of  flexibility  and  adhesion: 
+
+a)  Bend  test, 
+
+b)  Scratch  hardness  test, 
+
+c)  Cupping  test,  and 
+
+d)  Pull  off  test. 
+
+2.  Bend  Test 
+
+2.1  Outline  of  the  Method  —  This  is  an  empirical  test  for  assessing  the  resistance  of  a  coating  of 
+paint,  varnish,  etc,  to  cracking  and/or  detachment  from  a  metal  substrate  when  subjected  to 
+bending  round  a  cylindrical  mandrel. 
+
+2.2  Apparatus 
+
+2.2.1  Material  —  In  both  types  of  apparatus  described  below,  the  mandrels  shall  be  made  of  a 
+rigid  and  suitably  corrosion  resistant  material,  such  as  stainless  steel. 
+
+2.2.2  Type  1  apparatus  —  A  suitable  apparatus  is  shown  in  Fig.  1  and  2  and  is  used  with  test 
+panels  of  thickness  not  greater  than  03  mm.  A  set  of  hinges  is  provided,  each  incorporating  a 
+cylindrical  mandrel;  the  diameters  of  the  mandrels  are  2,  3,  4,  5,  6,  8,  10,  12,  16,  20,  25  and  32  mm, 
+respectively.  The  dimensions  of  the  apparatus  are  not  critical  except  that  the  gap  between  the  sur- 
+face of  the  mandrel  and  the  plates  of  the  hinge  should  be  055  ±  005  mm.  The  mandrel  should  be 
+free  to  rotate  on  its  pin  and  the  apparatus  shall  be  provided  with  a  stop  to  ensure  that  when  the 
+test  panel  is  bent,  the  two  portions  are  parallel. 
+
+Note  —  Especially  with   the  2  mm  diameter   ma.idrel,   it  is   important   to  ensure  that  no  distortion  of  the  mandrol 
+takes  place  during  the  bending  process,  and  that  any  mandrel  showing  such  distortion  is  not  used. 
+
+STOP    OF   SIMILAR 
+HEI6HT    OF    MANDREL  - 
+
+
+MANDREL 
+
+
+FIG.  1    TYPE  1  BEND  TEST  APPARATUS 
+
+
+Adopted  30  March  1988 
+
+
+©  July  1989,  BIS 
+
+
+6r6 
+
+
+BUREAU    OF    INDIAN     STANDARDS 
+
+MANAK   BHAVAN.    9  BAHADUR   SHAH   ZAFAR  MARG 
+
+NEW  DELHI  110002 
+
+
+IS  :  101  (  Part  5  Sec  2  )  -  1988 
+
+
+FIG.  2    TYPE  1  BEND  TEST  APPARATUS  IN  USE 
+
+2.2.3  Type  2  apparatus  —  A  suitable  apparatus  is  shown  in  Fig.  3  and  4  and  is  normally  used 
+with  test  panels  of  thickness  up  to  10  mm.  With  soft  metals,  such  as,  aluminium,  thicker  panels 
+may  be  used  provided  there  is  no  distoition  of  the  mandrel.  The  apparatus  incorporates  one  of  a 
+series  of  cylindrical  mandrels  of  diameters  6,  10  and  13  mm. 
+
+Note  —  By  agreement  between  the  parties,  other  diameters  of  mandrel  may  be  used  with  the  Type  2  apparatus. 
+
+2.2.4  Controlled  temperature  chamber  —  This  is  required  for  tests  which  are  specified  to  be 
+carried  out  at  temperatures  other  than  27  +  2"C.  It  consists  of  an  oven  or  refrigerator  in  which  the 
+temperature  of  the  worki  ng  chamber  can  be  controlled  to  within  ±  1°C  of  the  required  test  tempe- 
+rature, and  which  is  fitted  with  the  following  ancillary  equipment: 
+
+a)  A  circulation  fan  in  the  working  chamber; 
+
+b)  A  suitable  remote-control    device  by  which   the  panel  can  be  bent  without  opening  the  test 
+chamber;  and 
+
+c)  A  temperature  indicating  or  recording  device  located  with    its  bulb,  or  sensitive  element,  in 
+close  proximity  to  the  coating  under  test. 
+
+2.3  Test  Panels  —  They  shall  be  of  burnished  steel,  burnished  tinplate  or  soft  aluminium.  The 
+panels  shall  be  flat  and  free  from  distortion  and  the  surface  shall  be  free  from  any  visible  ridges  or 
+cracks. 
+
+PANEL     HOLDER 
+
+
+BEMDIN6    PIECE 
+
+
+HANDLE 
+
+
+Base  plate 
+
+
+WEDGE 
+CLAMP     PLATE 
+
+
+FIG.  3    TYPE  2  BEND  TEST  APPARATUS 
+
+2 
+
+
+AMENDMENT  NO.  i    JANUARY  1998 
+
+TO 
+
+IS  101(PART  5/SEC  2)  :  1988    METHODS  OF  SAMPLING 
+
+AND  TEST  FOR  PAINTS,  VARNISHES  AND  RELATED 
+
+PRODUCTS 
+
+PART  S    MECHANICAL  TESTS 
+
+Section  2    Flexibility  and  Adhesion 
+
+(  Third  Revision  ) 
+
+(  Page  1,  clause  122,  line  3  )  —  Substitute  one  of  the  diameters  of  the 
+mandrels  '6.25  mm'  for  '6  mm*. 
+
+(  Page  2,  clause  223,  line  4  )  —  Substitute  one  of  the  diameters  of  the 
+mandrels  '6.25  mm'  for  '6  mm'. 
+
+(  Page  5,  clause  323  )  —  Substitute  the  following  for  the  existing  clause: 
+
+'32 3  Needle  —  The  scratching  needle  has  a  hard  hemispherical  tip  of  1  mm  of 
+diameter.  The  hemispherical  tip  shall  be  firmly  attached  and  the  exposed  part 
+shall  be  free  from  any  contaminants. 
+
+NOTE  —  Details  about  the  tip  and  the  aeedle  are  given  in  Annex  A  for  guidance.' 
+
+(  Page  5,  clause  33)  —  Substitute  the  following  for  the  existing  clause: 
+
+'33  Test  Panels  —  Unless  agreed  for,  the  panels  shall  be  of  tin  plate,  burnishing 
+steel  or  hard  aluminium  prepared  by  acid  chroma  ting.' 
+
+(  Page  12,  clause  542  )  —  Insert  the  following  Annex  at  the  end: 
+
+ANNEX  A 
+(Clause  3.23) 
+
+PROCEDURE  FOUND  TO  BE  CONVENIENT  FOR  MANUFACTURE 
+AND  RE-TIPPING  OF  SCRATCH  TEST  NEEDLES 
+
+A-l  Manufacture  of  New  Needles 
+
+A-l.l  For  a  batch  of  shanks  in  the  vertical  position  with  the  dimpled  end 
+uppermost  by  inserting  them  in  a  tray  made  from  perforated  sheet  metal. 
+
+
+AncMl  No.  1  to  IS  101  ( Pwt  ^Sm  2  ) :  19M 
+
+A-1J  Place  a  very  small  quantity  of  a  suitable  solder  paste  on  the  end  of  each 
+shank,  and  then  put  a  steel  ball  in  position,  relying  on  the  solder  paste  to  bold  the 
+ball  in  position  at  this  stage. 
+
+NOTE — The  amomt  of  tolder  pane  to  be  aaad  ia  judged  by  experience,  inrafficieat  will  not 
+mete  ■  fun  aoldered  joint  tad  loo  rone*  will  lead  to  note  or  lest  complete  envelopment  of 
+netted  ball. 
+
+A-l  J  Place  the  tray  of  shanks  in  an  oven  or  muffle  furnace  adjusted  to  a 
+temperature  of  210°C  to  220°C  for  about  5  min  to  melt  the  solder  and  thus 
+secure  the  ball  in  the  dimple  at  the  end  of  the  shank. 
+
+A-l  A  Remove  the  needles  from  the  source  ot  neat,  allow  to  coot,  and  wipe 
+each  ball  to  remove  flux  residues. 
+
+A-U  Check  that  the  ball  is  securely  fixed  and  that  there  is  no  solder  on  the 
+part  of  the  ball  which  will  be  used  to  make  the  scratch. 
+
+A-Z    Re-tipping  or  Needles 
+
+A-2.1  Fix  the  needles  in  a  tray  made  from  perforated  sheet  metal  as  described 
+in  A-l  .1  above. 
+
+A-2J  Place  the  tray  of  needles  in  an  oven  or  muffle  furnace  adjusted  to  a 
+temperature  of  210°C  to  220°C  and,  as  soon  as  the  solder  has  softened,  remove 
+the  tray  and  brush  the  end  of  tbe  needles  with  a  clean  brush  in  older  to  dislodge 
+the  steel  balls. 
+
+A-2  J    When  the  shanks  have  cooled,  proceed  as  described  in  A-1.2  to  A-1.5. 
+
+A-3    Guidance  on  Tip  Material 
+
+The  following  tips  are  in  common  use: 
+
+a)  Steel  Balls  Depending  on  the  circumstances,  this  type  of 
+
+tip  may  show  signs  of  early  wear.  In  view  of 
+the  ease  wirk  which  needles  with  steel  balls 
+can  be  made,  it  is  recommended  that  they  be 
+used  once  only  and  then  re-tipped. 
+
+b)  Tungsten  Carbide  Tips         These  tips  last  much  longer  than  steel  tips 
+
+and  can  be  obtained  commercially. 
+
+
+Amend  No.  1  to  IS  101  (  Part  5/Sec  2  )  :  1988 
+
+c)  Ruby  Tips  These  (ceramic)  tips  last  a  very  long  time. 
+
+The  tips  have  to  be  attached  to  the  shank  by 
+glueing  rather  than  by  soldering  and  can  be 
+obtained  commercially. 
+
+In  all  cases,  it  is  important  that  a  suitable  steel  shank  is  used  which  will  hold  the 
+tip  securely  in  the  correct  position.  An  example  of  a  suitable  shank  is  given  in 
+Fig.  6  of  Ibis  standard. 
+
+
+(CHD020) 
+
+
+Printed  ai  Dee  Kay  Printers.  New  Delhi-110015.  India 
+3 
+
+
+AMENDMENT  NO.  2    MARCH  1999 
+
+TO 
+
+IS  101  (  PART  5/SEC  2 )  :  1988    METHODS  OF 
+
+SAMPLING  AND  TEST  FOR  PAINTS,  VARNISHES  AND 
+
+RELATED  PRODUCTS 
+
+PART  5    MECHANICAL  TESTS 
+
+Section  2    Flexibility  and  Adhesion 
+
+(  Third  Revision  ) 
+
+(  Page  3,  clause  2.3.3,  lines  2  and  3  )  —  Substitute  the  following  for  the 
+existing: 
+
+'IS  101  (  Pari  3/Sec  2 ) :  1989  Methods  of  sampling  and  test  for  paints,  varnishes 
+and  related  products  :  Part  3  Tests  on  paint  film  formation,  Section  2  Film 
+thickness  ( third  revision  )'. 
+
+(  Page  7,  clause  3.43  )  —  Insert  the  following  sentence  at  the  end  of  clause: 
+
+'Unless  otherwise  specified  in  the  product  specification,  it  shall  be  deemed  to 
+have  met  this  requirement  if  it  passes  under  a  load  of  1  000  g.' 
+
+
+( CHD  20 ) 
+
+
+Primal  ;il  Da.'  K;in    l'i inters.  New  Delhi 
+
+
+AMENDMENT  NO.  3      MAY  2006 
+
+TO 
+
+IS  101  (  PART  5/SEC  2  )  :  1988     METHODS  OF 
+
+SAMPLING  AND  TEST  FOR  PAINTS,  VARNISHES  AND 
+
+RELATED  PRODUCTS 
+
+PART  5     MECHANICAL  TESTS 
+
+Section  2  Flexibility  and  Adhesion 
+
+(  Third  Revision  ) 
+
+( Page  1,  clause  1 )  —  Substitute  the  following  for  the  existing  clause: 
+
+1  Scope  —  Prescribes  the  following  five  tests  for  determination  of  flexibility 
+and  adhesion: 
+
+a)  Bend  test, 
+
+b)  Scratch  hardness  test, 
+
+c)  Cupping  test, 
+
+d)  Pull  off  test,  and 
+
+e)  Cross  cut  adhesion  test.' 
+
+(  Page   12,  clause  5.6.2,  read  with  Amendment  No.    1  )  —  Add  the 
+following  at  the  end: 
+
+'6  CROSS  CUT  ADHESION  TEST 
+
+6.1  Outline  of  the  Method  —  This  method  is  applicable  for  the  assessment  of 
+the  adhesion  of  the  coating  films  to  metallic  substrates  by  applying  and 
+removing  the  25  mm  semi-transparent  pressure  sensitive  tape  over  cuts  made  in 
+the  film. 
+
+6.2  Test  Methods  ■—  There  are  essentially  two  test  methods  for  the  determination  of 
+adhesion. 
+
+6.2.1  Test  Method  1  —  It  is  generally  used  for  job  at  site  and  if  the  dry  film 
+thickness  is  125  microns  or  more. 
+
+6.2.2  Test  Method  2  —  It  is  generally  used  for  job  in  the  laboratory  and  if  the 
+dry  film  thickness  is  less  than  125  microns. 
+
+6.2.3  These  methods  do  not  distinguish  between  higher  levels  of  adhesion. 
+These  methods  are  not  applicable  in  multicoated  system  where  failure  may 
+occur  between  coats. 
+
+1 
+
+
+Amend  No.  3  to  IS  101  (  Part  5/Sec  2  ) :  1988 
+
+6.3  Test  Method  1 
+
+6.3.1  Apparatus 
+
+6.3.1.1  Cutting  toot  —  Sharp  razor  blade,  scalpel,  knife  or  other  cutting  edges 
+are  in  good  condition. 
+
+6.3.1.2  Cutting  guide  steel  or  other  hard  metal  straightedge  to  ensure  cuts. 
+
+6.3.1.3  Tape  —  25  mm  wide  semi-transparent  pressure  sensitive  tape  (see 
+IS  13262  :  1992  Pressure  sensitive  adhesive  tapes  with  plastic  base). 
+
+6.3.1.4  Eraser  —  attached  at  the  end  of  the  pencil. 
+
+6.3.1.5  Illumination  —  A  light  source  to  determine  whether  the  cuts  have  been 
+made  through  the  film  to  the  substrate. 
+
+6.3.1.6  Test  specimen  —  In  the  field  the  specimen  is  the  coated  structure  or 
+article  on  which  the  adhesion  is  to  be  evaluated.  In  the  laboratory,  apply  the 
+materials  to  mild  steel  panels  or  panel  of  the  composition  and  surface  conditions 
+on  which  it  is  desired  to  determine  adhesion. 
+
+6.3.2  Procedure  —  Select  a  clean  and  dry  area  of  film  free  from  blemishes  and 
+minor  surface  imperfection.  Two  cuts  arc  made  in  the  film  about  40-mm  long 
+that  intersect  near  their  middle  with  a  smaller  angle  of  30°  to  45°.  When  making 
+the  incisions,  use  the  straightedge  and  cut  through  the  coating  to  the  substrate  in 
+one  steady  motion.  Inspect  the  incisions  for  reflection  of  light  from  the  metal 
+substrate  to  establish  that  the  coating  film  has  been  penetrated.  If  the  substrate 
+has  not  been  reached  make  another  cuts  in  different  location.  Do  not  attempt  to 
+deepen  the  previous  cut  as  this  may  affect  adhesion  along  the  incision.  Remove 
+two  complete  laps  of  the  pressure-sensitive  tape  from  the  roll.  An  additional 
+length  of  75  mm  is  removed  at  a  steady  rate.  Place  the  centre  of  the  tape  at  the 
+intersection  of  the  cuts  with  the  tape  running  in  the  same  direction  as  the  smaller 
+angles.  Smooth  the  tape  into  place  by  finger  in  the  area  of  the  incisions  and  then 
+rub  firmly  with  the  eraser  on  the  end  of  the  pencil.  The  colour  under  the 
+transparent  tape  is  useful  indication  of  when  good  contact  has  been  made. 
+Within  90  ±  30  seconds  of  application,  remove  the  tape  by  seizing  the  free  end 
+by  pulling  it  off  rapidly  back  upon  itself  as  close  to  an  angle  of  180°  as  possible. 
+Inspect  the  cut  area  for  removal  of  coating  from  the  substrate  or  previous 
+coating.  The  coated  panel  is  considered  to  satisfy  the  test  if  no  peeling  or 
+removal  of  the  film  is  observed. 
+
+
+Amend  No.  3  to  101  (Part  5/Scc  2) :  1988 
+
+6.4  Test  Method  2 
+
+6.4.1  Apparatus 
+
+6.4.1.1  Cutting  tool  —  Sharp  razor  blade,  scalpel,  knife  or  other  cutting  device 
+having  a  cutting  edge  angle  between  1 5  and  30  degrees  that  will  make  either  a 
+single  cut  or  several  cuts  at  once. 
+
+6.4.1.2  Cutting  guide  —  Steel  or  other  hard  metal  straightedge  to  ensure  cuts. 
+
+6.4.1.3  Tape  —  25  mm  wide  semi-transparent  pressure  sensitive  tape  (see  IS  13262  : 
+1992). 
+
+6.4.1.4  Eraser  —  attached  at  the  end  of  the  pencil. 
+
+6.4.1.5  Illumination  —  A  light  source  to  determine  whether  the  cuts  have  been 
+made  through  the  film  to  the  substrate. 
+
+6.4. 1.6  Magnifying  glass 
+
+6.4.1.7  Test  specimen  —  In  the  field  the  specimen  is  the  coated  structure  or 
+article  on  which  the  adhesion  is  to  be  evaluated.  In  the  laboratory,  apply  the 
+materials  to  mild  steel  panels  or  panel  of  the  composition  and  surface  conditions 
+on  which  it  is  desired  to  determine  adhesion. 
+
+6.4.2  Procedure  —  Select  a  clean  and  dry  area  of  film  free  from  blemishes  and 
+minor  surface  imperfection.  Place  the  panel  on  a  firm  base  and  under  the 
+illuminated  magnifier  make  parallel  cuts.  For  coalings  having  a  drying  film 
+thickness  up  to  and  including  50  micron  space  the  cuts  1  mm  apart  and  make 
+eleven  cuts.  For  coatings  having  a  drying  film  thickness  between  50  micron  and 
+125  micron  space  the  cuts  2  mm  apart  and  make  six  cuts.  For  film  thickness 
+greater  Uian  125  microns  tliis  method  is  not  applicable.  Make  all  cuts  about  20 
+mm  long.  Cut  through  the  film  to  the  substrate  in  one  steady  motion  using  just 
+sufficient  pressure"  on  the  cutting  tool  to  have  the  cutting  edge  reach  the 
+substrate.  After  making  the  required  cuts  brush  the  film  slightly  with  a  soft 
+brush  to  remove  any  detached  flakes  or  ribbon  of  coatings.  An  additional 
+number  of  cuts  at  90°  centered  on  the  original  cuts  arc  made.  Brush  the  area  as 
+before  and  inspect  the  incision  for  reflection  of  light  from  the  substrate.  If  the 
+metal  lias  not  been  reached  make  another  grid  in  a  different  location.  Remove 
+two  complete  laps  of  the  pressure-sensitive  tape  from  the  roll.  An  additional 
+length  of  75  mm  is  removed  at  a  steady  rate.  Place  the  centre  of  the  tape  over 
+grid.  Smooth  the  tape  into  place  by  finger  in  the  area  of  the  incisions  and  then 
+
+
+Amend  No.  3  to  101  (Part  5/Sec  2) :  1988 
+
+rub  firmly  with  the  eraser  on  the  end  of  the  pencil.  The  colour  under  the 
+transparent  tape  is  useful  indication  of  when  good  contact  has  been  made 
+
+Within  90  ±  30  seconds  of  application,  remove  the  tape  by  seizing  the  free  end 
+by  pulling  it  off  rapidly  back  upon  itself  as  close  to  an  angle  of  180°  as  possible. 
+Inspect  the  grid  area  for  removal  of  the  coating  from  the  substrate  or  from  a 
+previous  coating  using  the  illuminated  magnifier.  The  edges  of  the  cuts  should 
+be  smooth  and  none  of  the  square  of  the  lattice  should  be  detached.  The  coated 
+panel  is  considered  to  satisfy  the  test  if  no  peeling  or  removal  of  the  film  is 
+observed. 
+
+
+( CHD  20 ) 
+
+
+Reprography  Unit,  BIS,  New  Delhi,  India 
+
+
+IS  :  101  (  Part  5/Sec  2  )  -  1988 
+
+
+PANEL  HOLDER 
+
+
+BASE  PLATE 
+
+
+BENDING 
+PIECE 
+
+
+FIG.  4     DETAILS  OF  TYPE  2  BEND  TEST  APPARATUS 
+
+
+2.3.1  Dimensions  —  The  test  panels  shall  be  rectangular  and  approximately  100  mm  x  50  mm  in 
+size  and  either  03  mm  ( for  use  with  Type  1  apparatus  )  or  10  mm  (  for  use  with  Type  2  appa- 
+ratus )  thick,  unless  otherwise  specified.  The  test  panels  may  be  cut  to  size  after  coating  and  drying 
+provided  no  distortion  occurs.  In  case  of  aluminium  panels,  the  longer  side  shall  be  parallel  to  the 
+direction  of  metallurgical  rolling. 
+
+2.3.2  Preparation  and  coating  of  panels  —  The  test  panels  shall  be  prepared  in  accordance  with 
+IS  :  101  (  Part  1/Sec  3  )-1986  'Methods  of  test  for  paints,  varnishes  and  related  products:  Part  1 
+Test  on  liquid  paints  (  general  and  physical),  Section  3  Preparation  of  panels  ( third  revision  )', 
+unless  otherwise  specified,  and  shall  then  be  coated  by  the  specified  method  with  the  product  under 
+test.  If  the  product  under  test  is  applied  by  brushing,  the  direction  of  laying  off  marks  shall  be  para- 
+llel to  the  longer  side  of  the  panel. 
+
+2.3.3  Thickness  of  coating  —  The  thickness  in  inn  of  the  dry  coating  shall  be  determined  by  the 
+method  specified,  using  one  of  the  procedures  described  in  IS  :  101  (  Part  3/Sec  6  )  'Methods  of 
+test  for  paints,  varnishes  and  related  products:  Part  3  Tests  on  paint  film  formation,  Section  6 
+Film  thickness  (  third  revision)' . 
+
+2.4  Procedure 
+
+2.4.1  Drying  the  test  panel  —  The  coated  test  panels  shall  be  dried  (  or  stoved  and  aged  )  for  the 
+specified  time  and,  unless  otherwise  specified,  shall  be  conditioned  at  27  ±  2CC  and  65  ±  5 
+percent  relative  humidity  for  a  minimum  of  16  h.  The  appropriate  test  procedure  shall  then  be 
+carried  out  as  soon  as  possible. 
+
+
+IS  :  101  (  Part  5/Sec  2  )  -  1988 
+
+2.4.2  Ambient  conditions  —  The  test  shall  be  carried  out  at  27  ±  2°C  and  65  ±  5  percent 
+relative  humidity,  unless  otherwise  specified. 
+
+2.4.3  Handling  the  test  panel  —  Warming  the  test  panel  by  undue  handling  shall  be  avoided. 
+
+2.4.4  Procedure  for  a  single  specified  size  of  mandrel  —  The  appropriate  procedure  given  in  2.4.5, 
+2.4.6,  or  2.4.7  shall  be  carried  out  on  two  separate  test  panels  and  the  panels  shall  then  be 
+examined  as  described  in  2.4.8  (  if  the  results  differ,  additional  tests  shall  be  made  ). 
+
+2.4.5  Test  with  Type  1  apparatus  at  27  ±  2°C  —  Fully  open  the  apparatus,  fitted  with  the  appro- 
+priate mandrel,  and  insert  the  panel  so  thaf  it  may  subsequently  be  bent  with  the  coated  side 
+outwards. 
+
+Close  the  apparatus  evenly  without  jerking,   over  a   period  of  1  to  2  s,  thus  bending  the  panel 
+over  the  mandrel  through  180J. 
+
+2.4.6  Tests  with  Type  2  apparatus  at  27  ±  2°C  —  Firmly  secure  the  apparatus  near  the  edge  of  a 
+bench  so  that  the  handle  can  be  operated  freely.  Lower  the  panel  holder  by  withdrawing  the  wedge 
+and  use  the  adjusting  screw  to  move  the  bending  piece  away  from  the  mandrel  position.  Fit  the 
+apparatus  with  the  appropriate  mandrel.  Lower  the  handle  into  a  vertical  position  and  then  insert 
+the  panel,  painted  side  down,  between  the  mandrel  and  the  bending  piece  until  approximately  40  mm 
+of  the  panel  protrudes  when  measured  from  the  mandrel  centre  line  towards  the  bending  piece. 
+Clamp  the  panel  firmly  to  the  panel  holder  using  the  lock  nuts  and  plate.  Raise  the  panel  holder  by 
+inserting  the  wedge  into  its  groove  until  the  panel  just  touches  the  mandrel.  Using  the  adjusting 
+screw,  raise  the  bending  piece  until  it  just  touches  the  panel.  Lift  the  handle  evenly  through  180° 
+without  jerking  over  a  period  of  1  to  2  s,  thus  bending  the  panel  over  the  mandrel  through  180°C. 
+
+After   bending,    release  the    panel    by   moving  the   bending    piece  away  from   the    mandrel, 
+lowering  the  panel  holder  by  removing  the  wedge  and  unscrewing  the  lock  nuts. 
+
+Note  —  A  piece  of  thin  paper  may  be  inserted  over  the  coated  surface  between  the  panel  holder  and    the  bending 
+piece  to  prevent  the  coating  being  scratched  during  the  bending  operation. 
+
+2.4.7  Tests  at  temperatures  other  than  27  ±  2°C  —  Open  the  apparatus  fitted  with  the  appropriate 
+mandrel  and  place  the  panel  in  position  so  that  it  may  subsequently  be  bent  with  the  coated  side 
+outwards.  Place  the  apparatus  containing  the  panel  in  the  test  chamber  previously  adjusted  to  the 
+specified  temperature.  After  2  h,  with  the  panel  still  in  the  chamber  at  the  specified  temperature, 
+close  the  apparatus  evenly  and  without  jerking  by  means  of  the  remote-control  device,  over  a  period 
+of  1  to  2  s.  It  is  essential  that  the  door  of  the  chamber  shall  remain  closed  from  the  time  of 
+insertion  of  the  apparatus  until  after  the  bending  operation. 
+
+2.4.8  Examination  of  the  test  panel  —  Examine  the  test  panel  coating  immediately  after  bending, 
+and  in  the  case  of  Type  1  apparatus,  without  removing  the  panel  from  the  apparatus.  Use  normal 
+corrected  vision  or,  by  agreement,  a  lens  of  10  x  magnification,  and  examine  the  coating  for 
+cracking  and/or  detachment  from  the  substrate,  ignoring  the  surface  of  the  coating  less  than  10  mm 
+from  the  edge  of  the  panel. 
+
+Note  —  If  a   lens   is   used,   it   is  essential   to  mention   this   fact   in   the  test   report   and   to  avoid  misleading 
+comparisons  with  results  obtained  using  normal  vision  only. 
+
+2.5  Procedure  for  Determination  of  Diameter  of  the  First  Mandrel  to  Cause  Failure  —  Carry  out  the 
+appropriate  procedure  given  in  2.4.5,  2.4.6  and  2.4.7  on  successive  test  panels,  examining  each 
+panel  as  described  in  2.4.8  and  using  mandrels  of  successively  smaller  diameter  until  the  coating 
+cracks  and/or  becomes  detached  from  the  substrate.  Record  the  diameter  of  the  first  mandrel  at 
+which  the  coating  cracks  and/or  becomes  detached,  after  confirming  the  result  by  repeating  the 
+procedure  with  this  size  of  mandrel  on  a  fresh  panel.  In  the  event  of  failure  not  occurring  with  the 
+mandrel  of  smallest  diameter,  record  this  fact. 
+
+3.  Scratch  Hardness 
+
+3.1  Outline  of  the  Method  —  This  is  a  test  method  for  determining  the  resistance  of  a  paint  film  to 
+penetration  by  scratching  with  a  needle. 
+
+3.1.1  The  test  may  be  used  as  a  GO/NO-GO  test  by  appyling  a  single  specified  load  to  the  needle. 
+It  may  also  be  used  by  applying  increasing  loads  to  the  needle  to  determine  the  maximum  load  at 
+which  the  coating  is  pulled/penentrated  to  the  substrate. 
+
+3.2  Apparatus 
+
+3.2.1  Mechanized  apparatus  —  Figure  5  illustrates  the  principle  of  the  apparatus.  Figure  6  shows 
+a  suitable  type  of  apparatus  but  other  arrangements  can  be  used  which  give  a  similar  performance. 
+This  apparatus  consists   essentially   of  a   horizontal  sliding  panel  (A)  driven  by  a  constant-speed 
+
+
+IS  :  101  (  Part  5/Sec  2  )  -  1988 
+
+
+motor  (fl)  at  a  rate  of  3  to  4cm/s  beneath  the  point  of  a  scratching  needle  (C)  which  is  perpendi- 
+cular to  the  film.  The  needle  is  fixed  in  a  chuck,  directly  above  which  is  a  holder  for  weights  which 
+shall  be  able  to  take  weights  up  to  at  least  2  000  g  (  see  Note  ).  The  apparatus  is  adjusted  so  that 
+the  needle  comes  smoothly  into  contact  with  the  film,  that  is,  before  the  stop  (D)  reaches  the  bottom 
+of  the  sloping  ramp  (£).  The  scratch  shal  I  be  straight  and  not  less  than  60  mm  in  length.  A  ramp 
+with  an  angle  of  10  to  15"  to  the  horizontal  has  been  found  to  be  satisfactory.  An  electrical  indicat- 
+ing device  based  on  conductivity  may  be  used  as  a  guide  to  penetration  of  the  film,  where 
+appropriate. 
+
+Note  —  The  maximum  load  for  which  the  apparatus  is  designed  shall  be  marked  on  the  apparatus. 
+
+3.2.2  Hand  operated  apparatus  —  A  hand  operated  apparatus  may  be  used  except  for  referee 
+tests,  provided  it  is  operated  so  as  to  give  a  similar  performance  to  the  mechanized  apparatus 
+specified  in  3.2.1,  that  is,  regular  movement,  smooth  lowering  of  the  needle,  etc. 
+
+A  schematic  diagram  of  the  apparatus  is  as  shown  in  Fig.  7. 
+
+Note  —  Smooth    lowering   may   conveniently   be  accomplished   by  lowering  the   needle  onto  a  safety  razor  blade 
+and  then  allowing  it  to  slide  off  the  sharp  edge  of  the  blade  onto  the  film. 
+
+3.2.3  Needle  —  The  scratching  needle  has  a  hardened  steel  hemispherical  tip  of  1  mm  diameter, 
+and  may  conveniently  be  made  by  soldering  a  1  mm  diameter  steel  ball  of  the  type  used  in  ball 
+bearings  (  1  percent  C,  1  percent  Cr  type  steel  )  to  a  steel  shank  of  the  type  illustrated  in  Fig.  7. 
+
+3.3  Test  Panels  —  The  panels  shall  be  burnished  steel  plate,  tinplate,  or  acid  chromate  treated 
+hard  aluminium. 
+
+3.3.1  Dimensions  —  The  test  panels  shall  be  rectangular  and  approximately  125  mm  x  50  mm  in 
+size.  If  the  product  under  test  is  to  be  applied  by  brushing,  the  material  used  shall  be  of  such  a  size 
+that,  after  coating  drying,  a  panel  of  the  above  dimensions  can  be  cut  from  it  with  the  brush 
+marks  parallel  to  the  shorter  side. 
+
+3.3.2  Preparation  and  coating  of  panels  —  The  test  panels  shall  be  prepared  in  accordance  with 
+IS  :  101  (  Part  1/Sec  3  )-1986,  unless  otherwise  specified,  and  shall  then  be  coated  by  the  specified 
+method  with  the  product  or  system  under  test. 
+
+3.4  Procedure 
+
+3.4.1  Drying  the  test  panels  —  The  coated  test  panels  shall  be  dried  (  or  stoved  and  aged  )  for  the 
+specified  time,  and  unless  otherwise  specified,  shall  be  conditioned  at  a  temperature  of  27  ±  2"C 
+and  relative  humidity  of  65  ±  5  percent  for  a  minimum  time  of  16  h.  The  appropriate  test  procedure 
+shall  then  be  carried  out  as  soon  as  possible. 
+
+
+STOP  (D) 
+
+NEEDLE(C 
+SLIDING    PANEL(A) 
+SL0PIN6    RAMP(EJ 
+
+CONSTANT  SPEED     ' 
+MOTOR   (  B  ) 
+
+
+FIG.  5    SUITABLE  TYPE  OF  MECHANIZED  SCRATCH  TEST  APPARATUS 
+
+5 
+
+
+IS  :  101  (  Part  5/Sec  2  )  -  1988 
+
+
+£k 
+
+
+EXTREMITY    TO  FIT 
+IN    CHUCK 
+
+
+IS 
+
+
+7-5 
+
+
+Ll-25-! 
+
+
+DEPRESSION    TO 
+RECEIVE  STEEL   BALL 
+
+
+All  dimensions  in  millimetres. 
+FIG.  6    SUITABLE  SHANK  FOR  SCRATCH  TEST  NEEDLE 
+
+
+FIG.  7    DIAGRAM  OF  SCRATCH  TEST  APPARATUS 
+
+6 
+
+
+IS  :  101  (  Part  5/Sec  2  )  -  1988 
+
+3.4.2  Single  specified  load 
+
+3.4.2.1  Take  an  unused  needle  and  examine  it  under  30  x magnification  to  ensure  that  the 
+hardened  steel  point  is  smooth,  hemispherical  and  free  from  contamination. 
+
+3.4.2.2  Fix  the  needle  in  the  chuck  so  that  the  position  of  operation  is  perpendicular  to  the 
+coating. 
+
+3.4.2.3  Clamp  the  test  panel,  with  the  coating  uppermost,  to  the  sliding  panel  of  the  apparatus 
+with  the  longer  side  of  the  panel  parallel  to  the  direction  in  which  the  scratch  will  be  made. 
+
+3.4.2.4  Place  weights  on  the  holder  above  the  needle  to  obtain  the  specified  load. 
+
+3.4.2.5  Start  the  motor  of  the  apparatus  or  pull  the  sliding  panel  of  the  hand-operated  appara- 
+tus and  allow  the  scratch  to  be  made  on  the  coating. 
+
+3.4.2.6  Remove  the  panel  and  examine  the  scratch  to  see  if  the  coating  has  been  penetrated 
+to  the  substrate.  By  agreement  between  the  interested  parties,  a  suitable  magnification  may  be 
+used,  in  which  case  the  degree  of  magnification  shall  be  mentioned  in  the  test  report. 
+
+3.4.3  Minimum  load  to  cause  failure  —  Carry  out  the  procedure  given  in  3.4.2,  using  a  fresh 
+portion  of  a  test  panel  for  each  scratch,  starting  at  a  load  somewhat  less  than  that  expected  to 
+cause  penetration  of  the  coating  and  continuing  by  successively  increasing  the  load  by  suitable 
+increments  (for  example  50  g  ),  until  the  coating  is  penetrated  to  the  substrate.  Record  the 
+minimum  load  at  which  the  needle  penetrates  the  coating  after  confirming  the  result  by  repeating 
+the  procedure  with  this  load  both  on  the  original  test  panel  and  on  a  fresh  one. 
+
+4.  Cupping  Test 
+
+4.1  Outline  of  the  Method  —  This  is  a  test  for  assessing  the  paint  film  to  cracking  and/or  detech- 
+ment  from  a  metal  substrate  when  subjected  to  gradual  deformation  by  indentation  under  specified 
+conditions.  The  method  may  be  either  used  as  a  GO/NO-GO  test  by  testing  to  a  specified  depth  of 
+indentation  to  assess  compliance  with  a  particular  requirement  or  by  gradually  increasing  the  depth 
+of  indentation  to  determine  the  minimum  depth  at  which  the  film  cracks  and/or  becomes  detached 
+from  the  substrate. 
+
+4.2  Apparatus 
+
+4.2.1  Cupping  apparatus  —  As  shown  in  Fig.  8. 
+
+4.2.1.1  Die  —  This  is  surface  hardened  and  the  surface  in  contact  with  the  test  panel  is  plane 
+polished. 
+
+4.2.1.2  Retaining  ring  —  The  surface  in  contact  with  the  test  panel  is  plane  polished  and 
+parallel  to  the  contacting  surface  of  the  die. 
+
+4.2.1.3  Indentor  —  The  part  contacting  the  test  panel  is  of  hardened  polished  steel  and  forms 
+a  hemisphere  of  20  mm  diameter.  During  the  test,  the  indentor  shall  be  prevented  from  turning  and 
+the  centre  of  the  spherical  portion  shall  not  deviate  from  the  axis  of  the  die  by  more  than  01  mm. 
+
+4.2.1.4  Measuring  device  —  This  measures  the  depth  of  the  indentation  made  by  the  indentor 
+to  the  nearest  005  mm. 
+
+4.3  Panels 
+
+4.3.1  Dimensions  —  The  test  panel  shall  be  rectangular  with  the  following  dimensions: 
+
+a)  Thickness  —  Not  less  than  0  3  mm  and  not  more  than  1  25  mm  (  as  specified  and  measured 
+with  a  micrometer  to  the  nearest  001  mm  ). 
+
+b)  Width  and  length  —  At  least  70  mm   (  upper  limit  depending  on  the  capacity  of  the  appa- 
+ratus ). 
+
+The  test  panel  may  be  cut  to  size  after  coating  and  drying  provided  no  distortion  occurs. 
+
+4.3.2  Coating  of  test  panel  —  Coat  the  panel  with  material  under  test  by  the  appropriate  method 
+and  dry  or  stove  in  specified  manner  for  the  specified  period.  If  normal  drying  conditions  are 
+specified,  these  shall  be  interpreted  as  a  temperature  of  27  ±  2°C  and  a  relative  humidity  of  65  ±  5 
+percent  with  free  circulation  of  air  and  not  exposed  to  direct  sunlight. 
+
+Unless  otherwise  specified,  the  test  panel  shall  be  conditioned  at  27  +  2°C  and  65  ±  5 
+percent  relative  humidity  for  16  h  immediately  prior  to  carrying  out  the  test. 
+
+
+IS  :  101  (  Part  5/Sec  2  )  -  1988 
+
+
+INDENTOR 
+AND  BLAL 
+
+RETAINING 
+RING 
+
+
+33-01-1 
+
+
+m — * 
+
+
+TEST  STRIP- 
+
+
+27'00i-05 
+
+
+55-0!-1 
+
+
+OEPTH  OF 
+INDENTATION 
+
+All  dimensions  in  millimetres. 
+
+FIG.  8    CUPPING  TEST  APPARATUS 
+
+
+4.4  Procedure 
+
+4.4.1  Procedure  for  a  single  specified  depth  of  indentation  —  The  following  procedure  shall  be 
+carried  out  on  two  separate  test  panels  (  if  the  results  differ,  further  tests  shall  be  made  ). 
+
+4\.4.1.1  Hold  the  test  panel  firmly  between  the  retaining  ring  and  the  die  with  the  coating 
+towards  the  die.  and  with  the  spherical  end  of  the  indentor  in  contact  with  the  test  panel  (  zero 
+position  of  the  indentor ).  Adjust  the  panel  until  the  central  axis  of  the  indentor  intersects  the 
+panel  at  at  least  35  mm  from  each  edge. 
+
+4.4.1.2  Having  measured  the  temperature  and  the  humidity,  advance  the  spherical  end  of  the 
+indentor  into  the  test  piece  at  a  rate  of  02  ±  01  mm/s  (  12  ±  6  mm/min  )  until  the  specified  depth 
+is  reached,  that  is  until  this  distance  has  been  travelled  by  the  indentor  from  the  zero  position. 
+
+4.4.1.3  Using  normal  corrected  vision  or,  by  agreement,  a  lens  of  10 x  magnification,  examine 
+the  coating  of  the  test  panel  for  cracking  and/or  detachment  from  the  substrate. 
+
+Note  1     -  If  a  Ions  is  used,  it  is  essential  to  mention  this  fact  in  the  test  report  and  to  avoid  misleading  compari- 
+sons with  the  results  obtained  using  normal  corrected  vision  only. 
+
+Note  2  —  If  the  substrate  shows  any  signs  of  cracking,  the  test  should  be  considered  as  invalid. 
+
+4.4.2  Procedure  for  determination  of  minimum  depth  of  indentation  to  cause  failure  —  Carry  out 
+the  procedure  given  in  4.4.1  but  advance  the  indentor  until,  using  normal  corrected  vision  (  or,  by 
+agreement,  a  lens  of  10  x  magnification  for  observation  ),  a  crack  first  appears  on  the  surface  of 
+the  coating  and/or  the  coating  begins  to  become  detached  from  the  substrate. 
+
+Stop  the  indentor  at  this  point  and  measure  the  depth  of  indentation  (  see  Fig.  8  )  to  the 
+nearest  01  mm  as  the'distance  travelled  by  the  indentor  from  the  zero  position.  Confirm  the  result 
+by  repeating  the  determination  on  a  fresh  panel  ( if  the  results  differ,  further  determinations  shall 
+be  made ). 
+
+5.  Pull  off  Test 
+
+5.1  Outline  of  the  Method  —  This  is  a  pull  off  test  on  a  single  or  multi  coat  system  of  paint,  varnish 
+or  related  products.  One  test  may  be  carried  out  using  different  substrates. 
+
+
+8 
+
+
+IS  :  101  (  Part  5/Sec  2  )  -  1988 
+
+5.2  Apparatus 
+
+5.2.1  Tensile  tester— Suitable  for  carrying  out  the  chosen  procedure  specified  in  5.5.  The  tensile 
+stress  shall  be  applied  in  a  direction  perpendicular  to  the  coated  substrate  and  shall  be  increased 
+at  a  substantially  uniform  rate,  not  greater  than  1  MPa/s,  such  that  the  failure  of  the  test  assembly 
+occurs  within  90  s.  Suitable  designs  for  applying  the  tensile  stress  are  shown  in  Fig.  9. 
+
+
+SUPPORT 
+
+
+BAU 
+JOINT 
+
+
+TEST 
+CYLINDER 
+
+
+COATING 
+SUBSTRATE 
+
+
+TEST    PIECE 
+
+
+COATING 
+
+TEST 
+CYLINDER 
+
+BALL    AND   SOCKET 
+SLIDING    JOINT 
+
+
+SUPPORT  (SUITA- 
+BLY   DESIGNED 
+TO    ALLOW    FOR 
+JOINT  ASSEMBLY) 
+
+
+BALL   AND   SOCKET 
+SLIDING     JOINT 
+
+
+9A 
+
+
+9B 
+FIG.  9    SUITABLE  DESIGNS  FOR  APPARATUS  FOR  PULL  OFF  TEST 
+
+
+5.2.2  Test  cylinders  —  Suitable  for  use  with  the  tensile  tester  (  5.2.1  ),  faced,  of  diameter  20  mm 
+(  unless  otherwise  agreed  )  and  of  sufficient  thickness  to  ensure  freedom  from  distortion  during  the 
+test.  It  is  recommended  that  the  length  of  the  test  cylinder  should  be  not  less  than  half  its  diameter. 
+The  faces  shall  be  machined  perpendicular  to  the  long  axis  of  the  cylinder  before  use. 
+
+5.2.3  Centring  device  —  For  ensuring  proper  coaxial  alignment  of  the  test  assembly  during  the 
+adhesion  process  used  as  described  in  5.5.1  and  5.5.3.  A  suitable  design  is  shown  in  Fig.  10. 
+
+5.2.4  Cutting  device  —  Such  as  a  sharp  knife,  for  cutting  through  cured  adhesive  and  the  paint 
+coating  to  the  substrate,  round  the  circumference  of  the  test  cylinder. 
+
+5.3  Materials 
+
+5.3.1  Adhesives  —  Special  attention  is  required  in  selecting  suitable  adhesives  to  be  used  in  the 
+test. 
+
+To  produce  failure  of  the  coating,  it  is  essential  that  the  cohesive  and  bonding  properties  of 
+the  adhesive  be  greater  than  those  of  the  coating  under  test. 
+
+9 
+
+
+IS  :  101  (  Part  5/Sec  2  )  -  1988 
+
+Preliminary  screening  of  adhesives  shall  be  carried  out  in  order  to  determine  their  suitability 
+for  use.  Suitable  adhesives  and,  if  applicable,  their  unmixed  components  shall  cause  little  or  no 
+visible  change  in  the  coating  under  test  when  left  in  contact  with  the  coating  for  a  period  equivalent 
+to  the  curing  time  of  the  adhesive. 
+
+An  adhesive  may  be  considered  suitable  for  a  particular  coating  if  it  gives  the  same  test  result 
+as  that  produced  by  using  a  different  class  or  type  of  adhesive  when  similarly  tested. 
+
+Note  — Inmost  cases,  cyanoacrylate,  two-component  solventless  epoxide  and  peroxide-catalyzed  polyester 
+adhesives  have  been  found  suitable.  Cyanoacrylate  and  polyester  adhesives  have  a  short  curing  time  and  are  pre- 
+ferred for  use  with  coatings  that  have  been  subjected  to  highly  humid  conditions. 
+
+
+FIG.  10    SUITABLE  DESIGN  FOR  CENTRING  DEVICE  FOR  20  mm  DIAMETER  TEST  CYLINDERS 
+
+5.4  Test  Substrate 
+
+5.4.1  Preparation  and  coating  of  test  substrate  —  Prepare  the  specified  test  substrate  in  accor- 
+dance with  IS  :  101  (  Part  1/Sec  3  )-1986  and  then  coat  it  by  the  specified  method  with  the  product 
+or  system  under  test. 
+
+5.4.2  Drying  the  test  coating  —  Dry  (  or  stove  and  age  )  the  coated  test  substrate  for  the  speci- 
+fied time  and  under  the  specified  conditions  and  condition  it  at  27  ±  2°C  and  65  ±  5  percent 
+relative  humidity  for  a  minimum  of  24  h.  Then  carry  out  the  appropriate  test  procedure  as  soon 
+as  possible. 
+
+5.4.3  Thickness  of  coating  —  Determine  the  thickness,  in  micrometres,  of  the  dry  coating  by  one 
+of  the  procedures  specified  in  IS  :  101  (  Part  3/Sec  6  ). 
+
+5.5  Procedure 
+
+5.5.1  Adhesives  —  Prepare  and  apply  the  adhesive  in  accordance  with  the  manufacturer's 
+instructions.  Use  the  minimum  quantity  of  adhesive  required  to  produce  a  firm,  continuous  and 
+even  bond  between  the  components  of  the  test  assembly.  Remove  any  excess  adhesive  immediately, 
+if  possible. 
+
+5.5.2  General  method  for  testing  both  rigid  and  deformable  substrates  —  Use  as  the  test  piece  an 
+area,  cut  from  the  coated  substrate  (  disc  of  minimum  diameter  30  mm  or  square  of  minimum  side 
+30  mm  ).  Take  care  not  to  distort  the  test  piece.  Apply  the  adhesive  evenly  to  the  surfaces  of  two 
+freshly-cleaned  test  cylinders  of  equal  diameter  (  see  Notes  1  and  3  ).  Place  the  test  piece  between 
+the  adhesive-coated  faces  of  the  test  cylinders  such  that  the  test  cylinders  are  coaxially  aligned  in 
+the  centre  of  the  piece,  as  shown  in  Fig.  11.  Align  the  test  assembly  in  the  centring  device  and  main- 
+tain the  alignment  for  a  period  equal  to  the  curing  time  of  the  adhesive  (  see  Note  2  ).  At  the  end 
+of  this  period,  carefully  use  the  cutting  device  to  cut  around  the  circumference  of  the  test  cylinders 
+through  to  the  substrate. 
+
+Not*  1  —  The  adhesion  at  the  adhesive  coating  interface  may  be  improved  by  lightly  abrading  the  surface  of  the 
+dried  coating  before  the  application  of  adhesive-coated  face  of  the  test  cylinder. 
+
+
+10 
+
+
+IS  :  101  (  Part  5  Sec  2  )  -  1988 
+
+Note  2  -  In   special   tests    under  highly  humid   conditions,  the  curing  time  of  the  adhesive  shall  be  as  short  as 
+possible. 
+
+Note  3  —  In  the  method  for  deformable   substrates,   if  a  poor  adhesive    bond  is   expected  between  the  uncoated 
+face  of  the  substrate  and  the  test  cylinder,  coat  both  faces  of  the  substrate  with  the  product  under  test. 
+
+
+-TEST    CYLINDER  COATED 
+WITH    ADHESIVE 
+
+
+"^mmw^1 
+
+
+-SUBSTRATE   PAINTED 
+
+
+^^         'IDES 
+
+
+TEST    CYLINDER    COATED 
+WITH    ADHESIVE 
+
+
+FIG.  11     TEST  ASSEMBLY,  SANDWICH  METHOD  (  SUBSTRATE  PAINTED  ON  ONE  OR  BOTH  SIDES  ) 
+
+5.5.3  Method  for  testing  from  one  side  only  (  suitable  for  rigid  substrates  only  )  —  Apply  the 
+adhesive  evenly  to  the  uncoated,  freshly-cleaned  surface  of  a  test  cylinder.  Place  the  adhesive- 
+coated  face  of  the  test  cylinder  in  contact  with  the  coating  (  see  Note  1  under  5.5.2  ),  for  a  period 
+equal  to  the  curing  time  of  the  adhesive  (see  Note  2  under  5.5.2  ).  At  the  end  of  this  period,  carefully 
+use  the  cutting  device  (  5.2.4 )  to  cut  around  the  circumference  of  the  test  cylinder  through  to  the 
+substrate. 
+
+Place  the  outer  ring  in  position  and  test  as  indicated  in  Fig.  12. 
+
+•OUTER   RING 
+
+
+L,    I    J 
+
+
+/ 
+
+
+IW^WAVIVJ? 
+
+
+-TEST    CYLINDER 
+COATED   WITH  ADHESIVE 
+
+
+/-PAINT 
+S      COATING 
+
+
+■COATED 
+SUBSTRATE 
+
+
+FIG.  12    TEST  ASSEMBLY  FOR  RIGID  SUBSTRATES 
+
+
+5.5.4  Method  using  test  cylinders  —  Apply  the  adhesive  evenly  to  the  uncoated,  freshly-cleaned 
+surface  of  a  test  cylinder.  Place  the  adhesive-coated  surface  of  the  test  cylinder  in  contact  with 
+the  surface  of  the  cylinder  coated  with  the  product  under  test,  as  shown  in  Fig.  13,  and  align  the 
+test  assembly  in  the  centring  device  for  a  period  equal  to  the  curing  time  ot  the  adhesive. 
+
+
+-PAINTED    TEST 
+
+CYLINDER 
+-PAINT     FILM 
+
+.-ADHESIVE 
+
+
+TEST    CYLINDER 
+COATED    WITH    ADHESIVE 
+
+
+FIG 
+
+
+TEST  ASSEMBLY  USING  TEST  CYLINDER 
+
+
+5.5.5  Measurement  —  Immediately  after  the  period  allowed  for  curing  of  the  adhesive,  place  the 
+test  assembly  in  the  tensile  tester  taking  care  to  align  the  test  cylinders  so  that  the  tensile  force  is 
+applied  uniformly  across  the  test  area,  without  the  bending  moment.  Apply  a  tensile  stress,  in- 
+creasing at  a  rate  not  greater  than  1  MPa/s,  perpendicular  to  the  plane  of  the  coated  substrate  such 
+that  the  failure  of  the  test  assembly  shall  occur  within  90  s  of  intial  application  of  the  stress. 
+
+
+11 
+
+
+IS  :  101  (  Part  5/Sec  2  )  -  1988 
+
+Record  the  tensile  stress   to   break  the  test    assembly  and  examine  the  fracture  surfaces  in 
+accordance  with  5.6.2.  r 
+
+5.5.6  Number  of  determinations  —  Carry  out  at  least  three  determinations.  For  reteree  purposes, 
+carry  out  a  minimum  of  five  determinations.   Report  the  results  of  all  determinations. 
+
+5.6  Results 
+
+5.6.1  Breaking  strength  —  The    breaking    strength,    in    megapascals,   for  each  test   assembly    is 
+given  by  the  formula: 
+
+_Af_ 
+d* 
+where 
+
+F  -=  the  breaking  force,  in  newtons;  and 
+
+d  —  the  diameter,  in  millimetres,  of  the  test  cylinder. 
+
+In  the  case   ot  ter*  cylinders   of  diameter  20  mm,  the  breaking   strengthen   megapascals,   is 
+given  by  the  formula: 
+
+AF       =     _£_ 
+400  100 
+
+5.6.2  Nature  of  failure  —  Express  the  result  as  the  percentage  area  and  the  site  of  fracture  in  the 
+system  under  test  in  terms  of  adhesive,  cohesive  or  adhesive/cohesive  failure. 
+
+For  convenience,  the  following  scheme  may  be  used  to  describe  the  results  observed: 
+
+A  =  cohesive  failure  of  substrate 
+A\B  —  adhesive  failure  between  substrate  and  first  coat 
+
+B  =  cohesive  failure  of  first  coat 
+fi/C  =  adhesive  failure  between  first  and  second  coats 
+-  jY  =  adhesive  failure  between  final  coat  and  adhesive 
+
+Y  =  cohesive  failure  of  adhesive 
+Y\Z  ■=  adhesive  failure  between  adhesive  and  test  cylinder. 
+
+Example: 
+
+If  a  paint  system  tested  in  the  pull  off  test  breaks  at  a  tensile  stress  of  20  MPa 
+and  examination  of  the  area  on  each  side  of  the  site  of  separation  reveals  approximately  30 
+percent  of  the  test  cylinder  area  associated  with  cohesive  break  of  the  first  coat  and  70  percent 
+of  the  test  cylinder  area  associated  with  intercoat  adhesive  break  between  the  first  and  the 
+second  coats,  the  pull  off  test  result  is  expressed  as: 
+
+20  MPa,  30  percent  B,  70  percent  BjC 
+
+
+EXPLANATORY     NOTE 
+
+This  is  one  of  a  series  of  standards  on  methods  of  sampling  ana  test  for  paints,  varnishes  and 
+related  products.  This  standard  supersedes  clauses  15  and  16  of  IS  :  101-1964  'Methods  of  test  for 
+ready  mixed  paints  and  enamels  (  second  revision  )  '.  In  the  preparation  af  this  standard,  consider- 
+able assistance  has  been  taken  from  ISO  :  1518-1973  'Paints  and  varnishes  — Scratch  test  prepared 
+by  the  International  Organization  for  Standardization  (  ISO  ). 
+
+12 
+
+
+Printed  al  iK'e  Kay  Printers.  New  Delhi  1  HX115.  India 
+
+

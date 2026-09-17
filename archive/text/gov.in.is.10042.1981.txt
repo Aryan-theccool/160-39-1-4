@@ -1,0 +1,1696 @@
+**************** 
+
+
+
+
+Disclosure to Promote the Right To Information 
+
+Whereas the Parliament of India has set out to provide a practical regime of right to 
+information for citizens to secure access to information under the control of public authorities, 
+in order to promote transparency and accountability in the working of every public authority, 
+and whereas the attached publication of the Bureau of Indian Standards is of particular interest 
+to the public, particularly disadvantaged communities and those engaged in the pursuit of 
+education and knowledge, the attached public safety standard is made available to promote the 
+timely dissemination of this information in an accurate manner to the public. 
+
+
+
+
+Mazdoor Kisan Shakti Sangathan 
+"The Right to Information, The Right to Live'' 
+
+
+
+IS 10042 (1981) : Code of practice for site investigations 
+for foundation in gravel-boulder deposit [CED 43: Soil and 
+Foundation Engineering] 
+
+
+
+
+Jawaharlal Nehru 
+'Step Out From the Old to the New" 
+
+
+
+aj^&vi iJii^s:y%K^ isb^^ni^seg 
+
+
+
+:<>5&i| mT'5K^5?::5:^>^i»l 
+
+
+
+K^^^iXSVCd^ 
+
+
+
+Satyanarayan Gangaram Pitroda 
+Invent a New India Using Knowledge 
+
+
+
+Bhartrhari — Nitisatakam 
+''Knowledge is such a treasure which cannot be stolen" 
+
+
+
+
+^'^^^r 
+
+
+
+k 
+
+
+
+
+BLANK PAGE 
+
+
+
+^*-^^^ 
+
+
+
+
+
+PROTECTED BY COPYRIGHT 
+
+
+
+( Reaffirmed 2002 ) 
+
+Indian Standard 
+
+CODE OF PRACTICE FOR 
+
+SITE INVESTIGATIONS FOR FOUNDATION 
+
+IN GRAVEL-BOULDER DEPOSIT 
+
+
+
+UDC d24'l3l 31 : 624-1505 J ; 69 032 2 : 006-76 
+
+
+
+
+© Copyright im 
+INDIAN STANDARDS INSTITUTION 
+
+UAMaK BHAVAN. 9 BAHADLR SKAH ZAFAR MARG 
+
+NEW PELUl 11^001 
+
+
+
+18:10042-1981 
+
+Indian Standard 
+
+CODE OF PRACTICE FOR 
+
+SITE INVESTIGATIONS FOR FOUNDATION 
+
+IN GRAVEL-BOULDER DEPOSIT 
+
+Soil Engineering and Rock Mechanics Sectional Committee, BDC 23 
+
+Chairman Representing 
+
+Dr Jagdish Narain University of Roorkee, Roorkce 
+
+Members 
+Additional Director, IRI Irrigation Department, Government of Bihar, Patna 
+
+Additional Director Research Ministry of Railways 
+(F.E.), RDSO 
+Deputy Director Research 
+( Soil Mech ), RDSO ( Alternate ) 
+Shri P. D. Agarwal Public Works Department, Government of Uttar 
+
+Pradesh, Lucknow 
+Dr B. L. Dhawan ( Alternate ) 
+Prof Alam Singh University of Jodhpur, Jodhpur 
+
+GoL Avtar Singh Engineer-in-Ghicf 's Branch, Army Headquarters 
+
+Lt-Col V. K. Kanitkar ( Alternate ) 
+Chief Engineer ( D&R) Irrigation Department, Government of Punjab 
+
+Chandigarh 
+Dr G. S. Dhillon ( Alternate ) 
+Shri M. C. Dandavate The Concrete Association of India, Bombay 
+
+Shri N. C. Duggal ( Alternate ) 
+Shri A. G. Dastidar In Personal Capacity (5 Hmgerford Slreety I2jl, 
+
+Hungerford Court, Calcuita-700017) 
+Dr G. S Dhillon Indian Geotechnical Society, New Delhi 
+
+Director, IRI Irrigation Department, Government of Uttar 
+
+Pradesh, Roorkee 
+Shri A. H. Divanji Asia Foundations and Construction (P) Ltd, Bombay 
+
+Shri A. N. Jangle ( Alternate ) 
+Dr Gopal Ranjan Institution of Engineers ( India), Calcutta 
+
+Dr Gopal Ranjan University of Roorkee, Roorkee 
+
+Shri S. Gupta Gemindia Co Ltd, Bombay 
+
+Shri N. V. De Sousa ( Alternate ) 
+Shri G. S.Jain G. S.Jain & Associates, Roorkee 
+
+Shri Vijay K. Jain ( Alternate ) 
+
+( Continued on page 2 ) 
+
+
+
+© Copyright 1982 
+INDLVN STANDARDS INSTITUTION 
+
+This publication is protected under the Indian Copyright Act ( XIV of 1957 ) and 
+reproduction in whole or in part by any means except with written permission of the 
+publisher shall be denied to be an infringement of copyright under the said Act. 
+
+
+
+tS : 10042 - 1981 
+
+( Continued from page I ) 
+
+Members Representing 
+
+Shri a. B. Joshi Central Water Commission, New Delhi 
+
+Deputy Director ( CSMRS ) {Alternate ) 
+Col M. V. Kayerka Ministry of Defence ( R&D ) 
+
+Shri V. B. Ghorpade ( Alternate ) 
+Shri O.P. Malhotra Public Work* Department, Chandigarh Adminis- 
+
+tration, Chandigarh 
+Shri D. R. Narahari Central Building Research Institute (CSIR), 
+
+Roorkee 
+Shri B. G. Rao ( Alternate ) 
+Shri T, K. Natrajan Central Road Research Institute, New Delhi 
+
+Dr G. V. Rao Indian Institute of Technology, New Delhi 
+
+Dr K. K. Gupta ( Alternate ) 
+Research Officer ( B & RRL ) Public Works Department, Government of Punjab, 
+
+Chandigarh 
+Shri K. R. Saxena Engineering Research Laboratories, Government of 
+
+Andhra Pradesh, Hyderabad 
+Secretary Central Board of Irrigation & Power, New Delhi 
+
+Deputy Secretary ( Alternate ) 
+Shri N. Sivaouru Roads Wing (Ministry of Shipping and Transport) 
+
+Shri D. V. Sikka ( Alternate ) 
+ShriK. S. Srinivasan National Buildings Organization, New Delhi 
+
+Shri Sunil Berry ( Alternate ) 
+Shri N. Subramanyam Karnataka Engineering Research Station, Krishna- 
+
+raj asagar 
+Superintending Engineer Public Works Department, Government of Tamil 
+( P&DG ) Nadu, Madras 
+
+Executive Engineer ( SMRD ) ( Alternate ) 
+Shri G. Raman, Director General, ISI ( Ex^officio Member) 
+
+Director ( Civ Engg ) 
+
+Secretary 
+Shri K. M. Mathur 
+Deputy Director ( Civ Engg ), ISI 
+
+Site Exploration and Investigation for Foundation 
+Subcommittee, BDC 23 : 2 
+
+Shri V.S. Aggarval Central Building Research Institute, CSIR, Roorkee 
+
+Shri M.P.Jain ( Alternate ) 
+Dr Alam Singh University of Jodhpur, Jodhpur 
+
+Deputy Director Research Ministry of Railways 
+
+(PE), RDSO 
+Assistant Director Research 
+( Soil Mech ), RDSO ( Alternate) 
+Director (CSMRS ) Central Water Commission, New Delhi 
+
+Deputy Director ( CSMRS ) ( Alternate ) 
+
+( Continued on page 1 9 ) 
+
+
+
+IS : 10042 « 1981 
+
+Indian Standard 
+
+CODE OF PRACTICE FOR 
+
+SITE INVESTIGATIONS FOR FOUNDATION 
+
+IN GRAVEL-BOULDER DEPOSIT 
+
+0, FOREWORD 
+
+0.1 This Indian Standard was adopted by the Indian Standards Institution 
+on 30 November 1981, after the draft finalized by the Soil Engineering 
+and Rock Mechanics Sectional Committee had been approved by the Civil 
+Engineering Division Council. 
+
+0,2 The advent of the large river valley projects in India necessitated the 
+erection of heavy industrial complexes in river or old river courses. It will, 
+therefore, be necessary to determine foundation conditions in respect of 
+the following before a design can be finalized: 
+
+a) Sequence and extent of overburden soil underlain by boulder- 
+gravel soil deposit to be affected by the proposed work; 
+
+b) Nature of matrix of boulders; 
+
+c) The amount and state of packing of the boulders, their nature 
+(rounded or otherwise) and the size of the boulders present; 
+
+d) Whether the boulder-gravel is lying in the matrix of material or 
+otherwise; 
+
+e) Nature of each stratum if there is any change, ground water table 
+and its possible effects on foundation material; and 
+
+f) General information on geology and surface drainage, etc. 
+
+This standard has, therefore, been formulated to cover these aspects, 
+as methods adopted for soils {see IS: 1892-1979*) will not be applicable in 
+such cases. 
+
+0.3 In the formulation of this standard, considerable assistance has been 
+given by Central Building Research Institute, Roorkee. 
+
+0,4 For the purpose of deciding whether a particular requirement of this 
+standard is complied with, the final value, observed or calculated, express- 
+ing the result of a test or analysis, shall be rounded off in accordance with 
+IS : 2-1960t. The number of significant places retained in the rounded off 
+value should be the same as that of the specified value in this standard. 
+
+♦Code of practice for subsurface investigations for foundations {first revision ) . 
+fRules for rounding off numerical values ( revised). 
+
+
+
+IS : 10042 - 1981 
+
+1. SCOPE 
+
+1.1 This code deals with the subsurface investigation in relation to design 
+of foundations for single and multistoreyed buildings, overhead water tanks, 
+piers and abutments of bridges in boulder-gravel deposits. 
+
+2. TERMINOLOGY 
+
+2.0 For the purpose of this standard, the following definitions in addition 
+to those given in IS : 2809-1972* shall apply. 
+
+2.1 Boulder— Boulder Test ( BBT ) — A block cut out of the boulder soil is 
+sheared under a normal load. 
+
+2.2 Concrete — Boulder Test (CBT) — A cast in situ concrete block on 
+boulder soil and pushing the block laterally under a normal load. 
+
+2.3 Depth on Foundation — The minimum vertical distance between the soil 
+surface and base on the foundation. 
+
+2.4 Dynamic Cone Penetration Test (DCPT) — A subsurface sounding 
+used to ascertain the soil strata. 
+
+2.5 Residual Shear Strength — Minimum shear strength exhibited by the 
+soil 
+
+3. SYMBOLS 
+
+3.1 For the purpose of this standard and unless defined in the text, the 
+following letter symbols shall have the meaning indicated against each: 
+
+Bf = width of the strip foundation, side of square foundation, dia- 
+meter of circular foundation expressed in metres, 
+
+^a = allowable soil pressure corresponding to 12 mm or 25 mm 
+settlement in tonnes/m*, 
+
+To = residual soil strength in tonnes/m^ 
+
+5a = allowable settlement for a structure in cm, 
+
+N" ~ cummulative number of blows corresponding to a depth Dq in m, 
+
+Dc = depth of penetration in cm, 
+
+Be = diameter of cone in cm, and 
+
+Yc == natural unit weight of the soils in tonnes/m^. 
+
+
+
+♦Glossary of terms and symbols relating to soil engineering {first revision), 
+
+4 
+
+
+
+IS : 10042 - 1981 
+4. GENERAL 
+
+4.1 The type of material found in such locations as river beds or old river 
+courses falls neither in the class of soils nor rocks but in the form of gravel- 
+boulders. 
+
+The average size of the boulder is larger than 300 mm and it is gene- 
+rally mixed with fine ( 4'75 — 20 mm ) to coarse (20 — 80 mm ) gravels. 
+Soils v^ith a large quantity of gravel-boulders deposit pose several problems 
+in investigation. The presence of large sized particles precludes the sampl- 
+ing by the usual methods of soil sampling in the true sense. Tests on 
+disturbed samples are likely to yield unrehable results, as the natural 
+arrangements of the grains and matrix material are never achieved by 
+recompaction. The best results are obtained by properly chosen field tests. 
+
+4.2 Nature of the Deposit — The deposits commonly called boulder deposits 
+may be of fluvial or glacial origin. Generally, there exists some filler 
+material which may be sand, silt or clay mixed with fine to coarse gravels. 
+
+4.3 Behaviour Under Load — The performance of such deposits under load, 
+a matter of intelligent guess, is generally made on conservative side leading 
+to high cost of foundations. The behaviour of boulder deposits under high 
+loads also depends upon the size and quantity of gravel-boulder and also 
+the nature and amount of the filler material. If the filler material exists 
+only in the interstices of the boulder ( see Fig. lA), the behaviour depends 
+upon the state of packing of the boulders, nature ( rounded or otherwise ) 
+and the size of the boulder; on the other hand if the boulder exists in the 
+matrix of the filler material ( see Fig. IB ), the behaviour will be governed 
+by the size, quantity and distribution of the boulder in the filler. When 
+the filler material is absent, the load carrying capacity is high and the com- 
+pressibility is low. When there exists a filler material, there is an initial 
+compression stage followed by low compression stage when the load carry- 
+ing capacity is high. If the gravel lies in the matrix of the filler material, 
+the behaviour is governed by the nature of the filler material and it is likely 
+to reduce the compressibility. The boulder soil unlike ordinary soil shows 
+certain peculiar characteristics when the boulder proportion is large ( > 30 
+percent ); the deposit shows an initial rapid compression followed by a stage 
+where the compression decreases considerably as the boulders take over the 
+load carrying function ( see Fig. 2 ). In such cases, it is of advantage to 
+have the allowable load well in excess of the load at which initial compres- 
+sion occurs, thereby reducing deformations at design loads. 
+
+However, in the other situations when the boulder-gravel quantity is 
+small ( < 30 percent ), normal methods of interpretation ( IS : 1888-1982* ) 
+will be used ( see Fig. 3, curves A, E and G ). 
+
+♦ Method of load tests on soils ( second revision ) . 
+
+
+
+IS : 10042 - 1981 
+
+
+
+'• * ^'. ''^* ■.' OVERBURDEN SOIL' ^\ \ . •' * 
+
+
+
+
+1A FILLER MATERIAL EXISTING IN THE 
+INTERSTICES OF BODLDER/CRAVEL 
+
+OVERBURDEN SOIL* 
+
+
+
+
+.■c^^-^m^ms 
+
+
+
+IB BOULDER GRAVEL EXISTING IN THE 
+MATRIX OF THE INTERSTITIAL MATERIAL 
+
+Fig. 1 Gravel-Boulder Soil Stratum 
+
+4.4 Influence of Filler Material — If the cobbles/boulders exist in the matrix 
+of the JSller material, properties of the matrix govern the overall behaviour, 
+though the presence of gravel/boulder shall reduce the compressibility of 
+the matrix material to some extent ( see Fig. 3 and 4 ). However, if this 
+material exists only in the interstices of the boulders, the boulders being 
+in contact (see Fig. lA), the behaviour is essentially governed by the 
+boulder. 
+
+5. METHODS OF INVESTIGATIONS 
+
+5.1 Field Test — The method of exploring by open trial pits consists in 
+excavating trial pits at the site and thereby exposing the sub-soil strata 
+thoroughly, enabling identification and classification of the soil. The pit size 
+
+
+
+18:10042-1981 
+
+
+
+U 
+
+
+
+12 
+
+
+
+10 
+
+
+
+CO 
+CO 
+LU 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/< 
+
+
+/ 
+
+
+
+
+
+
+
+
+/ 
+
+
+^ 
+
+
+^60cm 
+
+
+
+
+
+
+/ 
+
+
+I 
+
+
+/^ 
+
+
+— 90 cm 
+
+
+
+
+
+
+^ / 
+
+
+\ 
+
+
+
+
+
+
+
+
+© 
+
+
+Z' 
+
+
+y 
+
+
+p' V 
+
+
+^120cm 
+
+
+
+
+Km\ 
+
+
+^ 
+
+
+
+
+
+
+
+
+
+
+
+5 10 15 20 25 30 
+
+DEFORMATION , mm 
+
+Natural density « 2'21 gm/cc 
+Grain > 5 cm = 57% 
+Max grain size » 350 mm 
+Grain > 12 mm = 32% 
+
+Fig. 2 Load Settlement Curves Material Lies in the 
+Matrix of Boulders 
+
+shall be sufficiently large ( 5 x 5 m ) but not less than 2 x 2 m. The depth 
+of excavation is 4 to 6 m. The sides of the pit shall be sloped or the shored 
+excavation shall be employed to check against any possible slides in case of 
+deep excavation when the depth of the boulder stratum is large ( 10 to 15 m ), 
+with large size of the pit ( 15 x 15 m ). Large pits are necessary when 
+heavy structures are founded on bouldery soils. 
+
+5.2 Soil Classification and Sampling — Due to the native nature of the 
+material, the undisturbed sampling is not possible for identiflqation and 
+
+
+
+IS : 10042 - 1981 
+
+
+
+
+10 
+
+
+
+Fig. 
+
+
+
+20 
+
+
+
+30 40 SO 
+
+DEFORMATION, mm 
+
+
+
+60 
+
+
+
+3 Load Settlement Curves (Boulder Lies 
+IN THE Matrix of Material ) 
+
+
+
+testing purposes. During the course of excavation of the technical pit, dis- 
+turbed samples shall be collected at about 1 m depth or change of strata for 
+identification and grain size analysis, 
+
+Note — These samples shall also be used to determine the moisture content of 
+the material and the overall proportion of material in the boulder soil strata. 
+
+5.3 In Situ Density — The measurement of natural density shall be made 
+by water replacement method/sand replacement method. For this purpose, 
+a pit of known dimensions is excavated ( 1 m x 1 m x 50 cm). 
+
+The entire excavated soil is carefully collected and weighed with the 
+help of a spring balance ( 100 kg capacity ). The pit is then be covered with 
+a polyethylene sheet large enough to touch the sides and the base of the pit. 
+The pit is filled with known volume of water up to the surface of the pit 
+[IS : 2720 (Part XXXIII )-I971* ]. The density is calculated from the 
+known mass and volume of the soil. Sometimes dry clean sand may also 
+
+♦Methods of test for soils: Part XXXTII Determination of the density in-place by the 
+ring and water replacement method. 
+
+8 
+
+
+
+IS : 10042 - 1981 
+
+
+
+
+5 10 15 20 25 30 
+
+DEFORMATION mm 
+
+
+
+Test 
+No. 
+
+
+Interstitial Material 
+<5 cm% 
+
+
+Remarks 
+
+
+B 
+Bi 
+
+
+47 
+40 
+
+
+All footings 
+90 cm* 
+
+
+B. 
+
+
+60 
+
+
+
+
+Ba 
+
+
+57 
+
+
+
+
+B4 
+
+
+58 
+
+
+
+
+
+Fia. 4 Influence of Inter mri^L M\terial on the Load Carrying 
+Capacity of Boulder Soils 
+
+9 
+
+
+
+IS: 10042 -1981 
+
+
+
+be well adopted to measure the volume of the excavated soil. The 
+collected soil may also be used for grain size analysis and soil classifica- 
+tion. 
+
+5,4 Dynamic Cone Penetration Test ( DCPT) — This test [ IS : 4968 ( Part I ) - 
+1976* J shall be performed, if the aggregate size is not larger than 100 to 
+120 mm. The test set-up is similar to that in the standard penetration 
+test, the standard SPT Sampler being replaced by a push fit cast iron cone 
+with 60° apex angle and base diameter 62*5 mm.. Use of cone of this size 
+ensure su£acient clearance ( 11-36 mm) with the standard A drill rod and 
+helps in reducing friction on the rod ( see Fig. 5 ). The cone is driven 
+
+
+
+
+
+
+
+DRILL ROD 
+
+
+
+NIPPLB 
+
+
+
+VSmm CLEARANCE 
+12-5 
+
+
+
+CONE 
+
+
+
+All dimensions in millimetres. 
+
+Fig. 5 Diagrammatic Sketch of 62*5 mm Dia Cone 
+
+
+
+♦Method for subsurface sounding for soils: Part I Dynamic method using 50 mm cone 
+without bentonitc slurry {first revision ). 
+
+
+
+10 
+
+
+
+18:10042-1981 
+
+from the level of the footing with a 65 kg hammer dropping from a height 
+of 750 mm. The number of blows for every 15 cm shall be counted and a 
+plot between cumulative number of blows N' and D/Bc is prepared. A 
+typical plot is shown in Fig. 6. 
+
+Note — In order to avoid damage to the equipment, driving may be stopped when 
+the number of blows for the last 30 cm is 100. Assembly of the equipment shall be in 
+accordance with Fig. 2 of IS : 4968 ( Part II )-I976*. 
+
+
+
+40 
+
+
+
+CUMULATIVE NO. OF BLOWS ( N } 
+80 120 160 200 240 
+
+
+
+260 
+
+
+
+320 
+
+
+
+360 
+
+
+
+10 
+
+
+
+20 
+
+
+
+30 4 
+
+
+
+40 
+
+
+
+SO 
+
+
+
+60 
+
+
+
+;o 
+
+
+
+
+
+t 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+• 
+
+
+
+
+, 
+
+
+H 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\ 
+
+
+D/B^^ 3 6 
+
+
+
+
+
+
+
+
+
+
+
+
+D 
+
+
+^»C 
+
+
+V 
+
+
+^J^ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0V^ 
+
+
+^ 
+
+
+^^ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+V 
+
+
+s^ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+X 
+
+
+^ 
+
+
+
+Fig. 6 Typical Plot of Depth/Width (D/Bc) Ratio 
+AND Cumulative no. of Blows (N") 
+
+5.5 Load Test on Cast in-sittt Footing— Considering the large size of 
+aggregates involved, large sized footing need to be used in the test. Steel 
+plates are not of much use because of seating difficulties. Best results are 
+obtained with cast in-situ concrete blocks or with precast blocks, set with 
+fresh mortar, so that there is perfect bond between the soil and the block, 
+
+♦Method for subsurface sounding for soils: Part II Dynamic method using cone and 
+bentonite slurry {first revision ). 
+
+
+
+11 
+
+
+
+IS : 10042 . 1981 
+
+The size of the footing shall be such that it will span over several boulders 
+so as to mobilize group action under load. To satisfy this criterion, the 
+minimum size of the footing shall not be less than 10 times the average grain 
+size to a minimum of 150 cm. 
+
+Note — The maximum limit may be increased depending upon feasibility. 
+
+The footing shall be loaded using dead load Kentledges platform 
+through a hydrauUc jack ( 100 tonnes capacity ). The deformation shall be 
+measured with 4 dial gauges (0001 mm ) in accordance with IS : 1888- 
+1982"^. For each increment of load, the deformation shall be noted after 
+intervals of 1, 4, 10, 20, 40 and 60 min and thereafter at hourly intervals. 
+Each load increment shall be kept for not less than Ih or up to a time when 
+the rate of deformation gets reduced appreciably ( to a value of 0*02 mm/ 
+min ). The deformation shall be taken as the average of 4 dial gauges 
+readings. The next increment of load shall then be applied and the obser- 
+vation repeated. The test should be continued till a deformation of 50 mm 
+is reached or till failure occurs, whichever is earlier. A minimum of eight 
+load increments shall be applied to obtain a well defined load settlement 
+curve. Typical graphs are shown in Fig. 2. A typical set is shown in 
+Fig. 7. 
+
+If needed, rebound observation may be taken while releasing the load 
+in a similar manner. 
+
+5.6 In-Situ Shear Test — The test best suited for such type of deposit to 
+determine strength parameter is in situ shear test. It consists in shearing a 
+block of sample under a given normal load. The in situ test is a simple 
+form of laboratory shear box test. The interpretation of test results causes 
+difficulties, as identical samples are not likely to be available for many tests 
+under different loads. Two types of tests have been found suitable for such 
+deposits. 
+
+5.7 Boulder-Boulder Test ( BBT )t — It consists in cutting a block of 
+boulder soil and slowly confining it into a rigid well-designed steel former 
+[ IS : 7746-1975J and IS : 2720 (Part XXXIX/Sec 1 )-1977§ ]. This soil 
+block is sheared under a normal load. Then the shear ( kg/cm^ ) is plotted 
+against displacement ( mm ). 
+
+5.8 Concrete-Boulder Test ( CRT )t — This test, similar to that recommen- 
+ded in IS : 7746-I975J consists in casting a reinforced block and pushing it 
+laterally under a given normal load. 
+
+•Method of load tests on soils { second revision ). 
+
+fThe minimum number oi tests depends on the area over which the structure has to 
+come and uniformity of strata. However, in the normal case a minimum of two tests are 
+required. 
+
+{Code of practice for in situ shear test on rock, 
+
+§Methods of tests of soils; Part XXXIX Direct shear test for soils containing gravel, 
+Section 1 Laboratory test. 
+
+12 
+
+
+
+D^OCPTH Of^ FOOtMG 
+a« %nt OF FOOTING 
+
+
+
+
+STRATA ® 
+
+
+
+STRATA (D 
+
+
+
+1 . Overburden soil 
+
+
+
+2. 
+
+
+Boulder deposit 
+
+
+3. 
+
+
+Cast in^situ concrete footing 
+
+
+4. 
+
+
+M.S. plates 
+
+
+5. 
+
+
+Hydraulic jack 
+
+
+6. 
+
+
+Dial guage stand 
+
+
+7- 
+
+
+Datum bar 
+
+
+8. 
+
+
+Magnetic base 
+
+
+9. 
+
+
+Dial gauge rod 
+
+
+10. 
+
+
+Dial gauge 
+
+
+II. 
+
+
+Proving ring 
+
+
+12. 
+
+
+Spacer plates 
+
+
+
+13. Main girder 
+
+14. Flexible pipe 
+
+15. M.S. channel /wooden sleepers 
+
+1 6. Column 
+
+17. Pressure indicator 
+
+18. Jack handle 
+
+1 9. Pump for the jack 
+
+20. M.S. plates/wooden sleepers 
+
+2 1 . Loading bags 
+
+22. Loading material ( excavated soil) 
+
+23. M.S. sheets 
+
+24. Sleepers 
+
+25. Girder 
+
+
+
+W 
+
+
+
+O 
+
+o 
+
+
+
+00 
+
+
+
+Fig. 7 In-situ Full Size Footing Test 
+
+
+
+IS : 10042 - 1981 
+
+For a shear stress, the corresponding displacement is noted and the 
+shear stress { kfg/cm^ ) — displacement ( mm ) curve is plotted. This test 
+has the advantage that it eliminates the need for a steel former and an un- 
+disturbed soil block. The concrete blocks used for load test, can also be 
+used for this purpose. Precast concrete blocks may also be used after they 
+are seated with mortar on the foundation bed. 
+
+The residual shear stress ( xo ) values obtained from both types of 
+tests (BBT and CBT) are the same. The test set-up for both types of 
+tests and sample results are shown in Fig. 8, 9 and 10. 
+
+5.9 Sample Size — In the case of Boulder-Boulder Test (BBT), the minimum 
+size of the sample shall not be less than 10 times the average size of 
+boulders or 120 x 120 cm, whichever is less. The height of the sample shall, 
+however, be kept at 30 to 45 cm, depending upon the average aggregate 
+size. The minimum size of the concrete block in CBT shall also be 
+120 X 120 cm in plan and the thickness may be kept as 30 cm. 
+
+Note — The size may be increased, depending upon feasibility IS: 2720 (Part 
+XXXIX/Sec 2)-1979». 
+
+5.10 Application of Normal Load — The sample in BBT or the concrete 
+block in CBT shall be subjected to a normal load equal to the overburden 
+pressure or the anticipated normal load. The load on the sample may be 
+placed in the form of 20 kg concrete cubes^ Alternatively, sand bags of 
+known weights may also be used. However, the intensity of the normal 
+load shall not exceed two times the shear strength of the soil, to avoid a 
+bearing capacity type of failure. 
+
+Note — For the sample likely to be sheared under high normal loads for the angle 
+of shearing resistance, if considered, the procedure outlined in IS : 7746-1 975t and 
+IS : 2720 ( Part XXXIX/Sec 2 )-1979* may be followed. 
+
+6. ALLOWABLE SOIL PRESSURE 
+
+6.1 Load Test — The allowable soil pressure from one or two load tests 
+shall be obtained as outhned in 4.3 and 5.5. These load tests shall be used 
+to confirm results from other large number of less expensive tests such as 
+dynamic cone penetration tests ( DCPT ) and in situ shear tests, (BBT or 
+CBT), particularly when the site under investigation is large. 
+
+6.2 Dynamic Cone Penetration Test — The results of dynamic cone penetra- 
+tion test (IS :4968 (Part I)- 1976 J ) shall be used to compute allowable 
+
+♦Methods of test for soils: Part XXXIX Direct shear test for soils containing gravel, 
+Section 2 In situ shear test, 
+
+fCode of practice for in situ shear test on rock, 
+
+JMethod for subsurface sounding for soils: Part I Dynamic method using cone and 
+bcntonite slurry ( first revision ) . 
+
+14 
+
+
+
+
+120 
+
+
+
+280 
+
+
+
+10. Hydraulic jack 20 T capacity 
+
+1 1'. Wooden sleeper support for jack 
+
+12. Steel plates 
+
+13. Wooden sleepers 
+
+
+
+1. Datum bar 
+
+2. Magnetic holder 
+
+3. Dial gauge 
+
+4. Angle iron stiffeners 
+5'. Steel shear box 
+
+6. Boulder gravel sample 
+
+7. Filler material 
+
+8. Steel plates 
+
+9. 20 T capacity proving nng ^^^ ^.^^^^.^^^ ,, ,,„,i^etres. 
+
+FIG. 8 TEST SET-UP SHOWING DETAILS OF BOULDER-BOULDER TEST 
+
+
+
+14. Flexible pipe j k^^ 
+
+15. Steel weights/concrete blocks/sand bag 
+
+16. Pump for the jack 
+
+17. Handle for the jack 
+
+
+
+W 
+
+
+
+S 
+
+
+
+0\ 
+
+
+
+
+1. Datum bar 
+
+2. Magnetic base 
+
+3. Stand for dial gauge 
+
+4. Dial gauge 
+
+5. Concrete sample 
+
+6. Proving ring 
+
+7. Hydraulic jack 20 T capacity 
+
+
+
+H. Wooden sleeper support for jack 
+
+9. Steel plates 
+
+10. Wooden slipper 
+
+1 1. Flexible pipe 
+
+12. Handle for jack 
+
+13. Pump for jack 
+
+14. Steel weights/concrete blocks/sand bags 
+
+
+
+{/) 
+
+
+
+00 
+
+
+
+All dimensions in centimetres. 
+
+Fig. 9 Test-Set-up Showing Details of Concrete Boulder Test 
+
+
+
+18:10042-1981 
+
+
+
+
+10 15 20 25 30 35 iO 45 50 55 
+
+HORIZONTAL DISPLACEMENT, mm 
+
+Fig. 10 Comparison of BBT & CBT Shear Stress 
+
+pressure ( q^, ) from the following equation when the maximum grain size is 
+not exceeding 100 mm. 
+
+
+
+2-54 iDB, \ 
+
+
+
+■(1) 
+
+
+
+•(2) 
+
+
+
+In Equation ( 1 ), the value of allowable deformation 5'a ( cm ) and the 
+footing width 5f (m) shall be assumed in accordance with the type of 
+structure to be constructed. The values of N^ and D shall be taken from 
+Fig. 6. 
+
+6.3 In-Situ Shear Tests — The allowable pressure {q^,) shall be computed 
+from the residual shear stress values ( ^) obtained from in situ shear tests 
+( BBT or CBT ) using the following equation: 
+
+^a = (a ) To I -^ 
+
+where 
+X ~ constant, 6-25 for a deformation of 12 mm and 8 for a defor- 
+mation of 25 mm. The value of the width of the footing {B) 
+shall be assumed depending upon the situation and type of 
+structure. 
+
+7. LABORATORY TEST 
+
+7.1 Soil Sampling — Owing to the nature of the bouldery soil, undisturbed 
+sampling is not possible and hence only disturbed samples form the techni- 
+cal pit shall be collected from different elevations. The quantity of samples 
+
+17 
+
+
+
+IS : 10042 . 1981 
+
+from each depth shall be large enough ( 1 000 kg ) to reflect the actual soil 
+proportions. The material above particle size 80 mm shall be separated 
+and its grading established in the field itself. However, the material below 
+particle size 80 mm shall be collected in suitable containers ( gunny bags ) 
+and properly labelled immediately, as given in Appendix E of IS : 1892- 
+1979*. 
+
+7.2 Grain Size Analysis — The only laboratory test conducted on disturbed 
+samples of bouldery soils is the grain size distribution using appropriate 
+IS sieves to separate boulder/cobbles/gravel (> 4* 75 mm) and matrix 
+( <4*75mm). 
+
+7.2.1 From the known quantity of the samples collected, and the grain 
+size analysis, the overall proportion of the boulder/gravel shall be collected. 
+This shall be used in deciding if the boulder/gravel lies in the matrix of 
+material or vice versa. 
+
+
+
+*Gode of practice for subiurface investigations for roundations {first revision ), 
+
+18 
+
+
+
+IS : 10042 - 1981 
+
+(Continued from page 2 ) 
+
+Members Represen ting 
+
+Director, PWDRI Public Works Department, Government of Uttar 
+
+Pradesh, Lucknow 
+Executive Engineer ( Design ) V Central Public Works Department, New Delhi 
+Executive Engineer ( SMRD ) Public Works Department, Government of Tamil 
+
+Nadu, Madras 
+Executive Engineer ( CD ) ( AUernate ) 
+Shri M. D. Nair Associated Instruments Manufacturers ( India ) 
+
+Private Ltd, New Delhi 
+Prof T. S, Nagaraj ( Alternate) 
+Shri T. K. Natarajan Central Road Research Institute, New Delhi 
+
+Lt-Gol K. M. S. Sahasi Engincer-in-Chief's Branch, New Delhi 
+
+Shri A. K. Ghaturvedi ( Alternate) 
+Shri S. K, Shome Geological Survey of India, Calcutta 
+
+Shri P. N. Mehta ( Alternate ) 
+Shri N. Sivaguru Roads Wing, Ministry of Transport 
+
+Shri P. K. Thomas ( Alternate) 
+Superintending Engineer ( IP ), Irrigation Department, Government of Maharashtra, 
+Nagpur Bombay 
+
+
+
+19 
+
+
+
+INTERNATIONAL SYSTEM OF UNITS (Si UNITS) 
+
+
+
+Base Units 
+
+Quantity 
+
+Length 
+
+Mass 
+
+Time 
+
+Electric current 
+
+Thermodynamic 
+temperature 
+
+Luminous intensity 
+Amount of substance 
+
+
+
+Unit 
+
+
+$ymbo\ 
+
+
+metre 
+
+
+m 
+
+
+kilogram 
+
+
+kg 
+
+
+second 
+
+
+s 
+
+
+ampere 
+
+
+A 
+
+
+kelvin 
+
+
+K 
+
+
+candeia 
+
+
+cd 
+
+
+mole 
+
+
+mol 
+
+
+
+Supplementary Units 
+
+Quantity 
+Plane angle 
+Solid angle 
+
+
+
+Unit 
+
+
+Symbol 
+
+
+radian 
+
+
+rad 
+
+
+steradlan 
+
+
+sr 
+
+
+
+Derived Units 
+
+Quantity Unit 
+
+Force newton 
+
+Energy joule 
+
+Power watt 
+
+Flux weber 
+
+Flux density tesia 
+
+Frequency hertz 
+
+Electric conductance Siemens 
+
+Electromotive force volt 
+
+Pressure, stress pascal 
+
+
+
+Symbol 
+
+
+
+
+Definition 
+
+
+N 
+
+
+
+
+N - 1 kg. mis' 
+
+
+J 
+
+
+
+
+J - 1 N.m 
+
+
+W 
+
+
+
+
+W - 1 J/s 
+
+
+Wb 
+
+
+
+
+Wb - 1 V.s 
+
+
+T 
+
+
+
+
+T - 1 Wb/m» 
+
+
+Hz 
+
+
+
+
+Hz- 1 c/s(s-M 
+
+
+S 
+
+
+
+
+S - 1 A/V 
+
+
+V 
+
+
+
+
+V - 1 W/A 
+
+
+Pa 
+
+
+
+
+Pa - 1 N/m» 
+
+
+

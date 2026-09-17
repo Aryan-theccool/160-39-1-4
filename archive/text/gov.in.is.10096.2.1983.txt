@@ -1,0 +1,867 @@
+**************** 
+
+
+
+
+Disclosure to Promote the Right To Information 
+
+Whereas the Parliament of India has set out to provide a practical regime of right to 
+information for citizens to secure access to information under the control of public authorities, 
+in order to promote transparency and accountability in the working of every public authority, 
+and whereas the attached publication of the Bureau of Indian Standards is of particular interest 
+to the public, particularly disadvantaged communities and those engaged in the pursuit of 
+education and knowledge, the attached public safety standard is made available to promote the 
+timely dissemination of this information in an accurate manner to the public. 
+
+
+
+
+Mazdoor Kisan Shakti Sangathan 
+"The Right to Information, The Right to Live'' 
+
+
+
+IS 10096-2 (1983) : Recommendations for inspection, testing 
+and maintenance or radial gates and rope drum hoists. Part 
+2: Inspection, testing and assembly at the time of erection 
+[WRD 12: Hydraulic Gates and Valves] 
+
+
+
+
+Jawaharlal Nehru 
+'Step Out From the Old to the New" 
+
+
+
+aj^&vi iimmK-^i^^^ T ^bi^ nvF^f 
+
+
+
+::^^s^\n%i9^j^/;s^>^^^^ 
+
+
+
+K^^^iXSVCd^ 
+
+
+
+Satyanarayan Gangaram Pitroda 
+Invent a New India Using Knowledge 
+
+
+
+Bhartrhari — Nitisatakam 
+''Knowledge is such a treasure which cannot be stolen" 
+
+
+
+
+^'^^^r 
+
+
+
+k 
+
+
+
+
+BLANK PAGE 
+
+
+
+^*-^^^ 
+
+
+
+
+
+PROTECTED BY COPYRIGHT 
+
+
+
+IS: 10096 (Part 2)- 1983 
+
+(Reaffirmed 2005) 
+
+Indian Standard 
+
+RECOMMENDATIONS FOR 
+
+INSPECTION, TESTING AND MAINTENANCE 
+
+OF RADIAL GATES AND THEIR HOISTS 
+
+PART 2 INSPECTION, TESTING AND ASSEMBLY 
+AT THE TIME OF ERECTION 
+
+First Reprint OCTOBER 2007 
+
+( Including Amendment No I ) 
+UDC 626 422 23 620 I 
+
+
+
+O Copyright 1984 
+BUREAU OF INDIAN STANDARDS 
+
+MANAK BHAVAN, 9 BAHADUR SHAH ZAFAR MARG 
+NEW DELHI 1 10002 
+
+Gr 3 March 1984 
+
+
+
+IS t 10096 ( Part 2 ) - 1983 
+
+Indian Standard 
+
+RECOMMENDATIONS FOR 
+
+INSPECTION, TESTING AND MAINTENANCE 
+
+OF RADIAL GATES AND THEIR HOISTS 
+
+PART 2 INSPECTION, TESTING AND ASSEMBLY 
+AT THE TIME OF ERECTION 
+
+Hydraulic Gates and Valves Sectional Committee. BDC 56 
+
+Chairman RMpresenting 
+
+Shri Y. ADiNARAYANii Sastri TuQgabhadia Steel Products Limited, TuDgabba- 
+
+dra Dam ( Karaataka ) 
+
+Mtmben 
+
+Shri G S Annigeri ( AUernaU to 
+Shn Y. Adiuarayaoa Sasln ) 
+Chibf Enoinber ( TDD ) Irrigation Works, Government of Punjab, 
+
+Chandigarh 
+Director ( M/E ) ( Alternate ) 
+SHRr R. C Chopra TEXMACO Ltd, CJcutta 
+
+Shri R. Bhattacharya ( Alternate ) 
+Shri H C Duinora Haryana State Minor Irngatioo ( Tubewelli ) 
+
+Corporation Ltd, Chandigarh 
+Shri R C Chauhan ( Alternate ) 
+
+Director Central Water & Power Research Suiion, Puoo 
+
+Shri A. V Gopala Krishna Rao 
+( Alternate ) 
+DtRBCTOR ( Gat£s Design I ) Central Water Commission. New DelhJ 
+
+Shri C. L Verma ( Alternate ) 
+Shri R. N Gufta Nangai Workshops, Nangal Township 
+
+Shri N S Chawla ( Alternate ) 
+Shri K. K Julka Beas Project, Bhakra Beas Maaagemeut Board, 
+
+Nangal Township 
+
+Shri V. P Kaushal ( Alternate ) 
+Manaqino Diaector Tamil Nadu Public Works Engineering 
+
+Corporation Ltd, Madras 
+
+Works Manager ( Aittrnate ) 
+Shri K V S. Murthy Triveni Struct uiaJs Ltd, Nairn 
+
+SuRi M. K. V. Sarma ( Alternate ) 
+
+( Continued on page 2 ) 
+
+
+
+@ Copyright 1984 
+
+BL;RE\L! of INDIAN STANDARDS 
+
+This publication is protected under the Indian Copyright Act ( XIV of 1957 ) and 
+reproduction in whole or m part by any means except with wntien permission of the 
+publisher shall be deemed to be an mfnogemeot of copyright under the said Act. 
+
+
+
+IStl0d96(Pftrt2)-19Sl 
+
+
+
+( Continued from page \ ) 
+
+Members 
+Shri Narendra SfNaH 
+
+
+
+Representing 
+
+
+
+Inrfgacion Department, Go veramcnt of Utter 
+Pradesh, Lucknow 
+
+Shr] Raj Kumar Bharat Heavy Electncals Ltd, Bhopal 
+
+Shrj N, V NaRasjmhaN ( AUernQ$e ) 
+
+
+
+SuRjS K Sadhu 
+
+Shri S, Nag ( Alternate ) 
+
+SUPERINTtNDTNO EnGINEJ^ ( PH ) 
+
+(CDO) 
+Shri R Swajlup 
+
+Shri K C Bahety ( Aiternafe ) 
+Shri M C Tewari 
+Shri N Visv anai han 
+
+Shri O. Raman, 
+Director ( Civ Eogg ) 
+
+
+
+Jessop & Co Ltd, Calcutta 
+
+frngatiOQ & Power Dcparimcot, Government of 
+
+Maharashtra, Nasik 
+Central India Machinery Maaufactunng Co Ltd, 
+
+Bharat pur 
+
+Himachai Pradesh State Electricity Board, Simla 
+National HydrocJectric Power Corporaiion, New 
+
+DeJhi 
+Director General, I SI {Ex-officio Member ) 
+
+
+
+Secretary 
+
+Shri Hemant Kumar 
+Assistant Director ( Civ Engg ), ISI 
+
+Pincl for Inspectjon, Testing and Maintenance of Radial Gates, 
+
+BDC 56 : P8 
+
+
+
+Convener 
+Shri M N Suarma 
+
+Members 
+Shri G S Annigeri 
+
+
+
+IrrTgatioD Works, Goverament of Punjab, 
+Chandigarh 
+
+
+
+Tungabhadra Steel Products Ltd, Tungabhadra 
+Dam ( Karnataka ) 
+Director ( Gates Design I ) Central Water Corarai<ision, New Delhi 
+
+Shri R N Gupta Nacgal Workshops, Nan gal Township 
+
+Shri N S Chawla ( Alternate ) 
+Shri Y R Kalra BSL Project, Bbakrn Beas Management Board, 
+
+Sundernagar ( HP ) 
+Shri R. N Aggarwal ( Alternate ) 
+
+
+
+Shri A K Mukherjee 
+Superintending Engineer 
+
+(Gates) (CDO) 
+Shri R. Swarup 
+
+ShriM C- Tewari 
+
+
+
+Jessop & Co I td Calcutta 
+
+Irrigation and Po^\er Department, Government 
+
+of Maharashtra, Nasik 
+Ccnlral India Machinery Manufacturing Co Ltd, 
+
+Bh iratpur 
+Himdchal Pradesh State EJecincily Board, 
+
+Government of Himachai Pradesh, Simla 
+
+
+
+AMENDMENT NO. 1 NOVEMBER 1992 
+
+TO 
+
+IS 10096(Part2):l983 RECOMMENDATIONS FOR 
+
+INSPECTION, TESTING AND MAINTENANCE OF 
+
+RADUL GATES AND THEIR HOISTS 
+
+PART 2 INSPECTION, TESTING AND ASSEMBLY AT THE 
+TIME OF ERECTION 
+
+[ Cover page, page 1 and page 3 ( tale and clause 1.1 )] — Substitute 
+'Rope Drum' for 'Thejr'. 
+
+
+
+(RVD12) 
+
+
+
+Printed at Simco Printing Press, Delhi 
+
+
+
+AMENDMENT NO. 2 JANUARY 2011 
+
+TO 
+
+IS 10096 (PART 2) : 1983 RECOMMENDATIONS FOR INSPECTION, TESTING 
+
+AND MAINTENANCE OF RADIAL GATES AND ROPE DRUM HOISTS 
+
+PART 2 INSPECTION, TESTING AND ASSEMBLY AT THE 
+TIME OF ERECTION 
+
+(Page 7, clause 2.7.7, line 1) — Substitute 'correct' for 'correct'. 
+
+
+
+(WRD 12) 
+
+
+
+Reprography Unit, BIS, New Delhi, India 
+
+
+
+IS :10096( Parti)- 1983 
+
+Indian Standard 
+
+RECOMMEND MIONS FOR 
+
+INSPECTION, TESTING AND MAINTENANCE 
+
+OF RAbJAL GATES AND THEIR HOISTS 
+
+PART 2 INSPECTIOIM, TESTIiMG AND ASSEMBLY 
+ATTHE TrME OF ERECTIOW 
+
+0, FOREWORD 
+
+0.1 This Indian Standard ( Part 2 ) was adopted by the Indian Standard?; 
+Institution on 28 November 1983, after thi; draft finalized by the Hydraulic 
+Gates and Valves Sectional Committee had been approved by the Owl 
+Engineering Division Council. 
+
+0,2 Almost every river valley project has a reservoir or diversion work for 
+the control of floods or to store water for irrigation and power generation 
+or for both, and a spillway with spillway gates for release of flood N^aters 
+dunng monsoons. Controlled releases of water ate a)so affected by control- 
+led gates provided in conduits in the body of the dam and tunnels. One 
+method of providing such control m spillways and conduits is by radiaj 
+gates. 
+
+03 This standard is being published in three parts. Part 1 deals with ins- 
+pection, (esnng and assembly at the manufacturing stage. Part 2 deaJs 
+with inspection, testing and assembly at the time of erection and Part 3 
+deals With [nspection» testmg and maintenance after erection. 
+
+0.4 For the purpose of deciding whether a particular requirement of this 
+standard is comphed with, the final value, observed or calculated, expres- 
+sing the result of a test or analysis, shall be rounded off in accordance 
+with IS : 2-1960*. The number of significant places retained in the rounded 
+off vaUie should be the same as that of the specified value in this standard. 
+
+
+
+h SCOPE 
+
+LI This standard ( Part 2 ) lays down the recommendations for inspection, 
+testing and assembly of radial gates and their hoisis at the time of erection. 
+
+
+
+♦Rqle§ for relinking off numerical values ( revised). 
+
+
+
+IS t 10096 ( Pirt 2 ) - 1983 
+
+2. INSPECTION 
+
+2.1 In order to detect damage and defects, if any, inspection during 
+erection work shall be carried out at the following slages 
+
+a) General inspection; 
+
+b) Inspection of block outs, 
+
+c) Inspection of pier anchorages, 
+
+d) Inspection of siU beam; 
+
+e) Inspection of wall plates; 
+
+f) Inspection of gate; and 
+
+g) Inspection of complete gate installation, hoists including 
+electrical items, 
+
+2.2 General Inspectioo 
+
+2.2-1 It shall be ascertained that \he gate parts received at erection site 
+have been manufactured according to the design and have necessary 
+markings of shop inspection wherever prescribed. It shall be ensured that 
+all exposed surfaces of embedded parts have been protected by painting, 
+grcasmg, etc, as specified. The surlaces of embedded parts in contact with 
+concrete shall be free from grease, paint, etc, for better bonding with 
+concrete. A coating of cement wash/cement latex may be applied, if 
+necessary. 
+
+2.2-2 Dimensional differences, if any, shall be accounted for before 
+erection and the drawings corrected accordingly. For erection the critical 
+dimensions shall be worked out from the drawings. 
+
+2.2-3 The reference/centre lines of piers and bays, and levels having 
+relations to completed civjj structure shall be established at site so as to 
+facilitate erection at proper locations 
+
+2.2.4 It shall be ensured that the various components of the hoisting 
+arrangement, such as motors, reduction gear assembly, switches, wire 
+ropes, etc, are provided accordmg to manufacturer's instructions and 
+erected according to hoist supplier's approved drawings. 
+
+2.2-5 The permissible tolerances for embedded parts and component? of 
+gate shall be in accordance with Appendix F of IS : 4623-1979*. 
+
+
+
+*Re^mnien<Jatioiis for structural design of radial gates {first revision ). 
+
+
+
+IS : 10096 ( Part 2 ) - 1983 
+
+23 Inspection of Block Outs 
+
+2*3.1 It should be ensured that correct block outs are kept For accommo- 
+dating the embedded parts as manufactured according to the design. It 
+shall also be ensured that the required dowel bars having adequate lengths 
+are left out in the block outs The entire block out is roughened properly 
+for further concreting to give necessary bondage to the second stage 
+concreting. 
+
+2.4 Inspection of Pier Anchorages 
+
+2,4-1 The inspection of pier anchorages shaJJ be earned out at the 
+following stages 
+
+a) Trunnion bracket and support girder, 
+
+b) Load carrying anchors or ties and embedded girder ( if insulated 
+anchors or ties are used ), 
+
+c) Anchor girder or yoke girder, and 
+
+d) Thrust blouk/trunnion tie. 
+
+2.4.2 The pier anchoraf^.e's sh.ill be check e^i with respect to the centre line 
+of the pier and the trunnion tUis ( Jinc p:»rallel to the cust cixis and passmg 
+through the centre hne of trunnion pins ) Control sui\t:y marks shall be 
+given on each pier to check the location ahgnment of pier anchorages. 
+These shall include the hnes parallel to the end at light angle to the 
+dam/barrage axis and a bench mark tor le\ e| 
+
+2.4.3 Centre to centre distance of adjacent piers shall be cheeked by a 
+steeJ tape It will be preferabJe to put a sted girder across the span for 
+taping the distance over the span In ease taping is done across the span 
+in air, the steel tape shall be given a predetei mined pull. 
+
+2.4.4 The trunnion bracket/supports shall be placed on top of a stool 
+and kept in position with the help of struts and their positron shall be 
+checked with respect to centre line of pier and trunnion axis A dummy 
+trunnion assembly may be used to check the Jjsfance between centre Ime 
+of trunnion and sill beam centre The slope of the trunnion assembly shall 
+be checked with the help of an inclination gauge 
+
+2.4.5 The two trunnion assemblies for each gate shall be checked with 
+respect to each other. 
+
+2*4.6 The yoke girder/anchor girder shall be checked for jts alignment 
+and slope in both directions For this checking holes may be picked up 
+from dummy trunnion bearing 
+
+
+
+IS : 10096 ( Part 2 ) - 1983 
+
+2.4.7 Before erection the tie bars/rods shall be checked on a level plat- 
+form for straightniss and defects should be rectified if iinv After erection 
+the slope ami spacing of the tie bars, rods shjll be checked. For checking 
+the spctcing, a spacer gauge shall be used, 
+
+2.4.8 After asscn^bly the entire pier anchorage shall be cliC'.ked The two 
+anc^nra^es for each g.ilc ^\rM also be chctked \Mth r* spect to eaeh oilier 
+
+2.4.9 Before concreting the pjcr after creel ion of pier anchorage, it js 
+nccessar) that a second check of uU the parts js made to ensure against 
+any possible displacement during: v^elding, nveiing, etc For safety of 
+erected anchorages the grout m^/concrcthig operations shall be cominenced 
+after minimum possible interval 
+
+2-4.10 For insulated anchors^ties, the insulation shall be provided and 
+checked before starlmg the groutmg/eoncrcting operations 
+
+2.5 Inspection of Sill Beam 
+
+2.5.1 In case, iTunnion asscnibly is not in po^mon, the dummy trunnion 
+assembly shall be put on adjaecnt piers and its position should be checked. 
+
+2.5.2 Before erection, centre line of sill beam shall be n^arkcd on pier 
+fftces. The centTC Ime of gate shall be u^scnbed on the cr^st shifted by 
+300 mm or so on upstream side. 
+
+2.5.3 The mU beam ccnlTe line shall be checked in relation to the 
+tTuanion centre line 
+
+2.5-4 After erection, the alignment and angular setting of sill beam shall 
+be checked For ai^gular setting of sill beam 3 to 5 frames can be used 
+
+2-5.5 After alitming the sill beam, aU the bolts and nuts shall be put in 
+position The remforccment bars and dowels be weided with anchor bolts 
+so that the complete assembly is firmly held in position and is not distur- 
+bed dunng t^routmc. 
+
+2*5.6 The aggregate used for grouting shall not be more than 20 mm. 
+The concrete m)x shall be hand-compacted b> usm^ rods No mechanical 
+vibrators should be used 
+
+2.6 Inspection of Wall Plates ( Side Seal Seats ) 
+
+2.6-1 The wall plates shall be in true alignment uith respect to centre 
+line of trunnion pin. The dumm}' trunnion assembly vvitli extension rods 
+shall be used for checking the alignment of vvjII plates The vcrucaht> of 
+the wall plates should be checked to ensure that \Nall plates are truly 
+verticaF 
+
+
+
+IS : 10696 ( Part 2 ) * 1983 
+
+2.6.2 After Slotting of wall plates, all the bolts and nuts shall be put in 
+position. The reinforcement bats and dowels in the block out shall be ade- 
+quately welded to the side seats in such a manner that wall plates are not 
+displaced during concreting or otherwise 
+
+2-6-3 The shuttering planks for concreting the wall plates shall be at least 
+1 5 to 3 mm clear from the metal parts of the wall plate. 
+
+2.6.4 Maximum size of aggregate used for concreting the block ouis 
+shall not be more than 20 mm 
+
+2.6.5 All concrete mix used shall be hand-compacted and done in 
+conversant stages as the shuttt^rjng pi ogresses in upward direction. 
+CompaLtion ma> be done by 20 mm rods No mechanical vibrators should 
+be used. 
+
+U Inspection of Gate 
+
+2.7.1 The subassemblies of the gate which are received at site duly ins- 
+pected in workshop should be reinspected at site belorc Jowenng of assem- 
+bly in the bay 
+
+2.7.2 Chicking of a'l the dimensions of the gate shall be done after 
+skeleton ai>bembly ol each gate is made and before final welding/nvetmg 
+is allowed Ihjs dimensional check shall be repeated after Vrclding is done. 
+
+2.7.3 Vjsual mspection of all welds and bolts/rivets shall be made to the 
+extern ot VOO percent. 
+
+2.7.4 The following cnlical dimensions should be checked* 
+
+i\) Centre to centre distance between side guide rollers and shoes, 
+b) Centre to centre distance between the side seals and bases, and 
+cl Distance of bottom s^al/base tVom i^entre line of trunnion pin. 
+
+2.7.5 Ihe seal bolts should be tightened adequatel) and uniformly and 
+the gujd^ wheels be chet^ked tor iiee rotation 
+
+2.7.6 lo check the elTicliveness of the seals, active seal interfeience 
+should be compared with that provided m the design, because on thts 
+asptct Will depend to a great extent the efficiency of scaling arrangement 
+and easy operation of the gate. 
+
+2.7-7 In case of counterweighted gate it shall be ensured that correct 
+weight has been provided. 
+
+
+
+IS I 10096 ( Part 2 ) - 1M3 
+
+2.8 Inspcctton of Complete Gate [nstaliitioii and Hoists Including Electrical 
+Itmu 
+
+2^.1 Visual inspect joD of all gates and hoists shall be carried out after 
+erection. 
+
+2.8,2 The erection tolerance shall be checked for all parts during and 
+after erection 
+
+2,8-3 In case of hoists, the following points which are by no means 
+exhaustive, need be looked into by engineer-in-charge: 
+
+a) Connections like shaft couplings, connections of wire ropes to 
+the drum and gate, connection of hoist components to the base, 
+etc, have been properly made. 
+
+b) Intermediate supports for shafts are provided at the required 
+locations to permit free movement of shaft, 
+
+c) In case of double hoists both the hoists are properly synchro- 
+nized; 
+
+d) The ends of wire ropes are properly looped and sufficient 'U' 
+clamps have been provided, 
+
+e) The rope has been tightly wound over the drum, has no kinks 
+and is properly lubricated, 
+
+f) The ^M^e ropes or chains at both ends of the gate and counter- 
+weight ( if provided ) have equal initial tension; 
+
+g) Electric inslallations have been properly earthed; and 
+h) The limit switches have been properly adjusted. 
+
+2,8.4 It shall be ensured that the gate sill, wall plates and other embed- 
+ded parts are thoroughly cleaned and no foieign material is present. 
+
+2.8-5 The hoist provided for operation of the gate should first be indepen- 
+dently tested \^hen it is not connected to the gate to ensure its satisfactory 
+working. The hoist should be kept running for sufficient period so as to 
+satisfy its independent working Bushmgsand bearings shall be checked 
+for temperature rise to satisfy that there is no undue friction 
+
+2.8-6 Before operation of the gate, the following checks shall be made; 
+
+a) Electric supply and fuses, 
+
+b) Overload relay, if provided, to see that it tnps off the starter; 
+
+c) All bearings and wire ropes for proper greasing; 
+
+d) AU bolts of gear boxes, hoist drums and shafts, couphngs for 
+tightness, and 
+
+e) The oil level in gear reduction unit. 
+
+8 
+
+
+
+IS : 10096 (Part2)< 1983 
+
+3, TESTING 
+
+3-1 The gate shall be tested in a dry condition with hoist duly coonected 
+for its smooth working. The gate should be fully closed and fully opened 
+and it should be ensured that there is no obstruction and no undue efforts 
+required for its operation. If the gate is not going down of its own weight 
+or found tight in some position, reasons should be investigated and 
+remedied instead of forang ihe gate down 
+
+3-2 The testing of gate-seals in dry connition should be done by suitable 
+means, such as by viewing the contact suitacc against a hght source 
+
+3-3 In case of rubber seals, water should be poured over the seals so that 
+there will not be dry friction of the seals. In case of metal to metal 
+contacts, oil or grease is to be used. No grease or lubricant is to be used 
+for rubber seals. 
+
+3-4 There shall be no noise of friction or any other noise, no signs of 
+excessive friction, no jerky performance, no dug in any position, no 
+dangling of the gate, no twist in rubber seals and rubber seals are not 
+overpiessed. 
+
+3.5 The gate is to be first kept resting on sill beam, that is in closed posi- 
+tion. The leakage test can be done m this position by using suitable pump 
+with necessary arrangements of jetting water at 15 times the designed 
+pressure on sealing positions from bottom to top AH joints if any, shall be 
+tested to ensure perfect working of the gate 
+
+3*6 The gate should be fully opened and closed to ensure full opening and 
+satisfactory closing. The time required for 300 mm opening or closing of 
+the gate is to be recorded. 
+
+3-7 The arrangements provided for preventing the travel of the gate or 
+hoist beyond the designed limit are tested and checked for proper working. 
+
+3.8 In case of rope drum hoist, it is ensured that the gate moves down of 
+its own weight. The gates shall also go up and down without uneven puU 
+to the gate. The winding of rope over the drum is uniform and according 
+to the design. 
+
+3.9 In case of hydraulic hoists, it should be ensured that oil pressures arc 
+within the designed limits. 
+
+3.10 The full load current required for movement of the gate on load shall 
+be measured and checked against the designed value. 
+
+3-11 When the rainy season starts, visual inspection of gates shall be made 
+and they shall be lowered and raised several times to make sure that 
+everything is in order, 
+
+
+
+ISt 10a96(Par(2)-1983 
+
+3.12 When the water starts overflowing, lower the gates to hold the water 
+to half the height of gates In this position the seals may be tested and any 
+leakage shall be attended to The gates may also be operated up and down 
+with this water load and operation of hoist shall be observed 
+
+3.13 The gates shall also be tested in a similar way against full water load. 
+
+3.14 During the testing of gate m dry condition ( see 3-1 to 3.9 ) and under 
+water pressure, the following observations shall be made and a record be 
+kept: 
+
+a) Movement of gate and indication of jamming, if any; 
+
+b) Effective stop is achieved by the gate stops wherever provided; 
+
+c) Speed of opening and closing, and the current requirement at 
+specified voltage, 
+
+d) Operation of brakes and limit switches; 
+
+e) Manual operation of gate, if provided; 
+
+f) Efficiency of guide rollers to che^k the side sway of the gate; 
+
+g) Correctness of indication by local position indicators; 
+
+h) Synchronization of remote position indicators, if provided; and 
+j) Vibration of gate, hoist, and civil structure. 
+
+
+
+10 
+
+
+
+BUREAU OF INDIAN STANDARDS 
+
+
+
+Headquarters: 
+
+Manak Bhavan. 9 Bahadur Sh&h Zafar Marg NEW DELHI 110002 
+
+Telephones 23230131, 23233375, 23239^02 Fax 91+011 23239399, 23239382 
+
+E - Mall bis@vsnl com websUe http //www bvs org in 
+
+Central Laboratory. Telephone 
+
+Plot No 20/9, Site IV Sahibabad tndustria! Area. SAHIBABAD 201010 27700 32 
+
+Regional Offices: 
+
+Central Manak Bhavan. 9 Bahadur Shah Zafar Marg, NEW DELHI 110002 2323 76 17 
+
+•Eastern 1/14 CIT SchemQ VII M, VI P Road, Kankurgachi, KOLKATA 700054 2337 86 62 
+
+Northern SCO 335-336, Sector 34-A, CHANDIGARH 160022 260 38 43 
+
+Southorrv C I T Campus. IV Cross Road, CHENNAl 60011 3 2254 19 84 
+
+Western Manakalaya, E9, Ml DC, Behind Marol Telephone Exchange, 2832 92 95 
+Andhen (East), MUMBAI 400093 
+
+Branch Offices: 
+
+'Pushpak'. Nurmohamed Shaikh Marg, Khanpur. AHMEDABAD 380001 560 13 48 
+
+Peenya Industrial Area, l"* Stage, Bangalore-Tumkur Road, BANGALORE 639 49 55 
+
+Comniercial-cunvOffice Complex, Opp Dushera Majdan, E-5 Arera Colony, 242 34 52 
+
+Bittan Market, BHOPAL 46201 8 
+
+62-63, Ganga Nagar, Unit VI, BHUBANESHWAR 751001 240 31 39 
+
+5" Floor, Kovaj Towers. 44 Bala Sundaram Road, COIMBATORE 641018 221 01 41 
+
+SCO 21, Sector 12. Fandabad 121007 229 2175 
+
+Savitri Connplex. 1 16 G T Road, GHA2IABAD 201001 286 1498 
+Plot No A-2a-21 Institutional Area, Sector 62, Goutam Budh Nagar, NOIDA-201307 240 22 06 
+
+53/5 Ward No 29, R G Barua Road, 5th By- lane, Apurba Sinha Path, 254 1 1 37 
+
+GUWAHATI 781003 
+
+5-8'56C, L N Gupta Marg, Nampally Station Road, HYDERABAD 500001 2320 10 84 
+
+E-52, Chitaranjan Marg, C-Scheme, JAIPUR 302001 237 38 79 
+
+1 17/418 B, Sarvodaya Nagar. KANPUfl 208005 221 82 92 
+
+Sethi Bhawan, 2"^ Floor, Behind Leela Cinema, Naval Kishore Road, 221 56 96 
+
+LUCKNOW 226001 
+
+NIT Building, Second Floor, Gokulpat Market. NAGPUR 440010 252 51 71 
+
+Mahabir Bhavan, 1^ Floor, Ropar Road, NAUVGARH 174101 22 14 51 
+
+Paftputia Incbstnal Estato. PATNA 800013 226 28 08 
+
+First Floor, Plot Nos 657-660. Market Yard, Gultkdi, PUNE 411037 426 86 59 
+
+"Sahajanand House" S'^ Floor, Bhaktinagar Circle, 80 Feet Road, 237 82 51 
+
+RAJKOT 360002 
+
+TC No 14/1421, University PO Palayam, THIRUVANANTHAPURAM 695034 232 21 04 
+
+1" Floor, Udyog Bhavan, VUDA, Sinpuram Junction, VISHAKHAPATNAM-03 271 28 33 
+
+22 12 6215 
+2309 6$ 28 
+
+
+
+Sales Office is at 5 Chownnghee Approach, PO Pnncep Street, KOLKATA 700072 
+Sales Office is at Novelty Chambers, Grant Road, MUMBAI 400007 
+
+
+
+Pnnted at Simco Pnnting Press, Delhi 
+
+
+

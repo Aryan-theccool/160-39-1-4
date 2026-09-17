@@ -1,0 +1,751 @@
+**************** 
+
+
+
+^ tOTH: 
+
+
+
+
+Disclosure to Promote the Right To Information 
+
+Whereas the Parliament of India has set out to provide a practical regime of right to 
+information for citizens to secure access to information under the control of public authorities, 
+in order to promote transparency and accountability in the working of every public authority, 
+and whereas the attached publication of the Bureau of Indian Standards is of particular interest 
+to the public, particularly disadvantaged communities and those engaged in the pursuit of 
+education and knowledge, the attached public safety standard is made available to promote the 
+timely dissemination of this information in an accurate manner to the public. 
+
+
+
+Mazdoor Kisan Shakti Sangathan 
+"The Right to Information, The Right to Live" 
+
+
+
+Jawaharlal Nehru 
+"Step Out From the Old to the New" ' 
+
+
+
+IS 10096-1-1 (1983): Recommendations for inspection, 
+testing and maintenance of radial gates and rope drum 
+hoists, Part 1: Inspection, testing and assembly at the 
+manufacturing stage. Section 1: Gates [WRD 12: Hydraulic 
+Gates and Valves] 
+
+
+
+Satyanarayan Gangaram Pitroda 
+Invent a New India Using Knowledge 
+
+
+
+
+Bhartrhari — Nitisatakam 
+"Knowledge is such a treasure which cannot be stolen" 
+
+
+
+
+
+BLANK PAGE 
+
+
+
+
+^*-:gv 
+
+
+
+
+^^35^* 
+
+
+
+PROTECTED BY COPYRIGHT 
+
+
+
+IS : 10096 ( Fart 1/S«c 1 ) - 19i9 
+(RwMmrfltW) 
+
+Indian Standard 
+
+RECOMMENDATIONS FOR 
+
+inspection; testing and maintenance OF 
+
+RADIAL GATES AND THEIR HOISTS 
+
+PART I INSPECTION. TESTING AND ASSEMBLY AT 
+THE MANUFACTURING STAGE 
+
+Section I Gates 
+
+( First Reprint SEPTEMBER 1993 ) 
+
+
+
+UDC 626.422.23:620.1 
+
+
+
+©Copyright 1984 
+
+BUREAU OF INDIAN STANDARD S 
+
+MANAK BHAVAN, 9 BAHADUR SHAH ZAFAR MARG 
+
+NEW DELHI 110002 
+
+Grl February 1984 
+
+
+
+IS : 10096 ( Part 1 Sec 1 ) - I98J 
+
+Indian Standard 
+
+RECOMMENDATIONS FOR 
+
+INSPECTION, TESTING AND MAINTENANCE 01 
+
+RADIAL GATES AND THEIR HOISTS 
+
+PART I INSPECTrON, TESTING AND ASSEMBLY AT 
+THE MANUFACTURING STAGE 
+
+Section I Gates 
+
+Hydraulic Gates and Valves SertionaJ CorniiiiUc, BDC 5(i 
+
+Chairman RfpreicHttn:^ 
+
+Shri Y. Adinah \Y\N4 S^STra Tun!»abhadra Steel PrnJutts Limited, ■ruiiL;.il.li.nl..i 
+
+Dam { Kariiatalta ) 
+
+Members 
+
+Smri G. S. ANNJfiEni ( AUtrnate to 
+Shri Y Adinarayana Sastri ) 
+CnrEF ENr.[NBKH ( TDU ) Irrigation Work'!, OovcrniiKrit of riinj.iii 
+
+Chandigarh 
+DiiiECToH ( M/J'i ] ( Allernate j 
+Shki R. C. Chopra TEXMACO Lid, Calcutia 
+
+Sbri R, Bh^tt^ohahya ( Alltmatt ) 
+Shri H. C. Dhingua Hatayana Stale Minor Irrigarioti f Tuljeuplls , 
+
+Corporaljon Ltd, Chantiijarli 
+Sail! R. C Chachin ( Alternate ) 
+DiBBCTOB Central Water & Powcj Research Stsnon, Pune 
+
+ShkiA. V GoPALA Krishna 
+Rao ( Alternate ) 
+Director ( G\tes Dssicn I ) Central Water Comiiiiiiion. New Dclln 
+
+Shri C L. Verma^ ( Allernale ) 
+Seni R. N. Gupta IS^ng^i Workshops., Nangal Township 
+
+Shri N. S Cuawla ( Alternate ) 
+Shri K. K. JuLKA Beas Project, Bhakr.i lieas M.injgi ment Board. 
+
+Nangal Town^liip 
+Shhi V, P Kaltshai ( Alternate ) 
+Mastaginq DiuECTOii Tamil Nadu Puhlic Works EiigmPt!rini|j Corporation 
+
+Lid, Madras 
+Works Manager ( Alternate } 
+Shhi K V. S Murthy Trivem Structural Ltd, Nairn 
+
+Shri M K. V. S.^rma ( Alternate ) 
+
+( Conliitud on page 2 ) 
+
+
+
+© Copjtnght 19S4 
+
+BUREAU OF INDIAN SIANDARDS 
+
+Thii publication is protected under the Indtaa Ctpyright Ad ( XIV of 1957 ) and 
+
+reproduction in Whtde or in part by any means except with written permimon of the 
+
+publisher shall be deemed to b« an infrtogement of copyright under the taid Act, 
+
+
+
+: 10096 ( Part I/Sec 1 ) - 1983 
+
+( C<i!>Unved /inni finqe \ ) 
+
+Meml/eTs RtfirestnUng 
+
+Sinn iVAiiK>fi>nA Siictjjt Irriitation Depaiimrut, Cuvernment of Uttar 
+
+I'lailesli, Lucknow 
+Shm R vj KT,M:,ii J5)]ar<iE Heavy Kletrricals Ltd, fihopal 
+
+SiiiiiN V N \\i \\i\li\i \s ( AllerKaie ) 
+Siiiii S K S MiiHi Jissop & Co Lid, Calcutta 
+
+Sini] S N VI, ( All/rnale ) 
+SurKiuNTEvinvT I'.iic.irfKijK Irng.Ttion & Po^ver Department, Government of 
+
+( ?H ) ( Cno ) Mili^ra^litra, Nasik 
+
+Sniij R S\i vjiui- Ccjitral Indi.i Madunery Manufacturing Co Ltd, 
+
+Siiiu K C li \uviY { Alicruele) 
+Sjiiti M. C '\,n M'l Himathal J'radpsh Slare Llccincity Board, Simla 
+
+SiiKi N VisvANAijuS Xadtm.-i! Hvdioelictnc Poiver Corporation, 
+
+Now DflUi 
+Sjim G. 11 i.ii w, Diipcior Gcncia], ISl ( E>.-officio Member ) 
+
+
+
+DirnLtor ( Civ Lugg 
+
+
+
+Secrtlary 
+
+Sititi Hi.\T\NT KUMAIl 
+Assistani Director ^ Civ Kngg ), ISI 
+
+
+
+Panel for Inspecuon, Testing and Maintenance of Radial Gates, 
+
+BDC 56 : Pfl 
+
+Co*ivenef 
+SiiRi M. \ ^iiMiMv Irrigation Works, Government of Punjab, 
+
+ChinJignrh 
+
+Members 
+
+Sum G S AsNiu, ]!i Tuiigabhadra Stcfl Product? Ltd, Tungabhadra 
+
+O.im { K^rnstsks } 
+DiHEi Ton ( G\'u.> Dt.sn]N3 I ) Cpiitral Water C<>mmibSicn, New Delhi 
+Slim 11. N OciPi \ N.mgal Workshops, Nangal Township 
+
+Smim X s Ck w'.h ( Alternate ) 
+Smu V R K vi.'.n. BSL Troji-ct, Bhakra Bcas Manageonent Board, 
+
+^llndlrnaga^ (HP.) 
+Sum R N Agcai.^ il ( Alternate ) 
+Sm r '\ K ,\rt MiKuijci; .fes^op Co Ltd, CnicuCta 
+
+SriTiii-S-'j ndim: liN(;iNKEiv Irriijation Di-partment, Government of Maliarashua, 
+
+( G M : s ) { CDO ) ~ lioiiijjav 
+
+Sum R Sw \ui 1" Ccnttat India M.iclunery Manufacturing Co Ltd, 
+
+llh?ratpur 
+Shk7 M. C TrWAHi Himachal Pradesh State Electricity Board, 
+
+Government of Hiniirthil Praditli, Simla 
+
+
+
+AMENDMENT NO. 1 JANUARY 1993 
+
+TO 
+
+IS 10096 ( Part l/Sec 1 ) : 1983 RECOMMENDATIONS 
+
+FOR INSPECTION, TESTING AND MAINTENANCE OF 
+
+RADIAL GATES AND THEIR HOISTS 
+
+PART 1 INSPECTION, TESTING AND ASSEMBLY AT THE 
+MANUFACTURfNG STAGE 
+
+Section 1 Gates 
+
+( Cover page, page 1 and page 3, tute ) — Subslilule 'ROPE DRUM' for 
+'THEIR' 
+
+
+
+( RVD 12 ) 
+
+
+
+Reprography Unit, BIS, New Dcllu, India 
+
+
+
+IS : 10096 { Part 1/Sec 1 ) - 1983 
+
+Indian Standard 
+
+RECOMMENDATIONS FOR 
+
+INSPECTION, TESTING AND MAINTENANCE OF 
+
+RADIAL GATES AND THEIR HOISTS 
+
+PART I INSPECTION. TESTING AND ASSEMBLY AT 
+THE MANUFACTURING STAGE 
+
+Section I Gates 
+
+
+
+0. FOREWORD 
+
+0.1 This Indian Standard ( Part 1/Sec 1 ) was adopted bv the Indian 
+Standards Institution on 25 November 1983, after the draft finalized by 
+the Hydraulic Gates and Valves Sectional Committee had been approved 
+by the Civil Engmeering Division Council. 
+
+0.2 The gates are used not only to pass large floods but also to regulate 
+the reservoir level during minor variations in flow. The gate, in general 
+is a structural steel frame consisting of end vertical girders with properly 
+spaced horizontal girder between them. The spacing depends on the 
+design water pressure and on dimensions of the gate. The frame is held 
+apiece by secure virelding or riveting. 
+
+0.3 Reference to the foUowing Indiarf Standards will be found usefu} ta 
+implementation of this standard: 
+
+IS : 210-1978 Grey iron castings ( third revision ) 
+
+IS : 226-1975 Structural steel ( standard quality ) iffth revision ) 
+
+IS : 306-1968 Tin bronze ingots and castings ( second revision ) 
+
+IS : 318-1981 Leaded tin bronze ingots and castings ( second revision ) 
+
+IS : 823-1964 Code of procedure for manual metal arc welding of 
+mild steel 
+
+IS : 1030-1974 Carbon steel castings for general engineering purposes 
+( second revision ) 
+
+IS : 1570-1961 Schedules for wrought steels for general engineering 
+purposes 
+
+
+
+IS : 10096 { Part 1/Sec 1 ) - 1983 
+
+IS 2004- l<^t78 Carbon sleel forgings for general engineering purposes 
+( frcond revtiwn ) 
+
+18:2062-1980 Structural .steel (fusion welding quality) {second 
+
+reyuion ) 
+
+15:2595-1978 Code of practice for radiographic testing {first 
+revision ) 
+
+IS ■ 3648-1966 Hexagon fit bolts 
+
+IS : 3658-1981 Code of practice for liquid penetrant flaw detection 
+( first revision ) 
+
+IS ■ 3664-1181 Code of practice for ultrasonic pulse echo testing by 
+contact and immersion methods {firsl revision ) 
+
+IS : 3703-1980 Code of practice for magnetic particle flaw detection 
+{firsl reinsion ) 
+
+JS 7307 ( Part I )-1974 Approval tests for welding procedurej, 
+Part 1 Fusion welding of steel 
+
+TS ■ 7'?10( Part i )-{974 Approval testing of welders working to 
+pltlrii" procedures: Part ! Fusion welding of steel 
+
+!?> . 7318 ^ Part 1 j-J i74 Approval tests for welders when welding 
+procedure approval is not required: Part 1 Fusion welding of steel 
+
+0.4 This standard is being published in three parts. Part I deals with 
+jnspoction, testing and assembly at n^anufacturing stage, Part .2 deals 
+with inspection and testing at the time of erection, and Part 3 deals with 
+inspection, testing and maintenance after erection. 
+
+0.4.1 Pan 1 is being published in two sections. Other section of this 
+part will cover the hoists { under preparation ). 
+
+0.5 For the purpose of deciding whether a particular requirement of this 
+standaid is complied with, the final value, observed or calculated, 
+exprcsinu; the resuh of a test, shall be rounded off in accordance 
+with IS : 2-1960*, The number of significant places retained in the 
+rounded off value should be the same as that of the specified value in 
+this standard. 
+
+
+
+1. SCOPE 
+
+l.J This standard ( Part 1/Sec 1 ) lays down the recommendations for 
+inspection, testmir and assembly of radial gates at the manufacturing 
+stage. It does not cover iioisting equipment. 
+
+
+
+•Rules for rounding off numerical values ( rivutd '). 
+
+4 
+
+
+
+IS : 10096 ( Fart 1/Sec 1 ) - 1983 
+
+2. GENERAL 
+
+2.1 Alt materials and components used for the work shall be new and 
+free from defects and subject to the tolerances speciiied under this 
+standard. 
+
+2.2 Complete inspection shall be made at the place of manufacture prior 
+to despatch. 
+
+3. MATERIALS 
+
+3.1 All materials and components supplied by the manufacturer shall 
+conform to the requirements of the latest relevant Indian Standards. In 
+the absence of Indian Standard for any particujar material or compo- 
+nent, other specification mutually agreed to between the purchaser and 
+the supplier may be used. 
+
+3.2 All materials used shall be of tested quality. Original manufac- 
+turer's test certificates for bought out items such as castings, forgings and 
+seals, shall be furnished by the gate manufacturer to the purchaser on 
+demand. 
+
+3.3 Casting* 
+
+3.3.1 All castings shall conform to the relevant Indian Standards. 
+
+3.3.2 Visual examination shall be done to find out the general 
+soundness of the castings and if required, non-destructive tests shall be 
+conducted on the castings. 
+
+3.3.3 Repairs of major defects in castings by welding shall not 
+generally be allowed, but if the strength and machinability of the 
+casting can be ensured, the repairing may be undertaken with the 
+approval of the purchaser. 
+
+3.3.4 Defective castings as permitted under 3.3.3 shall be heat-treated 
+after repairs by welding, where deerned essential. 
+
+3.4 Forgings 
+
+3.4.1 All forgings shall conform to the latest relevant Indian 
+Standards 
+
+3.4.2 All forgings shall be suitably heat-treated according to relevant 
+Indian Standards 
+
+3.4.3 Visual inspection of forgings shall be done and the finished 
+surface shall be smooth and free from defects, If required, non-destruc- 
+tive tests shall be conducted on the forgings. 
+
+
+
+IS : 10096 ( Part 1/Sec 1 ) - 1983 
+
+4. WELDING 
+
+4.1 All weldings shall conform to the relevant Indian Standards and 
+approved electrodes shall be used. 
+
+4.2 Welding procedure for all major welds shall be diaun-upand earned 
+out and if required by the purchaser, test pieces may be made to ensure 
+the soundness of the welding, 
+
+4.3 Only tested welders shall be employed for the welding work. 
+
+4.4 Visual examination shall be carried out of all welded joints io ensuie 
+that welding is free from: 
+
+a) cracks on the surfaces of the joints or parent metals located near 
+the heat affected zones, 
+
+b) undercuts in the parent metals, 
+
+c) non-uniform width of fillet joints, 
+
+d) misalignment and distortion of the welded member, and 
+
+e) irregular reinforcing beads of welds. 
+
+4.4.1 Welds found to be defective shall be subjected to non-destructive 
+tests to ensure soundness of welding. 
+
+4.5 Proper sequence of welding shall be followed for welding of heavy 
+structural parts in order to minimize distortion, 
+
+4.6 Defective welds after testing shall be removed and rewelded. 
+
+4.7 All major stress carrying welded joints shall be subjected to suitable 
+non-destructive testing, as specified by the purchaser. 
+
+4.8 Any item or part may be stress-relieved according to the require- 
+ments and procedure laid down in IS : 2825-1969*. Generally following 
+items require stress-relieving. 
+
+a) Yoke/trunnion girders, anchor girders and trunnion brackets 
+where heavy welding is involved; and 
+
+b) Trunnion hub if part of the arm ( structural portion ) is welded 
+to the casting. 
+
+5. MANUFACTURING TOLERANCES 
+
+5.1 The gates and embedded parts shall be manufactured to such 
+accuracy and tolerances as are required for the safe and efficient opera- 
+tion of the gates. Unless otherwise specified, the tolerances given in 5.2 
+and 5.3 may be used as a general guide. 
+
+
+
+'Code for uofired pressure vessels. 
+
+
+
+IS : 10096 ( Part I/Sec 1 ) - 19B3 
+
+5.2 Embedded Parts 
+
+5.2.1 Deviation of any point on the face of seal seat from 2 m machined 
+straight edge held against it shall not exceed 0'5 mm. 
+
+5.2.2 Deviation from straightness of the wall plate shall not be more 
+than 2 mm in 2 metre length. 
+
+5.2.3 Offsets and gaps at any adjoining joints between seal ^seats, 
+guides, etc, shall not exceed 0'5 mm. 
+
+5.3 Gates 
+
+5.3.1 The gate leaves with stiffeners shall generally be manufactured on 
+
+a jig and fixture. The tolerance on the radius of gate leaf shall be - — - 
+
+1 uuo 
+
+of radius or jr 10 mm whichever is less, 
+
+5.3.2 The distance between the side guide roller/guide shoes on one 
+side of the gate to the corresponding ^uide roller/guide shoes on the othfer 
+side shall not vary from dimension shown in the drawings by more than 
++ 0-00 mm to — 2-00 mw. 
+
+5.3.3 Parallel distance of centre line of both the trunnion bearings 
+from upstream bottom edge of skin plate shall not vary more than 
+± 3-0 mm, 
+
+5.'J.4 The horizontal distance between the centre to centre of trunnions 
+shall not vary from the dimension shown in the drawings by more than 
+± 3'0 inm. 
+
+5.4 Connections -- At all sphceSj the holes shall be match drilled. If 
+fit bolts are provided, holes shall be reamed at assembly. 
+
+6. SHOP ASSEMBLY AND TESTING 
+
+6.1 Gates and Embedded Parts — The anchor girder together with 
+the tie bars of convenient length for testing and yoke girder shall be load- 
+tested equivalent to 1"5 times the design load before erection. The load 
+shall be applied giadually by means of hydraulic jacks and the assembly 
+shall remain under load to enable all the observations required by the 
+test procedure lo be made. 
+
+6.1.1 Assembly of wall plates and sill beams shall be done at shop. 
+
+6.1.2 Gates sliall be assembled complete with guide rollers and trun- 
+nions for proper alignment and inspection. Ail the dimensions specified 
+in 5.2 and 5.3 and other central dimensions shall be checked on 
+assembly. 
+
+
+
+IS 1 10096 ( Part 1/Sec 1 ) - 1983 
+
+6.1.3 Side guide rollers may be shimmed, if necessary, to maintain the 
+required tolerances as specified in 5.3.2. 
+
+6.2 Seals — Seals may be assembled either at shop or durmg erection 
+according to the convenience of the manufacturer. The holes in seals 
+shall be match drilled with seals base and clamps. 
+
+6.3 Ballast — Ballast if required, can be provided either at shop or at 
+site, 
+
+6.4 Marking 
+
+6.4.1 All erection marks shall be hard-punched. 
+
+6.4.2 All the components shall be match-marked before dismantling. 
+
+7. CLEANING AND PAINTING 
+
+7.1 Surface shall be cleaned thorouL^hly, preferably by sand, shot blasting. 
+
+7.2 Painting shall be as specified by the purchaser and the application 
+procedure shall be as recommended by the paint manufacturer 
+
+
+
+BUREAU OF INDIAN STANDARDS 
+
+
+
+H9»dquartan : 
+
+MaiMk Bhavan, 9 Bahodui Shah Zafar Marg. NEW DELH1 110002 
+TalaphonM : 331 01 31 Tslegrams : 
+
+331 13 76 (Common 
+
+Regional Of(ic«t : 
+
+Cmtrat . Manak Bhavan, 9, Bahadur Shah Zafar Marg 
+
+NEW OELHM 10002 
+'Eastam :M4C.I.T. ScheirwVII M, 
+
+V.I.P. Road, Maniktola, CALCUTTA 700054 
+Northorn : SCO 445-446, Sector 35-C, CHANDIGARH 160036 
+Southsm . CJ.T. Campus, IV Cross Road, MADRAS 600113 
+t Wntern : Manakalaya, E9 MIDC. Marol. Andheri (East), 
+BOMBAY 400093 
+Brmnch Offices : 
+
+Pushpak'. Numnohained Shaikh Marg, Khanpui, AHMADABAD 380001 
+t Paeiiya Industrial Area. 1st Stags, Bangalor«-Tumkur Road. 
+
+BANGALORE 660068 
+Gangotri Complex. 5th Floor, Bhadbhada Road, T.T. Nagar, 
+
+BHOPAL 462003 
+Plot No. 82/83, Lewi* Road, BHUBANESHWAR 751002 
+Kalai Kaihir Building. 6/48-A Avanasi Road, COIMBATORE 641037 
+Quality Marking Centre, NH- IV. NIT., FARIDABAD 121001 
+Savitri Complex. 116 G. T. Road, GHAZIABAD 201001 
+53/e Ward No. 29. R.G. Baiua Road, &th By-lane. 
+
+GUWAHATI 781003 
+6-8-56C L. N. Gupta Marg, < Nampally Station Road ) 
+
+HYDERABAD S00001 
+R14 Yudhister Marg, C Scheme, JAIPUR 302005 
+117/418 B Sarvodaya Nagar. KANPUR 208005 
+
+Plot No A-9. Housa No 561/63. Sitidhu Nagar, Kanpur Roao. 
+
+LUCKNOW 226005 
+Pathputia Industrial Estate, PATNA 800013 
+
+District Industries Centre Complex, Bagh-e-Ali Maidan. 
+
+SRINAGAR 190011 
+T. C. No 14/1421, University P.O., Palayam. 
+
+THIRUVANANTHAPURAM 695034 
+
+inspection Offices (With Sale Point) 
+
+Pushpaniali. First Floor. 205-A West High Court Road 
+
+Shankar Nagar Square. NAGPUR 440010 
+Institution of Engineers (India) Building. 1332 Shivaji Nagar. 
+
+PUNE 411005 
+
+
+
+Manaksanstna 
+
+
+to all Offices) 
+
+
+Tetephone 
+
+
+( 331 01 31 
+
+? 331 13 76 
+
+37 86 62 
+
+
+21843 
+
+41 2916 
+
+6 32 92 95 
+
+
+1 26348 
+39 49 56 
+
+
+55 40 21 
+
+
+5 36 27 
+2 67 06 
+
+
+8-71 19 96 
+3 31 77 
+
+
+23 10 83 
+
+
+6 34 71 
+
+
+21 68 76 
+
+
+5 55 07 
+
+
+
+'Sales Office Catoutta is at 5 Chownnghee Approach, 
+P. 0. Prinoep Street, CALCUTTA 
+
+t Sales Office is at Novelty Chambers. Grant Road. BOMBAY 
+
+} Sales Office is at Unity Building, Narasimharaja Square, 
+BANGALORE 
+
+
+
+6 23 05 
+6 21 04 
+
+S2 61 71 
+
+5 24 35 
+
+27 68 00 
+
+89 65 28 
+22 39 71 
+
+
+
+Reprography Unit, BIS, New Delhi, India 
+
+
+

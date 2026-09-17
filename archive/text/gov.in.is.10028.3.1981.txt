@@ -1,0 +1,2349 @@
+**************** 
+
+
+
+
+Disclosure to Promote the Right To Information 
+
+Whereas the Parliament of India has set out to provide a practical regime of right to 
+information for citizens to secure access to information under the control of public authorities, 
+in order to promote transparency and accountability in the working of every public authority, 
+and whereas the attached publication of the Bureau of Indian Standards is of particular interest 
+to the public, particularly disadvantaged communities and those engaged in the pursuit of 
+education and knowledge, the attached public safety standard is made available to promote the 
+timely dissemination of this information in an accurate manner to the public. 
+
+
+
+
+Mazdoor Kisan Shakti Sangathan 
+"The Right to Information, The Right to Live'' 
+
+
+
+IS 10028-3 (1981) : Code of practice for selection, 
+installation and maintenance of transformers. Part 3: 
+Maintenance [ETD 16: Transformers] 
+
+
+
+
+Jawaharlal Nehru 
+'Step Out From the Old to the New" 
+
+
+
+aj^&vi iJii^s:y%K^ isb^^ni^seg 
+
+
+
+:<>5&i| mT'5K^5?::5:^>^i»l 
+
+
+
+K^^^iXSVCd^ 
+
+
+
+Satyanarayan Gangaram Pitroda 
+Invent a New India Using Knowledge 
+
+
+
+Bhartrhari — Nitisatakam 
+''Knowledge is such a treasure which cannot be stolen" 
+
+
+
+
+^'^^^r 
+
+
+
+k 
+
+
+
+
+BLANK PAGE 
+
+
+
+^*-^^^ 
+
+
+
+
+
+PROTECTED BY COPYRIGHT 
+
+
+
+IS 1 100Z8 (Part III) - 1981 
+
+( Reaffirmed 2003 ) 
+
+Indian Standard 
+
+CODE OF PRACTICE FOR 
+
+SELECTION, INSTALLATION AND 
+
+MAINTENANCE OF TRANSFORMERS 
+
+PART III MAINTENANCE 
+
+Foi/rin Reprint APRIL 1997 
+( Inuorporaling Amendment ^o. 1 ) 
+
+
+
+UDC 621-314-21-7 
+
+
+
+© Copyright l«i97 
+
+BUREAU OF INDIAN STANDARDS 
+
+MANAK BHAVAN, 9 BAHAUUR SHAH ZAFAR MARC 
+NBW DELHI ) P0002 
+
+Cr 6 May 1982 
+
+
+
+Indian Standard 
+
+CODE OF PRACTICE FOR 
+
+SELECTION, INSTALLATION AND 
+
+MAINTENANCE OF TRANSFORMERS 
+
+PART fri MAINTENANCE 
+
+Code of PratJticc for Power Installation and Maintenance Sectional 
+Comroittee, ETDC 20 
+
+Chatrman Rtpnuntvii 
+
+Shu K. K. Bow The Galcutu Electric Supply Gorporation Ltd, 
+
+Calcutta 
+
+Mtmbtn 
+
+Shhi a. Chatter;es ( AlimmH to 
+Shn K.K.Bott) 
+
+Shri B. G, Alva KarnAtaka £l<^ctncity Board, Bangalore 
+
+Shri T.N.H. Rao ( Alitrnalt ) 
+
+SiiRi M.J. Akahdxuurthy Chief Elccuical Inspector to the Governincnt of 
+
+Tamil Naduj Madras 
+El-»G71llCAt In»p»ctoii 
+( FlCRMCAl. ) TO THE 
+GOV£RN|IXNT OfTaMII. NaDU 
+
+( Alternate ) 
+
+Shki p. D Baoadb T^ta ConiuUing Engineers, Bombay 
+
+Sunt R. C. Bajpas ( Alurmu ) 
+
+Shki V, S. BaATiA Siemnu India Limited, Bombay 
+
+Shai K. K. Pant ( AUnnait) 
+
+Shri K. V. Gmavbal The Federation of Electric:! trt^ndertakinga of India, 
+
+Bombay 
+Shri K. S. Joshi ( AlttmaU ) 
+C^fmr E^I01^EBK ( Elec )-I Central Public Works Department, Nevv Delhi 
+
+SuavKYoa OP Works ( El£c)~1 
+( AlUmaU ) 
+
+Shri Rane5 Ray Chouohi/ri Engineering Conatruttion Corporatioii limited^ 
+
+Bombay 
+Shri L.E.P, Gftta (Aittrnaie J 
+
+Chikf Electrical Engi^^bsr Railway Boardi Miniitry of RaQwayi 
+
+Depurv Dirsctor Standards 
+( El«c )-I V. RD30 ( AiUrnaU ) 
+
+( ConttnuMd pn pagn 2) 
+
+
+
+^ Copywigkt 1962 
+
+BUREAU OF INDIAN STANDARDS 
+rhift publication U protected under the Indian Copyright Act (XIV of 195?) atid 
+reproduction in whole or in pert by eny meani except with written pemnuion of the 
+^ubUsber thall be deemed to be ao infrinfement of copyritbt onder th» utd Att. 
+
+
+
+IS : 10028 ( Part lU)- 1981 
+
+( Continutd from page I ) 
+
+Mtmbers Rtprumting 
+
+SuRi Dftvs,Tit3ftA Math Lancn & Toubro Ltd, Bombay 
+
+SHftJ T.P.R. SAftHA ( AUematt) 
+
+Shri B.L. Deshpancb EiectricaJ Engineer to the Government of 
+
+MaharaJhtra^ Bomba/ 
+
+Shbi K. V. Dhariiadhikari Jyoii Ltd, Vadodara 
+
+Shai D- J. Haitak Maharajhtra State Electncily Board, Bombay 
+
+MbubeR ( Hyi>ro-£uectric ] Central Etcctricily Authority, New Delhi 
+
+DiBECTOR ( HED )1 ( AUernaU ) 
+
+Shri D. R. Neelappa Reddy NGEF Limited, Bangilorc 
+
+Shri CS-fST. Muathv ( AUermU) 
+
+Shri K.P R. Pillai Fact Engineering and Design Organization, Udyoga- 
+
+man da 1 
+Shri G.R.R. Memon ( AUtrnaU ) 
+
+Lt-Gol B.B. Rajtal Engineer-in -Chief's Branch, Army Headquartcn 
+
+( Mmwtry &f Dtftncc ) 
+Shu S. K. Shahoaai { Alternate) 
+
+Sbri B. M. Sahant The Bombay Electric Supply aacLTransport Under- 
+
+taking, Bombay 
+SttRl S. R. UoRANKAR ( Alunau ) 
+
+Sum I. C. Sa^oer Dtlhi Electric Supply Undertaking, New Delhi 
+
+Shai p. S, Sawhney ( Alternate ] 
+Shrj P* K. Saxena Rural Electrification Corporation Ltd, New Delhi 
+
+Shri G. L. Dua ( Alttrnate ] 
+Shri SavdUl SiNOH Chief Electrical Irupector fo th« Gav^)f^WDt of 
+
+Punjab, Chandigarh 
+
+Shri D, S, Uppal ( AUematt ) 
+
+Shri V. Sathyanathati Tamil Nadu Electricity Board, Madraa 
+
+Sh>i S. Kruhn ar aj ( Alternate ) 
+
+Shri R. Satyabal Tanff Advisory Commmce, General f naurancc Asao 
+
+ciation oi India, Bombay 
+Shri K. K. Mandal ( Alternate ] 
+Dr T, C. SiDrtAH ChicT Elcctncal Inspector to the Government of 
+
+Kerala, Tiivandrum 
+
+Shri K. S. SuBR<tHUANiYAu Bhar»t Heavy Electncals Ltd, Secundcrabad 
+
+Shri G. P. Pahwa ( Atternatt ) 
+
+Shri G- N.Thadani Engineers India Limited, New Delhi 
+
+Shri S. G. Goehale ( Attemal$) 
+
+Shri S. Vaidyanatham Kerala State ElcclncUy Board, Tnvandrum 
+
+Shri R. Varadarajan ( Alttrnate) 
+SuRl S. p. Sachdrv, Director GenetaJ, ISJ ( Ejco^tic Member ) 
+
+Director ( Etcc tech J 
+
+Secretary 
+
+SuRi K. GANcaa 
+
+A»i slant Director ( E(ec tech ), TST 
+
+( Cuntmutd m pagn 72.) 
+
+
+
+IS: 10018 (Part III) -1981 
+
+( OtUiitmiftm pmgi Z ) 
+
+Panel for Selection, rnstallatjon and Maintenance of 
+Transformers, ETDC 20/P24 
+
+QMB<Mf Repr^wttwg 
+
+Shri C. R« Vamib« Grompton Grcavet Limited, Bombay 
+
+Mtmbert 
+
+Shki S. V. MAfftKiKAB ( AlUrJutte to 
+Shri C. R. Vari<r ) 
+
+Smi M. M. Bandbs Maharashtra Stale Electriciiy Board, Bombay 
+
+GHnr BHOiNsaa ( Euo )-I Central Public Worki Department, New Dcltu 
+
+Shai a. Mazvmdaji ( AlumvU ) 
+
+Shki T. K, Orosk Calcutta Electric Supply Corporation Ltd, Catcut t» 
+
+SHtttG. Chatterju ( Aiunuif ] 
+Smi M. M. JoAo VoJtas Limited, Bombay 
+
+Shjli N. R. Santhanah Tata Coninliing Engineers Bombay 
+
+Stnu M, N. Bxvj^T ( Atttrwlt ) 
+
+Shri P. S. SAWBMav Delhi Electric Supply Undertaking, New Delhi 
+
+Smi P. D. Shaama ( AlttFftati) 
+
+StmoK Mamaqer Dkv (E) Bhatat Heavy KlectiicaU Limited, Secunderabad 
+
+Shri D. P. Gupta ( Allmatt ] 
+
+Shri T. Oukuwar NCEF Limited* Bangalore 
+
+SuKi K. V. Jayadrv ( AliemiU ) 
+
+Shri L N. Tuvkral Haryana State Electricity Board, Chandigarh 
+
+Shri J. L. A«ora ( Aitefnau ) 
+
+
+
+22 
+
+
+
+IS:tMU(Ptrtni}-198i 
+
+Indian Standard 
+
+CODE OF PRACTICE FOR 
+
+SELECTION, INSTALLATION AND 
+
+MAINTENACE OF TRANSFORMERS 
+
+PART III MAINTENANCE 
+
+0. FOREWORD 
+
+0.1 This Indian Standard (Part I[I) was adopted by the Indian Standards 
+Institution on 25 November 1981, after the draft flnairzed by the Code of 
+Practice for Power Instillation and Maintenance Sectional Committee had 
+been approved by the ElcctrotechnicaL Division Council. 
+
+0.2 The code of practice on installation and maintenance of transformers 
+was originally published in 1961 as IS : 1886, intended as a guide to 
+installation engineers, contractors and others eagaged lu the Installation 
+and maintenance of power and distribution transformers. It was made up 
+to date subsequently in 1967, with additional details regarding internal 
+inspection of transformers. Apart from the information concerning 
+transformers themselves, the code covered ancillj.ry work, such as ventila- 
+tion, cabling and isolation of transformers. 
+
+0,3 The present version of the code is being brought about to include 
+additional details on criteria for selection of transformers, transportation 
+to the point ofinstallation, taking into view also the latest thinking on the 
+methods of supervision and maintenance of insulating oils in service. 
+Specific details on maintenance aspects of special purpose tra'nsformers are 
+intended to be added at a later date. 
+
+0.4 This standard closely follows the earlier version thougn currently being 
+presented in three pans mamly in order to identify information and to 
+consolidate them in functionally coherent sections. This standard is hence 
+brought out in three parts, viz; 
+
+Part I Selection {under preparation) 
+
+Part II Installation 
+
+Part III Mainienance 
+
+These parts shall be read in conjunction with each other. This standard 
+(Part III) partly supersedes the provisions of IS : 1886-1967* which will 
+be withdrawn when all the parts are made available. 
+
+*Gode of pracuce for lostAliacIoa and maiatenance of traniformeii {first rwvtiim). 
+
+
+
+IS: 10028 (Part 11!) -1981 
+
+0.5 In view oi' the consideration of this code required to be in conformity 
+with the prevailing statutory regulations in the country, reference to ihe 
+relevant provisions of the Indian Electricity Rules, 1956 has been made at 
+the appropriate places. 
+
+0.6 In the preparation of this standard, considerable assistance has been 
+derived from the following; 
+
+IS ; 6600-1972 Guide for loading of ojl-immersed transformers 
+
+IS ; 8478-1977 Application guide for onload tap-changers 
+
+IS : 4146-1967 A.pp|jc;ition guide for voltage transformers 
+
+IS : 4201-1967 ApplicatJon guide for current transformers 
+
+Specification for Power and Distribution Transformers, Section K, 
+Erection, Maintenance and Commissioning Manual, issued by the 
+Central Board of Irrigation and Power. 
+
+0,7 For the purpose of deciding whether a particular requirement of this 
+standard is complied with, the ftaal value, observed or calculated, express- 
+ing the result of a test or analysis, shall be rounded off in accordance with 
+IS : 2-1960*, The number of significant places retained in the rounded off 
+value should be th« same as that of the specified value m this standard. 
+
+
+
+1. SCOPE 
+
+1.1 This standard (Part III) covers guidance on maintenance of distribu- 
+tion and power transformers covered by 15:1180-19641 and IS : 2026 
+( Parts I to IV )-1977{ respectively. 
+
+1.2 Special purpose transformers, such as gas cooled, synthetic, liquid 
+insulated, dry type and mining transformers and instrument transformers 
+are excluded from the scope of this code add in all such cases, the manu- 
+facturer's instructions shall be followed. 
+
+r TERMINOLOGY 
+
+2.1 For the purpose of this code, the definitions given in IS : 1180-19641 
+and IS : 2026 ( Part I M977:, shall apply. 
+
+•Rulcafor rounding off numerical values ( nviseti) 
+
+i' Specification for outdoor type three-phase distribution tranaformcn up to and inclu- 
+ding 100 kVA llkV (r«tiW). 
+
+JSpccification for power transformers ' 
+Fart r General (Jirsi rtvtsicu ). 
+Part II Temper ature-nse (firsi rttuiwi )» 
+Part 111 Insulation level and dielectric tests f fim rn /"won > 
+Part IV Terminal marking, tappings and connecters ( T^rif miiion ). 
+
+
+
+IS: 10028 (Part III)' 1981 
+
+3. GENERAL INFORMATION 
+
+3.1 As compared with most electric apparatus, transformers require relati- 
+vely little attention The extent of the inspection and maintenance required 
+wr![ be governed by the ^izc, importance of service continuity, the location 
+on the system, and operating conditions, such as ambient temperature, 
+unusually dirty atmosphere, heavy fogs and water supply { m the case of 
+water-cooled units ). The supply authority shall be consulted if heavy loads 
+on single phase or unbaliinced Jojds are to be connected. 
+
+3.2 Distribution transformers and small power transformers ordinarily 
+require and receive less attention than large transformers which represent a 
+much greater investment However, small transformers sometimes supply 
+power to industna! loads where convinuity of service \% of the utmost 
+importance. In these cases, a greater degree of attention is justified, 
+
+3.3 The suggestions in the following pages should prove helpful to 
+operators. Full information on installation and operation are contained 
+m the instructions sent with each transformer and are referred to on the 
+
+transformer nameplate. 
+
+3.4 Generally the causes of breakdown of transformers may be classified 
+as follows: 
+
+a) Faulty design or construction, 
+
+b) Incorrect installation or use, 
+
+c) Overload and peculiarity of loading conditions, 
+
+d) Neglect, 
+
+e) Wear and tear and other deterioration, 
+
+f) Accidents, and 
+
+g) Failure of auxiliary equipment. 
+
+3.4.1 A rigid system of inspection and preventive maintenance will ensure 
+long life, trouble-free service and low maintenance cost. Maintenance 
+shall consist of regular inspection, testing and reconditioning, where 
+necessary. The amount of attention and maintenance vary with the 
+service conditions and load cycle of the transformers. 
+
+3.4.2 Records shall be kept of each transformer giving details of all 
+inspections and testing made and of unusual occurrences, 
+
+3.4.3 The principal object of maintenance is to maintain the insulation 
+m good condition. Moisture, dirt and excessive heat in contact with 
+oxygen, are the main causes of insulation deterioration and avoidance of 
+these will, in general, keep the insulation In good condition. The 
+limiting factor is the ageing of the insulation and decline in the quality of 
+the insulation during the ageing process due to chemical and physical 
+effects. The decay of the msulation follows the chemical reaction rate, and 
+
+
+
+15^0028 (Part III)* 1981 
+
+ia case of oil-immersed transfonners, if the sustained operating temperature 
+of the iasulatiou exceeds the normal operatmft temperature ^f ^S*C^ 
+tliere will be a shortening of the life of the transformer. 
+
+4, FACTOHS AFFECTING THE UFE OF A TRANSFORMER 
+
+4.1 Effect of Moistuf c — Transformer oil readily absorbs moisture from 
+the air. The effect of water jn solution in the oil is to decrease the die- 
+electric strength of the oil as well as of the insulating paper which absorbs 
+and stores the moisture due to higher affinity of water to paper over oil. 
+All possible preventive steps should, therefore, be taken to guard against 
+moisture penetration to the inside of the transformers. This wid include 
+blocking of all openings for free access of air in storage and frequent 
+reactivation of breathers in service. 
+
+4J Effect of OKj^en — Oxygen may bo present inside the transformer due 
+to air remain mg in oil, air pockets trapped in the windings, etc. The 
+oxygen reacts on the cellulose of the insulation and the decomposition 
+products of the cellulose lead to the formation of organic acids soluble in 
+oil and sludge which blocks the free circulation of the oil: The adverse 
+'effect of oxygen, which may be aggravated by catalytic action between hot 
+oil and bare copper, increase the operating temperature. 
+
+O Effect of Solid Impurities — The dielectric strength of oil is diminished 
+appreciably by minute quantities of sohd impurities present in ike oil New 
+transformers may contain particles of insulating materials and other solid 
+^'mpurities. It is, therefore, a good practice to filter the oil after it has been 
+in service for a short timcj especially for the units of higher voltage class. 
+
+4.4 Effect of Varnishes— Some varnishes particularly of the oxidizing type, 
+enter readily in reaction wuK transformer oil and precipitate sludge on the 
+windings. Synthetic varnishes having acid inhibitmg properties generally 
+delay the natural formation of acid and sludge in the oil. This should be 
+borne in mind by the maintenance engineer when rewinding and replacing 
+the coils during repairs to transformers. 
+
+4.5 Effect of Slackness of Windings ~ Slackness of windmgs may cause a 
+iiilu re due to repeated movement of coils which may wear the conductor 
+insulation at some places and lead to an inter- turn failure. The coiTs may 
+also get displaced under load conditions or momentary short circuit which 
+may cause electric and magnetic unbalance and produce even greater 
+displacement. It is, therefore, a good practice to lift the core and windings 
+of a transformer and take up any slackness which may have developed by 
+tightening tfie tie-rods or pressure screws where provided for this purpose 
+at the hrst inspection. In all cases the instructions given by the manu- 
+facturers should be followed closely. However, the maintenance schedules 
+given in Tables 1 and 2 are recommended to serve as a general guidance, 
+Additional maintenance attention should be giveti where transformers are 
+working under abnormal conditions. 
+
+
+
+IS: 10038 (Parfm)*l9ai 
+
+5. MAINTENANCE PROCEDURE 
+
+5.1 Safety Precaatloiis — Arrangemeats shall be made to carry out the 
+maintenance of traniformers in safety. Before starting any mainteaaoce 
+work the transfonners shall be isolated from the supply and the terminals 
+earthed. Oil level shall always be borne in mind when undoing nats and 
+bolts and before unsealing the tank. No fire shall be kept near the trBOS- 
+formcr while maintenance work is going on. 
+
+5.2 on 
+
+5.2.1 Transformer oil is subject to deterioration or contamination in 
+storage and in service. Accordingly, a periodic treatment to maintain it in 
+fit condition ii required, and eventually, it may have to be replaced by 
+new oil. The causes of oil deterioration and recommendations for various 
+tests arc comprehensively covered in IS : IS66-197S*^ Reference shall be 
+made to the same regardmg the maintenance of quality of oil in service. 
+The few short tips given below may serve as ready reference. 
+
+5.2.2 The oil level should be checked at frequent intervals and any 
+excessive leakage of oil investigated. There may be slight loss of oil by 
+evaporation, this need cause no concern if the tank is topped up at regular 
+intervals. 
+
+5.2.3 All teaks should be repaired as quickly as possible so as to avoid 
+possible trouble caused by low oil level. 
+
+5.2.4 Oil for toppling up should comply with IS : 33S-1972t and should 
+preferably be from the same source as the original oil because the oil refined 
+from different crudes may not be completely miscible and may separate into 
+layers. Furthermore, there may be a greater tendency to form acidity or 
+sludge in a mixture than in an oil from a single source of supply. Used 
+oil shall not be mixed. New oil may be added as make up only, not 
+exceeding about 10 percent. It is desirable not to mix oil taken from a 
+transformer with that from switchgcar equipment 
+
+5.2.5 Samples of the oil should be taken at regular intervals and tested. 
+
+5.2.6 It may be mentioned that the dielectric strength does not give a 
+true indication of the deteriorated condition of the oil. Even an oil which 
+is highly deteriorated may give a high dielectric strength, if dry. Normal 
+method of oil puriiication only maitain the dielectric strength » but do not 
+give indication of the deteriorated condition of the oil. It is» therefore, 
+inadvisable^ to rely solely on the dielectric strength of the oil by periodic 
+tests. In addition to chemical tests other tests as given in IS : 1866'1978* 
+should also be carried out. 
+
+•Code of practice for jnaintcnADcc and supervision or iniulating oil in service (jlrjt 
+nntuH ) . 
+
+tSpectfication for new iiuutadng oiU for traiuTormcn uid iwitchgear ( mmd fmtitm ). 
+
+
+
+IS:10028(Partm)-198l 
+
+5J.7 It is recommended that the oil be kept under observation for 
+acidity. If the acidity js increasing rapidly, or exceeds limits the cover should 
+be removed to ascertain the condition of the interior of the tank and of 
+the core and windings. Oil should be treated or discarded, if sludge or 
+corrosion is evident. Advice should be obtained from the manufacturer. 
+
+5.2.8 It may be noted that reconditioning by centrifugal separation of 
+filtration does not remove the acidity from the oil but will remove sludge, 
+dust, dirt, etc, and will tend to retard the process of deterioration. 
+
+5.2.9 Filters with fullers earth will help to reduce acidity m the oils and 
+in addition improve the resistivity. 
+
+5.3 Rollen 
+
+5.3.1 After a transformer has been in service for a long period, rollers 
+should be e^iamined carefully. They should be greased. 
+
+5.4 TTusfoviiieT Body 
+
+5.4.1 The transformer tank and other parts should be inspected periodi- 
+cally for any rust or leak. Rusted portions, if any, should be cleaned 
+thoroughly and rcpamtcd with proper points. Transformer should be 
+completely painted at proper intervals* If any leak is found, it should bo 
+investigated. If it is due to defective welding, the same should be rectified 
+aAer consulting the manufacturers. Leakmg joints can be rectified by 
+tightening the bolts to the correct pressure or by replacing the gaskets. 
+
+5.4.J Internal Inspection 
+
+5.4.2.0 The core and windings should be lifted from the tank, only 
+if necessary* in suitable conditions. . The surrounding atmosphere should 
+not bo humid and should be free from dust, dirt, etc. Suitable lifting 
+device depending on the weight of the core and coil should be arranged. 
+Before disturbing anything, the insulation resistance of the transformer 
+should be measured. 
+
+5.4.2.1 Opening the Transformer — The tank contains oil with oil 
+vapour and therefore care should be taken to prevent a fire. Naked lights 
+and flames should be kept well away while the tank is open. If an inspection 
+lamp is required, only a protected electric lamp, preferably an extra low 
+voltage lamp should be used. The lamp should be kept off when not in 
+use. 
+
+Before opening the tank cover, it should be properly cleaned removing 
+any dust, moisture, etc, from the top. The persons opening the tank cover 
+should not have anything in their breast pocket and should not wear a 
+watch or ring. The spanner should be clean of all metal fillings and should 
+be held by a cotton strap or string tied securely round the waist or wrist of 
+
+
+
+IS : 10028 ( Part UI)- 1981 
+
+the person opening the tank cover. Cast iron spanners should not be used 
+as they may break and fM inside the tank. All nuts and bolts, etc, should 
+be removed from top of the cover before removing it 
+
+SAX2 Removing the Cover ^ Tht method of removing the cover 
+depends on the construction of the transformer. If the core and windings 
+are separate from the cover and if there are bushings mounted on top, then 
+first bushings should be dismounted and stored carefully and then the 
+cover should be carefully removed. If however, the core and windings are 
+suspended from the tank cover, substantial hftmg lugs, usually in the form 
+of eye bolts, are provided on the cover. While lifting the cores from the 
+eye-bolts care should be taken that the core is removed vertically. It 
+should also be ensured that spanners or other tools used in connection 
+with the work are not dropped into or left inside the tank. 
+
+5.5 Con and Winding 
+
+5.5.1 Lifting the Core and Coils — The core and coils, if not suspended 
+from the cover, arc held in the tank by a bolt or other suitable fixing 
+devices at each end near the top. These should first be removed If there 
+are bushings provided on the tank walls, these should also be removed by 
+undoing the connection Mechanical connection to the tap changing 
+switch handle, if provided, should be removed. 
+
+5.5.1.1 The core and cojIs should then bebfted vertically by shnging 
+It from the liftmg lugs provided on the core, making sure that the sling 
+does not foul against bushing connections, tapping switch, etc, as it p IK 
+tight. 
+
+5.5*1.2 After allowing the core and coils to drain into the tank, fcr 
+some time» they should be lowered preferably on beams placed in a metal 
+tray filled with saw dust or sand. 
+
+5.5.2 Inspection ^ After removing the core and coils from the tank, the 
+following should be carefully checked making sure that nothing is disturbed 
+unnecessarily and that the leads are not pulled out of their places unless they 
+are unsatisfactory: 
+
+a) AU bolts and nuts should bo adequately tight. If they are too 
+tight clamps, etc, may bend. 
+
+b) The coiis should be clean and free from sludge. Slight traces ot 
+sludges should be cleaned by transformer oil. But if there are 
+heavy deposits, it is likely that the ducts are blocked. In such 
+a case the matter should be referred to the manufacturer. 
+
+c) The windings should be firmly clamped without any movements. 
+There should be no loose spacers or end blocks. If loose wmdmgs 
+or spacers are noticed, the vertical tie-bars which put pressure on 
+
+
+
+IS : 10028 ( Part m } - 1981 
+
+the coil stacks should be adjusted. Special coil adjustment bolts 
+
+if provided should also be tightened properly. 
+d) Proper operation of tap changing switch may also be checked, 
+c) All connections should be tight and clear 
+
+f ) If the insulation resistance tests done before untanking g^ve low 
+value, it should be repeated. If now the test gives satisfactory 
+value, the low value is attributed to some otber cause. However, 
+jf the test stiJI gjves Jow value, the manufacturers should be 
+informed, 
+
+g) If there is sludge deposition at the bottom of the taak» it should 
+be removed while filtering the oil. 
+
+5.5.3 It is recommended that the core and wiadiog be cemoved from the 
+tank for visual inspection as per time schedule given io the inspection table. 
+The windings should be examined to ensure that no sludge has been deposi- 
+ted bloclcirig the oil ducts. Any loose nuts and bolts should be tightened, 
+
+5.5.4 Before liftjog the core and wtndmg from the Uhk^ it is usually 
+necessary to disconnect the windmgs from the bushings are cable boxes 
+inside the tank to disconnect the ofT-circuit tap switch handle or leads of 
+the on-load tap changer and to remove any earthmg strips between the core 
+clamps and the tank. 
+
+5.5.5 The core and windings shall be removed with great care. It should 
+be placed under cover and m a dry place. 
+
+5.6 Bushings 
+
+S.6 1 Clean t|ie bushing porcelains and examine them for cracks and 
+chips. Vety slight chips may be ignored but any serious damage will 
+require a new porcelain which must be obtaind from the manufacturer. 
+It is recommeaded to have a spare m stock. 
+
+5.6.1.1 In some cases the porcelain only may be changed while in 
+other cases the conducting rod is cemented into the porcelain and the 
+complete bushing requires to be changed. 
+
+5.6.1.2 If the bushing is below oil level, the oil should be lowered 
+until it is below the bushmg hole. 
+
+5.6.t.3 If only the porcelain is supplied it may not be necessary to 
+undo thti mternal bushing connection, for, in some cases the bushing stems 
+are joined by an msuJated bar to prevent them from iurnieig when the nuts 
+are undone. All the nuts at the top of the bushmg should "be removed and 
+the old porcelain lifted straight up over the central stem which remajns m 
+place. Slide the new porcelain down over the stem and replace the nuts. 
+Too much strain on the porcelain should not be appJied when Ughtening 
+the connections. Change on V one porcelain at a time, replacing the nuts 
+
+10 
+
+
+
+IS:10028(PaitIH)-19M 
+
+at tbe top of tbe stem befor removing those on the next bushing. If the 
+insulated bar between the bushing stems is not provided, the internal 
+connections should be undone and the whole bushing removed berore the 
+porcelain is changed. 
+
+5.6.1.4 When a complete bushing is supplied the internal connection 
+to the bushing should be undone. If the replacement bushing has a socket 
+at the bottom end, the old bushing should be undamped and withdrawn 
+from the tanlc^ the internal lead being flexible and long enough to allow 
+this. This lead may now be unplugged from the old bushing and plugged 
+into the new one, which is then lowered into the hole in the tank and rec- 
+lamped firmly but not too tightly. 
+
+5.7 Cable Boxes 
+
+5,7,1 The seating arrangements for filling holes should be checked each 
+year. When screwed plugs are seated with a bituminous cflmpound, the 
+compound should be examined for cracks. If the compound has cracked it 
+should be replaced as the cracks may lead to an accumulation of water 
+around the plug, Gasketed joints should be examined and tightened 
+whenever required, 
+
+5.8 ExtBnial Connections 
+
+5.8.1 All connocttons should be tight. If they appear blackened or 
+corroded, undo the connection and clean down to bright metal ^ith emery 
+paper. Remake the connection and give it a heavy coating of grease. It 
+is particularly important that heavy-current carrying connections should be 
+properly maintamed. If the metal has the characteristic bluish tinge 
+which indicates that it has been hot, then in most cases the connection 
+shall not be considered satisfactory. Either it has become loose op dirty, 
+or the conductor is not suitable for carrying the current. 
+
+5.8*2 The earth connections shall be properly maintained. A small 
+copper loop to bridge che top cover of the transformer and the tank may 
+also be provided to avoid earthfault-current passing through the fastening 
+bolts when there is a lightning surge, high-voltage surge or failure of 
+bushmgs. 
+
+5.9 Conservator and Magnetic Oil Gauge 
+
+5.9.1 Conservators are so arranged that the lower part acts as a sump ia 
+which any impurities entering the conservator will collect. A valve/plug is 
+fitted at the lowest pomt of the conservator for draining and sampling. The 
+inside of the conservator should be cleaned or flushed with oil every two to 
+three years. A removable end is generally provided for this purpose. 
+
+5.9.2 The oil level indicator should be kept clean. Generally the oil 
+level is visible through a transparent material. In case of breakage 
+
+11 
+
+
+
+IS : 10028 (Part III) ^1981 
+
+immediate replaccmeat is esscDtial. When conservator is stripped For 
+cleaning, the mechanism of the oil gauge should be inspected aod cleaned. 
+
+5.10 Breather 
+
+5.10.0 There are generally two types of breathers used on a transformer: 
+
+a) plain breather, and 
+
+b) silicagel breather. 
+
+5.10-1 The end of the plain breather should be kept clean and the 
+ventilation holes free of dust. If an oil seal has been provided, the oil 
+should be wiped out and replaced to the correct level. 
+
+5.10.J Silicagel dehydrating breathers are fitted with a sight glass so that 
+the colour of the crystals may be seen. The colour changes from blue to 
+pmk as the crystals absorb moisture. When the crystals get saturated with 
+moisture they become predominantly pmk and should therefore be reacti- 
+vated. The body of the breather should be removed by undoing the nuts. 
+If the crystals have been kept in an inner container, the container should 
+be removed, but if they are noi^ the crystals should be removed into a 
+shallow tray. The crystals should be backed at a temperature of about 
+200*C until the whole mass is at this temperature and the blue colour has 
+been restored. Clean the breather and replace the dry crystals and rentw 
+the oil m the sealing cup at the bottom. 
+
+5.11 Buchholt? Rela> 
+
+5.11.1 Routine operatioa and mechanical inspection tests should be 
+carried out at one and two yearly intervals respectively, 
+
+5.11.2 During operation if gas is found to be collecting and giving alarm, 
+the gas should be tested and analysed to find out the nature of fault. 
+Sometimes, it may he noticed that the gas collecting is only air. The 
+reasons for this may be that the oil is releasing any absorbed air due to 
+change in temperature or due to leakage on the suction side of the pump. 
+The absorbed air is released m initial stages only when no vacuum is 
+applied during filling of oil The internal faults can be identified to a great 
+extent by a chemical analysis of gas. 
+
+5.11.3 Buchholtz niay also give alarm/trip due to the oil level falling 
+below the Buchholtz level. 
+
+5.12 Explosion Vent 
+
+5.12.1 The diaphragm, whjch js Jitted at the exposed end of the vent 
+should be mspectcd at frequent intervals and replaced* if damaged. Fadure 
+to replace the diaphtittgm quickly may allow the ingress of moisture Vvhich 
+wi/l contaminate the oil. JUhc diaphragm has brokefi because of a fault 
+
+12 
+
+
+
+IS : 10028 ( Part m)- 1981 
+
+in the transformer, an inspection shall be carried out to determine the 
+nature and cause oF the fault. 
+
+5.13 Gaskets 
+
+5.13.1 Gaskets sometimes shrink during service. It is, therefore, neces- 
+sary to check the tightness of all bolts fastening gasketed joints. The bolts 
+should be tightened evenly round the joints to avoid uneven pressure. 
+Leaking gaskets should be replaced as soon as the circumstances permit. 
+
+5.14 Small Pipe Work 
+
+5.14.1 The pipe work should be inspected at least once a year. Leaks 
+may be due to slack unions, which should te tightened or to badly seated 
+joints caused by a misalignment. In the latter case, the pipes should be 
+aligned and joints remade. 
+
+5.15 Temperature Indicators 
+
+5J5,l \i each yearly maintenance mspcction, the level of oil in the 
+packets holdmg thermometer bulbs should be checked and the oil replcai- 
+shed, if required. The capillary tubmg should be fastened down again if 
+it has become loose. Dial glasses should be kept clear and if broken, 
+replaced as soon as possible to prevent damage to the instrument. Tempe- 
+rature indicators should be calibrated with standard thermometer immersed 
+in hot oil bath if found to be reading incorrectly. 
+
+5,lti Coolers aDd Cooling Fans 
+
+5.16.1 There is a variety of coolers. For radiator type coolers, mainte- 
+na.noQ pnmanly consists of replacing damaged elements, cleaning the outer 
+surface to remove settled dust, repainting, etc. 
+
+5.16.2 Fan blades are cleaned to remove dust. Bearings of the fan 
+motors should be lubricated occasionally. Grease should not be a.dded 
+while the motor is running. For other coolers, manufacturers, instructions 
+should be followed. Other precautionary measures, such as checking of 
+correct operation of pumps, gauges, indicators and differential pressure 
+between oil and water ( in case of water-coolers ) shall be taken. 
+
+5.17 Oa-Lofld Tap Changer 
+
+5,17.1 Since all on-load tap changers are not of the same design and 
+construction, special instructions of manufacturer's should be followed. 
+However, a few points are enumerated: 
+
+a) DiverUr Switch — The maintenance primarily consists of servicing of 
+diverter switch contacts, checking the oil level in the divertcr 
+switch chamber, and replacement of divertcr switch oil when the 
+same becomes unsuitable for further service. 
+
+13 
+
+
+
+IS : 10018 ( Part m)- 1981 
+
+b) Motor Driving Mecfum^m 
+
+\. Do not allow dirt to accumulate between contact rings of notching 
+controller. 
+
+2. Do not use oii/grease on contacts rings on notching controller. 
+
+3. Check the operation of anti-condensation heater. 
+
+4. If the contacts of contactors are silver faced, no touching up shall 
+be done, but should be replaced when they arc worn out. Copper 
+contacts may be lightly touched up with a file when they become 
+rough. The pole faces of electromagnet shall be kept clean. 
+
+5. Do not oil/greasc the contact surface of radial multi-contact 
+switches, unless a special contact lubricant is used The space 
+between the rings should be cleaned occasionally. If necessary, 
+a few drops of benzine be used. 
+
+c) Selector Switch — The contacts do not make/break current, As such, 
+the wear is only due to mechanical movement of moving contacts. 
+These may be inspected once in 2/3 years. 
+
+5.18 Spares 
+
+5.18.1 It IS a healthy practice to have essenttal spares like one member 
+of each type of bushings> one spare limb winding, one thermometer, one 
+cooling fan, etc, for each group of similar transformers. Suppliers' 
+recommendations may be followed in this connection. 
+
+6. MAINTENANCE SCHEDULE 
+
+6.1 Recommended maintenance schedules for all types of transformers of 
+rating less than 1 000 kVA and for ratings of I 000 kVA and above are 
+given in Tables 1 and 2 respectively. The hourly and daily mspection 
+lecoroTnendcd are applicable for attended siibslalions only, Hoivever, for 
+unattended substations, these items should be inspected as Trequently as 
+possible. 
+
+6.3 In addition to the schedule recommended in Tables 1 and 2, it may be 
+necessary to inspect for other details in the case of specific types of trans- 
+formers. In all such cases, the manufacturers instructions shall be followed. 
+
+7. TROUBLE-SHOOTING IN TRANSFORMERS 
+
+7.1 Faults observed during the periodic maintenance schedules are to be 
+rectified as per the suggested action required. However, certam chance 
+troubles and major faults in performance of the transformer shall have to 
+be attended to in a desired sequence, as per manufacturer's instructions or 
+ready reference manuals. Guidance to manage electrical and mechanical 
+troubles normally encountered in all types of transformers arc provided in 
+Table X 
+
+14 
+
+
+
+IS: 10028 (Pirtin)-1981 
+
+
+
+TABLE 1 ^RECOMMENDED MAINTENANCE SCHEDULE FOR TRANSTORMEIIS 
+* OF CAPACnTES LESS THAN 1 000 fcVA 
+
+
+
+Si. 
+No. 
+
+
+
+(1) 
+
+
+
+ItJipsction 
+
+FltE(iUENCV 
+
+
+
+(2) 
+Hourly 
+
+
+
+Daily 
+
+
+
+3. Monthly 
+
+
+
+Quartrrly 
+Half yearly 
+
+
+
+Yearly 
+
+
+
+(Clauses 4.5, 6 1 f mi 6,2) 
+
+
+
+Items to be 
+Inspected 
+
+
+
+(3) 
+i) Load (amperes) 
+
+u) Temperature 
+
+
+
+111) Voltage 
+
+Dehydrating 
+hreaihcr 
+
+
+
+i) Oil level in 
+
+transformer 
+
+ii) CaiinccUons 
+Bushings 
+
+i) Non-conservator 
+transformfr 
+
+boxei, 
+
+joint!, 
+
+and 
+
+paint 
+
+trans- 
+
+
+
+ii) Giiblc 
+gasketcd 
+gaugci 
+general 
+
+i) Oil in 
+former 
+
+
+
+ji] Earth resistance 
+
+uij Relays^ alarms 
+their circuits^ etc 
+
+
+
+IKIPICTION 
+NOTU 
+
+
+
+(4) 
+
+Check against rated 
+
+hgurn 
+Oil temperature and 
+
+ambient tempem- 
+
+tur^ 
+Check against rated 
+
+figures 
+Check that air-pasi- 
+
+•ge ate clear. 
+
+Gncck colour of 
+
+active agent 
+
+Check transformer 
+oil ie\'el 
+
+Check UgKtncM 
+Examine for cracks 
+
+and dirt deposits 
+Check for moisture 
+
+under cover 
+Inspect 
+
+
+
+Check for dielectric 
+strength and water 
+content. Chock for 
+acidity and sludge 
+
+
+
+7. 
+
+
+
+2 yearly 
+5 yearly 
+
+
+
+Non-conservator 
+tramformcrs 
+
+
+
+Acniof4 RzQiumiD » 
+iNtpmoTioN Sbows 
+UjtfATnFAfTroav 
+
+GONDmOMI 
+
+(5) 
+
+
+
+If lilicagcl is pitik, 
+ckangc by tptrc 
+charge, The old charge 
+may be reactivated for 
+use again. 
+
+If low, top up with dry 
+oil. Examine trans- 
+former for leaks. 
+
+If loose^ tighten. 
+
+Glean or replace* 
+
+
+
+Improve 
+check oil. 
+
+
+
+ventilation, 
+
+
+
+T&ke suitable ictioa to 
+restore qulity of oU, 
+
+
+
+Take suitable aactiont if 
+earth resistance !■ high. 
+
+Clean the components 
+and repl&cc contacts 
+and fuses if necestary. 
+Change the setting^ if 
+neccoary. 
+
+Filter oil regardless of 
+condition. 
+
+Wash by hosing down 
+with clean dry oil. 
+
+
+
+NOTK — When inspection of core 
+manufacturer be consulted. 
+
+
+
+Examine relay and 
+alaxm contacts, 
+
+their operation, 
+fustSi etc. Check 
+relay accuracy, etc 
+
+Internal inspection 
+
+above core 
+Overall inspection 
+
+including lifting of 
+
+core and coils 
+
+and coils arc to be done, it is recommended the 
+
+
+
+13 
+
+
+
+IS : 10038 ( Part m ) - 1981 
+
+
+
+TABLE 2 RECOMMENDED MAINTENANCE SCHEDULE FOR 
+TRANSFORMERS OF CAPACrTIES OF 1 000 kVA AND ABOVE 
+
+
+
+Clauses 4.5, 6.1 and 6.2] 
+
+
+
+Na 
+
+
+FAl(2,UftNCY 
+
+
+Items to bb 
+Inipectbd 
+
+
+iNaPBGTiOX 
+
+NOTIS 
+
+
+AcTiori REiitflRlo IP 
+
+Ins^ectmok Shows 
+
+Unsatiwactohv 
+
+CoNDinoNJ 
+
+
+(1) 
+
+
+(2) 
+
+
+(3) 
+
+
+(4) 
+
+
+(5) 
+
+
+1. 
+
+
+Hourly 
+
+
+i) Ambient tempC' 
+
+
+— 
+
+
+— 
+
+
+
+Daily 
+
+
+
+3> Q^uarterly 
+
+
+
+mure 
+ii) Winding tcmpc-l Check that tempera- Shut down the tr^ot* 
+racure V rature rist is reaso- former and inv^jn* 
+
+ill) Oil tempcratur^J n&ble gate if either ia 
+
+persistently higher 
+than normai. 
+iv) Load (flmperea)' 
+
+
+
+v) Voltage 
+
+
+
+i) Oil level iti trans- 
+former 
+
+
+
+11} Oil level in buA- 
+
+hitig 
+iji) Leakage of w^ter 
+
+into coder 
+iv) Rclicfdiaphragm 
+
+v] Dehydrating bre- 
+ather 
+
+
+
+M Chcc 
+j figui 
+
+
+
+Check agaiiut rated 
+
+
+
+Check against trans- 
+former oil level 
+
+
+
+Check that air-pau* 
+aga ano free. Check 
+colour of active 
+agent 
+
+
+
+i) Biuhing 
+
+ii) Oil in transfer* 
+iner 
+
+ui) Cooler faa bea- 
+nnj^, motonand 
+operattcg mecha- 
+nisms 
+
+iv) OLTG 
+
+
+
+v) Indoor Iransfor- 
+mcn 
+
+
+
+Examine for cracks 
+and dirl deposits 
+
+Cheek for dielectric 
+strength and water 
+content 
+
+Lubricate bearings. 
+Check gear bo^, 
+Examine contacts. 
+Check manual coa- 
+trol and interlocks 
+
+Check oil m OLTG 
+driving mccha- 
+
+niims 
+
+Cheek ventiJation 
+
+
+
+If low» top up With 
+dry oil, exarnme 
+traniformcT for 
+Leaks. 
+
+
+
+Replace if cracked 
+or broken. 
+
+If silicaffel LS pjnk, 
+change by spare 
+charge. Th« old 
+charge may be 
+reactivated for use 
+again. 
+
+Clean or replace. 
+
+Take suitable action 
+
+to restore quality of 
+
+oil. 
+Replace burnt or 
+
+worn contacts or 
+
+other parts. 
+
+
+
+{CMHtrntd) 
+
+
+
+16 
+
+
+
+tS: 10028 ( Part ni)^ldgl 
+
+
+
+TABLE 2 RECOMMENDED MAINTENANCE SCHEDULE VOR 
+TRANSFORMERS OF CAPACITIES 1<I00 kVA AND ABOVE — Conid 
+
+
+
+Sl 
+
+No. 
+
+
+
+(I) 
+
+
+
+iNtPKCnON 
+fBMQUtKCV 
+
+
+
+(2) 
+
+
+
+iTKia TO BE 
+
+Inspected 
+
+
+
+(3) 
+
+
+
+4. 
+
+
+Hftlf Yearly 
+
+
+Oil cooler 
+
+
+3. 
+
+
+Yearly (or 
+
+
+1} OtI in trans 
+
+
+
+
+cftrlicr if, the 
+
+
+mcr 
+
+
+
+
+transformer 
+
+
+
+
+
+
+can conveni- 
+
+
+
+
+
+
+eotly be 
+
+
+
+
+
+
+uken out for 
+
+
+
+
+
+
+checking) 
+
+
+u) OU filled ! 
+hin^i 
+
+ill) Gaiket joints 
+
+iv) Cable boxes 
+
+
+
+iNtPKCnON 
+NOTU 
+
+
+
+Tctt for presnjre 
+Check for acidity 
+and sludge 
+
+
+
+bus- Tcit oil 
+
+
+
+6. (a) 5 yearly 
+
+
+
+v) Surge divericr 
+
+and gaps 
+vl) Relays, alarms, 
+
+their circuit*, etc 
+
+
+
+vii) Earth rciiitance 
+
+
+
+1 000 to 3 000 iVA 
+
+
+
+Check for sealing^ 
+arrangennentA for 
+filling holef. Exa- 
+mine cotnpound for 
+cracks 
+
+Examine for cracks 
+and dirt deposits 
+
+Examine relay ^nd 
+alarm contacts, 
+
+theu opera tioa, 
+
+fuid, etc. Check 
+relay accuracy, etc 
+
+
+
+AcnoN Raf^tniut) ir 
+IpmrEcnoN Showi 
+
+U N»ATnFA0rrO» V 
+CONDmONI 
+
+(5) 
+
+
+
+Filler or replace. 
+
+
+
+Filter or replace. 
+
+Tighten the bolu 
+evenly to avoid 
+uneven prcuurc, 
+Replace gu^etj^ if 
+leaking. 
+
+
+
+Clean or replace. 
+
+Clean the compone- 
+nLa and replace con- 
+tacts and fusea^ if 
+necessary. Change 
+the setting, if nece- 
+ssary. 
+
+Take suitable action; 
+if earth rcualantt u 
+high. 
+
+Wash by hosmg 
+down with clean 
+dry oil. 
+
+do 
+
+Note 1 — With respect to on-load tap cbangersj the manufacturer's recommendation 
+should be followed. 
+
+Noja 2 -^ The silicagel may be reactivated by heating it to 150 to 200** C. 
+
+NoT£ B — Every time the drying medium is changed^ oil seal should also bechanced. 
+
+Note 4 ■ — No work should be done on any iransfornner unless it is disconnected from 
+
+all external circuits and the lank and all wuidings have been solidly earthed. 
+
+Note 5 ^ In case of anything abnormal occurring during service, maker's advice 
+should be obtained, giving him complete particulars as lo the nature and the eatcz^t uf 
+occurrence, together with the name plate particulaia in order to assist identification. 
+
+
+
+(b; 7-10 yearly Above 3 000 kVA 
+
+
+
+Overall inspection 
+indudmg lifting of 
+core and coils 
+do 
+
+
+
+J7 
+
+
+
+IS :100M(P«rtni)-W81 
+
+
+
+TABU 3 TROUBLE-SHOOTING CHART FOR ALL TRANSFORMERS 
+
+[Claustl.X) 
+
+
+
+TftOUBLK 
+(0 
+
+Ris* in Ternptrature 
+High temperatures 
+
+
+
+Elittncal Troubles 
+Winding failure 
+
+
+
+Core failure 
+
+
+
+Caltsb 
+
+
+
+Over Tolt age 
+Overcurrent 
+
+
+
+High ambient tempera- 
+ture* 
+
+IjuufficLcnt cooling 
+
+Lower liquid level 
+Sludged ovl 
+
+Short-circuued core 
+
+
+
+Peubdy 
+
+(3) 
+
+
+
+Change the circuit voltage or traiu- 
+former connect Joiu to avoid overexci- 
+tation. 
+
+If possible^ reduce load. Heating 
+can often be reduced by improving 
+power factor of load. Check para< 
+llel circuiu for circuUtipg currenti 
+which may be caused by improper 
+ratios or impedance?. Set ElectncaJ 
+Troublei, below. 
+
+Either improve ventiJaticn or relocate 
+transformer in lower ambient tempe- 
+rature. 
+
+If unit « attificmlly cooled, mftltc 
+sure coohngis adequate 
+
+Fill to proper level, 
+
+U*ft ftUtt pTesa t^ wa&h. off cftie And 
+
+coiU Filler oil to remove sludge- 
+Test for exciting current and no-load 
+losi. If high^ inspect core ^nd 
+repair. Set Eltctncal Troubles, 
+below. 
+
+
+
+Lightning. Short-circuit 
+
+Overload 
+
+Oil of low dielectric 
+
+strength 
+Foreign ii\4lcT\gkl 
+Corc-insulaiion break- 
+
+doMfn 
+(Gore, boltSj clamps, or 
+
+between Uminaiions) 
+
+
+
+Usually, when a transformer winding 
+fails^ the transformer is automati- 
+cally d]SCOnncc(cd from the power 
+source by Uic opening of the supply 
+bTtake? oi tvise. SnvoVtc or t^in^ 
+liquid may be expelled from the 
+case, accompanied by noise. When 
+there is any such evidence of a 
+v^inding failure, the transformer 
+should not be re-cncrgized at full 
+rated voltage, because this might 
+result in additional internal damage. 
+Abo It would introduce a fire ha^aid 
+in tramformers. 
+After dUconnection Tram both source 
+and load, the fullowing observations 
+and testa aie recommended . 
+a] External mechanical or elect- 
+rical damage to biubmgs, 
+leadSj poihcads, disconnecting 
+switches, or other accessories 
+
+( Continiud } 
+
+
+
+18 
+
+
+
+rS :100M( Part ra)- 1981 
+
+
+
+TABLE 3 TROUBLE-SHOOTING CHART FOR ALL TRANSFORMERS— Confif 
+
+
+
+Tnotnu 
+
+(1) 
+
+
+
+Cause 
+(2) 
+
+
+
+EUctrical Trimbles 
+High exciting current 
+
+
+
+Incorrect volugc 
+
+
+
+Audible iniernal arcing 
+and radio interference 
+
+
+
+Bushing fla9bovcr 
+
+
+
+A(*chanical Troubltt 
+Leakage through screw 
+joinu 
+
+
+
+r.cakagc at gasket 
+
+
+
+Shprt-circuitcd core 
+
+
+
+Open core joints 
+
+
+
+Improper ratio 
+
+
+
+Supply voltage 
+
+Kbnormal 
+
+Isolated metallic part 
+
+
+
+Look connecticm 
+
+Luw liquid level, cxpn- 
+aing live parU 
+Llghlning 
+
+Dirty bushings 
+
+
+
+RslC£DY 
+
+(3) 
+h) Level ormaulatirig liqiud m all 
+compartmcntt. 
+
+c) Temperature of in^ulatiitg 
+1j quid wherever it can be 
+measured . 
+
+d) Evidence of leakage of insula* 
+ting liquid or icaling comp- 
+ound. 
+
+Test core los: . If higb, it i3 probably 
+due to a short-circuited core. Test 
+core insulation. Repair if damaged. 
+If UminatiODi are welded together, 
+refer lotnanufacturcr. 
+
+Core-loss test will show no appreci- 
+able increase. Pound jolnti toge- 
+ther and rciightcTi clamping 
+structure 
+
+Change Icrminal-hoard connection or 
+ratio-adjiiStcr position to give 
+correct voltage. 
+
+Change tap connectloni or readjiut 
+supply voltage. 
+
+The source should be immediately 
+dctrmuncd Make certain that all 
+normally grounded parti arc grou- 
+nded, such a5 the clamps and core. 
+
+Same as abave Tighten all Connec- 
+tions. 
+
+Maintain proper Iiqmd level. 
+
+Provide adequate lighimng prote- 
+ction 
+
+Glean bushing porcelaim, frequency 
+depending on dirt accujaulMlion. 
+
+
+
+material 
+
+
+
+-1 
+
+
+
+Make 
+joints. 
+
+
+
+Foreign 
+
+threads 
+Oval nipples 
+Poor thrcadi 
+1 napToper fiUcr 
+Improper assettibly 
+Poor scarfed joints T 
+
+Insufficient or unc\cn J 
+Compresjion ( Make li gh t 
+
+Improper preparation of f joints, 
+
+gaskets and gaiket [ 
+
+surfaces J 
+
+
+
+tight screw Joints or gaiket 
+
+
+
+screw joints or gasket 
+
+
+
+( Coniinttsd ) 
+
+
+
+19 
+
+
+
+IS : 10O28 ( Part m ) • 19S1 
+
+
+
+TABLE 3 TROUBLBSaOOTING CHART FOR ALL TRANSFORMERS —Cmtd 
+
+
+
+TkouBL* Cause 
+
+(I) (2) 
+
+Mtchanieal TrouhUs — Contd 
+
+
+
+Leakage in welds 
+
+Pressure -relief 
+
+phragtn cracked 
+
+
+
+Pressure- relief 
+phragm ruptured 
+
+
+
+dia- 
+
+
+
+Shipping strains, imper- 
+fect weld 
+
+Improper assembly. 
+
+Mechanical damage 
+
+
+
+du- Internal fault 
+
+I n conservator transfor- 
+mer — obstructed oil 
+flo^v or breathing 
+
+In gas -seal transfor- 
+mer^ — obstructed pre 
+asure relief valve 
+
+In scaled transformer 
+— liquid level too high 
+
+
+
+Kbuedy 
+
+(3) 
+
+
+
+Repair leaks in welds. 
+
+Replace diaphragm. Inspect inside 
+of pipe for evidence of rust or 
+moisture. Be sure to dry out trans- 
+former if there u a chance that 
+drops of water may have settled 
+directly on windings or other vulne- 
+rable locations, aa oil teat may not 
+always reveal presence of free water. 
+
+
+
+Moisture condensation 
+m open-type transfer- 
+incra and airfi[fcd com- 
+partments 
+
+Moisture condensation 
+m sealed transformers 
+
+Audio noise 
+
+
+
+Rvieting aind deterio- 
+ration of paint finish 
+
+Fractured metal or 
+porcelain parts of 
+bujhingj 
+
+
+
+Improper or insufficient 
+ventdatora 
+
+
+
+Cracked diaphragm 
+
+Moisture in oil 
+
+Leaky gaskets and joints. 
+Accessories and exter- 
+nal transformer parts 
+are set into resonant 
+vibration giving off 
+loud noise 
+
+Abraded surfacci i^nd 
+weathering 
+
+Unusual strains placed 
+on terminal connec- 
+tions 
+
+
+
+Check to see that valve between con- 
+servator and tank is open and that 
+ventilator on conservator is not 
+blocked. 
+
+Make certain that relief valve func- 
+tions and that valves m discharge 
+line arc open. 
+
+Liquid level should be adjusted to 
+that corresponding with liquid 
+temperature to allow ample space 
+for expansion of liquid. 
+
+Make lure that all ventilator <'pen- 
+ings ate free. 
+
+
+
+Se$ remedies above for cracked and 
+ruptured diaphragms. 
+Filter Oil. 
+
+Make certain all joints are tight. 
+Tighten loose parts. In some cases 
+parts may be stressed into resonant 
+state. Releasing pressure and 
+slumming will remedy this condi- 
+tion. 
+
+Bare Tnctal of mechanical parts 
+should be covered with grease. 
+
+Gables and bus-bars attached to 
+transformer tcrminali should be 
+adequately supporied. In the case 
+of heavy leads^ flexible connections 
+should be provided ro remove strain 
+on the terminal and bushing 
+porcelain. 
+
+
+
+20 
+
+
+
+[5:l(»0JS(FArtin)-198[ 
+
+
+
+TABLE 3 TROUBLB-SHOOUNG CUAHT FOR AZX TKaMSPORMEIIS ~ Omfd 
+
+TkOUBLK CaUIS RtUKDV 
+
+CI) (2) (3) 
+OU Tntihtu { ue 9iso IS : 1SG6-1978*) 
+
+Low dielcctnc itrcngth Condenwtion iq open- Make certain chat ventilating open- 
+type transfbriDcr* from ing? arc unobftmctcdt' 
+improper vcnuUtion 
+
+
+
+Broken relief diaphngm Replace diaphragmf- 
+Leaks around cover Regask«t, if neeeuaryt. 
+
+
+
+Leaky cooling coil 
+
+
+
+Teat cooling coil and repairf . 
+
+
+
+Badly diKOlourcd oil Contaminated by vaf Reuin oil if dielectric strength ii 
+
+
+
+nishi 
+
+Carbonized oi\ due to 
+Switching 
+
+Winding or rore failure 
+
+Oxidation (iludge or Exposure to air 
+acidityj 
+
+
+
+satisfactory. 
+
+
+
+' Wash down ' core and coils and 
+tank. Filter and reclaim or replace 
+
+oiL 
+
+
+
+High operating tempera- Same as above. Either reduce load 
+lurct or improve cooling. 
+
+*Codc of practice for maintenance and supcrviuon of insulating oil in service {fiui 
+
+uvimn ) . 
+tin any event, filter oil or dry transformer by beating, or both, to ratore dielectric 
+
+strength. 
+
+
+
+21 
+
+
+
+BUREAU OF INDIAN STANDARDS 
+
+Manak Bhavan, 9 Bahadur Shah Zafar Marg, NEW DELHI 11 0002 
+
+Telephones 323 0131, 323 3375, 323 9402 
+
+Fax 91 1 1 3234062. 91 11 3239399. 91 11 3239382 
+
+Tefegrams Manaksanstha 
+
+(Common 1o all Offices) 
+
+C^ntnl LBboratory Telephone 
+
+Plot No 20/9. sue IV. Sahibabad Industrial Area. Sahibabad 201010 877 00 32 
+
+Regional Offices: 
+
+Central Mar\ak Bhavan. 9 Bahadw S^ah Zafar Marg. NEW DEUH1 1 10002 323 76 1 7 
+
+•Eastern 1 /1 4 QT Scherr^e VII M. ^ IP '^oad M^niWola, CALCUTTA 70U054 337 86 62 
+
+Northern SCO 335-336, Seclor 34-A. CHANDIGARH 160022 60 38 43 
+
+Southern CIT Campus, IV Cross Road. CHENNAI 6001 13 235 23 15 
+
+1We5lem Manakalaya. E9. Behind Marol Telephone Exchange, Andheri (East), 932 92 95 
+MUMBAI 400093 
+
+Branch Office^:: 
+
+Pushpak'. Njrmohamed Shaikh Warg, Khanpur. AHMEDABAD 3&0OQ1 550 13 48 
+
+tPeenya Industrial Area, lit Stage. Bangalore Tunr^kur Road. 839 49 55 
+BANGALORE 560058 
+
+Gango^n Complex, bth RtM)i. Bhadbhada Road. T T Magar, BHOPAL 462003 55 40 21 
+
+F^loi No 62 63, Unit VI, Ganga Nagar. DHUBANESHWAR 751001 40 36 27 
+
+Kalaikathir Buildings, 670 Avinashi Road. COIMBATCRL 641037 21 01 41 
+
+Plot No 43, Sector 16 A MathuraRoad. FARIDA0AD 1210U1 8-?ft SH 0^ 
+
+Savitn Complex, 116 G T Road. GHA2WB AD 201001 8-71 19 96 
+
+53/5 Ward No 29, R G Barua Road, 5th By-lane, GUWAHATt 781003 b^ 11 37 
+
+5 8'S5C, L N Gupta Marg. Nampally Station Road. HYDERABAD 500001 20 10 83 
+
+E 52 Chita*un|ein Marg, C-Scheme, JAfPUH 302001 37 29 £5 
+
+11 7/416 B, Sarvodaya Nagar, KANPUR 208005 21 68 76 
+
+Selh Bhawan, 2nd Floor, Behind Leela Cinema. Naval Kishore Road, 23 89 23 
+LUCKNOW 226001 
+
+NIT BUiJding, Second Floor, Gokulpat Market NAGPUR 440010 52 51 71 
+
+Palliputra Industrial Estate, PATNA 800013 26 23 05 
+
+institution of Engineers (India) Building 1 332 Shivaji Nagar, PUNE 41 1005 32 36 35 
+
+TC No 14/1421, University P O Palayam THIRUVANANTHAPURAM 695034 6 21 17 
+
+
+
+*Sales Office (s at 5 Chowringhee Approach, P O Pnncep Street. 27 10 B5 
+
+CALCUTTA 700072 
+
+tSales Office is at Novefty Chambers, Grant Road, MUMBA* 400007 309 65 28 
+
+^Sales Office is at 'F' Block. Unity Building, Narashimara)a Square, 222 39 71 
+
+BANGALORE 560002 
+
+
+
+Piinutl dl [Xv Kjy PnniL-i\ New Dvltii liulut 
+
+
+

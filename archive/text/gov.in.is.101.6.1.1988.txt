@@ -1,0 +1,692 @@
+**************** 
+
+
+
+
+Disclosure to Promote the Right To Information 
+
+Whereas the Parliament of India has set out to provide a practical regime of right to 
+information for citizens to secure access to information under the control of public authorities, 
+in order to promote transparency and accountability in the working of every public authority, 
+and whereas the attached publication of the Bureau of Indian Standards is of particular interest 
+to the public, particularly disadvantaged communities and those engaged in the pursuit of 
+education and knowledge, the attached public safety standard is made available to promote the 
+timely dissemination of this information in an accurate manner to the public. 
+
+
+
+
+Mazdoor Kisan Shakti Sangathan 
+"The Right to Information, The Right to Live'' 
+
+
+
+
+Jawaharlal Nehru 
+'Step Out From the Old to the New" 
+
+
+
+IS 101-6-1 (1988) : Methods of sampling and test for paints, 
+varnishes and related products. Part 6: Durability tests. 
+Section 1: Resistance to humidity under conditions of 
+condensation [CHD 20: Paints, Varnishes and Related 
+Products] 
+
+
+
+aj^&Vi ilW^K-^i^^^ T ^bi^ nVF^f 
+
+
+
+::^^s^\n%i9^j^/;s^>^^^^ 
+
+
+
+K^^^iXSVCd^ 
+
+
+
+Satyanarayan Gangarara Pitroda 
+Invent a New India Using Knowledge 
+
+
+
+Bhartrhari — Nitisatakam 
+''Knowledge is such a treasure which cannot be stolen" 
+
+
+
+
+^'^^^r 
+
+
+
+k 
+
+
+
+
+BLANK PAGE 
+
+
+
+^*-^^^ 
+
+
+
+
+
+PROTECTED BY COPYRIGHT 
+
+
+
+AMENDMENT NO. 1 SEPTEMBER 1990 
+
+TO 
+
+IS 101 ( Part 6/Sec 1 ) : 1988 METHODS OF SAMPLING 
+
+AND TEST FOR PAINTS, VARNISHES AND 
+
+RELATED PRODUCTS 
+
+PART 6 DURABILITY TESTS 
+
+Section 1 Resistance to Humidity Under Conditions of 
+Condensation 
+
+f Third Revision J 
+
+( Page 2, clause 2.2, informal table ) — Substitute the following for the 
+existing matter pertaining to 'Up to 12': 
+
+
+
+XD 
+
+
+(2) 
+
+
+Up to and including 10 
+
+
+17 to 22 
+
+
+Above 10 to 11 
+
+
+22 to 27 
+
+
+Above^ll to 12 
+
+
+27 to 34' 
+
+
+( CHD 20 ) 
+
+
+
+
+4088 BiS/0&--2 
+
+
+
+
+
+AMENDMENT NO. 2 JUNE 1997 
+
+TO 
+
+IS 101 ,( Part 6/Sec 1 ) : 1988 METHODS OF SAMPLING 
+
+AND TEST FOR PAINTS, VARNISHES AND RELATED 
+
+PRODUCTS 
+
+PART 6 DURABILITY TESTS 
+
+Section 1 Resistance to Humidity Under Conditions of 
+Condensation 
+
+( Third Revision ) 
+
+(Page 1, clause 2.1,1 ) — Substitute the following for the existing clause: 
+
+'2-1.1 Metal panels — Unless the thickness and the type of panels specified or 
+agreed the test panels shall be of mild steel as prescribed in 2 of IS 101 ( Part 1 
+/Sec 3 ) : 1986 'Methods of sampling and test for paints, varnishes and related 
+products: Part 1 Tests on liquid paints ( general and physical ), Section 3 
+Preparation of panels'. 
+
+
+
+( CHD 020 ) 
+
+
+
+4088 BlS/08-^3 
+
+
+
+AMENDMENT NO. 3 MAY 2003 
+
+TO 
+
+IS 101 ( PART 6/SEC 1 ) : 1988 METHODS OF 
+
+SAMPLING AND TEST FOR PAINTS, VARNISHES AND 
+
+RELATED PRODUCTS 
+
+PARTS DURABILITY TESTS 
+
+Section 1 Resistance to Humidity under Conditions of Condensation 
+
+C Third Revision ) 
+
+( Page 2, clause 2.2, line 2 ) — Insert the following between the words 'steel 
+panel' and 'to give': 
+
+'so that the variation in dry film thickness (DFT) is within ±1 percent.' 
+
+( CHD 20 ) 
+
+4089 Bis/oe— 1 
+
+
+
+UDC 667.613: 620.193.23 Third Reprint NOVEMBER 2008 IS : 101 (Part 6/SeC 1) - 1988 
+
+(Including Amendments Ho. 1,2 8c 3) (Reaffirmed MQB^20^ 
+
+
+
+CO 
+CO 
+
+o> 
+
+00 
+
+o 
+
+Q 
+U 
+
+o 
+
+o 
+o 
+
+
+
+Indian Standard 
+
+METHODS OF SAMPLING AND TEST FOR 
+PAINTS, VARNISHES AND RELATED PRODUCTS 
+
+PART 6 DURABILITY TESTS 
+Section 1 Resistance to Humidity Under Conditions of Condensation 
+
+( Third Revision ) 
+
+
+
+1. Scope — Prescribes methods for determination of resistance to humidity under continuous 
+condensation. Also covers methods on neutral and artificial salt spray tests. 
+
+2. Resistance to Humidity 
+
+2.0 Outline of the Method — Th\s test is carried by suspending the painted panel after specified period 
+of drying in a corrosion cabinet maintained at 100 percent relative humidity and a temperature cycle of 
+42 to 48''C for seven days and examining it for any signs of deterioration and corrosion of metal 
+surface. 
+
+2.1 Apparatus 
+
+2.1.1 Metal panels — of mild steel as prescribed in 2 of IS : 101 (Part 1/Sec 3 )-l986 'Methods of 
+sampling and test for paints, varnishes and related products: Part 1 Tests on liquid paints (general 
+and physical), Section 3 Preparation of panels'. 
+
+2.1.1.1 The panels shall be prepared as prescribed in 2.1.1 and 21.2 of IS ; 101 (Part 1/Sec3)- 
+1986. 
+
+Note — Results of tests carried out on different substrates do not necessarily correlate. 
+
+2.1.2 Corros/o/7ca6//7e/ — The apparatus consists of a closed cabinet in which the relative humidity 
+is maintained at approximately 100 percent and the temperature cycles continuously over a range of 42 
+to 48° C, thereby ensuring that copious condensation occurs on test panels positioned vertically within 
+the cabinet. 
+
+Note 1 — Should the cabinet be copper lined, the copper shall be tinned or coated with a suitable organic 
+coating to prevent dissolution of small amounts of copper in water. 
+
+Note 2 — The design and dimensions are left to the user's discretion provided that the following conditions 
+are observed: 
+
+a) Hum/cf/7/C3f/o/7 — The humidity shall be maintained by evaporation of water from a reservoir covering ( or 
+situated in ) the bottom of the cabinet. 
+
+b) Water— FiU the water tank at the bottom of the oven to a depth of 45 mm with distilled water. The water 
+level in the tank shall be adjusted to the same level daily; and water shall be maintained free from grease 
+or oil. 
+
+c) Heating--The cabinet shall be heated through the medium of water by a heater placed Immediately below 
+the water reservoir, or preferably by a heater completely immersed in water. 
+
+d) Temperature cycfe— The heater shall be controlled by two thermostats ( placed in the air space above the 
+water ) in such a way that the temperature of the air space cycles continuously from 42 to 48*'C and back to 
+42'*C in not (ess than 45 minutes and not more than 75 minutes. The time required for heating and cooling 
+shall be approximately equal. 
+
+e) Air circulation — The air in the cabinet shall be circulated by means of a fan in such a way that the 
+temperature In any part of the air space does not differ by more than 1°C at any given moment. Necessary 
+particulars of the fan are given below: 
+
+Blades Two 
+
+Fan diameter 150 mm 
+
+Fan width 25 mr at edge 
+
+Diameter of the shaft 675 mm 
+
+Height of the fan from the bottom 180 mm 
+
+Fan diameter at the pulley 15 mm 
+
+Speed 1 440 rev/min, approximately 
+
+
+
+Adopted 29 April 1988 
+
+
+
+O April 1989. BIS Gr 3 
+
+
+
+HosSBlVo^-q BUREAU OF INDIAN STANDARDS 
+
+MANAK BHAVAN, 9 BAHADUR SHAH ZAFAR MARG 
+NEW DELHI 110002 
+
+
+
+IS : 101 (Part 6/Sec 1 ) - 1988 
+
+i) Spacing of test panels — H the panels hang in the cabinet, the hooks and rods from which they are 
+suspended shall be n^ade of glass or plastics. If the panels are placed on metal racks, they shall be 
+suitably insulated at their points of contact with the rack, it shall be ensured that ail the panels are 
+strictly vertical. The panels shall not be placed less than 37 mm apart or less than 37 mm from any side 
+of the cabinet. 
+
+g) Ambient conditions — The cabinet conditions shall be controlled [to give cycles as required in (d) above ] 
+at room temperature* 
+
+h) Rotating of panel rack — In vfew of the fact that the circulating fan is located on one side only, it is 
+necessary to turn the panel raclt every day to ensure uniformity in actual working. 
+
+The cabinet shall be opened once only every 24 hours for rotation of panels and maintenance of water 
+level. 
+
+2.2 Procedure — The metal panel is cleaned and prepared as prescribed in 2.1-1.1. Apply one coat of 
+paint on both sides of the mild steel panel to give a dry film weight of the material as follows: 
+
+Weight of the Wet Limits of Dry Film 
+
+Material Weight 
+
+kg/10 litres g/m^ 
+
+Up to 12 27 to 34 
+
+Over 12 and up to 14 34 r, 44 
+
+14 „ 16 44 o 54 
+
+16 „ 18 54 „ 68 
+
+18 68 „ 80 
+
+2.2.1 Keep the painted panel in a vertical position at room temperature for 24 hours to air-dry, and 
+then at a temperature of 60 to 65°C for one hour or stove for the specified period. Cool the panel to 
+room temperature and protect the edges to a depth of 5 mm with a suitable protective composition* 
+which shall have melting point above 50''C, and then suspend it vertically in the corrosion cabinet. 
+
+2.2.2 After exposure under these conditions for seven days, remove the panel and examine for signs 
+of deterioration of paint film. Remove 25 mm strip of the film from the centre of the panel carefully 
+with a non-corrosive paint remover neglecting 25 mm portion of the-exposed surface froin- each. end. and 
+examine the exposed metal for signs of corrosion. The metal surface shall show no sign of corrosion; 
+changes in appearance and condition of the paint film shall not be taken into consideration in deciding 
+about acceptability. 
+
+Note — Immediately after the assessment is made, the exposed area shall be protected with a suitable non- 
+corrosive transparent lacquer for reference purposes. 
+
+3. Neutral Salt Spray Test 
+
+3.1 This standard prescribes a method for determining the resistance of coatings to the neutral salt 
+spray test performed in accordance with the requirements of coating or product specifications. 
+
+3.2 Apparatus 
+
+3.2.1 Spray cabinet — \t shall be made of, or lined with, a material resistant to corrosion by the 
+sprayed solution. The cabinet shall have a capacity of not less than 04 m^ since, with smaller volumes, 
+difficulties are experienced in ensuring even distribution of spray. The ceiling or cover shall be sloped 
+upwards at an angle of not less than 25° to the horizontal so that drops of solution which accumulate 
+on it do not fall on the panels being tested. 
+
+The size and shape of the cabinet shall be such that the quantity of solution collected in the 
+collecting device ( see 3.2.4) is within the limits stated in 3.5.2.2. 
+
+Cabinets with a volume greater than 2 m^ will be difficult to operate unless careful 
+consideration is given to their design and construction. Factors which should be taken into 
+consideration are given as follows: 
+
+a) The number and the positioning of the atomizers and baffles required to produce an even 
+spray distribution within the limits specified in 3.5. 
+
+b) The number of collecting devices required to monitor the spray as required in 3.2.4. 
+
+c) The heating, insulation and means of temperature control required to produce a uniform 
+temperature within the cabinet at all positions where test specimens are exposed. 
+
+
+
+•Preferably consisting of 3 parts by weight of paraffm wax ( melting point 60°C ) and 1 part by weight of carnauba 
+wax ( melting point 182°C ). 
+
+
+
+IS : 101 ( Part 6/Sec 1 ) - 198S 
+
+d) The design of the ceiling ( for example, a false ceiling ) needed to prevent drops of solution 
+falling on to the test panels if the size of the chamber does not aifow an angle of 25° as 
+required in 3.2.1. 
+
+.3.2.2 Means of supply and controlling the heat — The heat shall be adequate to maintain the cabinet 
+and its contents at specified temperature (see 3.5.2.1 ). The temperature shall be controlled by a 
+thermostat element placed either within the cabinet, at least 100 mm from the walls or in a water jacket 
+on the cabinet. In either case, a thermometer capable of being read from the outside, shall be placed 
+wholly within the cabinet at least 100 irim from the walls or the cover. 
+
+3-2,3 Means of spraying ttie salt, solution -It shall comprise a supply of clean air of controlled 
+pressure and humidity, a reservoir to contain the solution to be sprayed and one or more atomizers 
+made of material resistant to the solution. 
+
+The compressed air supply to each atomizer shall be passed through a filter to remove all 
+traces of oil or solid matter and shall be at a pressure of 70 to 170 kPa, In order to prevent evaporation 
+of the sprayed droplets, the air shall be humidified before entering each atomizer by passage through 
+a saturation tower containing water at a temperature several degrees Celsius higher than that of the 
+cabinet. The appropriate temperature depends on the pressure used and the type of atomizer nozzle, 
+and shall be adjusted so that the rate of collection of spray in the cabinet and the concentration of the 
+collected spray are kept within the specified limits ( see 3.5.2 2 }. 
+
+The reservoir to contain the solution to be sprayed shall be a tank made of material resistant to 
+the solution and shall be provided with means of maintaining a constant level of solution in the 
+reservoir. 
+
+The atomizers shall be made of inert material, for example, glass or plastics. Baffles may be 
+used to prevent direct impingement of spray on test specimens, and the use of adjustable baffles is 
+helpful in obtaining uniform, distribution of spray throughout the cabinet 
+
+Note — In order to avoid a build up of pressure within the cabinet ( 3.2*1 ) Jt is a common practice to vent the 
+apparatus to the atmosphere outside the laboratory. 
+
+3.2.4 Collecting device— A\ least two, of glass or other chem"cally inert materia! ( see Note 1 ). The 
+collecting devices shall be placed in the zone of the cabinet where the test specimens are placed, 
+one close to an inlet of spray and one remote from an inlet. They shall be so placed that only spray 
+and not liquid fallino from test panels or from parts of the cabinet is collected. 
+
+Note 1^ Glass funnels with the stems inserted into graduated cylinders have been found to be suitable 
+collecting devices. Funnels with a diameter of 100 mm have a collecting area of approximately 80 cm*. 
+
+Note 2 — If two or more atomizers are used, fhe number of collecting devices should be at least twice the 
+number of atomizers. 
+
+3.2.5 If the equipment has been used for a spray test or for any other purpose with a solution 
+differing from that specified for this test, it shall be thoroughly cleaned before use. 
+
+3.3 Test Solution 
+
+3.3.1 The test solution shall be prepared by dissolving sodium chloride in distilled or demineratized 
+water to produce a concentration of 50 ± 5 g/l. The sodium chloride shall be white, of minimum assay 
+99'6 percent { m/m ), and substantially free from copper and nickel; it shall contain not more than O'l 
+percent ( mjm ) of sodium iodide, if the pH of the solution is outside the range 6'0 to 7*0. the presence 
+of undesirable impurities in salt or water or both shall be investigated, 
+
+3.3.2 The pH of the salt solution ( 3.3.1 ) shall be adjusted so that the pH of sprayed solution 
+collected within the test cabinet ( see 3.2 ) shall be between 6'5 and 7 2. Control of pH shall be based 
+on electrometric measurement at 25''C but a short-range pH paper which can be read in increments 
+of 0"3 pH unit or less and which has been calibrated against electrometric measurements may be used 
+in routine checks. Any necessary correction shall be made by addition of solution of hydrochloric 
+acid or sodium hydroxide of analytical grade. 
+
+Note — Attention is drawn to the possible changes In pH resulting from loss of carbon dioxide from the 
+solution when it is sprayed. Such changes may be avoided by reducing the carbon dioxide content of the solution 
+by, for example, heating it to a temperature above ZS'^C before it is placed in the apparatus or by making the 
+solution from freshly boiled water- 
+
+3.3.3 The solution shall be filtered before it is placed in the reservoir of the apparatus in order to 
+remove any solid matter which might block the apertures of the spraying device. 
+
+3.4 Test Panels 
+
+3.4.1 Material and dimension — Unless otherwise specified or agreed, the test panels shall be of 
+burnished steel and approximately 150 x 100 mm. 
+
+
+
+IS : 101 ( Part 6/Sec 1 ) - 1988 
+
+3.4.2 Preparation and coating — Prepare the test panels in accordance with IS : 101 ( Part 1/Sec 3)- 
+1986 unless otherwise specified, and then coat them by the specified method with product or system 
+under test. 
+
+The back and the edges of the panel shall be coated with product or system under test, unless 
+otherwise specified. 
+
+Note — If the coating on the back and the edges of the panel differs from that of the product under test, It 
+should have a resistance greater than that of the product under test. 
+
+3.4.3 Drying and conditioning — Dry (or stove and age) the coated test panels for the specified 
+time under specif ied conditions. Unless otherwise specified condition them at 27 ± 2X and a relative 
+humidity 65 ± 5 percent for a minimum of 16 h, with free circulation of air and without exposing them 
+to direct sunlight. Then carry out the test procedure as soon as possible. 
+
+3.4.4 T/)/c/cness of coating — Determine the thickness in nriicrometres, of the dry coating, by any 
+appropriate method but using any one of the non-destructive procedures. 
+
+3.4.5 Preparation of scratch — If specified, make a scratch or scribed mark through the coating to 
+the substrate. Unless otherwise specified, use the single cutting tool and locate the scratch at least 
+20 mm from any edge of the test panel. 
+
+3.5 Procedures 
+
+3.5.1 Method of exposure of test panels 
+
+3.5.1.1 The panels shall be so placed in the cabinet that they are not in direct line of travel of 
+spray from the atomizer. Baffles may be used to prevent direct impact of the sprayed, solution on the 
+panels. 
+
+3.5.1.2 The angle at which each panel is exposed in the cabinet is very important. Each test 
+surface shall be placied in the cabinet, facing upwards at an angle of la"" to the vertical. 
+
+Note — By agreement between the interested parties, it is sometimes necessary to expose the painted 
+con\ponents of different shapes. When such tests are conducted, it is of particular importance to expose the 
+shaped components In their normal attitude In use. Within this restriction^ the component should be placed so 
+as to minimize the disruption of flow. Furthermore, other test panels and components cannot be tested at the 
+same time if the shape of the painted component interferes with the general direction of flow. 
+
+it should be noted that the degree of film breakdown with different aspects may vary and due 
+consideration should be made in the interpretation of these results. 
+
+3.5.1.3 The panels shall be so arranged that they do not come into contact with one another or 
+with the cabinet, and that the surfaces to be tested are exposed to the spray only where it is settling 
+freely. Panels should be placed preferably at one level within the cabinet so that the solution cannot 
+drip from the the panels or their supports at one level on to the other panels placed below. 
+
+Note — It may be advantageous to alter the position of the panels periodlcaliyp for example, at the inspection 
+intervals (see 3,$.4). Any change, however, should be stated in the test report. 
+
+3.5-1«4 The support for the panels shall normally be racks made of inart non-metallic material such 
+as glass^ plastics or suitably coated wood, if, exceptionally, it is necessary to suspend test panels, 
+the material used shall on no account be metallic and shall be synthetic fibre, cotton thread or other 
+inert Insulating material, 
+
+3.5.2 Operating conditions 
+
+3.5.2.1 The measured temperature inside the spray cabinet shall be 35 ± 2°C, 
+
+3.5.2.2 The solution collected in each of the collecting devices ( 3,2.4 ) shall have a sodium chloride 
+concentration of 60 ± 10 g/l and a pH of 65 to T2 {see 3.3.2 ), 
+
+The average rate of collection of solution in each device measured over a minimum period of 
+24 h shall be 1 to 2 ml/h for a horizontal collecting area of 80 cm^ 
+
+3.5i2^3 Test solution which has been sprayed shall not be reused. 
+
+3.5.3 Carry out the determination in duplicate, unless otherwise specified. 
+
+3.5.3.1 Set up the apparatus as described in 3,5.2. 
+
+3.5.3.2 Arrange the test panels in the cabinet as described in 3.5.1. 
+
+3.5.3.3 eibse the cabinet and start the flow of the test solution (see 3.3) through the 
+atomizers ( 3.2.3 ). Continuously spray throughout the prescribed test period, except for a short daily 
+
+
+
+IS : 101 ( Part 6/Sec 1 ) - 1988 
+
+interruption (see 3.54) to inspect, re-arrange or remove the test panels to check and replenish the 
+solution in the reservoir and to make necessary recordings as described in 3.5.2. 
+
+3.5,4 Examination of test panels — Periodic visual examination of the panels should be made but 
+the surfaces under test shall not be damaged. Each periodic examination shall not exceed 60 min in 
+any 24 h period and should, whenever possible, occur at the same time of the day. The panels shall 
+not be allowed to become dry [see a/so tfie note under 3.5.1,2) 
+
+At the end of the specified test period, remove the panels from the apparatus and rinse with 
+clean water to remove the residues of salt solution from the surface. Immediately examine the test 
+surfaces for signs of deterioration, for example, blistering, staining, loss of adhesion, and creep of 
+corrosion from scratch. 
+
+If required, keep the panels in the standard atmosphere for the specified period and examine the 
+test surfaces for deterioration. 
+
+If it is required to examine the substrate for signs of attack, remove the coating by the specified 
+method. 
+
+4. Artificial Sea Water Spray Test 
+
+4.1 This is a test for determination of resistance of paint films to artificial sea water spray condensation 
+conditions. 
+
+4.2 Composition of Artificial Sea Water — Dissolve the specified weights of the following salts and 
+make up with freshly distilled water to give 1 kg of the solution: 
+
+Salt Weight g 
+
+Sodium chloride ( NaCf ) 23'476 
+
+Magnesium chloride ( MgCIg) 4'981 
+
+Sodium sulphate ( NagSO^ ) 3-917 
+
+Calcium chloride ( CaCIa ) V102 
+
+Potassium chloride ("KCI ) G'664 
+
+Sodium bicarbonate ( NaHCOa) 0'192 
+
+Potassium bromide ( KBr ) 0*096 
+
+Boric Acid ( H3BO3 ) 0*026 
+
+Strontium chloride ( SrCl2 ) 0'024 
+
+Sodium fluoride ( NaF ) 0'003 
+
+
+
+34'481 
+Water to make: 1 OOO'OOO 
+
+
+
+The artifical sea water thus prepared on thorough aeration produces a pH between 7'9 and 8'3 
+which is most suitable for the test. 
+
+4.3 Apparatus — The apparatus illustrated diagrammatically in Fig. 1 and 2 consists essentially of a 
+chemically inert container with a close fitting cover in which a fine mist of the spray solution is 
+produced through an atomizer in such a way that: 
+
+a) the panels supported on non-metallic supports with the test face upwards at an angle of 
+approximately 15° to the vertical, are evenly coated with droplets of the solution; 
+
+b} the salt spray is prevented by a baffle from impinging directly on test faces of the panel; and 
+
+c) salt solution drained from the test panels is not recirculated, 
+
+4.4 Procedure 
+
+4.4,1 prepare a panel of 150 x 100 x 1'25 mm mild steel plate as described in IS : 101 
+( Part 1/Sec 3 )-1986 and stove in accordance with the relevant material specification. Keep at room 
+temperature for 24 hours and expose it for 4 days to a baffled spray of the spray solution. 
+
+Remove 25 mm strip of the film from the centre of the panel along the length carefully with a 
+suitable paint remover and examine the exposed metal for signs of corrosion, neglecting 25 nim portions 
+of the exposed surface from each edge. 
+
+
+
+IS; 101 (Part 6/Sec1)- 1988 
+
+
+
+AIR 
+VENT 
+
+
+
+
+FIG. 1 SALT SPRAY APPARATUS 
+
+AIR V£NT 
+
+
+
+ATOMISER 
+
+
+
+TO COMPRESSED 
+A\9 SUPPLY 
+
+
+
+
+FIG. 2 PART SECTIONAL VIEW OF SALT SPRAY APPARATUS 
+
+EXPLANATORY NOTE 
+
+This standard is one of a series of the standards on methods of sampling and ^est for paints, 
+varnishes and related products. In the preparation of this standard, considerable assistance has been 
+taken from ISO 7253-1984 'Paints and varnishes — Determination of resistance to neutral salt spray', 
+issued by the International Organization for Standardization (ISO). This standard supersedes 18 of 
+IS : 101-1964 'Methods of test for ready mixed paints and enamels ( second revision )'. 
+
+
+
+MGIPRRN[>^088 BIS/08— 200 Copies 
+
+
+

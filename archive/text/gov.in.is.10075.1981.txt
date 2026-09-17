@@ -1,0 +1,914 @@
+**************** 
+
+
+
+
+Disclosure to Promote the Right To Information 
+
+Whereas the Parliament of India has set out to provide a practical regime of right to 
+information for citizens to secure access to information under the control of public authorities, 
+in order to promote transparency and accountability in the working of every public authority, 
+and whereas the attached publication of the Bureau of Indian Standards is of particular interest 
+to the public, particularly disadvantaged communities and those engaged in the pursuit of 
+education and knowledge, the attached public safety standard is made available to promote the 
+timely dissemination of this information in an accurate manner to the public. 
+
+
+
+
+Mazdoor Kisan Shakti Sangathan 
+"The Right to Information, The Right to Live'' 
+
+
+
+IS 10075 (1981) : Start relay and overload protector for 
+resistance start induction run hermetic compressors [ETD 
+35: Power Systems Relays] 
+
+
+
+
+Jawaharlal Nehru 
+'Step Out From the Old to the New" 
+
+
+
+aj^&vi iJii^s:y%K^ isb^^ni^seg 
+
+
+
+:<>5&i| mT'5K^5?::5:^>^i»l 
+
+
+
+K^^^iXSVCd^ 
+
+
+
+Satyanarayan Gangaram Pitroda 
+Invent a New India Using Knowledge 
+
+
+
+Bhartrhari — Nitisatakam 
+''Knowledge is such a treasure which cannot be stolen" 
+
+
+
+
+^'^^^r 
+
+
+
+k 
+
+
+
+
+BLANK PAGE 
+
+
+
+^*-^^^ 
+
+
+
+
+
+PROTECTED BY COPYRIGHT 
+
+
+
+Indian Standard 
+
+
+
+( Reaffirmed 2001 ) 
+
+
+
+SPECIFICATION FOR 
+
+START RELAY AND OVERLOAD PROTECTOR 
+
+FOR RESISTANCE START INDUCTION 
+
+RUN HERMETIC COMPRESSOR 
+
+
+
+UDG e2i-316r925'4: 621-51 : C2l 56/59 
+
+
+
+
+© CQpyrtght \m 
+
+IPIPIAN STANDARDS INSTITUTION 
+MANAK HHAVAN. 9 BAHAnUK 8HAH ZAFAR MARC 
+
+NEW DELHI 110002 
+
+
+
+ll& : 10675 * 1981 
+
+Indian Standard 
+
+SPECIFICATION FOR 
+
+START RELAY AND OVERLOAD PROTECTOR 
+
+FOR RESISTANCE START INDUCTION 
+
+RUN HERMETIC COMPRESSOR 
+
+Relays Sectional Committee, ETDC 35 
+
+Chairman Representing 
+
+Shbi N. Nath English Electric Go of India Ltd, Madras 
+
+Members 
+Shri K. Ghakba-BArti ( Alternate to 
+ShriN.Nath) 
+Shbi R. D. Bath a Hindustan Steel Ltd, Ranchi 
+
+Shui S. K. Bandopadhyaya {Alternate) 
+Shri K. G. Bawa Delhi Electric Supply Undertaking, New Delhi 
+
+Deputy DmEOTOB ( PSl/TI ) Railway Board, New Delhi 
+
+[ Deputy Dibector Standards 
+( Eleg ) G 2 ] ( Alternate ) 
+Shei a. p. Dhandb Maharashtra State Electricity Board, Bombay 
+
+Shbi N. A. Joshi ( Alternate) 
+Director ( GIF ) Central Electricity Authority, New Delhi 
+
+Shbi K. L, Gabo Directorate General of Supplies & Disposals 
+
+( Inspection Wing J, New Delhi 
+Shri A. Gtjpta ( Alternate ) 
+Shbi S. Govind Appa Karnataka Electricity Board, Bangalore 
+
+Shbi R. K. Gupta Directorate General of Technical Development, 
+
+New Delhi 
+Shri D. P. Gupta ( Alternate ) 
+Shbi N. N. Kamra Haryana State Electricity Board, Chandigarh 
+
+Shri J, G. Jitneja ( Alternate ) 
+Shri V. S. Kaushikkau Larsen & Toubro Ltd, Bombay 
+
+Shbi Devbndeb Nath ( Alternate ) 
+Shri K. S. Madhavan Hindustan Brown Boveri Ltd, Vadodara 
+
+Shri P. U. Bhat ( Alternate ) 
+Shri E. J. MahAbleshwarwalla Bombay Electric Supply & Transport Undertaking, 
+
+Bombay 
+Shri S. G. Karadkar {Alternate) 
+
+{ Continued on page 2 ) 
+
+
+
+® Copyngkt 1982 
+INDIAN STANDARDS INSTITUTION 
+
+This publication is protected under the Indian Copyright Act (XIV of 1957) and 
+reproduction in whole or in part by any means except with written permission of the 
+publisher shall be deemed to be an infringement of copyright under the said Act. 
+
+
+
+IS : 1Q075 - 1981 
+
+{ Contimed from page 1 ) 
+
+
+
+Members Representing 
+
+Shbi G. K. Malaviya Universal Electrics Ltd, 24 Parganas 
+
+Shri G. Ghose {Alternate) 
+Shri B. G. MukherJee National Test House, Calcutta 
+
+Shbi D. P. MuKHERJB^ ( AUerrtat^ ) 
+Shri Nachhatter Singh Bbarat Heavy Electricals Ltd, Hyderabad 
+
+Shri Ramsubbiah ( 4^terrtaf« ) 
+
+Shri V. Rajjhakbishnan { Alternate ) 
+ShriJ. S. Negi Jyoti Ltd, Vadodara 
+
+Dr K. K. Thakkab ( Alternate ) 
+Shri B. S. Palki ASEA Electric India Pvt Ltd, Bombay 
+
+Shri A. Shah ( Alternate ) 
+Shbi a. K. Raja University of Roorkee, Roorkee 
+
+Shri A. M. Sahni Tata Hydro-Electric Power Supply Go Ltd, 
+
+Bombay 
+
+Shri V. S. Dobai {Alternate) 
+Shbi B. S. Shabma U. P. State Electricity Board, Lucknow 
+
+Shri G. N. Thadani Engineers India Ltd, New Delhi 
+
+Shri M. K. Das (Alternate ) 
+Shbi R. Venkataraman Tamil Nadu Electricity Board, Madras 
+
+Shbi A, P. Ramaswamy ( Alternate ) 
+Db R. P. Wadhwa National Physical Laboratory ( GSIR ), New 
+
+Delhi 
+Shri K. G. Ghhabra ( Alternate ) 
+Shri S. P. Saohdev, Director General, ISI ( Ex-qfficio Member ) 
+
+Director ( Elec tech ) 
+
+Secretary 
+
+Shr R. K. Monga 
+Deputy Director ( Elec tech ), ISI 
+
+Relays for AirGOnditioning and Refrigeration Equipment, 
+ETDG35/P7 
+
+Convener 
+Prof A. K. Mehta Kelvinator of India Ltd, Faridabad 
+
+Members 
+
+Shbi V. S, Ghandrasekhar ( Alternate to 
+Prof A. K. Mehta ) 
+Shbi G. Ananthanabayan Larsen & Toubro Ltd, Bombay 
+
+Shbi M. S. Dhabher Godrej & Boyce Manufacturing Co Ltd, Bombay 
+
+Shbi B. J. Wadia ( Alternate ) 
+Shri K. K. Kbswani 31 ue Star Ltd, Bombay 
+
+Shbi S, Madhava Rao The Hyderabad Allwyn Metal Works Ltd, 
+
+Hyderabad 
+
+Shbi Bhasear Narayak ( Alternate ) 
+Shbi Chaman Mahajan Ranutrol Ltd> New Delhi 
+
+Shbi Ashim Boss ( Alternate ) 
+Shbi V. K, Talwab Danfoss ( India ) Ltd, New Delhi 
+
+Dr K. K. Thakkab Jyoti Ltd, Vadodara 
+
+Dr B . K. Dasgupxa ( Alternate ) 
+
+
+
+IS : 10075 . 1981 
+
+Indian Standard 
+
+SPECIFICATION FOR 
+
+START RELAY AND OVERLOAD PROTECTOR 
+
+FOR RESISTANCE START INDUCTION 
+
+RUN HERMETIC COMPRESSOR 
+
+0. FOREWORD 
+
+0.1 This Indian Standard was adopted by the Indian Standards Institution 
+on 28 December 1981, after the draft finalized by the Relays Sectional 
+Committee had been approved by the Electrotechnical Division Council. 
+
+0.2 The function of this device is to operate as a starting device for the 
+resistance start-induction run ( RSIR ) motor of the refrigeration hermetic 
+compressor and also to disconnect in the shortest possible time power 
+supply to the compressor in the event of abnormal current drawn by the 
+compressor motor and/or overheating of the compressor motor under 
+abnormal operating conditions. 
+
+0.3 The design of the starting relay portion of this device is such as to 
+ensure satisfactory starting and running of the compressor motor over its 
+specified operating voltage range and operating conditions. The thermal 
+overload protector portion of the device is designed to protect the 
+compressor motor from damage in the event of overload conditions; it also 
+ensures avoidance of nuisance trippings in the specified operating range. 
+
+0,4 The start relay and overload protector combination unit covered 
+by this standard is one of the relays used in the domestic refrigerators, 
+water coolers, deep freezers, bottle coolers and other similar applications, 
+
+0.5 This standard provides guidance to the manufacturers and the users 
+for rating and testing the start relay and overload protector for hermetic 
+compressor, 
+
+0.6 IS : 9994-1981* has been prepared separately to cover potential relays 
+for capacitor start-capacitor run hermetic compressors. 
+
+0.7 For the purpose of deciding whether a particular requirement of this 
+standard is complied with, the final value, observed or calculated, 
+
+*Specification for potential relays for capacitor start-capacitor run hermetic 
+compressors. 
+
+
+
+IS : 10075 . 1981 
+
+expressing the result of a test or analysis^ shall be rcurdfd off in accord- 
+ance with IS : 2-1960*. The number of significant places retained in the 
+rounded off value should be the same as that of the specified value in this 
+standard. 
+
+
+
+1. SCOPE 
+
+1.1 This standard covers the requirements of start relay and overload 
+protector assembled either as a composite unit or mounted separately 
+outside the compressor shell. 
+
+1.2 This standard is applicable only to start relay and overload protector 
+used in conjunction with hermetic compressor which has split phase 
+resistance start-induction run motor ( RSIR ), 
+
+2. TERMINOLOGY 
+
+2.0 For the purpose of this standard, the following definitions in addition 
+to those given in IS : 1885 ( Part XVII )-1969t and IS : 1885 ( Part IX )- 
+
+1966J shall apply, 
+
+2.1 Pick<-Up Current of a Relay — The minimum increasing value of 
+current in the coil above which the relay contacts will close, 
+
+2.2 Drop-Out Current of a Relay — The maximum decreasing value 
+of current in the coil below which the relay contacts will open. 
+
+2.3 Overload Protector — A device consisting of a bimetal strip or disc 
+optionally in combination with a heating clement capable of automatically 
+disconnecting power to the hermetic compressor in case the compressor 
+motor is overloaded either due to heavy currents or overheat or both 
+during starting or running condition and automatically resets upon cooling 
+of the compressor and/or lowering of the overloading current. 
+
+2.4 Type Tests — Tests carried out to prove conformity to the require- 
+ments of this specification. They are intended to prove general quality 
+and design of a given type of relay. 
+
+2.5 Routine Tests — Tests carried out on each relay to check require- 
+ments likely to vary during production. 
+
+3. RATINGS 
+
+3.1 Rated Current — The value of the current marked on the relay upon 
+which its performance is based. It is the current in the coil of the relay 
+
+
+
+♦Rules for rounding off numerical values ( revised ). 
+tElectrotechnical vocabulary: Part XVII Switcht^ear and controlgear. 
+|Electrotecbnical vocabulary; Part IX Electrical relays. 
+
+
+
+IS: 10075 -1981 
+
+tor which the relay and the overload protector are intended to be used at 
+the rated voltage, 
+
+3.2 Maximum Pick-Up Current — The value of maximum pick-up 
+current of the start relay shall be as agreed to between the manufacturer 
+and the user. 
+
+3.3 Minimum Drop-Out Current — The value of the minimum drop- 
+out current of this start relay shall be as agreed to between the manu- 
+facturer and the user. 
+
+3.4 Locked Rotor Current — The value shall be as agreed to between 
+the manufacturer and the user. 
+
+4. DESIGN AND CONSTRUCTION 
+
+4.1 General 
+
+4.1.1 Material used shall be mechanically sturdy and electrically safe 
+and suitable for the particular application and shall be capable of with- 
+standing the mechanical and electrical tests specified in this standard. 
+
+4.1.2 All parts must be resistant to rusting and deterioration under 
+conditions of normal use, 
+
+4.2 Contacts 
+
+4.2.1 The electrical contacts of the overload protector shall be of snap 
+acting type. 
+
+4.2.2 The contacts of the start relay as well as the overload protector 
+shall have sufficient capacity to make, carry and break their respective 
+locked rotor current at 110 percent of the rated voltage. 
+
+4.2.3 Plug-in Contacts — The plug-in contact design of the combin- 
+ation and other units shall be such as to ensure easy snug fitting upon the 
+compressor glassmatic terminal pins to achieve proper contact resistance 
+and facilitate case of fitting or dismantling without damage or getting 
+loose in compressor during actual use, 
+
+4.3 Clearances and Creepage Distances — The clearances and cree- 
+page distances shall be as large as practicable and creepage distances 
+shall, wherever applicable, incorporate ridges, in order to break the 
+continuity of conducting deposits which may form. 
+
+4.4 Terminals 
+
+4.4.1 The terminals shall be of substantial mechanical construction and 
+shall provide adequate electrical contacts for the appropriate size of 
+conductors. 
+
+
+
+IS t 10075 « 1981 
+
+iA*2 The terminals shall be such that they do not turn or get displaced 
+when the connections are made. 
+
+4.4*3 The terminals shall be so mounted that the appropriate conductor 
+may be connected without impairing the safe performance of the unit. 
+
+4AA The relay ( combination unit ) may be provided with insulated 
+body cover to avoid electrical shock hazard due to accidental contact with 
+live terminals, 
+
+4-5 Overall Dimensions — The preferred overall dimensions for the 
+relay ( combination unit ) are given in Fig. L 
+
+
+
+rrr 
+
+
+
+SA max. 
+
+
+
+■ ^ 27 max. 
+
+
+
+tt-66^Q03 
+
+
+
+^ 
+
+
+
+
+
+
+\^ 
+
+
+
+SO max 
+
+
+
+/3 SOCKETS TO ENSURE GOOD ELECTRICAL 
+f CONTACT WITH PiNS OF DIAMETER 2-2ioi3 
+AND 7-K LENGTH 
+
+
+
+
+Fig. 1 
+
+
+
+All dimensions in millimetres. 
+
+Start Relay and Overload Protector ( Combination Unit) 
+
+
+
+5. OPERATING CONDITIONS 
+5.1 Limits of Operation 
+
+5.1.1 Pick-Up Current ( of the Start Relay ) 
+between the manufacturer and the user. 
+
+
+
+It shall be as agreed upon 
+
+
+
+5.1.2 Drop-Out Current ( of the Start Relay ) — It shall be as agreed 
+upon betv/een the manufacturer and the user. 
+
+5.2 Performance of the Overload Protector 
+
+5*2p1 Short Time Locked Rotor Trip Current {under Cold Conditions) at 
+21^C — The value of trip time at this current shall be as agreed upon 
+between the rnanufacturer and the user. 
+
+
+
+18:10075.1981 
+
+5.2.2 No-Current Trip Temperature — The value of the temperature at 
+which the overload protector trips, without carrying any current through 
+the protector, shall be as agreed upon between the manufacturer and the 
+user. 
+
+5.2.3 Ultimate Trip Current of the Overload Protector — The value of the 
+ultimate trip current at specified temperature shall be as agreed upon 
+between the manufacturer and the user. The value shall be considered 
+at the steady state temperature in the temperature rise condition. 
+
+5.2.4 When the overload protector has stabilized to a steady state 
+temperature or predetermined temperature as may be agreed upon 
+between the manufacturer and the user, it shall comply with the require- 
+ments given in 7.6.2, 7.6.3 and 7.6.4. 
+
+6. MARKING 
+
+6.1 Marking on the device shall be visible and indelible and shall be on 
+the name-plate or on the body. 
+
+6.2 Each start relay and overload protector shall be marked with the 
+following: 
+
+a) Manufacturer's name or trade-mark, 
+
+b) Type designation or serial number, 
+
+c) Rated voltage, 
+
+d) Mounting position indicating * top *, and 
+
+e) Country of manufacture, 
+
+6.3 The device may also be marked with the ISI Certification Mark. 
+
+Note — The use of the ISI Certification Mark is governed by the provisions of 
+the Indian Standards Institution ( Certification Marks ) Act and the Rules and 
+Regulations made thereunder. The ISI Mark on products covered by an Indian 
+Standard conveys the assurance that they have been produced to comply with the 
+requirements of that standard under a weU-defined system of inspection, testing and 
+quality control which is devised and supervised by ISI and operated by the 
+producer. ISI marked products are also continuously checked by ISI for conformity 
+to that standard as a further safeguard. Details of conditions under which a licence 
+for the use oi the ISI Certification Mark may be granted to manufacturers or 
+processors, may be obtained from the Indian Standards Institution. 
+
+7. TESTS 
+
+7*0 General Conditions of Tests 
+
+a) Unless specified otherwise in the individual clause, the ambient 
+temperature shall be 43 i 1°G. 
+
+b) Unless specified or stated otherwise by the manufacturer, each 
+type test shall be carried out on a clean and new device. 
+
+
+
+IS ; 10075 - 1981 
+
+c) Ail the tests shall be done at rated frequency for which the device 
+is intended. 
+
+d) For tests, the device shall be mounted and installed as indicated 
+by the manufacturer. The details of installation (type and size 
+of enclosure, if any, size of conductor, etc ) shall be indicated in 
+the test report* 
+
+7.1 Type Tests — The following shall constitute the type tests: 
+
+a) Insulation test ( 7.4 ); 
+
+b) Test for operating limits of the start relay ( 7.5 ); 
+
+c) Test for operating limits and characteristics of overload prote- 
+ctor ( 7.6 ); 
+
+d) Test for mechanical endurance ( 7.7 ); 
+
+e) Test for electrical endurance ( 7.8 ); 
+
+f) Make, carry and breaking current capacity of the contacts 
+[ pocked rotor current ] ( 7.9 ); and 
+
+g) Bump test ( under consideration ) ( 7.10 ). 
+
+7.2 Routine Tests — The following shall constitute the routine tests:. 
+
+a) Insulation tests ( 7.4 ); 
+
+b) Test for operating limits of the start relay ( 7.5 ); 
+
+c) Test for operating limits of the overload protector ( 7.6 ); and 
+
+d) Short time locked rotor trip current ( cold conductor ) ( 5.2.1 ). 
+
+7.3 Acceptance Tests — The sampling procedure for acceptance tests 
+shall be as agreed upon between the manufacturer and the user* 
+
+7.3.1 The following shall constitute the acceptance tests: 
+
+a) Insulation tests ( 7.4 ); 
+
+b) Test for operating limits of start relay ( 7*5 ); 
+
+c) Test for operating trip ^ OFF ' timings of the overload protector 
+limits ( 7.6 ); and 
+
+d) Verification of make, carrry and breaking current capacity of 
+the contacts ( locked rotor currents ) ( 7.9 ). 
+
+7.4 Insulation Test 
+
+7.4.1 Condition of the Device for Test — Apart from the general conditions 
+specified in 7.0, the additional conditions shall be as follows: 
+
+a) When the dielectric strength of the device is dependent upon the 
+taping of leads or the use of special insulation, such taping or 
+special insulation shall also be used during the test. 
+
+$ 
+
+
+
+IS ! 10075 . 1981 
+
+
+
+b) Metallic parts shall be placed at all the fixing points in accord- 
+ance with the conditions of normal installation of the device and 
+these parts shall be considered as a part of the frame of the 
+device. 
+
+7.4.2 The test voltage shall be applied for 1 minute between: 
+
+a) all the incoming and outgoing terminals connected together and 
+the frame, 
+
+b) the incoming and the outgoing terminals of the relay contacts, and 
+
+c) the incoming terminals. 
+
+The incoming and outgoing terminals of the device are shown in 
+
+
+
+Fig. 2. 
+
+
+
+OVERLOAD 
+
+PROTECTOR 
+
+
+
+INCOMING 
+
+TERMINALS 
+
+POWER SUPPLY 
+
+
+
+hjit- 
+
+
+
+^ 
+
+
+
+START COIL 
+
+
+
+CONTACT 
+
+
+
+TO MAIN 
+WINDING 
+
+
+
+TO START 
+WINDING 
+
+
+
+OUTGOING 
+^TERMINALS TO 
+COMPRESSOR 
+
+
+
+Fig. 2 Illustration of Incoming and Outgoing Terminals of 
+Relay and Overload Protector ( Combination Unit ) 
+
+
+
+7.4.3 The test vohage shall be of sinusoidal waveform and shall have a 
+frequency between 40 and 60 Hz. The test voltage for type tests shall be 
+2 U + I 000 V rms applied for a period of 1 minute, where U is the rated 
+voltage. For the purpose of routine test, a voltage of 2'5 kV rms shall be 
+applied for a period of 1 second, 
+
+7.5 Test for Operating Limits of the Start Relay 
+
+7.5.1 The device shall be mounted as required for normal service. 
+This test shall be carried out at an ambient temperature of 27 ± 2'*C. 
+
+7.5.2 Pick-Up Current — Starting from zero, the current in the relay coil 
+shall be increased gradually until it picks up and this value of pick-up 
+current shall be within the limits stated in 5.1.1. The closing of the relay 
+contacts shall be swift and chatter-free. 
+
+7.5.3 Drop-Out Current — Th^ current in the relay core after pick-up 
+shall be decreased gradually and the drop-out current shall be recorded 
+
+
+
+IS: 10075 -1981 
+
+which shall be within the limits stated in 5.I.2. The opening of the relay 
+contact shall be swift and chatter-free. 
+
+7.5 Test for Operating Linuts aad Characteristics of Overload 
+Protector 
+
+7.6.1 The unit under test should be complete and duly assembled with 
+its cover shall be mounted in an oven. The position of the device shall 
+be in accordance with the actual service conditions. Cables of proper 
+size as agreed upon between the manufacturer and the user shall be used 
+while determining the characteristics of the overload protector. 
+
+7.6.1.1 Test oven — The test oven shall maintain uniform tempera- 
+ture inside the heating cabinet. The total temperature variation in 
+the cabinet where the overload protector is tested shall not exceed 2°G 
+when measured at two extreme corners, such as front bottom right hand 
+and rear top left hand corners. Any air circulation, hot or otherwise, 
+shall be controlled in such a way that no cold or hot air pockets are created 
+in the oven. Continuous and uniform heating of the oven shall be 
+maintained. The initial rate of uniform temperature rise in the test 
+chamber shall be not more than 5"G per minute until a temperature 5°C 
+below the required temperature is reached. Thereafter, the rate of heating 
+shall be so controlled that the temperature rise shall not be more than 
+0*5°C per minute. The final test temperature shall be maintained wuthin 
+±VC of the temperature stated in 5.2.1. 
+
+7.6.2 Test for No'Current Trip Temperature — The device shall be kept in 
+the oven mounted as for normal service and its temperature shall be 
+increased gradually as given in 7.6.1.1. The protector shall trip within the 
+limits stated for no-current trip temperature. 
+
+7.6.3 Test for Reset Temperature — In the test for no-current trip tempera- 
+ture ( see 7.6.2 ) after the device trips, the oven shall be switched off and 
+allowed to cool gradually at a rate not more than 1°G per minute. The 
+temperature at which the protector resets shall be recorded and it shall 
+be within the limits stated by the manufacturer. 
+
+7.6.4 Test for Verification of Trip Characteristic of the Overload Protector — 
+The test shall be carried out to check the conformity to 5.2, The method 
+of test shall be as agreed upon between the manufacturer and the user. 
+
+7.7 Mechanical Endurance Test 
+
+7.7.1 Start Relay — The relay shall be mounted as for normal service 
+and energized at its rated locked rotor current at a frequency of operation 
+to be stated by the manufacturer. The period of energization of the relay 
+shall be greater than the starting time of the motor with which it is 
+intended to be used. The relay shall withstand satisfactorily 500 000 
+
+10 
+
+
+
+IS : 10075 - 1981 
+
+energization operations without failure. During this test, the relay 
+contacts shall not carry any current. 
+
+At the end of the mechanical endurance test, the pick-up/drop-out 
+currents shall be checked and compared with the initial values obtained. 
+The deviations in the values shall not exceed ± 5 percent. 
+
+7,7.2 Pmh'On and Pull-Out Force Test { Applicable to Plug-in Contact 
+Relays ) — The plug-in type relays shall be pushed on to the plug on the 
+compressor body. The push-on force for the first insertion shall not 
+exceed 15 kgf. The relay shall be tested to withstand 20 insertions and 
+withdrawals on the compressor body without damage. At the end of the 
+test, the pull-out force for withdrawal of the contacts shall not be less 
+than 2-5 kgf. 
+
+7.8 Test for Electrical Endurance of Contacts 
+
+7.8.1 The relay shall be mounted as for the normal service. The 
+contacts shall be tested for compliance with the ratings. The contacts 
+shall make or break the current, voltage and power factor of a test circuit 
+simulating the actual service conditions. The test shall be carried out at 
+the rate of 5 operations per minute. The contacts shall work satisfactorily 
+for a minimum of 100 000 operations without excessive burning or pitting 
+of the contacts. 
+
+7.9 Make, Carry and Break Current Capacity of Contacts ( Locked 
+Rotor Current ) 
+
+7.9.1 The relay shall be connected in a test circuit to achieve the stated 
+values of make, carry and break current. The voltage shall be 90 percent 
+of the rated voltage of the relay. The duration of test shall be 15 days 
+or 50 000 cycles of operation of opening and closing of the relay contacts, 
+whichever is higher. At the end of the test, the maximum deviation from 
+the initial values of no-current trip temperature and reset temperature 
+shall not be more than ±7 percent. Also, no excessive burning or 
+pitting of the overload and start relay contacts shall take place. 
+
+7.9.1.1 At the end of 12 500 operations (25 percent of the test 
+operations), a check shall be made for the values of no-currents trip 
+temperature and reset temperature. If these values differ by more 
+than 7*0 percent of the initial values, further testing shall be suspended. 
+
+Note — This test shall be carried out at an ambient tecnperatare of 3^°0. 
+
+7»10 Bump Test — Under consideration. 
+
+
+
+U 
+
+
+
+INDIAN StANDAUD^ 
+
+ON 
+
+RELAYS 
+
+IS: 
+
+1885 Electrotechnical vocabulary 
+
+Part IX-1966 Electrical relays 
+
+Part X-1968 Electrical power system protection 
+3231-1965 Electrical relays for power system protection 
+3637-1966 Gas-operated relays 
+
+3638-1966 Application guide for gas-operated relays 
+3842 Application guide for electrical relays for ac systems: 
+
+Part 1-1967 Overcurrent relays for feeders and transformers 
+
+Part 11-1966 Overcurrent relays for generators and motors 
+
+Part III-1966 Phase unbalance relays including negative phase sequence relays 
+
+Part lV-1966 Thermal relays 
+
+Part V-1968 Distance protection relays 
+
+Part VI-1972 Power relays 
+
+Part VII- 1972 Frequency relays 
+
+Part VIII-1976 Voltage relays 
+
+Part IX-1977 Relays for busbar protection 
+
+Part X-1976 Relays for transverse differential protection 
+
+Part XII-1976 Differential relays for transformers 
+4483 ( Parti )-1968 Preferred panel cutout dimensions for electrical relays: 
+
+Part I Flush mounting IDMTL relays 
+5834 Electrical timer relays for industrial purposes; 
+
+Part 1-1973 Pneumatic 
+
+Part 11-1973 Motorized 
+
+Part IIM981 Electronic 
+8686-1977 Static protective relays 
+
+8714-1978 Electrical protective relays for use in seismic areas 
+9124-1979 Guide for maintenance and field testing of electrical relays 
+
+
+

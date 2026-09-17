@@ -1,0 +1,1012 @@
+**************** 
+
+
+
+-k t^^ 
+
+
+
+
+Disclosure to Promote the Right To Information 
+
+Whereas the Parliament of India has set out to provide a practical regime of right to 
+information for citizens to secure access to information under the control of public authorities, 
+in order to promote transparency and accountability in the working of every public authority, 
+and whereas the attached publication of the Bureau of Indian Standards is of particular interest 
+to the public, particularly disadvantaged communities and those engaged in the pursuit of 
+education and knowledge, the attached public safety standard is made available to promote the 
+timely dissemination of this information in an accurate manner to the public. 
+
+
+
+
+Mazdoor Kisan Shakti Sangathan 
+"The Right to Information, The Right to Live'' 
+
+
+
+^^^Eii^^^^^tt^i iil%k^K>S :^^S^T<^^ 
+
+
+
+IS 1000 (1989) : Milk and Milk Products 
+[FAD 19: Dairy Products and Equipment] 
+
+
+
+
+Jawaharlal Nehru 
+'Step Out From the Old to the New" 
+
+
+
+Lactose Commercial 
+
+
+
+aj^&vi iJii^s:y>K^ isb^^ni^seg 
+
+
+
+:<>5&i| mT'5K^5?::5:^>^i»l 
+
+
+
+K^^^iXSVCd^ 
+
+
+
+Satyanarayan Gangaram Pitroda 
+Invent a New India Using Knowledge 
+
+
+
+Bhartrhari — Nitisatakam 
+''Knowledge is such a treasure which cannot be stolen" 
+
+
+
+
+^'^^^r 
+
+
+
+k 
+
+
+
+
+BLANK PAGE 
+
+
+
+^*-^^^ 
+
+
+
+
+
+PROTECTED BY COPYRIGHT 
+
+
+
+IS 1000 : 1989 
+
+Indian Standard ( Reaffirmed ^^99<) 
+
+MILK AND MILK PRODUCTS — LACTOSE 
+COMMERCIAL - SPECIFICATION 
+
+( First Revision ) 
+
+1^ sfh: fig ;3?n5 — #^it3T, ^i<t44ir^4. — firftrfe 
+( T^^ ^Tft^PTT ) 
+
+
+
+First Reprint JANUARY 1992 
+
+
+
+UDC 664.135 
+
+
+
+© BIS 1989 
+
+BUREAU OF INDIAN STANDARDS 
+
+MANAK BHAVAN, 9 BAHADUR SHAH ZAFAR MARG 
+NEW DELHI 110002 
+
+7m/ V 1989 Price Group 2 
+
+
+
+Dairy Products Sectional Committee, AFDC 34 
+
+
+
+FOREWORD 
+
+This Indian Standard ( First Revision ) was adopted by the Bureau of Indian Standards on 25 January 
+1989, after the draft finalized by the Dairy Products Sectional Committee had been approved by the 
+Agricultural and Food Products Division Council. 
+
+Lactose is manufactured from the whey remaining after the manufacture of casein, cheese or chhana 
+from milk. The whey is acidified, if not already acidic; heated to boiling and filtered. The clear 
+liquid is concentrated in vacuum pans at about 60°C until the solid content is about 60 percent 
+when the crystallization is allowed to take place. The first crop of crystals is drained in a hydro- 
+extractor and refined by recrystallization in the presence of a little bone black. 
+
+Lactose finds its use in dietary foods and pharmaceutical products^ and has been found specially useful 
+in penicillin production as a constituent of the fermentation medium. This standard mainly covers 
+commercial lactose used in dietary foods and for the production of penicillin. 
+
+This standard was first published in 1959, keeping in view the manufacturing, trade and technological 
+procedures followed in the country at that time. 
+
+The standard has now been revised and updated to bring the requirements in line with the International 
+Codex Standard for Lactose ( Codex Standard 11-1981 ) published by the Codex Alimentarius Com- 
+mission. In this revision, the requirement for lactose has been revised and those for ash, acidity and 
+fat have been deleted and the requirements for /^H, sulphated ash and moisture have been introduced. 
+The requirement for lead ( Pb ) has also been modified. Since the product finds a good use in con- 
+fectionary, microbial requirements have also been introduced. 
+
+While formulating this standard, due consideration has been given to the relevant Rules prescribed by 
+the Government of India under the Prevention of Food Adulteration Act, 1954 ?iViAihs Standard of 
+Weights and Measures ( Packaged Commodities ) Rules^ . 1977 This standard is however, subject to 
+the restrictions imposed under these, wherever applicable. 
+
+For the purpose of deciding whether a particular requirement of this standard is complied with, the 
+final value, observed or calculated, expressing the result of a test or analysis, shall be rounded off in 
+accordance with IS 2 : 1960 'Rules for rounding off numerical values {revised)'. The number of 
+significant places retained in the rounded off value should be the same as that of the specified value in 
+this standard. 
+
+
+
+IS 1000 : 1989 
+
+
+
+Indian Standard 
+
+
+
+MILK AND MILK PRODUCTS — LACTOSE 
+COMMERCIAL - SPECIFICATION 
+
+f First Revision J 
+
+
+
+1 SCOPE 
+
+This standard prescribes the requirements and the 
+method of test for commercial lactose. It does not 
+cover lactose used in pharmaceutical products. 
+
+2 REFERENCES 
+
+The following Indian Standards are necessary 
+adjuncts to this standard. 
+
+
+
+IS No. 
+IS 460 ( Part 1 ) : 
+
+IS 1070 : 1977 
+
+IS 1479 ( Part 2 ) 
+
+IS 1679 : 1960 
+
+
+
+Title 
+
+1985 Specification for test 
+sieves: Part I Wire cloth 
+test sieves ( third revision ) 
+
+Specification for water 
+for general laboratory 
+use 
+
+: 1961 
+
+
+
+Methods of test for daiiy 
+industry : Part 2 Chemi- 
+cal analysis of milk 
+
+Method for determina- 
+tion of moisture content 
+in milk powder and 
+similar products 
+
+IS 5887 ( Part 1 ) : 1976 Methods for detection of 
+
+bacteria responsible for 
+food poisoning: Part 1 
+Isolation, identification 
+and enumeration of 
+Escherichia coli ( first 
+revision ) 
+
+IS 5887 ( Part 3 ) : 1976 Methods for detection of 
+
+bacteria responsible for 
+food poisoning : Part 3 
+Isolation, identification of 
+Salmonella and Shigella 
+( first revision ) 
+
+IS 11623: 1986 Method for determina- 
+
+tion of moisture content 
+in milk powder and 
+similar products 
+
+3 REQUIREMENT 
+3.1 Description 
+
+The material shall be obtained from the whey of 
+milk of cow or buffalo or mixture thereof. It shall 
+be in the form of a crystalline powder, white to 
+
+
+
+pale yellow in colour, nearly odourtess, free from 
+dirt or other foreign matter. It shall not be musty 
+or rancid, 
+
+3.2 Particle Size 
+
+The material shall pass through a 250 fim IS 
+sieve [ see IS 460 ( Part 1 ) : 1985 ]. 
+
+3.3 The material shall also comply with the 
+requirements given in Table 1. 
+
+4 PACKING AND MARKING 
+
+4.1 PackiiQ 
+
+The material shall be packed in clean and sound, 
+tin or glass containers or cardboard cartons or 
+paper bags in such a way as to protect it from 
+deterioration. If packed m cardboard cartons or 
+paper bags, there shall be a lining of polyethylene 
+or grease proof paper. 
+
+4.2 Marking 
+
+The following information shall be marked legibly 
+and indelibly on each container: 
+
+a) Name of the material, 
+
+b) Name of the manufacturer, 
+
+c) Batch or code number, 
+
+d) Net weight, and 
+
+e) Any other requirement under \}pi& Standards 
+of Weights and Measures (Packaged Commo- 
+dities) Rules, 1977. 
+
+5 SAMPLING 
+
+Representative samples of the product shall be 
+drawn and tested for conformity to this standard 
+as prescribed in Annex C. 
+
+6 TESTS 
+
+6.1 Tests shall be carried out as prescribed in the 
+appropriate Annexes and Indian Standards given 
+in col 4 and 5 of Table 1 . 
+
+6.2 Quality of Reagents 
+
+Unless specified otherwise, pure chemicals and 
+distilled water {see IS 1070 : 1977) shall be 
+employed in tests. 
+
+NOTE — 'Pure chemicals' shall mean chemicals 
+that do not contain impurities which affect the result 
+of analysis* 
+
+
+
+IS 1000 : 1989 
+
+
+
+Table 1 Reqairements for Lactose, Commercial 
+
+{Clause 3.3) 
+
+
+
+SI No. 
+
+
+Characteristic 
+
+
+Requirement 
+
+
+Method of Test, Ref to Annex of 
+
+■ , A- 
+
+
+
+
+This Standard 
+
+
+Other Indian Standards 
+
+
+(1) 
+
+
+(2) 
+
+
+(3) 
+
+
+(4) 
+
+
+(5) 
+
+
+i) 
+
+
+Lactose ( on dry basis ), percent 
+by mass, Min 
+
+
+990 
+
+
+— 
+
+
+13ofIS1479(Part2):1961 
+
+
+ii) 
+
+
+Moisture, percent by mass. Max 
+
+a) For lactose, monohydrate 
+
+b) For lactose, anhydrous 
+
+
+S'5 
+10 
+
+
+
+
+IS 11623 : 1986 
+
+
+iii) 
+
+
+Suiphated ash ( on dry basis ), 
+percent by mass, Max 
+
+
+0-2 
+
+
+— 
+
+
+Appendix G of IS 1679 : 1960 
+
+
+iv) 
+
+
+pH ( of 10 percent solution ) 
+
+
+40-6-5 
+
+
+A 
+
+
+
+
+V) 
+
+
+Specific rotation 
+
+
+520-52-6 
+
+
+B 
+
+
+
+
+vi) 
+
+
+Nitrogen, percent by naass. Max 
+
+
+005 
+
+
+— 
+
+
+7 of IS : 1479 ( Part 2 ) : 1961 
+
+
+vii) 
+
+
+Arsenic ( As ) mg/kg. Max 
+
+
+1 
+
+
+— 
+
+
+Appendix J of IS 1679 : 1960 
+
+
+viii) 
+
+
+Lead ( Pb ) mg/kg. Max 
+
+
+2 
+
+
+— 
+
+
+Appendix K of IS 1679: 1960 
+
+
+ix) 
+
+
+fco/i, per 01 g 
+
+
+Absent 
+
+
+— 
+
+
+IS 5887 ( Part 1 ) : 1976 
+
+
+X) 
+
+
+Salmonella^ per 0*1 g 
+
+
+Absent 
+
+
+— 
+
+
+IS 5887 ( Part 3 ) : 1976 
+
+
+
+A-l GENERAL 
+
+
+
+ANNEX A 
+
+[ Clause 33, Table 1, Item ( iv ) ] 
+
+DETERMINATION 0¥ pH 
+
+
+
+The pH of the commercial lactose is determined 
+with a pH meter. 
+
+A'2 APPARATUS 
+
+A-2.1 />H Meter with Glass Electrode^ capable of 
+reading with an accuracy of ± 0*01. 
+
+A-2.2 Resistance glass glassware 
+
+A.3 REAGENTS 
+
+A-3.1 Water 
+
+Use distilled water ofpH 6*2 to 7'0. Boil it for 
+about 10 minutes and cool to room temperature 
+
+
+
+immediately before use. Redistill the water in an 
+all-glass apparatus if the pH does not He within 
+this range. 
+
+A-3.2 Buffer Solutions 
+
+A-4 PROCEDURE 
+
+A-4,1 Standa^xlize the pH meter with suitable 
+buffer soIutionS^, Rinse the electrodes with distilled 
+water and leave for 5 minutes. 
+
+A-4.2 Measure the pH of 10 percent solution of 
+lactose by immersing the electrodes in the solution 
+and taking the reading after 5 minutes. 
+
+A-4.3 Express the result as pH to the nearest 
+0-01 pH. 
+
+
+
+IS 1000 : 1989 
+
+
+
+ANNEX B 
+
+[ Clause 3.3, Table 1, Item ( v ) ] 
+DETERMINATION OF SPECIFIC ROTATION 
+
+
+
+B-1 PROCEDURE 
+
+
+
+Accurately weigh 1000 g of the sample and 
+dissolve it in a beaker in about 60 ml water. Cover 
+with a watch glass and boil for 15 minutes. 
+Allow to cool, add a few drops of dilute 
+ammonium hydroxide of spgr 0*96 and make up to 
+100 ml in a volumetric flask. Measure the optical 
+rotation at 20°C. 
+
+
+
+B-2 CALCULATION 
+
+B-2.1 Specific rotation, degree(s) = 100 a 100 
+
+where '^ ^ 
+
+a = observed optical rotation in degrees. 
+/ = length of tube in decimetres, 
+c = weight in g of sample dissolved in 100 ml 
+
+of water. 
+w — percentage of lactose in the material. 
+
+
+
+APWEX C 
+( Clause 5 ) 
+SAMPLING OF LACTOSE 
+
+
+
+C-1 GENERAL REQUIREMENTS OF 
+SAMPLING 
+
+In drawing, preparing, storing and handling 
+samples, the following precautions and directions 
+shall be observed. 
+
+C-1.1 Samples shall be taken in a protected place 
+not exposed to damp air, dust or soot. 
+
+C-1.2 The sampling instruments shall be clean 
+and dry when used. 
+
+C-1.3 Precautions shall be taken to protect the 
+samples, the material being sampled, the sampling 
+instrument, and the containers for samples, from 
+adventitious contamination. 
+
+C-1. 4 The samples shall be placed in clean and 
+dry glass containers. The sample containers shall 
+be of such a size that they are almost completely 
+filled by the sample. 
+
+C-1. 5 Each container shall be sealed air-tight after 
+filling, and marked with full details of sampling, 
+date of sampling, batch or code number, name of 
+the manufacturer and other important particulars 
+of the consignment. 
+
+C-I.6 Samples shall be stored in such a manner 
+that the temperature of the material does not vary 
+unduly from the normal temperature. 
+
+C-1.7 Sampling shall be done by a person agreed 
+to between the purchaser and the vendor, and in 
+the presence of the purchaser ( or his representa- 
+tive) and the vendor ( or his representative ). 
+
+C-2 SCALE OF SAMPLING 
+
+C-2.1 Lot 
+
+All the containers ia a single consignment of the 
+
+
+
+material drawn from a single batch of manufacture 
+shall constitute the lot. If the consignment is 
+declared to consist of different batches of manu- 
+facture, the batches shall be marked separately 
+and the groups of containers in each batch shall 
+constitute separate lots, 
+
+C-2.2 Gross Sample 
+
+For the purpose of drawing samples for tests, a. 
+number of containers shall be selected at random 
+from a lot. This number of containers in relation 
+to the size of the lot, or the scale of sampling, 
+shall be subject to an agreement between the 
+purchaser and the vendor. As a guide to such an 
+agreement, a scale of the size of the sample is 
+suggested in Table 2. 
+
+Table 2 Minimum Number of Containers to 
+
+be Selected for Sampling from Yarious 
+
+Sizes of Lots 
+
+
+
+
+
+( Cfause C-2.2 ) 
+
+
+
+
+Lot Size 
+
+
+Sample Size 
+
+
+(U 
+
+
+
+
+(2) 
+
+
+2 to 
+
+
+8 
+
+
+
+
+2 
+
+
+9 to 
+
+
+27 
+
+
+
+
+3 
+
+
+28 to 
+
+
+64 
+
+
+
+
+4 
+
+
+65 to 
+
+
+125 
+
+
+
+
+5 
+
+
+126 to 
+
+
+216 
+
+
+
+
+6 
+
+
+217 to 
+
+
+343 
+
+
+
+
+7 
+
+
+344 to 
+
+
+512 
+
+
+
+
+8 
+
+
+513 to 
+
+
+729 
+
+
+
+
+9 
+
+
+730 to 1 000 
+
+
+
+
+10 
+
+
+1 001 to 
+
+
+1 331 
+
+
+
+
+11 
+
+
+
+IS 1000 : 1989 
+
+
+
+C-^ TEST SAMPLES AND REFEREX SAMPLE 
+
+C-3.1 Preparation 
+
+To prepare a set of test samples, draw with an 
+appropriate sampling instrument, from each 
+container in the gross sample, not less than 0*75 kg 
+of the material and mix thoroughly to form a 
+composite sample of that container. Divide the 
+composite sample of each container into three 
+equal parts, each being a reduced sample for that 
+container. A set of such reduced samples, consist- 
+ing of one reduced sample from each container, 
+shall constitute the test sample. 
+
+C-3.2 Three sets of test samples, each sample being 
+not less than 0'25 kg, shall be transferred imme- 
+diately to thoroughly clean and dry containers, and 
+sealed air-tighl. These shall be labelled with 
+particulars given in C-1.5. One set of test samples 
+shall be sent to the purchaser and one to the 
+vendor. 
+
+C-3 J Referee Sample 
+
+The third set of test samples, bearing seals of the 
+purchaser and the vendor, shall constitute the 
+referee sample, to be used in case of dispute 
+between the purchaser and the vendor. It shall be 
+
+
+
+kept at place agreed to between the purchaser and 
+the vendor. 
+
+C-4 TEST FOR CONFORMITY 
+
+C-4.1 Examination and Tests 
+
+The purchaser may examine and test each of the 
+reduced samples constituting a test sample sepa- 
+rately for compliance with the requirements of 
+this standard or he may prepare, for the purpose 
+of such examination, and at any stage of the 
+progress of the examination, a composite samples 
+representative of the whole lot, by mixing all the 
+reduced samples constituting the test sample. 
+
+C-4.2 Criterion for Conformity 
+
+If, on*examination and testing, all the individual 
+reduced samples in a test sample or the composite 
+sample are found to comply with the requirements 
+of this standard, the lot shall be considered to have 
+conformed to this specification. If some of the 
+individual reduced samples do not comply with the 
+requirements of this standard and the results vary 
+from one reduced sample to another, the criterion 
+forjudging the quality of lot on the basis of results 
+obtained shall be at the discretion of the purchaser 
+unless otherwise previously agreed to between the 
+purchaser and the vendor. 
+
+
+
+Standard Mark 
+
+The use of the Standard Mark is governed by the provisions of the Bureau of Indian 
+Standards Act, 1986 and the Ru'ss and Regulations made thereunder. The Standard Mark on 
+products covered by an Indian Standard conveys the assurance that they have been produced 
+to comply with the requirements of that standard under a well defined system of inspection, 
+testing and quality control which is devised and supervised by BIS and operatjed by the 
+producer. Standard marked products are also continuously checked by BIS for Conformity 
+to that standard as a further safeguard. Details of conditions under which a licence for the 
+use of the Standard Mark may be granted to manufacturers or producers may be obtained 
+from the Bureau of Indian Standards. 
+
+
+
+Bareaa of Indian Standards 
+
+BIS is a statutory institution established under the Bureau of Indian Standards Act^ 1986 to promote 
+harmonious developmerit of the activities of standardization, marking and quality certification of 
+goods and attending to connected matters in the country. 
+
+Copyright 
+
+BIS has the copyright of all its publications. No part of these publications may be reproduced in 
+any form without the prior permission in writing of BIS. This does not preclude the free use, in 
+the course of implementing the standard, of necessary details, such as symbols and sizes, type or 
+grade designations. Enquiries relating to copyright be addressed to the Director ( Publication ), BIS. 
+
+Revision of Indian Standards 
+
+Indian Standards are reviewed periodically and revised, when necessary and amendments, if any, 
+are issued from time to time. Users of Indian Standards should ascertain that they arc in 
+possession of the latest amendments or edition. Comments on this Indian Standard may be sent 
+to BIS giving the following reference : 
+
+
+
+Doc: No. AFDC 34 (3036) 
+
+
+
+Amendments Issued Since Publicatioo 
+
+
+
+Amend No. 
+
+
+
+Date of Issue 
+
+
+
+Text Affected 
+
+
+
+BUREAU OF INDIAN STANDARDS 
+
+
+
+Headquarters : 
+
+
+
+Manak Bhavan, 9 Bahadur Shah Zafar Marg, New Delhi 1100C2 
+Telephones: 331 01 31, 33113 75 
+
+Regional Offices : 
+
+Central : Manak Bhavan, 9 Bahadur Shah 2^far Marg 
+NEW DELHI 110002 
+
+Eastern : 1/14 C.I.T. Scheme VII M, V.I.P. Road, Maniktola 
+CALCUTTA 700054 
+
+Northern : SCO 445-446, Sector 35-C. CHANDIGARH 160036 
+
+Southern : C.I.T. Campus. IV Cross Road, MADRAS 600113 
+
+« 
+Western : Manakalaya, E9 MIDC, Marol, Andheri ( East ) 
+BOMBAY 400093 
+
+
+
+Telegrams : Manaksaostha 
+( Common to all OflScea ) 
+
+Telephone 
+
+f 331 01 31 
+I 331 13 75 
+
+
+
+37 86 62 
+53 38 43 
+
+235 02 16 
+
+
+
+6 32 92 95 
+
+
+
+Branches : AHMADABAD. BANGALORE. BHOPAL. BHUBANESHWAR. 
+COIMBATORE. FARIDABAD. GHAZIABAD. GUWAHATI. 
+HYDERABAD. JAIPUR. KANPUR. PATNA. THIRUVANANTHAPURAM. 
+
+
+
+Reprography Unit, BIS. New Delhi. India 
+
+
+

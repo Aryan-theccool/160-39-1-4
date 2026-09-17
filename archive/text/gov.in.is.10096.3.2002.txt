@@ -1,0 +1,1110 @@
+**************** 
+
+
+-k  is^ 
+
+
+Disclosure  to  Promote  the  Right  To  Information 
+
+Whereas  the  Parliament  of  India  has  set  out  to  provide  a  practical  regime  of  right  to 
+information  for  citizens  to  secure  access  to  information  under  the  control  of  public  authorities, 
+in  order  to  promote  transparency  and  accountability  in  the  working  of  every  public  authority, 
+and  whereas  the  attached  publication  of  the  Bureau  of  Indian  Standards  is  of  particular  interest 
+to  the  public,  particularly  disadvantaged  communities  and  those  engaged  in  the  pursuit  of 
+education  and  knowledge,  the  attached  public  safety  standard  is  made  available  to  promote  the 
+timely  dissemination  of  this  information  in  an  accurate  manner  to  the  public. 
+
+"^^  ^  ^  ^  %  ?R^" 
+
+Jawaharlal  Nehru 
+
+Step  Out  From  the  Old  to  the  New 
+
+
+^^iiT'jsiS'SfS^^i^*?*:: 
+
+
+•^■•■^^^■r 
+
+
+li^  i/ir  w  w  w  w  w  WW  ^  ^  ^  tIt  w  w  w 
+
+
+BLANK  PAGE 
+
+
+^<ii^ 
+
+
+UI> 
+
+
+PROTECTED  BY  COPYRIGHT 
+
+
+IS  10096  (Part  3):  2002 
+
+Indian  Standard 
+
+RECOMMENDATIONS  FOR  INSPECTION, 
+
+TESTING  AND  MAINTENANCE  OF 
+RADIAL  GATES  AND  ROPE  DRUM  HOISTS 
+
+PART  3  AFTER  ERECTION 
+
+(  Second  Revision  ) 
+
+
+ICS  93.160 
+
+
+©  BIS  2002 
+
+BUREAU    OF    INDIAN    STANDARDS 
+
+MANAK   BHAVAN,   9    BAHADUR   SHAH    ZAFAR   MARG 
+NEW  DELHI  110002 
+
+
+May  2002  Price  Group  4 
+
+
+Hydraulic  Gates  and  Valves  Sectional  Committee,  WRD  12 
+
+
+FOREWORD 
+
+This  Indian  Standard  (Part  3)  (Second  Revision)  was  adopted  by  the  Bureau  of  Indian  Standards,  after  the  draft 
+finalized  by  the  Hydraulic  Gates  and  Valves  Sectional  Committee  had  been  approved  by  the  Water  Resources 
+Division  Council.  Noting  lack  of  adequate  systematic  information  on  procedures  for  inspection,  testing  and 
+maintenance  of  radial  gates  and  their  hoists  after  erection,  the  Hydraulic  Gates  and  Valves  Sectional  Committee 
+decided  that  a  set  of  recommendations  on  this  subject  be  drawn  up  for  reference  and  guidance  of  the  personnel 
+engaged  in  these  duties.  This  standard  has  accordingly  been  prepared  to  provide  guidelines  for  radial  gates. 
+
+This  standard  has  been  published  in  parts.  Part  1  deals  with  inspection,  testing  and  assembly  at  manufacturing 
+stage.  Part  2  deals  with  inspection,  testing  and  assembly  at  the  time  of  erection.  Part  3  deals  with  inspection, 
+testing  and  maintenance  after  erection. 
+
+This  standard  (Part  3)  was  first  published  in  1982.  In  the  first  revision  in  1992,  the  provision  in  respect  of 
+inspection  was  elaborated  in  detail.  This  second  revision  of  standard  had  been  taken  up  to  incorporate  the 
+knowledge  gained  during  use  of  this  standard.  In  this  revision  an  additional  clause  has  been  added  regarding 
+maintenance  of  gates  to  be  operated  in  winter. 
+
+There  is  no  ISO  standard  on  the  subject.  This  standard  has  been  prepared  taking  into  consideration  the  practices 
+prevalent  in  the  field  in  India. 
+
+The  composition  of  the  Committee  responsible  for  the  formulation  of  this  standard  is  given  in  Annex  A. 
+
+For  the  purpose  of  deciding  whether  a  particular  requirement  of  this  standard  is  complied  with,  the  final  value, 
+observed  or  calculated,  expressing  the  result  of  a  test  or  analysis,  shall  be  rounded  off  in  accordance  with 
+IS  2  :  1 960  'Rules  for  rounding  off  numerical  values  (revised)'.  The  number  of  significant  places  retained  in  the 
+rounded  off  value  should  be  the  same  as  that  of  the  specified  value  in  this  standard. 
+
+
+IS  10096  (Part  3)  :  2002 
+
+
+Indian  Standard 
+
+RECOMMENDATIONS  FOR  INSPECTION, 
+
+TESTING  AND  MAINTENANCE  OF 
+RADIAL  GATES  AND  ROPE  DRUM  HOISTS 
+
+PART  3  AFTER  ERECTION 
+
+(  Second  Revision  ) 
+
+
+1  SCOPE 
+
+
+This  standard  (Part  3)  lays  down  the  recommendations 
+for  inspection,  testing  and  maintenance  of  radial  gates 
+and  their  rope  drum  hoists  after  erection. 
+
+2  REFERENCE 
+
+The  Indian  Standard  given  below  contains  provisions 
+which  through  reference  in  this  text,  constitute 
+provisions  of  this  standard.  At  the  time  of  publication, 
+the  edition  indicated  was  valid.  All  standards  are 
+subject  to  revision,  and  parties  to  agreements  based 
+on  this  standard  are  encouraged  to  investigate  the 
+possibility  of  applying  the  most  recent  edition  of  the 
+standard  indicated  below: 
+
+
+IS  No. 
+7718;  1991 
+
+
+3  GENERAL 
+
+
+Title 
+Recommendation  for  inspection, 
+testing  and  maintenance  of  fixed 
+wheel  and  slide  gates  {first  revision) 
+
+
+3.1  Drain  holes  in  the  horizontal  girders  and  arms 
+should  be  checked  so  that  they  do  not  get  clogged  with 
+silt  causing  accumulation  of  water  in  the  horizontal 
+
+girders  and  arms. 
+
+3.2  Rope  drums,  pulleys  and  rope  connection  should 
+
+be  checked. 
+
+3.3  Functioning  of  the  limit  switches,  interlocking 
+devices,  indication  lamps,  etc,  should  be  checked  for 
+
+proper  working. 
+
+3.4  The  operating  systems  of  the  gate  should  be 
+checked  for  their  proper  functioning. 
+
+3.5  Where  stoplogs  are  provided  upstream  of  radial 
+
+
+gates,  they  should  be  maintained  as  per 
+recommendations  contained  in  IS  7718. 
+
+4  INSPECTION 
+
+4.1  Periodical  inspection  of  gate  installations  should 
+be  carried  out  to  detect  normal  wear  and  tear,  defects, 
+if  any.  It  should  be  done  as  and  when  necessary,  but 
+at  least  thrice  in  a  year,  one  being  prior  to  the  onset  of 
+monsoon  and  one  immediately  after  the  monsoon  and 
+one  at  other  times.  The  gates  should  be  operated  up 
+and  down  several  times  to  make  sure  that  everything 
+is  in  order. 
+
+4.2  Inspection  work  may  consist  of  visual  inspection 
+of  exposed  surfaces  of  embedded  parts,  such  as  sill 
+beam,  wall  plate  including  seal  seats,  gate  leaf,  arms, 
+trunnion  assembly,  trunnion  girders,  hoisting 
+equipment,  hoist  supporting  structures  and  checking 
+of  important  dimensions.  In  cases  of  inaccessible  parts, 
+inspection  may  be  necessary  by  other  means  like 
+divers,  etc. 
+
+4.3  Inspection  of  Radial  Gates 
+
+No  piece  of  equipment,  however  well  designed  and 
+sturdy,  will  run  efficiently  unless  it  is  well  kept  and 
+maintained.  Therefore  the  details  of  inspection  to  be 
+done  and  the  schedule  of  maintenance  are  given  here. 
+
+4.3.1  Periodical  Inspection 
+
+In  order  to  detect  normal  wear  and  tear,  defects,  if 
+any,  periodical  inspection  of  gate  installation  should 
+be  carried  out.  The  periodical  inspection  of  gates  and 
+hoists  should  be  done  as  and  when  necessary,  but  at 
+least  thrice  a  year  and  corresponding  to  the  periods 
+when  the  water  level  in  the  reservoir  is  at  its  highest 
+and  lowest  levels. 
+
+
+IS  10096  (Part  3)  :  2002 
+
+
+In  short,  premonsoon  and  post-monsoon  inspections  should  be  done  and  the  following  checks  be  exercised: 
+
+
+Points  to  be  Inspected 
+(1) 
+
+
+Compliance 
+(2) 
+
+
+I  Inspection  of  yoke  girder,  thrust  block,  trunnion  assembly  and  anchorage 
+
+1 .  Check  Nuts  and  bolts  : 
+
+a)  Trunnion  assembly 
+
+b)  Trunnion  bracket  to  yoke  girder 
+
+c)  Nuts  of  horizontal  and  vertical  anchorage 
+
+d)  Trunnion  pin  lock  plates 
+
+e)  Check  shear  key  if  provided  behind  the  trunnion 
+bracket 
+
+f)  Nuts  of  the  main  tie  rods 
+
+2.  Check  the  weld  between  yoke  girder  and  main  ties 
+
+3.  Check  whether  yoke  girder  and  thrust  block  is  covered 
+so  that  water  does  not  accumulate  in  the  slots. 
+
+4.  Check  whether  trunnion  pin  ends  are  covered  with 
+anticorrosive  jelly 
+
+5.  whether  flexible  sheath  cover  is  provided  to  prevent 
+entry  of  debris  in  the  trunnion  assembly 
+
+6.  Check  the  welds  of  thrust  block  (with  magnifying 
+glass)  (also  ensure  that  the  inside  is  concreted) 
+
+7.  Check  if  the  oval  holes  are  free 
+
+8.  Check  grease  in  trunnion  assembly 
+
+
+Check  for  torque 
+
+do 
+
+do 
+Check  tightness 
+Check  for  cracks 
+
+Check  for  tightness  and  torque 
+
+For  soundness 
+
+Cover  with  3  mm  thick  M.S.  plates  if  not 
+
+already  covered 
+
+Cover  it  if  not  already  covered 
+
+
+do 
+
+
+Check  for  cracks.  Rectify  accordingly 
+
+
+9.      Check  the  flexible  cover 
+
+
+II  Arms 
+
+
+1       Check  welding  joints  of  arm  to  horizontal  girder  (with 
+magnifying  glass,  preferably  on  joints/stiff eners) 
+
+2.  Check  whether  drain  holes  provided  in  the  arms  are 
+clear  of  debris. 
+
+3.  Check  nuts  and  bolts  of  arms  to  horizontal  girder 
+
+III  Horizontal  girder 
+
+1 .     Check  welding  of: 
+
+a)  Stiffeners  of  horizontal  girders 
+
+b)  Horizontal  girder  to  stiffeners  of  skin  plate 
+
+c)  Locking  arrangement  brackets  of  skin  plates 
+
+d)  Check  drain  holes  of  horizontal  girder 
+
+IV  Skin  plate  assembly  and  rubber  seals 
+
+1 .     Check  the  following  welding  joints: 
+
+a)  'T'  and  skin  plate  and  ribs 
+
+b)  Vertical  joints  of  skin  plate  from  upstream  side 
+and  downstream  side 
+
+c)  Check  lifting  bracket  and  lifting  pins  for  its 
+soundness 
+
+d)  Latching  brackets  to  skin  plate 
+
+
+Remove  debris  or  other  accumulated  material 
+
+Take  steps  for  greasing  after  removal  of  dirt, 
+if  any 
+
+Replace,  if  necessary  and  clean  dirt  from  pin 
+surface  below  the  same 
+
+
+Check  for  cracks:  rectify  accordingly 
+Clear  them  if  choked  up 
+Check  for  tightness  and  torque 
+
+
+Check  for  crack  and  other  defects  and  rectify 
+accordingly 
+do 
+Check  for  weld  crack 
+Clear  them  if  choked  and  clean  the  debris 
+accumulated  regularly 
+
+
+Check  for  crack  and  other  defects  and  rectify, 
+if  necessary 
+
+
+Check  welding  with  a  magnifying  glass  and 
+rectify,  if  required 
+
+
+IS  10096  (Part  3)  :  2002 
+
+
+Points  to  be  Inspected 
+(1) 
+
+
+Compliance 
+
+(2) 
+
+
+The  skin  plate  should  be  observed  for  pitting,  scaling 
+and  corrosion  on  upstream  side: 
+
+
+a) 
+
+
+b) 
+c) 
+
+
+d) 
+e) 
+
+0 
+
+
+Check  the  condition  of  side  and  bottom  rubber 
+
+seal  comer  joint  and  observe  leakage 
+
+All  the  nuts  and  bolts  fixing  rubber  seal  to  skin 
+
+plate 
+
+Check  if  there  is  any  undesirable  material  in 
+
+between  seal  and  stainless  steel  plate,  seal  and 
+
+seal  base 
+
+Check  for  deformation  of  seal 
+
+Check  soundness  of  cladding  in  case  of  cladded 
+
+rubber  seals 
+
+Check  whether  there  is  abnormal  abrasion  on  seal 
+
+seat 
+
+
+V  Sill  beam  and  wall  plates 
+
+1 .  Check  the  following  joints  : 
+
+a)  Wall  plate  to  sill  beam 
+
+b)  Joints  between  two  segments 
+
+c)  Stainless  steel  to  structural  steel 
+
+2.  Check  wall  plate  and  sill  beam  for  pitting  and  rusting 
+and  general  conditions 
+
+VI  Guide  roller 
+
+1 .  Check  the  roller  for  its  movements  and  setting 
+
+2.  Check  the  nuts  and  bolts  of  guide  roller  assembly 
+
+VII  Latching  arrangement 
+
+1 .  Check  whether  latching  device  functions  well 
+
+2.  Check  nuts  and  bolts  and  studs  of  locking  devices 
+
+3.  Check  the  drain  holes 
+
+VIII  Wire  ropes,  hoist,  pulleys,  sheaves,  etc 
+
+1 .     Check  for  following  : 
+
+a)        Check  condition  of  wire  rope 
+
+
+b)       Check  pulley,  sheave  assemblies  and  sockets 
+
+
+c)        Check  turn  buckles 
+
+
+d)  Check  tension  of  wire  ropes 
+
+e)  Check  if  end  of  wire  rope  is  properly  fastened  to 
+drum 
+
+f)  Check  for  lubrication  of  wire  ropes,  if  required 
+
+
+Scaling  formation  should  be  removed.  Pitting 
+should  be  filled  with  weld  and  grinded  for 
+finish.  For  corrosion  clean  it  and  apply  paint. 
+If  condition  is  poor,  replace  same.  Check  the 
+cause  of  undue  wear  also  before  replacement 
+Check  for  wear  and  tear,  tightness  and 
+replace,  if  required. 
+
+Remove  it  (All  debris  should  be  periodically 
+removed  from  the  seal  surface) 
+
+Study  the  cause  of  deformation  and  rectify  it 
+do 
+
+Study  the  cause  of  abrasion  and  rectify  it 
+
+
+Check  for  crack  and  other  defects  and  rectify 
+Rectify  the  joints  using  proper  welding  rods 
+and  grind,  as  necessary 
+do 
+Pitting  is  to  be  filled  in  by  welding.  Rusted 
+portion  should  be  painted  after  cleaning 
+
+
+Make  the  roller  free.  If  jammed,  clean  and 
+
+grease 
+
+Check  for  wear  and  tear  and  tightness 
+
+
+Check    the    function    by    operating    lever. 
+Rectify  the  same  if  movement  is  not  smooth 
+Tighten  the  bolts  if  required 
+Clean  them  if  required 
+
+
+If  the  condition  is  poor,  then  replace  the  wire 
+
+rope  and  if  10  percent  broken  wires  are 
+
+within  the  length  of  one  meter  and  more  than 
+
+20  percent  broken  wire  within  the  length  of 
+
+10  m  wire  ropes  should  be  replaced 
+
+Check  the  condition  of  pins  and  every  year 
+
+these  should  be  removed,  cleaned  and  refitted 
+
+after  lubrication 
+
+Check   for   rusting,  jamming   in   the   turn 
+
+buckles,  and  check  if  the  number  of  threads 
+
+holding  the  rope  are  adequate 
+
+Adjust  both  wire  ropes  for  equal  tension 
+
+If  found  loose,  tighten  the  studs  provided  for 
+
+Lubricate  ropes 
+
+
+IS  10096  (Part  3) :  2002 
+
+
+Points  to  be  Inspected 
+(1) 
+
+
+Compliance 
+(2) 
+
+
+IX  Gear  train  assembly 
+
+1 .     Check  the  following: 
+
+a)  Check  the  condition  of  gear  and  pinions 
+
+b)  Check  position  of  gears  and  pinion 
+
+c)  Check  shaft  and  couplings  used  for  connecting 
+drive  unit  and  gear  train 
+
+X  Drive  unit 
+
+1 .     Check  the  following: 
+
+a)       Check  the  condition  and  functioning  of  electro- 
+magnetic brake 
+
+
+b)  Check  al!  electrical  connection  of  hoist  motor, 
+brake,  starter,  limit  switch,  etc.  Also  check 
+remote  control  systems,  if  provided 
+
+
+c)  Check  the  connecting  arrangement  from  adjacent 
+motor 
+
+d)  Check  the  condition  of  position  indicator  and  all 
+its  accessories 
+
+e)  Reduction  gear  box  (worm  reducer) 
+
+XI  Check  nuts  and  bolts  of  the  following  : 
+
+a)  Hoist  frame  ) 
+
+b)  Drive  unit      J 
+
+c)  Gear  boxes  1 
+
+d)  Flange  coupling  j 
+
+e)  Bearing  housing  1 
+
+f)  Foundation  bolts  of  hoist  bridge  J 
+
+
+Check   uneven   wear   and   contact,    adjust 
+
+properly 
+
+Bring   them   to   correct  position   if  found 
+
+shifted  to  either  side 
+
+Visual  inspection  and  coupling  nuts  to  be 
+
+checked 
+
+
+Replace  worn  out  liner,  adjust  brake  shoes 
+carefully,  so  that  both  the  shoes  hold  the 
+drum  when  supply  is  cut  off  or  both  the  shoes 
+should  move  out  simultaneously  if  switched 
+on.  Brake  drum  and  liner  should  always  be 
+free  from  grease,  oil,  etc 
+Check  for  loose  connection,  proper  insulation 
+(rats  and  crabs  damage  the  insulation) 
+Overload  relay  of  the  starter  is  to  be  adjusted, 
+for  correct  position  and  should  not  be 
+disturbed 
+
+
+Check  for  its  proper  function  and  rectify 
+
+Check  for  smooth  operation  and  check  oil 
+level 
+
+
+Check  for  wear  and  tear  and  tightness 
+
+Tighten   if  required   or   replace   if  undue 
+
+wearing  noticed 
+
+Inspect  for  cracks  in  housing  and  replace,  if 
+
+needed  check  foundation  bolts  and  tighten  if 
+
+required 
+
+
+4.3.2  General 
+Inspection  to  check  that: 
+
+a)  The  gate  operation  should  be  trouble  free  and 
+there  should  not  be  unusual  sound. 
+
+b)  On  load  (that  is,  when  there  is  water)  there 
+should  be  no  undue  vibrations  in  the  gate  and 
+the  structure. 
+
+c)  Observe  the  current  drawn  by  motor  at  the  time 
+of  lifting  of  gate.  If  any  excessive  current 
+drawn  is  noticed,  operation  of  hoist  should  be 
+stopped  immediately  and  reason  for  the  same 
+may  be  investigated  for  lubrication  of  various 
+parts  of  gates  and  hoists  and  rectified. 
+
+d)  Check  the  supply  voltage. 
+
+e)  Check  the  lubrication  at  various  points. 
+
+f)  Check  the  condition  of  painting  of  various  parts. 
+
+
+5  TESTING 
+
+5.1  The  gate  should  be  tested  for  its  travel  up  and 
+down  to  see  that  it  moves  smoothly  without  excessive 
+sway  throughout  the  length  of  travel. 
+
+5.2  The  operation  should  be  trouble-free  and  there 
+should  not  be  any  unusual  sound.  There  should  not  be 
+any  undue  pressure  or  extra  efforts  when  the  gate  is 
+operated  under  no  load  condition. 
+
+Any  extra  current  being  taken  by  the  motor  should  be 
+taken  note  of. 
+
+5.3  On  load  (that  is,  when  there  is  water)  there  should 
+be  no  undue  vibrations  in  the  gate  and  structure  during 
+operation  of  the  gate.  In  case  vibrations  are  noticed, 
+the  positions  of  gate  openings  and  water  levels  should 
+be  noted  and  the  reasons  thereof  should  be  investigated. 
+
+5.4  Based  on  the  inspection  and  testing,  suitable 
+remedial  measures  should  be  taken  {see  6). 
+
+
+IS  10096  (Part  3)  :  2002 
+
+
+5.5  Trouble  Locating  Chart 
+
+
+Trouble 
+(1) 
+
+
+Probable  Reasons 
+(2) 
+
+
+1 .     Gate  does  not  rise 
+
+
+2.    Gate  vibrates  or  produces  noise 
+
+
+3.    Motor  does  not  function 
+
+
+4.     Starter  not  working 
+
+
+5.    Unusual  sound 
+
+
+1  ^    No  supply  or  low  voltage  (supply) 
+
+2.  Obstruction  in  rubber  seals 
+
+3.  Obstruction  in  guide  rollers 
+
+4.  Fault  in  electric  motor 
+
+5.  Fault  in  wiring 
+
+6.  Blown  out  fuse 
+
+7.  Brake  shoes  jammed 
+
+8.  Wire  rope  broken 
+
+9.  Malfunctioning  of  electrical  contacts  due  to  any 
+reason 
+
+1 .  Lack  of  lubrication  in  trunnion  and  guide  rollers 
+
+2.  Rope  length  not  identical  on  both  sides 
+
+3 .  Lack  of  lubrication  or  fault  in  wire  rope  pulley 
+sheave  arrangem^ts 
+
+1.  No  supply 
+
+2.  Starter  not  in  order 
+
+3.  Blown  out  fuses  in  switches 
+
+4.  Low  voltage 
+
+5.  All  fiises  are  not  working 
+
+1.  No  supply  to  starter 
+
+2.  Fixed  and  moving  contacts  not  in  order 
+
+3.  Limit  switch  engaged 
+
+Verify  the  spot  and  attend  to  the  following; 
+
+1 .  Mis-alignment  of  any  particular  component 
+
+2.  Shearing  of  connecting  bolts  and  nuts 
+
+3 .  Lack  of  lubrication 
+
+4.  Entry  of  any  extraneous  matter  into  guide  roller 
+assembly  or  pulley  sheaves  or  trunnion 
+assembly. 
+
+
+6  MAINTENANCE 
+
+6.1  The  maintenance  of  radial  gates  and  their  hoists 
+mechanism  should  be  done  regularly.  Reference  should 
+be  made  to  manufacturer's  instructions  for  detailed 
+maintenance  and  servicing  of  hoists.  Proper  record 
+of  inspection,  testing  and  maintenance  should  be  made 
+by  the  project  authorities. 
+
+6.2  The  following  maintenance  works  should  be 
+attended  to: 
+
+a)  Defective  weld  should  be  chipped  out  and  it 
+should  be  rewelded.  Damaged  nuts,  bolts, 
+rivets,  screws,  etc,  should  be  replaced.  Any 
+pitting  should  be  filled  up  by  welding  and 
+finished  by  grinding,  if  necessary. 
+
+b)  The  gate  leaf,  exposed  embedded  metal  parts, 
+hoists  and  hoist  supporting  structure,  etc. 
+
+
+c) 
+
+
+d) 
+
+
+e) 
+
+
+f) 
+g) 
+
+
+should  be  thoroughly  cleaned  and  repainted 
+when  required.  While  deciding  about  repaint- 
+ing, the  original  painting  system  adopted 
+should  be  kept  in  view. 
+Trunnion  bearing  should  be  greased  wher- 
+ever required.  Keeping  trunnion  bearings  in 
+perfect  working  condition  is  very  important. 
+All  other  bolted  connections  should  also  be 
+checked  for  proper  tightness. 
+Bolts  and  trunnion  bearing  housing  should 
+be  tightened  wherever  required. 
+The  seals  of  the  gate  should  be  checked  for 
+wear  and  tear  and  deterioration.  These  should 
+be  adjusted/replaced,  as  and  when  necessary. 
+Wire  ropes  should  be  properly  greased. 
+Oil  level  in  the  worm  reduction  unit  should 
+
+
+IS  10096  (Part  3):  2002 
+
+
+be  maintained  by  suitable  replenishment.  Oil 
+seals  should  also  be  replaced,  if  required. 
+Lubrication  of  other  parts  of  the  hoists,  such 
+as  chains,  position  indicators  and  limit 
+switches  should  also  be  done. 
+
+h)  The  stroke  of  the  brake  should  be  reset  to 
+compensate  for  lining  wear.  Worn  out  brake 
+linings  should  be  replaced  in  time. 
+
+j)  Flexible  couplings  should  be  adjusted,  if  re- 
+quired. 
+
+k)  Repairs  and  replacement  of  electrical  relays 
+and  controls  should  be  attended  to. 
+
+m)  Maintenance  of  alternative  sources  of  power, 
+such  as  diesel  generating  sets  and  alterna- 
+tive drives  wherever  provided  should  be  car- 
+ried out. 
+
+n)  The  list  of  essential  spare  parts  to  be  kept 
+available  should  be  reviewed  and  updated 
+periodically.  The  availability  of  essential 
+spare  parts  should  be  ensured.  The  condition 
+of  spares  should  be  checked  periodically  and 
+protective  coating  given  before  use. 
+
+p)    Lubrication  details: 
+
+1)    Grease    —     Multipurpose 
+
+—    Bearing  grease 
+Application  points: 
+i)  Pulley  sheaves 
+ii)  Pulley  brackets 
+iii)  Guide  rollers 
+iv)  Trunnion  assembly 
+
+
+v)  Rope  drums 
+vi)  Line  shaft  bearings 
+vii)  Matching  teeth  of  gear  box  assembly 
+Once  before  rainy  season  or  as  required 
+
+2)  Cardium  compound 
+Application  points: 
+
+Wire  ropes 
+
+Once  in  every  season  after  cleaning  of  wire 
+
+ropes  or  as  required 
+
+3)  H.P.  90  Gear  oil 
+Application  points: 
+
+i)  Reduction  gear  box 
+
+Level  up  the  gear  box  before  operation 
+
+4)  Mobil  oil 
+Application  points: 
+
+i)  All  rubbing  surfaces  and  oiling  points 
+ii)  At  points  located  in  brass/metal  bushes 
+Once/twice  a  year. 
+6.3  In  case  of  gates  to  be  operated  during  winter, 
+generally  water  leaking  through  water  tight  parts  gets 
+frozen  and  grows  to  be  ice  lumps.  Chances  are  that 
+such  ice  lumps  adhere  to  the  gate  leaf  or  embedded 
+parts  causing  troubles.  Therefore  in  case  of  such  gates 
+following  remedial  measures  shall  be  taken  in  addition 
+to  the  maintenance  work  given  in  6.2. 
+
+a)  Water  leakage  shall  be  prevented. 
+
+b)  Ice  at  gate  leaf  and  embedded  parts  may  be 
+removed  by  the  manual  or  by  any  anti- 
+freezing  method  without  damaging  gate 
+components. 
+
+
+IS  10096  (Part  3) :  2002 
+
+
+ANNEX  A 
+
+{Foreword) 
+
+COMMITTEE  COMPOSITION 
+
+Hydraulic  Gates  and  Valves  Sectional  Committee,  WRD  12 
+
+
+Organization 
+
+
+In  Personal  Capacity  (2047,  Pocket  2,  Sector  D,  Vasant  Kunj, 
+New  Delhi  ]\0  070) 
+
+Bhakra  Beas  Management  Board,  Nangal 
+
+Bharat  Heavy  Electricals  Ltd,  Bhopal 
+
+Central  Water  and  Power  Research  Station,  Pune 
+
+Central  Water  Commission,  New  Delhi 
+
+Cimmco  Ltd,  Bharatpur 
+
+Gea  Energy  System  (India)  Ltd,  New  Delhi 
+
+Haryana  State  Minor  Irrigation  (Tubewell),  Chandigarh 
+
+Himachal  Pradesh  State  Electricity  Board,  Sundemagar 
+
+Irrigation  Department,  Govt  of  Maharashtra,  Nasik 
+Irrigation  Department,  Govt  of  Punjab,  Chandigarh 
+
+Irrigation  Department,  Govt  of  Uttar  Pradesh,  Roorkee 
+
+National  Hydroelectric  Power  Corporation  Ltd,  Faridabad 
+
+Orissa  Construction  Corporation  Ltd,  Bhubhaneshwar 
+
+Public  Works  Department,  Government  of  Tamil  Nadu,  Chcnnai 
+
+Texmaco  Ltd,  Kolkata 
+
+Triveni  Structurals  Ltd,  Allahabad 
+
+Tungabhadra  Steel  Products  Ltd,  Bellary 
+
+Water  Resources  Development  Training  Centre,  Roorkee 
+BIS  Directorate  General 
+
+
+Representative(s) 
+Shri  N.  Vishwanathan  (Chairman) 
+
+Deputy  Chief  Engineer 
+
+Executive  Engineer  {Alternate) 
+
+Shri  A.S.  Srivastava 
+
+Shri  S.R.  Rathore  (Alternate) 
+
+Shri  R.  M.  Khatsuria 
+
+Shri  R.M.  Sinnarkar  {Alternate) 
+
+Director  (Gates  -  E&NE) 
+
+Director  (Gates-NW&S)  {Alternate) 
+
+Executive  President 
+
+Sr  Manager  (Design)  {Alternate) 
+
+Shri  K.C.  Bahety 
+
+Shrj  a.  G.  K.  Murty  (Alternate) 
+
+Shri  S.P.Gupta 
+
+Shri  R.  S.Chauhan  (Alternate) 
+
+Chief  Engineer  (Design) 
+
+Director  (PLNG)  Design  Civil  II  (Alternate) 
+
+Shri  V.  C.  Shelke 
+
+Chief  Engineer  [RSDD] 
+
+Director  (M&E)  (Alternate) 
+
+Chief  Engineer  (Design)  and  Director 
+Superintending  Engineer  (Alternate) 
+
+Shrj  A.  K.  Sachdeva 
+
+Shri  G,  S,  Sharma  (Alternate) 
+
+Director  [Mechanical] 
+
+Senior  Manager  (Design)  (Alternate) 
+
+Shri  M.  EKjrairaj 
+
+Shri  T.  Krishanaswamy  (Alternate) 
+
+Shri  S.  R.  Sinha 
+
+Shri  Udayan  Banerjee  (Alternate) 
+
+ShriJ.P.Mishra 
+
+Shri  B.  P.  Singh  (Alternate) 
+
+ShriG.S.Annigeri 
+
+Shri  N.  Kannaiah  Naidu  (Alternate) 
+
+Prof  Gopal  Chauhan 
+
+Shri  S.S.Sethi,  Director  &  Head  (WRD) 
+[Representing  Director  General  (Ex-qfficio)] 
+
+
+Member-Secretary 
+
+Shri  Kuldeep  Sirohi 
+
+Deputy  Director  (WRD),  BIS 
+
+
+Bureau  of  Indian  Standards 
+
+BIS  is  a  statutory  institution  established  under  the  Bureau  of  Indian  Standards  Act,  1986  to  promote 
+harmonious  development  of  the  activities  of  standardization,  marking  and  quality  certification  of  goods 
+and  attending  to  connected  matters  in  the  country. 
+
+Copyright 
+
+BIS  has  the  copyright  of  all  its  publications.  No  part  of  these  publications  may  be  reproduced  in  any  form  without 
+the  prior  permission  in  writing  of  BIS.  This  does  not  preclude  the  free  use,  in  the  course 
+of  implementing  the  standard,  of  necessary  details,  such  as  symbols  and  sizes,  type  or  grade 
+designations.  Enquiries  relating  to  copyright  be  addressed  to  the  Director  (Publications),  BIS. 
+
+Review  of  Indian  Standards 
+
+Amendments  are  issued  to  standards  as  the  need  arises  on  the  basis  of  comments.  Standards  are  also  reviewed 
+periodically;  a  standard  along  with  amendments  is  reaffirmed  when  such  review  indicates  that  no  changes  are 
+needed;  if  the  review  indicates  that  changes  are  needed,  it  is  taken  up  for  revision.  Users  of  Indian  Standards 
+should  ascertain  that  they  are  in  possession  of  the  latest  amendments  or  edition  by  referring  to  the  latest  issue  of 
+'BIS  Catalogue'  and  'Standards:  Monthly  Additions'. 
+
+This  Indian  Standard  has  been  developed  from  Doc  No.  :  WRD  12  (285). 
+
+
+Amendments  Issued  Since  Publication 
+
+Amend  No.  Date  of  Issue  Text  Affected 
+
+
+BUREAU  OF  INDIAN  STANDARDS 
+
+Headquarters  : 
+
+Manak  Bhavan,  9  Bahadur  Shah  Zafar  Marg,  New  Delhi  1 10  002  Telegrams  :  Manaksanstha 
+
+Telephones  :  323  01  31,  323  33  75,  323  94  02  (Common  to  all  offices) 
+
+Regional  Offices :  Telephone 
+
+Central        :  Manak  Bhavan,  9  Bahadur  Shah  Zafar  Marg  /  323  76  17 
+
+NEW  DELHI  110  002  \  323  38  41 
+
+Eastern        :  1/14  C.I.T.  Scheme  VII  M,  V.  I.  P.  Road,  Kankurgachi  r337  84  99,  337  85  61 
+
+KOLKATA  700  054  L337  86  26,  337  91  20 
+
+
+Northern     :  SCO  335-336,  Sector  34-A,  CHANDIGARH  160  022  f  60  38  43 
+
+60  20  25 
+
+
+{: 
+
+
+Southern     :  C.I.T.  Campus,  IV  Cross  Road,  CHENNAI  600  113  f  254  12  16,  254  14  42 
+
+\  254  25  19,254  13  15 
+
+Western       :  Manakalaya,  E9  MIDC,  Marol,  Andheri  (East)  J  832  92  95,  832  78  58 
+
+MUMBAI400  093  L  832  78  91,  832  78  92 
+
+Branches  :  AHMEDABAD.  BANGALORE.  BHOPAL.  BHUBANESHWAR.  COIMBATORE. 
+FARIDABAD.  GHAZIABAD.  GUWAHATI.  HYDERABAD.  JAIPUR.  KANPUR. 
+LUCKNOW.  NAGPUR.  NALAGARH.  PATNA.  PUNE.  RAJKOT.  THIRUVANANTHAPURAM. 
+
+
+Printed  at  Simco  Printing  Press,  Delhi 
+
+

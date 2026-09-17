@@ -1,0 +1,830 @@
+**************** 
+
+
+
+
+Disclosure to Promote the Right To Information 
+
+Whereas the Parliament of India has set out to provide a practical regime of right to 
+information for citizens to secure access to information under the control of public authorities, 
+in order to promote transparency and accountability in the working of every public authority, 
+and whereas the attached publication of the Bureau of Indian Standards is of particular interest 
+to the public, particularly disadvantaged communities and those engaged in the pursuit of 
+education and knowledge, the attached public safety standard is made available to promote the 
+timely dissemination of this information in an accurate manner to the public. 
+
+
+
+
+Mazdoor Kisan Shakti Sangathan 
+"The Right to Information, The Right to Live" 
+
+
+
+IS 10070 (1982) : Specification for machine for abrasion 
+testing of coarse aggregates [CED 2: Cement and Concrete] 
+
+
+
+
+Jawaharlal Nehru 
+'Step Out From the Old to the New' 
+
+
+
+■K^y / 1 juaaaws^fea rs^^TTF^ 
+
+
+
+2*S< W I *>S*V2^NK^ 
+
+
+
+^frcvvv^ 
+
+
+
+Satyanarayan Gangaram Pitroda 
+Invent a New India Using Knowledge 
+
+
+
+Bhartrhari — Nitisatakam 
+"Knowledge is such a treasure which cannot be stolen" 
+
+
+
+
+.^^_ 
+
+
+
+• 
+
+
+
+
+BLANK PAGE 
+
+
+
+*rt*2V^ 
+
+
+
+
+
+PROTECTED BY COPYRIGHT 
+
+
+
+Indian Standard 
+
+
+
+IS: 10070-1902 
+
+( Reaffirmed 2004 ) 
+
+
+
+li>L _f '_ r*|_ J 
+
+
+
+SPECIFICATION FOR MACHINE FOR ABRASION 
+TESTING OF COARSE AGGREGATES 
+
+
+
+UDC 666972123 : 620-178 k U-O5 
+
+
+
+
+© Copyright J 982 
+
+INDIAN STANDARDS INSTITUTION 
+
+MANAK 15 El. WAN, 9 BAHADUR SHAH ZATAB. MARO 
+
+NEW DELHI I UHKI2 
+
+
+
+Ma Hs^^^m Gi, 2 *«>'« 2 
+
+
+
+
+IS : 100?0 - 1982 
+
+
+
+Indian Standard 
+
+
+
+SPECIFICATION FOR MACHINE FOR ABRASION 
+TESTING OF COARSE AGGREGATES 
+
+Cement and Concrete Sectional Committee, BDC 2 
+
+
+
+Chairman 
+
+Dr H. C. Visvesvaraya 
+
+Members 
+
+Additional Director, Stan- 
+dards ( B&S ) 
+
+Deputy Director , Stan- 
+dards ( B&S ) ( Alternate ) 
+Shri K. P. Banerjee 
+
+
+
+Shri Harish N. Malani ( Alternate ) 
+
+
+
+Representing 
+Cement Research Institute of India, New Delhi 
+
+Research, Designs & Standards Organization 
+( Ministry of Railways ), Lucknow 
+
+
+
+Larsen & Toubro Ltd, Bombay 
+
+
+
+Shri S. K. Banerjee 
+Shri R. N. Bansal 
+
+Shri T. C. Garg ( Alternate ) 
+Shri R. V. Chalapathi Rao 
+
+Shri S. Roy ( Alternate ) 
+Chief Engineer ( Designs ) 
+
+Executive Engineer 
+( Designs ) III ( Alternate ) 
+Chief Engineer ( Projects ) 
+
+Director, IPRI ( Alternate ) 
+Director ( CSMRS ) 
+
+
+
+National Test House, Calcutta 
+
+Beas Designs Organization, Nangal Township 
+
+Geological Survey of India, Calcutta 
+
+Central Public Works Department, New Delhi 
+
+
+
+Irrigation Department, Government of Punjab, 
+Chandigarh 
+
+
+
+Central Soil and Materials Research Station, 
+New Delhi 
+Deputy Director. ( CSMRS ) ( Alternate ) 
+Shri T. A. E. D'Sa The Concrete Association of India, Bombay 
+
+Shri N. C. Duggal ( Alternate ) 
+
+Hyderabad Asbestos Cement Products Ltd, 
+
+Hyderabad 
+Engineer-in-Chief 's Branch, Army Headquarters, 
+New Delhi 
+
+
+
+Shri A. K. Gupta 
+Shri V. K. Gupta 
+
+
+
+Shri S. N. PandE ( Alternate ) 
+Dr R. R. Hattiangadi 
+
+Shri P. J.Jagus ( Alternate ) 
+Dr Iqbal Ali 
+Shri S. R. Kulkarni 
+
+
+
+The Associated Cement Companies Ltd, Bombay 
+
+Engineering Research Laboratories, Hyderabad 
+M. N. Dastur & Co Pvt Ltd, Calcutta 
+
+( Continued on page 2 ) 
+
+
+
+© Copyright 1982 
+INDIAN STANDARDS INSTITUTION 
+
+This publication is protected under the Indian Copyright Act ( XIV of 1957 ) and 
+reproduction in whole or in part by any means except with written permission of the 
+publisher shall be deemed to be an infringement of copyright under the said Act. 
+
+
+
+IS » 10070 -1982 
+
+( Continued from page 1 ) 
+
+Members Representing 
+
+Shri S. K. Laha The Institution of Engineers ( India ), Calcutta 
+
+Shri B. T. Unwalla ( Alternate ) 
+Dr Mohan Rai Central Building Research Institute (CSIR), 
+
+Roorkee 
+Dr S. S. Rehsi ( Alternate ) 
+Shri K. K. Nambiar In personal capacity ( * Ramanalaya ' 77 First 
+
+Crescent Park Road 9 Gandhinagar f Adyar, Madras ) 
+Shri H. S. Pasricha Hindustan Prefab Ltd, New Delhi 
+
+Shri C. S. Mishra ( Alternate ) 
+Shri Y. R. Phull Central Road Research Institute ( CSIR ), New 
+
+Delhi 
+Shri M. R. Chatterjee ( Alternate I ) 
+Shri K. L. Sethi ( Alternate II ) 
+Dr M. Ramaiah Structural Engineering Research Centre ( CSIR ), 
+
+Roorkee 
+Dr N. S. Bhal ( Alternate ) 
+Shri G. Ramdas Directorate General of Supplies and Disposals, 
+
+New Delhi 
+Dr A. V. R. Rao National Buildings Organization, New Delhi 
+
+Shri J. Sen Gupta ( Alternate ) 
+Shri T. N. S. Rao Gammon India Ltd, Bombay 
+
+Shri S. R. Pinheiro ( Alternate ) 
+Representative Indian Roads Congress, 'New Delhi 
+
+Shri Arjun Rijiisinghani Cement Corporation of India Ltd, New Delhi 
+
+Shri K, Vithal Rao ( Alternate ) 
+Secretary Central Board of Irrigation and Power, New 
+
+Delhi 
+Deputy Secretary ( I ) ( Alternate ) 
+Shri N. Sivaguru Roads Wing, Ministry of Shipping and Transport, 
+
+New Delhi 
+Shri R. L. Kapoor ( Alternate ) 
+Shri K. A. Subramaniam The India Cements Ltd, Madras 
+
+Shri P. S. Ramachandran ( Alternate) 
+Superintending Engineer Public Works Department, Government of Tamil- 
+( Designs ) Nadu, Madras 
+
+Executive Engineer ( SM&R 
+Division ) ( Alternate ) 
+Shri L. Swaroop Dalmia Cement ( Bharat ) Ltd, New Delhi 
+
+Shri A. V. Ramana ( Alternate ) 
+Shri G. Raman, Director General, ISI ( Ex*officio Member ) 
+
+Director ( Civ Engg ) 
+
+Secretary 
+
+Shri M. N. Neelakandhan 
+Assistant Director ( Civ Engg ), ISI 
+
+
+
+( Continmd on page 1 ) 
+
+
+
+18 : 10070 - 1982 
+
+Indian Standard 
+
+SPECIFICATION FOR MACHINE FOR ABRASION 
+TESTING OF COARSE AGGREGATES 
+
+0. FOREWORD 
+
+0*1 This Indian Standard was adopted by the Indian Standards Institu- 
+tion on 28 January 1982, after the draft finalized by the Cement and 
+Concrete Sectional Committee had been approved by the Civil Engineer- 
+ing Division Council. 
+
+0.2 The Indian Standards Institution has already published a series of 
+standards on methods of testing cement and concrete. It has been recog- 
+nized that reproducible and repeatable test results can be obtained only 
+with standard testing equipment capable of giving the desired level of 
+accuracy. The Sectional Committee has, therefore, decided to bring out 
+a series of specifications covering the requirements of equipment used for 
+testing cement and concrete, to encourage their development and manu- 
+facture in the country. 
+
+0.3 Accordingly, this standard has been prepared to cover requirements 
+of the machine used for testing abrasion value of coarse aggregates. The 
+method of determining abrasion value of coarse aggregate is covered in 
+IS: 2386 (Part IV )-1963*. 
+
+0.4 In the formulation of this standard, due weightage has been given to 
+international co-ordination among the standards and practices prevailing 
+in different countries in addition to relating it to the practices in the field 
+in this country. 
+
+0.5 For the purpose of deciding whether a particular requirement of this 
+standard is complied with, the final value, observed or calculated, express- 
+ing the result of a test or analysis, shall be rounded off in accordance 
+with IS : 2-1960f. The number of significant places retained in the 
+rounded off value should be the same as that of the specified value in 
+this standard. 
+
+
+
+1. SCOPE 
+
+1.1 This standard specifies the requirements of the machine used for 
+testing abrasion value of coarse aggregate. 
+
+♦Methods of test for aggregates for concrete: Part IV Mechanical properties. 
+tRules for rounding off numerical values { revised ) . 
+
+
+
+IS 1 10070 - 1982 
+
+
+
+2. MACHINE 
+
+2.1 The machine shall be of Los Angeles type. 
+
+3; MATERIALS 
+
+3.1 Materials for different components of the abrasion machine shall be 
+as given in Table 1. 
+
+
+
+TABLE I MATERIALS OF CONSTRUCTION FOR ABRASION 
+
+
+
+
+MACHINE ( LOS ANGELES TYPE ) 
+
+
+
+
+Si, Pabt 
+
+
+Material 
+
+
+Special 
+
+
+Recommended 
+
+
+No. 
+
+
+
+
+Requirements, 
+
+
+Indian Standard 
+
+
+
+
+
+
+IE ANY 
+
+
+Specification, 
+
+IE ANY 
+
+
+<1) (2) 
+
+
+(3) 
+
+
+(4) 
+
+
+(5) 
+
+
+i) Cylinder 
+
+
+Mild steel 
+
+
+Smooth surface 
+
+
+IS : 226-1975* 
+
+
+ii) Stub shaft 
+
+
+Mild steel 
+
+
+Smooth surface 
+
+
+do 
+
+
+iii) Cover for 
+
+
+Mild steel 
+
+
+Smooth surface 
+
+
+do 
+
+
+opening 
+
+
+
+
+
+
+
+
+iv) Shelf 
+
+
+Mild steel 
+
+
+Smooth surface 
+
+
+do 
+
+
+v) Frame 
+
+
+Structural 
+steel sections 
+
+
+— 
+
+
+— 
+
+
+vi) Ball bearing, 
+
+
+— 
+
+
+50 mm bore 
+
+
+— 
+
+
+heavy duty 
+
+
+
+
+
+
+
+
+vii) Motor 
+
+
+— - 
+
+
+1 hp, 3 phase, 
+1440 rpm 
+
+
+— 
+
+
+viii) Tray 
+
+
+Mild steel 
+
+
+— 
+
+
+IS : 226-1975* 
+
+
+ix) Abrasive charge 
+
+
+Cast iron 
+spheres 
+
+
+Hardened 
+
+
+— 
+
+
+♦Specification for structural steel ( standard quality ) (fifth revision ). 
+
+
+
+4. DIMENSIONS 
+
+4.1 The dimensions with tolerances shall be as given in Fig. 1. Where 
+tolerances are not specified, the dimensions shall be considered as 
+nominal. 
+
+Note — The allowable deviations for nominal dimensions shall be as laid down 
+for coarse class of deviation in IS : 2102-1969*. 
+
+5. CONSTRUCTION 
+
+5.1 Abrasion Machine ( Los Angeles Type ) — The abrasion machine 
+( Los Angeles type ) shall be constructed as shown in Fig. 1 and shall 
+
+
+
+♦Allowable deviations for dimensions without specified tolerances (first revision ). 
+
+
+
+IS : 1007a- 1982 
+
+
+
+consist of a hollow steel cylinder arranged for rotating about its axis 
+horizontal position. 
+
+
+
+in a 
+
+
+
+
+CAST IRON OR ROLLED STEEL 
+ENDS NOT LESS THAN 12mm THICK; 
+
+
+
+PREFERRED DESIGN 
+OF PUATE SHELf AND COVER 
+
+NOT LESS THAN 1250mm MEASURED 
+ON OUTSIDE OF DRUM; 
+
+
+
+
+DIRECTION 
+OF ROTATION 
+
+
+
+- CATCH PAN 
+FOR SPECIMEN 
+
+
+
+
+Note — Shaft bearing shall be mounted on concrete piers or other rigid supports. 
+All dimensions in millimetres. 
+
+Fig. 1 Typical Abrasion Testing Machine ( Los Angeles Type ) 
+
+; 5.1.1 The hollow cylinder shall be made of steel with its ends closed. 
+The cylinder shall be mounted on stub shafts attached to both the ends 
+but not entering it. Ball bearings housed in brackets shall be mounted 
+over the shafts and the brackets shall be fixed to the frame as shown in 
+Fig. 1. An opening shall also be provided. A removable steel shelf pro- 
+jecting radially into the cylinder and extending its full length shall be 
+mounted along one element of the interior surface of the cylinder. The 
+shelf shall be so mounted by bolts as to be firm and rigid. The position 
+
+
+
+IS tl0070-1982 
+
+of the shelf shall be such that the distance from the shelf to the opening 
+measured along the circumference of the cylinder in the direction of 
+rotation shall be not less than 1 250 mm. 
+
+5*1*2 Removable Cover — A removable cover shall be provided to close 
+the opening on the cylinder dust-tight and this shall be bolted in place. 
+The removable cover shall be made of steel and shall be formed to 
+maintain the cylindrical contour of the interior surface. 
+
+5.1.3 Shelf— The shelf shall be of mild steel. 
+
+5.1.4 Frame — The frame shall be of welded structural steel cons- 
+truction. A channel carrying the motor and gear box shall be fixed 
+rigidly to the frame. 
+
+5.1.5 Drive — The drive should be by means of a chain running over a 
+sprocket on the stub shaft and a sprocket on the shaft of a gear box 
+coupled to a motor ( 1 hp, 3 phase, 1 440 rpm ). A clutch shall be 
+provided. A revolution counter shall be provided to indicate the number 
+of revolutions. The rate of rotation of the cylinder shall be 30-33 rpm. 
+
+Note — It is desirable to equip the drive with a 'power supply cut-off type 
+revolution counter which stops the machine after completing the specified number 
+of revolutions. 
+
+5.1.6 Tray — A tray with lifting handles shall be provided. 
+
+5.1.7 Abrasive Charge — The abrasive charge shall consist of 12 cast 
+iron spheres 48 + 2 mm in diameter and each weighing between 390 and 
+455 g and a total of 12 numbers of spheres weighing 5 000 ± 25 g shall 
+be supplied. 
+
+6. MARKING 
+
+6.1 The following information shall be clearly and indelibly marked on 
+each component of the abrasion machine in a way that it does not 
+interfere with the performance of the machine. 
+
+a) Name of the manufacturer or his registered trade-mark or both, 
+and 
+
+b) Date of manufacture. 
+
+6.1.1 The aggregate testing machine may also be marked with the ISI 
+Certification Mark. 
+
+Note — The use of the ISI Certification Mark is governed by the provisions of 
+the Indian Standards Institution ( Certification Marks ) Act and the Rules and 
+Regulations made thereunder. The ISI Mark on products covered by an Indian 
+Standard conveys the assurance that they have been produced to comply with the 
+requirements of that standard under a well-defined system of inspection, testing and 
+quality control which is devised and, supervised by ISI and operated by the 
+producer, ISI marked products are also continuously checked by ISI for conformity 
+to that standard as a further safeguard. Details of conditions under which a licence 
+for the use of the ISI Certification Mark may be granted to manufacturers or 
+processors, may be obtained from the Indian Standards Institution, 
+
+
+
+IS 1 160?0 • 198$ 
+
+
+
+( Continued from page 2 ) 
+
+
+
+Instruments for Cement and Concrete Testing 
+Subcommittee, BDG 2 : 10 
+
+
+
+Convener 
+Dr Iqbal Ali 
+
+Members 
+Shri P. D. Agarwal 
+
+Dr T. N. ChoJer ( Alternate ) 
+Prof B. M. Arttja 
+Shri T. P. Ekambaram 
+Shri H. K. Guha 
+
+Deputy Secretary ( Alternate ) 
+Shri P.J. Jagus 
+
+Shri D. A, Wadia ( Alternate ) 
+Shri M. R. Joshi 
+
+
+
+Representing 
+Engineering Research Laboratories, Hyderabad 
+
+Public Works Department, Government of Uttar 
+Pradesh, Lucknow 
+
+Indian Institute of Technology, New Delhi 
+Highways Research Station, Madras 
+All India Instruments Manufacturers and Dealers 
+Association, Bombay 
+
+The Associated Cement Companies Ltd, Bombay 
+
+
+
+Research & Development Organization ( Ministry 
+of Defence ), Pune 
+Shri Y. P. Pathak ( Alternate ) 
+Shri E. K. Ramaohandban National Test House, Calcutta 
+
+Shri S. K. Banerjee ( Alternate ) 
+Prof C. K. Ramesh Indian Institute of Technology, Bombay 
+
+Dr R. S. Ayyar ( Alternate ) 
+Shri M. V. Ranga Rao Cement Research Institute of India, New Delhi 
+
+Dr K. G. Narakg ( Alternate ) 
+Dr S. S. Rehsi Central Building Research Institute ( CSIR ), 
+
+Roorkee 
+Shri J. P. Kacshish ( Alternate ) 
+Shri A. V. S. R. Sastri Associated Instrument Manufacturers (India ) 
+
+Private Ltd, New Delhi 
+Shri Subhash Sharma ( Alternate } 
+Shri K. L. Sethi Central Road Research Institute ( CSIR ), New 
+
+Delhi 
+Shri M. L. Bhatia ( Alternate) 
+
+
+
+INDIAN STANDARDS 
+
+ON 
+
+INSTRUMENTS FOR TESTING CEMENT AND CONCRETE 
+
+IS: 
+
+5512-1969 Flow table for use in tests of hydraulic cement and pozzolanic materials 
+
+5513-1976 Vicat apparatus {first revision ) 
+
+5514-1969 Apparatus used in * Le-Chatelier ' test 
+
+5515-1969 Compaction factor apparatus 
+
+5516-1969 Variable flow type air permeability apparatus ( Blaine type ) 
+
+5536-1969 Constant flow type air permeability apparatus ( Lea and Nurse type ) 
+
+5816-1970 Methods of test for splitting tensile strength of concrete cylinders 
+
+7320-1974 Concrete slump test apparatus 
+
+7325-1974 Apparatus for determining constituents of fresh concrete 
+
+9376-1979 Apparatus for measuring aggregate crushing value and 10 percent fines 
+
+value 
+
+9377-1979 Apparatus for aggregate impact value 
+
+9399-1979 Apparatus for flexural testing of concrete 
+
+9459-1980 Apparatus for use in measurement of length change of hardened cement 
+
+paste, mortar and concrete 
+
+9799-1981 Pressure meter for determination of air content in freshly mixed concrete 
+
+
+

@@ -1,0 +1,644 @@
+**************** 
+
+
+
+*■ fe^K 
+
+
+
+
+Disclosure to Promote the Right To Information 
+
+Whereas the Parliament of India has set out to provide a practical regime of right to 
+information for citizens to secure access to information under the control of public authorities, 
+in order to promote transparency and accountability in the working of every public authority, 
+and whereas the attached publication of the Bureau of Indian Standards is of particular interest 
+to the public, particularly disadvantaged communities and those engaged in the pursuit of 
+education and knowledge, the attached public safety standard is made available to promote the 
+timely dissemination of this information in an accurate manner to the public. 
+
+
+
+
+Mazdoor Kisan Shakti Sangathan 
+"The Right to Information, The Right to Live" 
+
+
+
+IS 10019 (1981) : Specification for mild steel stays and 
+fasteners [CED 15: Builder Hardware] 
+
+
+
+
+Jawaharlal Nehru 
+'Step Out From the Old to the New' 
+
+
+
+■K^y / 1 juaaaws^fea rs^^TTF^ 
+
+
+
+2*S< W I *>S*V2^NK^ 
+
+
+
+^frcvvv^ 
+
+
+
+Satyanarayan Gangaram Pitroda 
+Invent a New India Using Knowledge 
+
+
+
+?TR TJ^ ^TT teMHI | ^t ^Wt ^m\ ^f ^TT ^T^?TT \' 
+
+Bhartrhari — Nitisatakam 
+"Knowledge is such a treasure which cannot be stolen" 
+
+
+
+
+.^^_ 
+
+
+
+• 
+
+
+
+
+BLANK PAGE 
+
+
+
+*rt*2V^ 
+
+
+
+
+
+PROTECTED BY COPYRIGHT 
+
+
+
+IS: 10019- 1981 
+
+( Reaffirmed 2001 ) 
+
+
+
+Indian Standard 
+
+
+
+SPECITI CATION FOR 
+MILD STEEL STAYS AND FASTENERS 
+
+
+
+UDC 683376 2: [669 HI 24] 
+
+
+
+
+© Cofitrighl 1982 
+
+INDIAN STANDARDS INSTITUTION 
+
+MAXAK HHAVAN, « BAHADUK SHAH ZAFAK MAKG 
+
+NEW DELHI I1000J 
+
+
+
+
+Gr.3 
+
+
+
+>!i 1982 
+
+
+
+IS : 10019 - 1981 
+
+Indian Standard 
+
+SPECIFICATION FOR 
+MILD STEEL STAYS AND FASTENERS 
+
+Builder's Hardware Sectional Commit tee^ BDC 15 
+
+Chairman Representing 
+
+Shri Yusuf Mowjee M. G. Mowjee & Company Private Ltd, Calcutta; 
+
+and Builder's Hardware Industries Association 
+of India, Calcutta 
+
+Members 
+
+Shri Sahib Singh ( Alternate to 
+Shri Yusuf Mowjee ) 
+Shri D. R. Bahl Engineer- in- Chief s Branch, Army Headquarters 
+
+Shri S. G. Mahajan ( Alternate ) 
+Shri D. S. Chauhan Regional Testing Centre ( Northern ) ( Ministry of 
+
+Industry ) 
+
+Shri A. K. Duooal ( Alternate ) 
+Controller of Stores, Ministry of Railways 
+
+Eastern Railway 
+Shri S. K. Dutta Housing and Urban Development Corporation Ltd, 
+
+New Delhi 
+Shri K. H. Gandhi Ministry of Defence ( DGI ) 
+
+Shri Vijay Kumar ( Alternate ) 
+Shri A. Ghosh National Test House, Calcutta 
+
+Shri A. K. Sarxar ( Alternate ) 
+Shri V. K. Jain P. P. Products, Aligarh 
+
+Shri Rakesh Kamboj Jayna Trading Corporation, Delhi 
+
+Shri Nawal Kamboj ( Alternate ) 
+Shri S. G. Kapoor Directorate General of Supplies & Disposals, New 
+
+Delhi 
+
+Shri I. C Khanna ( Alternate ) 
+Shri Ram F. Kewalramani Indian Institute of Architects, Bombay 
+
+Gol Pi G. Khanna Ardent Industries^ New Delhi 
+
+Mat-Gen K. D. Chadha ( Alternate ) 
+Shri M. G. Menon Indian Aluminium Co Ltd, Calcutta 
+
+Shri D. S. Narayan ( Alternate ) 
+Shri Ajoyendu Paul Gobindo Sheet Metal Works & Foundry, Calcutta 
+
+SHRI Amitabh Paul ( Alternate ) 
+Dr A, V. R. Rao National Buildings Organization, New Delhi 
+
+Shri O. P. Ratra ( Alternate ) 
+
+( Continued on page 2 ) 
+
+
+
+© Copyright 1982 
+INDIAN STANDARDS INSTITUTION 
+
+
+
+This publication is protected under the Indian Copyright Act ( XIV of 1957 ) and 
+reproduction in whole or in part by any means except witu written permission Oi tue 
+publisher shall be deemed to be an infringement of copyright under the said Act. 
+
+
+
+IS t 10019 - 1981 
+
+( Continued from page 1 ) 
+
+Members Representing 
+
+Shri T. C. Solanki Sen-Harvic, Bombay 
+
+Shri N. K. Raohoowanshi 
+( Alternate ) 
+Superintending Surveyor of 
+
+Works ( DAZ ) Central Public Works Department, New Delhi 
+
+Surveyor of Works ( DAZ ) 
+
+
+
+( Alternate ) 
+; M. " 
+
+
+
+Shri M. S. Vedi Everite Sales Corporation, New Delhi 
+
+Shri R. S. Vedi ( Alternate ) 
+Shri G. Raman, Director General, ISI ( Ex-officio Member ) 
+
+
+
+Director ( Civ Engg ) 
+
+
+
+Secretary 
+
+Shri S. Sengupta 
+Assistant Director ( Civ Engg ), ISI 
+
+
+
+Door and Window Fittings Subcommittee, BDC 15:1 
+
+Convener 
+Shri YUSUF Mowjee M, C. Mowjee & Company Private Ltd, Calcutta 
+
+Members 
+
+Shri Sahib Singh ( Alternate to 
+Shri Yusuf Mowjee ) 
+Shri D. S. Chauhan Regional Testing Centre ( Northern ) ( Ministry of 
+
+Industry ) 
+
+Shri A. K. Duggal ( Alternate ) 
+Shri Jaswant Singh Eastern Commercial & Industrial Enterprises Pvt 
+
+Ltd, Visakhapatnam 
+
+Shri Ravi Mehra ( Alternate ) 
+Shri Rakesh Kamboj Jayna Trading Corporation, Delhi 
+
+Shri Nawal Kamboj ( Alternate ) 
+Shri I. C. Khanna Directorate General of Supplies & Disposals (Ministry 
+
+of Supply), New Delhi 
+Col P. C. Khanna Argent Industries, New Delhi 
+
+Maj-Gen K. D. Chadha ( Alternate ) 
+Shri Ajoyendu Paul Gobindo Sheet Metal Works & Foundry, Calcutta 
+
+Shri Amitabh Paul ( Alternate ) 
+Shri V. K. Punj Ministry of Railways 
+
+Shri H. K. Rakhra Engineer-in- Chief 's Branch, Army Headquarters 
+
+Shri B. D. Kshirsagar ( Alternate ) 
+Surveyor of Works ( DAZ ) Central Public Works Department, New Delhi 
+
+Shri M. S. Vedi Everite Sales Corporation, New Delhi 
+
+Shri R. S. Vedi ( Alternate ) 
+
+
+
+IS : 10019 - 1981 
+
+Indian Standard 
+
+SPECIFICATION FOR 
+MILD STEEL STAYS AND FASTENERS 
+
+
+
+0. FOREWORD 
+
+0.1 This Indian Standard was adopted by the Indian Standards Institution 
+on 31 August 1981, after the draft finalized by the Builder's Hardware 
+Sectional Committee had been approved by the Civil Engineering Division 
+Council. 
+
+0.2 Window stays and fasteners pressed out of mild steel are being extensi- 
+vely used at present due to their low cost. They are manufactured in a 
+variety of cross-sections and shapes. But the most popularly used steel stays 
+and fasteners do either have a tubular cross-section or are manufactured 
+from one piece sheet. This standard has been prepared with a view to laying 
+down the requirement of such steel stays and fasteners, of the types that 
+
+o vf* rfiWimnnlv nc^rl in lArinrt^wA/c 
+
+0.3 This standard contains clauses 4.1.1 and 7.1 which permit the purchaser 
+to use his option for selection to suit his requirements. 
+
+0.4 In the formulation of this standard, due weightage has been given to 
+international co-ordination among the standards and practices prevailing 
+in different countries in addition to relating it to the practices in the field 
+in India. 
+
+0.5 For the purpose of deciding whether a particular requirement of this 
+standard is complied with, the final value, observed or calculated, 
+expressing the result of a test or analysis, shall be rounded off in accor- 
+dance with IS : 2-1960*. The number of significant places retained in the 
+rounded off value should be the same as that of the specified value in 
+this standard. 
+
+
+
+1. SCOPE 
+
+1.1 This standard lays down the requirements regarding materials, dimen- 
+sions, manufacture and finish of stays and fasteners made of mild steel of 
+the types that are commonly used in windows. 
+
+
+
+*Rules for rounding off numerical values ( revised). 
+
+3 
+
+
+
+IS : 10019 - 1981 
+
+2. TYPES 
+
+2.1 The stays and fasteners shall be of the following types: 
+
+a) Type 1 — ■ Mild steel stays and fasteners having tubular cross- 
+
+section ( see Fig. 1A ), and 
+
+b) Type 2 — Mild steel stays and fasteners made out of one piece 
+
+sneti [ see .rig. in }. 
+
+
+
+12*5 RAOIUS 
+
+
+
+
+All dimensions in millimetres. 
+
+Fig. 1 A Typical Casement Handle ( L or R ) Type 1 
+
+3. MATERIALS 
+
+3.1 Materials for the manufacture of steel stays and fasteners shall comply 
+with the requirements given in Table 1. 
+
+TABLE 1 REQUIREMENTS FOR MATERIALS 
+
+Material Suitable Grade in Indian Standard 
+
+
+
+(i) 
+
+Mild steel sheets 
+Mild steel bars 
+
+
+
+(2) 
+Grade 0-1079 of IS : 1079-1973* 
+Grade Fe 310-0 of IS : 1977-1975f 
+
+
+
+*Specification for hot rolled carbon steel sheet and strip ( third revision ). 
+fSpccification for structural steel (ordinary quality) (second revision). 
+
+
+
+IS : 10019 - 1981 
+
+
+
+/•\ Av 
+
+
+
+
+SECTION XX 
+
+All dimensions in millimetres. 
+Fig. IB Typical Casement Handle (LorR) Type 2 
+
+4. SHAPE AND DIMENSION 
+
+4.1 The shape and the essential dimensions of the steel stays and fasteners 
+for windows shall be as given in Fig. 1A, IB and 2. 
+
+4.1.1 The stays and fasteners may be supplied in other shapes and 
+dimensions where so agreed to between the manufacturer and the purchaser. 
+
+Note — The shapes of the stays and fasteners are only illustrative, but the 
+dimensions shown are minimum, and are binding. 
+
+5. TEST 
+
+5.1 Test for Window Stays — The stay shall be capable of holding the 
+window shutter in three different positions so as to make angles of 30 c , 60° 
+and 90° with the window frame. Tolerances in such positions shall not 
+exceed ±5°. 
+
+
+
+IS : 10019 - 1981 
+
+
+
+22 
+
+
+
+l^<,0 
+
+
+
+20 
+
+
+
+) ^""6 ^^ OIA 
+
+
+
+© 0-<Dr* 
+
+
+
+i 
+
+
+
+i 
+
+
+
+20 
+
+
+
+i. 
+
+
+
+rT 
+
+
+
+1*6 
+
+
+
+m i -iWA-- " - - 
+
+
+
+.-feJL5 flfc..._. -t ""f^JLi J*3 
+
+
+
+50^ 
+
+
+
+k— 60 
+
+
+
+250 OR 300- 
+
+
+
+
+=*v 
+
+
+
+
+SECTION XX 
+
+
+
+8 mm OlA BOLT 
+
+
+
+25 rnrn RADIUS 
+
+
+
+L— 46 *■ 
+
+
+
+Fig. 2 Typical Sketch of Window Stay 
+
+6. MANUFACTURE 
+
+6.1 The steel stays and fasteners shall be well made and free from defects. 
+They shall be finished to correct shape and dimensions. All sharp edges 
+and corners shall be removed and finished smooth. All screw holes shall be 
+countersunk to suit the countersunk head of wood screws conforming to 
+IS : 6760-1972*. 
+
+7. FINISH 
+
+7.1 Unless otherwise specified the steel stays and fasteners shall be either 
+copper oxidized or a holding galvanised or electro-galvanised. 
+
+8. MARKING 
+
+8.1 Each „■ teel stay and fastener shall be clearly and permanently marked 
+with the name of the manufacturer or hisTrade mark, if any. 
+
+8.1,1 The stays and fasteners may also be marked with the ISI Certifi- 
+cation Mark. 
+
+
+
+*Specification for slotted countersunk hrad wood screws. 
+
+6 
+
+
+
+IS : 10019 - 1981 
+
+Note — The use of the ISI Certification Mark is governed by the provisions of 
+the Indian Standards Institution ( Certification Marks ) Act and the Rules and 
+Regulations made thereunder. The ISI Mark on products covered by an Indian 
+Standard conveys the assurance that they have been produced to comply with 
+the requirements of that standard under a well-defined system of inspection, 
+testing and quality control which is devised and supervised by ISI and operated 
+by the producer. ISI marked products are also continuously checked by ISI for 
+conformity to that standard as a further safeguard. Details of conditions under 
+which a licence for the use of the ISI Certification Mark may be granted to manu- 
+facturers or processors, may be obtained from the Indian Standards Institution. 
+
+9. PACKING 
+
+9.1 The steel stays and fasteners shall be packed according to the usual 
+trade practice in cardboard boxes or in any other approved packing. The 
+boxes shall be labelled with the manufacturer's name or trade mark, type 
+and description of contents, particulars of quantity, and size. 
+
+10* SCALE OF SAMPLING AND CRITERION FOR CONFORMITY 
+
+10,1 The method of selecting steel stays and fasteners and the criterion for 
+conformity shall be as given in Appendix A. 
+
+
+
+APPENDIX A 
+
+(Clause 10.1 ) 
+
+SAMPLING AND CRITERION FOR CONFORMITY 
+A-l. LOT 
+
+A-1.1 Tn anv rrmsicmmpnt nil tVip Qt^^l «tnve nnH fact^n^isi r\f the* tamp tvnp 
+
+shape and size and manufactured from similar materials under identical 
+conditions of manufacture shall be grouped together to constitute a lot. 
+
+A-2. SAMPLE SIZE 
+
+A-2.1 The number of stays and fasteners to be selected from a lot shall 
+depend on the size of the lot and shall be in accordance with col 1 and 2 
+of Table 2. 
+
+TABLE 2 SCALE OF SAMPLING AND CRITERION FOR CONFORMITY 
+
+Lot Size Sample Size Permissible No. or 
+
+Defectives 
+
+(1) (2) (3) 
+
+Up to 150 5 
+
+151 to 300 20 1 
+
+301 to 500 32 2 
+
+501 to 1000 50 3 
+
+1001 and above 80 5 
+
+
+
+IS : 10019 - 1981 
+
+A-2.1.1 These stays and fasteners shall be selected at random from at least 
+10 percent of the packages subject to a minimum of three packages, equal 
+number of stays and fasteners being selected from each such package. 
+
+A-3. NUMBER OF TESTS 
+
+A-3*l All the stays and fasteners, selected as in A-2, shall be checked for 
+shape and size (see 4 ) , defects in manufacture (see 6), finish (see 7 ) and 
+
+tr*«t« ( tfifi 5 ^ Anv <itn\/ and fast^n^r whirh fails tn satisfv anv one: or mmv* 
+*,^„™ v *,~ v ~ j. **— 7 «--* 7 **.«- .~» w — 7 — 7 — 
+
+of the requirements shall be considered as defective. 
+
+A4. CRITERION FOR CONFORMITY 
+
+A-4,1 A lot shall be considered as conforming to the requirement of this 
+standard if the number of defective stays and fasteners among those tested 
+does not exceed the corresponding number given in col 3 of Table 2. 
+
+
+
