@@ -1,0 +1,254 @@
+╔═══════════════════════════════════════════════════════════════════════════╗
+║                  📍 WHERE TO FIND YOUR EXTRACTED DATA                     ║
+╚═══════════════════════════════════════════════════════════════════════════╝
+
+🎯 MAIN LOCATION
+═══════════════════════════════════════════════════════════════════════════
+
+d:\Dprojects\sih108\landing-page\bis_scraper\bis_data\
+
+👉 Copy this path and paste in File Explorer!
+
+═══════════════════════════════════════════════════════════════════════════
+📂 WHAT'S IN EACH FOLDER
+═══════════════════════════════════════════════════════════════════════════
+
+1️⃣ merged/ (0.58 MB) ⭐ BEST FOR BEGINNERS
+   📊 merged_standards.csv         197 standards (open in Excel)
+   💾 merged_standards.json        Full data as JSON
+   📝 merged_standards.jsonl       Line-delimited format
+
+2️⃣ rag/ (10.91 MB) ⭐ FOR RAG/AI SYSTEMS
+   🔹 chunked_documents.jsonl      9,043 text chunks (embed these)
+   📚 knowledge_base.jsonl         197 structured entries
+   ❓ qa_pairs.jsonl               985 question-answer pairs
+   🔍 search_corpus.jsonl          Full-text search ready
+   📋 knowledge_base.json          Full KB structure
+   📑 metadata_index.json          Navigation indices
+
+3️⃣ semantic/ (0.15 MB) ⭐ FOR SMART FEATURES
+   🏗️ category_hierarchy.json      14 domains organized
+   🔗 cross_references.json        17 version chains
+   🧠 domain_ontology.json         Domain structure
+   📅 temporal_index.json          Year/decade tracking
+   🎯 search_facets.json           Search filtering
+
+4️⃣ archive/ (7.42 MB)
+   📜 items.jsonl                  500 raw archive items
+   📄 text/                        197 OCR text files
+
+5️⃣ index/ (4.86 MB)
+   🔎 search_index.json            Search index (TF-IDF)
+
+═══════════════════════════════════════════════════════════════════════════
+🚀 QUICK START GUIDE
+═══════════════════════════════════════════════════════════════════════════
+
+WANT TO...                              OPEN THIS FILE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Browse all 197 standards in Excel
+→ merged_standards.csv
+
+Get all data as JSON (single file)
+→ merged_standards.json
+
+Get one standard per line (streaming)
+→ merged_standards.jsonl
+
+Read full OCR text of standards
+→ archive/text/  (197 files)
+   Example: gov.in.is.1.1968.txt
+
+For Machine Learning/Embedding
+→ rag/chunked_documents.jsonl  (9,043 chunks)
+
+For Fine-tuning Models
+→ rag/qa_pairs.jsonl  (985 Q&A pairs)
+
+Find related standards
+→ semantic/cross_references.json
+
+Filter by year or division
+→ semantic/search_facets.json
+
+═══════════════════════════════════════════════════════════════════════════
+📊 WHAT EACH FILE CONTAINS
+═══════════════════════════════════════════════════════════════════════════
+
+merged_standards.csv
+  Format: Spreadsheet (Excel compatible)
+  Content: 197 rows × 24 columns
+  Columns: designation, title, year, division, committee, part,
+           section, is_current, superseded_by, archive_url, text_path, etc.
+  Size: 132 KB
+
+merged_standards.json
+  Format: JSON array
+  Content: All 197 standards
+  Structure: { "id": "...", "designation": "...", "title": "...", ... }
+  Size: 241 KB
+
+chunked_documents.jsonl
+  Format: Line-delimited JSON
+  Content: 9,043 text chunks (one per line)
+  Each: { "standard_id": "...", "chunk": "...", "chunk_index": 0, ... }
+  Size: 9.3 MB
+  Use: Embed each chunk with your AI model
+
+qa_pairs.jsonl
+  Format: Line-delimited JSON
+  Content: 985 question-answer pairs
+  Each: { "question": "...", "answer": "...", "metadata": {...} }
+  Size: 418 KB
+  Use: Train or fine-tune your language model
+
+archive/text/*.txt
+  Format: Plain text files
+  Content: Full OCR'd standard documents
+  Files: 197 (one per standard)
+  Example names: gov.in.is.1.1968.txt, gov.in.is.10.2.2013.txt
+  Size: ~2 MB total
+
+semantic/*.json
+  Format: JSON files
+  Content: 
+    - category_hierarchy.json: 14 domains, 40+ committees
+    - cross_references.json: 17 version chains
+    - temporal_index.json: Year-by-year organization
+    - search_facets.json: Filtering dimensions
+    - domain_ontology.json: Domain structure
+  Size: 0.15 MB total
+
+═══════════════════════════════════════════════════════════════════════════
+📝 SAMPLE DATA YOU'LL SEE
+═══════════════════════════════════════════════════════════════════════════
+
+CSV in Excel (merged_standards.csv):
+┌────────────────────────┬─────────────────────────────────────────┐
+│ Designation            │ Title                                   │
+├────────────────────────┼─────────────────────────────────────────┤
+│ IS 1:1968              │ National Flag of India                  │
+│ IS 10 (Part 1):1990    │ Plywood Tea-Chests: Part-1 General      │
+│ IS 101 (Part 2):2023   │ Paint Testing Methods                   │
+│ IS 10052:1999          │ High Strength Steel Bars                │
+│ ... 193 more rows ...  │                                         │
+└────────────────────────┴─────────────────────────────────────────┘
+
+Text Chunk (from rag/chunked_documents.jsonl):
+{
+  "standard_id": "IS|1|None|None|1968|None",
+  "designation": "IS 1:1968",
+  "chunk_id": "IS|1|None|None|1968|None__chunk_0",
+  "chunk_index": 0,
+  "total_chunks": 69,
+  "chunk": "Disclosure to Promote the Right To Information 
+           Whereas the Parliament of India has set out...",
+  "title": "Specification for The National Flag of India",
+  "division": "Textiles",
+  "committee": "TXD 8",
+  "year": 1968,
+  "is_current": true,
+  "archive_url": "https://archive.org/details/gov.in.is.1.1968"
+}
+
+QA Pair (from rag/qa_pairs.jsonl):
+{
+  "question": "What is IS 1:1968?",
+  "answer": "IS 1:1968: Specification for The National Flag of India",
+  "metadata": {
+    "standard_id": "IS|1|None|None|1968|None",
+    "year": 1968,
+    "division": "Textiles",
+    "archive_url": "https://archive.org/details/gov.in.is.1.1968"
+  }
+}
+
+OCR Text (from archive/text/gov.in.is.1.1968.txt):
+IS 1 (1968) : Specification for The National Flag of India 
+(Cotton Khadi) [TXD 8: Handloom and Khadi]
+
+Jawaharlal Nehru
+Step Out From the Old to the New
+Invent a new India using knowledge.
+Satyanarayan Gangaram Pitroda
+
+[Full OCR text continues...]
+
+═══════════════════════════════════════════════════════════════════════════
+📈 DATA STATS
+═══════════════════════════════════════════════════════════════════════════
+
+Total Standards:              197 unique
+Text Chunks:                  9,043 (for embedding)
+QA Pairs:                     985 (for training)
+OCR Text Files:               197
+Knowledge Base Entries:       197
+Semantic Indices:             5 types
+Domains Covered:              14
+Technical Committees:         40+
+Time Span:                    1968-2023 (55 years)
+Current Editions:             180
+Superseded Editions:          17
+
+Total Data Size:              28.63 MB
+License:                      CC0 (Public Domain - free to use)
+
+═══════════════════════════════════════════════════════════════════════════
+🎯 HOW TO ACCESS
+═══════════════════════════════════════════════════════════════════════════
+
+METHOD 1: File Explorer
+  1. Open Windows File Explorer (Windows Key + E)
+  2. Paste this in address bar:
+     d:\Dprojects\sih108\landing-page\bis_scraper\bis_data
+  3. Press Enter
+  4. You're there!
+
+METHOD 2: Direct to CSV
+  1. Open File Explorer
+  2. Paste: d:\Dprojects\sih108\landing-page\bis_scraper\bis_data\merged
+  3. Double-click: merged_standards.csv
+  4. Opens in Excel automatically!
+
+METHOD 3: Command Line
+  PowerShell: cd "d:\Dprojects\sih108\landing-page\bis_scraper\bis_data"
+
+═══════════════════════════════════════════════════════════════════════════
+✅ VERIFICATION CHECKLIST
+═══════════════════════════════════════════════════════════════════════════
+
+✓ merged_standards.csv      - 197 rows visible
+✓ merged_standards.json     - Valid JSON array
+✓ chunked_documents.jsonl   - 9,043 lines (chunks)
+✓ qa_pairs.jsonl            - 985 lines (Q&A pairs)
+✓ archive/text/             - 197 .txt files
+✓ semantic/                 - 5 .json indices
+✓ search_index.json         - TF-IDF index
+✓ All 28.63 MB of data      - Present and verified
+
+═══════════════════════════════════════════════════════════════════════════
+📚 FOR MORE INFORMATION
+═══════════════════════════════════════════════════════════════════════════
+
+Read these guides in the landing-page folder:
+
+  • WHERE_IS_MY_DATA.md        ← Visual guide (you're reading this!)
+  • INDEX.md                   ← Master index of everything
+  • START_HERE.md              ← Quick 5-minute overview
+  • README_RAG.md              ← RAG system quick start
+  • EXTRACTION_QUICKSTART.md   ← Code examples
+  • RAG_DATASET_SUMMARY.md     ← RAG integration guide
+  • COMMANDS_REFERENCE.md      ← Command cheat sheet
+
+═══════════════════════════════════════════════════════════════════════════
+
+🎯 PRIMARY LOCATION:
+d:\Dprojects\sih108\landing-page\bis_scraper\bis_data\
+
+📊 START WITH:
+merged/merged_standards.csv
+
+✨ READY TO EXPLORE!
+
+═══════════════════════════════════════════════════════════════════════════

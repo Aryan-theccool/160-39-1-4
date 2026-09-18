@@ -1,0 +1,30 @@
+# Scraped data. Large, regenerable, and partly licensed material -- keep it out
+# of git. Delete and re-run `archive` to rebuild.
+bis_data/
+data/
+*.jsonl
+*.part
+
+# The evaluation cases are hand-written source, not scraped output: they must be
+# reviewable in a diff, so they are the one .jsonl that belongs in git.
+!eval/retrieval_cases.jsonl
+
+# Likewise the run artifacts: the brief names all five, and `failures.jsonl`
+# would otherwise be swallowed by the scraped-data rule above. Committing the
+# directory also means the artifact contract is reviewable in a diff. The
+# committed copy is a *fixture* run -- the provenance block says so -- and is
+# meant to be replaced by a real-corpus run.
+!eval/results/failures.jsonl
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+.pytest_cache/
+
+# OS / editors
+.DS_Store
+.idea/
+.vscode/

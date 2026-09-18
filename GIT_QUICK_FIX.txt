@@ -1,0 +1,102 @@
+╔═══════════════════════════════════════════════════════════════════════════╗
+║                    ✅ GIT COMMANDS - QUICK FIX                            ║
+╚═══════════════════════════════════════════════════════════════════════════╝
+
+⚠️ YOUR ISSUE
+═══════════════════════════════════════════════════════════════════════════
+
+You tried: cd landing page
+Error: PowerShell doesn't recognize "page" as a separate argument
+
+REASON: The folder name has a SPACE in it!
+  Folder: "landing-page" (has a space: "landing " + "page")
+
+═══════════════════════════════════════════════════════════════════════════
+✅ THE FIX - USE QUOTES!
+═══════════════════════════════════════════════════════════════════════════
+
+CORRECT COMMAND:
+cd "D:\Dprojects\sih108\landing-page"
+
+Notice the QUOTES around the full path!
+
+═══════════════════════════════════════════════════════════════════════════
+🔄 THEN FETCH FROM MAIN BRANCH
+═══════════════════════════════════════════════════════════════════════════
+
+After navigating to the folder, use:
+
+git fetch origin main
+
+OR
+
+git pull origin main
+
+═══════════════════════════════════════════════════════════════════════════
+✅ COMPLETE STEP-BY-STEP
+═══════════════════════════════════════════════════════════════════════════
+
+STEP 1: Navigate to folder (with quotes!)
+git cd "D:\Dprojects\sih108\landing-page"
+
+STEP 2: Fetch from main branch
+git fetch origin main
+
+STEP 3: Check status
+git status
+
+STEP 4: Pull if you want to merge
+git pull origin main
+
+═══════════════════════════════════════════════════════════════════════════
+📋 ALL COMMANDS YOU NEED (COPY-PASTE)
+═══════════════════════════════════════════════════════════════════════════
+
+Navigate to folder:
+cd "D:\Dprojects\sih108\landing-page"
+
+Fetch from main:
+git fetch origin main
+
+Pull from main:
+git pull origin main
+
+Check status:
+git status
+
+See commits:
+git log --oneline -5
+
+═══════════════════════════════════════════════════════════════════════════
+🎯 YOUR EXACT COMMANDS FOR THIS PROJECT
+═══════════════════════════════════════════════════════════════════════════
+
+cd "D:\Dprojects\sih108\landing-page" && git fetch origin main
+
+OR
+
+cd "D:\Dprojects\sih108\landing-page" && git pull origin main
+
+═══════════════════════════════════════════════════════════════════════════
+💡 WHY THE QUOTES?
+═══════════════════════════════════════════════════════════════════════════
+
+Without quotes:  cd landing page
+PowerShell sees: cd landing [and then] page [as separate commands]
+Result: ERROR!
+
+With quotes:     cd "landing page"
+PowerShell sees: cd [full path with space]
+Result: SUCCESS! ✓
+
+═══════════════════════════════════════════════════════════════════════════
+✨ REMEMBER
+═══════════════════════════════════════════════════════════════════════════
+
+ALWAYS USE QUOTES around paths with spaces!
+
+"D:\Dprojects\sih108\landing-page"  ✅ CORRECT
+
+D:\Dprojects\sih108\landing-page    ❌ WRONG (if path has space)
+
+═══════════════════════════════════════════════════════════════════════════

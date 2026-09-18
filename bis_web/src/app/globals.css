@@ -1,0 +1,77 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 0 0% 100%;
+    --foreground: 222 47% 11%;
+
+    --card: 0 0% 100%;
+    --card-foreground: 222 47% 11%;
+
+    --popover: 0 0% 100%;
+    --popover-foreground: 222 47% 11%;
+
+    /* #FF9933 -- saffron. The primary action colour. */
+    --primary: 30 100% 60%;
+    --primary-foreground: 0 0% 100%;
+
+    /* #138808 -- India green. Used for positive states. */
+    --secondary: 115 89% 28%;
+    --secondary-foreground: 0 0% 100%;
+
+    --muted: 30 30% 96%;
+    --muted-foreground: 25 12% 42%;
+
+    --accent: 30 100% 96%;
+    --accent-foreground: 25 60% 25%;
+
+    --destructive: 0 72% 45%;
+    --destructive-foreground: 0 0% 100%;
+
+    --border: 30 20% 89%;
+    --input: 30 20% 89%;
+    --ring: 30 100% 60%;
+
+    --radius: 0.6rem;
+  }
+
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground;
+  }
+}
+
+/*
+ * The tricolour rule. A 3-pixel band that appears under the header and above
+ * the footer: saffron, white, green, with the navy chakra stripe in the middle
+ * so it reads as the flag rather than as three arbitrary stripes.
+ */
+@layer components {
+  .tricolor-bar {
+    background: linear-gradient(
+      to right,
+      #ff9933 0 33.3%,
+      #ffffff 33.3% 33.4%,
+      #000080 33.4% 66.6%,
+      #ffffff 66.6% 66.7%,
+      #138808 66.7% 100%
+    );
+  }
+
+  .tricolor-text {
+    background: linear-gradient(90deg, #ff9933 0%, #d97706 45%, #138808 100%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+  }
+}
+
+/* Recharts renders an outline on focus that looks like a rendering bug. */
+.recharts-wrapper :focus {
+  outline: none;
+}

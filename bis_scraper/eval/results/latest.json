@@ -1,0 +1,3395 @@
+{
+  "cases": 68,
+  "corpus": {
+    "standards": 12,
+    "chunks": 47
+  },
+  "retriever": "bm25+tfidf+dense -> lexical (coverage + designation)",
+  "top_k": 10,
+  "repeats": 1,
+  "provenance": {
+    "root": "/home/user/demo_data/bis_data",
+    "kind": "synthetic fixture",
+    "is_fixture": true,
+    "marker": "/home/user/demo_data/bis_data/.synthetic_fixture.json",
+    "suspiciously_small": true,
+    "certifiable_as_production": false,
+    "standards": 12,
+    "detail": {
+      "generator": "tests/synth_bis_data.py",
+      "standards": 12,
+      "chunks_per_standard": 4,
+      "warning": "Generated fixture. Not the scraped 197-standard corpus."
+    }
+  },
+  "coverage": {
+    "scored": 56,
+    "answerable": 10,
+    "unanswerable": 46,
+    "rejection": 12,
+    "rate": 0.1786,
+    "absent_from_corpus": [
+      "IS 10262",
+      "IS 10322",
+      "IS 1077",
+      "IS 12269",
+      "IS 12640",
+      "IS 12709",
+      "IS 1293",
+      "IS 13488",
+      "IS 13920",
+      "IS 13983",
+      "IS 1489",
+      "IS 1554",
+      "IS 15658",
+      "IS 1592",
+      "IS 1893",
+      "IS 1904",
+      "IS 2062",
+      "IS 2185",
+      "IS 2556",
+      "IS 2645",
+      "IS 277",
+      "IS 302",
+      "IS 3025",
+      "IS 325",
+      "IS 3370",
+      "IS 3466",
+      "IS 3589",
+      "IS 3646",
+      "IS 3854",
+      "IS 4031",
+      "IS 418",
+      "IS 432",
+      "IS 455",
+      "IS 458",
+      "IS 4984",
+      "IS 694",
+      "IS 7098",
+      "IS 732",
+      "IS 774",
+      "IS 800",
+      "IS 8112",
+      "IS 8623",
+      "IS 875",
+      "IS 9103",
+      "IS 996"
+    ],
+    "missing_standards": {
+      "IS 458": [
+        "proc-precast-pipes",
+        "proc-rcc-hume-pipe"
+      ],
+      "IS 10262": [
+        "proc-mix-design"
+      ],
+      "IS 10322": [
+        "proc-luminaire"
+      ],
+      "IS 1077": [
+        "proc-bricks"
+      ],
+      "IS 12269": [
+        "proc-cement-53"
+      ],
+      "IS 12640": [
+        "proc-rccb"
+      ],
+      "IS 12709": [
+        "proc-grp-pipe"
+      ],
+      "IS 1293": [
+        "proc-plug-socket"
+      ],
+      "IS 13488": [
+        "proc-pvc-soil-waste"
+      ],
+      "IS 13920": [
+        "proc-ductile-detailing"
+      ],
+      "IS 13983": [
+        "proc-kitchen-sink"
+      ],
+      "IS 1489": [
+        "proc-ppc-flyash"
+      ],
+      "IS 1554": [
+        "proc-heavy-duty-cable"
+      ],
+      "IS 15658": [
+        "proc-paver-blocks"
+      ],
+      "IS 1592": [
+        "proc-ac-pressure-pipe"
+      ],
+      "IS 1893": [
+        "proc-seismic-design"
+      ],
+      "IS 1904": [
+        "proc-foundation-black-cotton"
+      ],
+      "IS 2062": [
+        "proc-structural-steel-bridge"
+      ],
+      "IS 2185": [
+        "proc-hollow-blocks"
+      ],
+      "IS 2556": [
+        "proc-wash-basin"
+      ],
+      "IS 2645": [
+        "proc-waterproofing"
+      ],
+      "IS 277": [
+        "proc-galvanised-sheets"
+      ],
+      "IS 302": [
+        "proc-appliance-safety"
+      ],
+      "IS 3025": [
+        "proc-water-test-methods"
+      ],
+      "IS 325": [
+        "proc-motor"
+      ],
+      "IS 3370": [
+        "proc-water-tank"
+      ],
+      "IS 3466": [
+        "proc-masonry-cement"
+      ],
+      "IS 3589": [
+        "proc-steel-pipe-main"
+      ],
+      "IS 3646": [
+        "proc-interior-illumination"
+      ],
+      "IS 3854": [
+        "proc-switches"
+      ],
+      "IS 4031": [
+        "proc-cement-tests"
+      ],
+      "IS 418": [
+        "proc-lamp"
+      ],
+      "IS 432": [
+        "proc-mild-steel-bars"
+      ],
+      "IS 455": [
+        "proc-slag-cement"
+      ],
+      "IS 4984": [
+        "proc-hdpe-pipe"
+      ],
+      "IS 694": [
+        "proc-pvc-cable"
+      ],
+      "IS 7098": [
+        "proc-xlpe-cable"
+      ],
+      "IS 732": [
+        "proc-wiring-code"
+      ],
+      "IS 774": [
+        "proc-flushing-cistern"
+      ],
+      "IS 800": [
+        "proc-steel-design"
+      ],
+      "IS 8112": [
+        "proc-cement-43"
+      ],
+      "IS 8623": [
+        "proc-switchgear-assembly"
+      ],
+      "IS 875": [
+        "proc-loads"
+      ],
+      "IS 9103": [
+        "proc-admixture"
+      ],
+      "IS 996": [
+        "proc-single-phase-motor"
+      ]
+    }
+  },
+  "hit_rate": {
+    "@1": 1.0,
+    "@3": 1.0,
+    "@5": 1.0,
+    "@10": 1.0
+  },
+  "mrr": {
+    "@5": 1.0,
+    "@10": 1.0
+  },
+  "hit_rate_end_to_end": {
+    "@1": 0.1786,
+    "@3": 0.1786,
+    "@5": 0.1786,
+    "@10": 0.1786
+  },
+  "mrr_end_to_end": {
+    "@5": 0.1786,
+    "@10": 0.1786
+  },
+  "edition_exact_rate": 1.0,
+  "invalid_citation_rate_extractive": 0.0,
+  "citations": {
+    "answer_mode": "extractive",
+    "citations_total": 116,
+    "unresolvable": [],
+    "superseded_citations": []
+  },
+  "superseded_first_violation_rate": 0.0,
+  "superseded_violations": [],
+  "superseded_exposure_rate_recommend": 0.0,
+  "superseded_exposed": [],
+  "superseded_withheld": [],
+  "superseded_editions_retrieved": [
+    "IS 10500:1991",
+    "IS 269:1989",
+    "IS 456:1978"
+  ],
+  "rejection": {
+    "cases": 12,
+    "declined": 9,
+    "accuracy": 0.75,
+    "answered": [
+      {
+        "id": "neg-company-registration",
+        "query": "how do I register a private limited company in india",
+        "top": [
+          "IS 1:1968",
+          "IS 1:1968",
+          "IS 1:1968"
+        ],
+        "score": 0.0189
+      },
+      {
+        "id": "neg-cricket",
+        "query": "who won the 2011 cricket world cup final",
+        "top": [
+          "IS 269:2015"
+        ],
+        "score": 0.0339
+      },
+      {
+        "id": "neg-cover-letter",
+        "query": "how do I write a cover letter for a job application",
+        "top": [
+          "IS 1:1968",
+          "IS 383:2016",
+          "IS 302 (Part 2):2009"
+        ],
+        "score": 0.0189
+      }
+    ],
+    "max_top_score": 0.0339,
+    "min_positive_top_score": 0.0185,
+    "scores_separate": false
+  },
+  "latency_ms": {
+    "samples": 68,
+    "p50": 14.69,
+    "p95": 17.14,
+    "p99": 19.22,
+    "mean": 14.51,
+    "max": 19.44
+  },
+  "rag_latency_ms": {
+    "samples": 56,
+    "p50": 13.21,
+    "p95": 15.65,
+    "p99": 16.77
+  },
+  "stage_latency_ms": {
+    "query_processing": {
+      "samples": 68,
+      "p50": 0.1,
+      "p95": 0.175,
+      "p99": 0.216,
+      "mean": 0.107
+    },
+    "sparse": {
+      "samples": 68,
+      "p50": 0.279,
+      "p95": 0.449,
+      "p99": 0.597,
+      "mean": 0.294
+    },
+    "dense": {
+      "samples": 68,
+      "p50": 12.377,
+      "p95": 15.327,
+      "p99": 16.071,
+      "mean": 12.689
+    },
+    "fusion": {
+      "samples": 68,
+      "p50": 0.053,
+      "p95": 0.111,
+      "p99": 0.146,
+      "mean": 0.052
+    },
+    "rerank": {
+      "samples": 53,
+      "p50": 1.032,
+      "p95": 2.432,
+      "p99": 2.937,
+      "mean": 1.15
+    },
+    "total": {
+      "samples": 68,
+      "p50": 14.668,
+      "p95": 17.109,
+      "p99": 19.164,
+      "mean": 14.488
+    }
+  },
+  "by_difficulty": {
+    "easy": {
+      "n": 5,
+      "hit@1": 1.0,
+      "hit@5": 1.0,
+      "mrr@5": 1.0
+    },
+    "medium": {
+      "n": 4,
+      "hit@1": 1.0,
+      "hit@5": 1.0,
+      "mrr@5": 1.0
+    },
+    "hard": {
+      "n": 1,
+      "hit@1": 1.0,
+      "hit@5": 1.0,
+      "mrr@5": 1.0
+    }
+  },
+  "by_sector": {
+    "Electrical & Electronics": {
+      "n": 14,
+      "covered": 0,
+      "hit@1": 0.0,
+      "hit@5": 0.0,
+      "hit@5_covered": 0.0,
+      "mrr@5": 0.0,
+      "exact_edition": 0.0,
+      "thin": false
+    },
+    "Cement & Concrete": {
+      "n": 13,
+      "covered": 4,
+      "hit@1": 0.3077,
+      "hit@5": 0.3077,
+      "hit@5_covered": 1.0,
+      "mrr@5": 0.3077,
+      "exact_edition": 1.0,
+      "thin": false
+    },
+    "Structural Steel": {
+      "n": 13,
+      "covered": 3,
+      "hit@1": 0.2308,
+      "hit@5": 0.2308,
+      "hit@5_covered": 1.0,
+      "mrr@5": 0.2308,
+      "exact_edition": 1.0,
+      "thin": false
+    },
+    "Water & Sanitation": {
+      "n": 10,
+      "covered": 3,
+      "hit@1": 0.3,
+      "hit@5": 0.3,
+      "hit@5_covered": 1.0,
+      "mrr@5": 0.3,
+      "exact_edition": 1.0,
+      "thin": false
+    },
+    "Masonry": {
+      "n": 3,
+      "covered": 0,
+      "hit@1": 0.0,
+      "hit@5": 0.0,
+      "hit@5_covered": 0.0,
+      "mrr@5": 0.0,
+      "exact_edition": 0.0,
+      "thin": true
+    },
+    "Plumbing & Sanitation": {
+      "n": 3,
+      "covered": 0,
+      "hit@1": 0.0,
+      "hit@5": 0.0,
+      "hit@5_covered": 0.0,
+      "mrr@5": 0.0,
+      "exact_edition": 0.0,
+      "thin": true
+    }
+  },
+  "by_tag": {
+    "steel": {
+      "n": 3,
+      "hit@10": 1.0
+    },
+    "water": {
+      "n": 3,
+      "hit@10": 1.0
+    },
+    "cement": {
+      "n": 2,
+      "hit@10": 1.0
+    },
+    "concrete": {
+      "n": 2,
+      "hit@10": 1.0
+    }
+  },
+  "misses": [],
+  "per_case": [
+    {
+      "id": "proc-cement-highway",
+      "query": "I need to procure cement for a highway construction project",
+      "expected": [
+        "IS 269",
+        "IS 8112",
+        "IS 12269"
+      ],
+      "difficulty": "medium",
+      "tags": [
+        "cement"
+      ],
+      "answerable": true,
+      "rejection": false,
+      "declined": false,
+      "top_score": 0.0409,
+      "rank": 1,
+      "sector": "Cement & Concrete",
+      "timings_ms": {},
+      "superseded_recommended": [],
+      "superseded_withheld": [],
+      "edition_exact": true,
+      "hit": {
+        "@1": true,
+        "@3": true,
+        "@5": true,
+        "@10": true
+      },
+      "top": [
+        "IS 269:2015",
+        "IS 269:2015",
+        "IS 269:2015",
+        "IS 269:1989",
+        "IS 269:1989",
+        "IS 269:1989",
+        "IS 456:2000",
+        "IS 456:2000"
+      ],
+      "superseded_ahead": [],
+      "superseded_seen": [
+        "IS 269:1989",
+        "IS 269:1989"
+      ],
+      "latency_ms": 14.455,
+      "error": ""
+    },
+    {
+      "id": "proc-cement-33",
+      "query": "ordinary portland cement 33 grade",
+      "expected": [
+        "IS 269"
+      ],
+      "difficulty": "easy",
+      "tags": [
+        "cement"
+      ],
+      "answerable": true,
+      "rejection": false,
+      "declined": false,
+      "top_score": 0.0415,
+      "rank": 1,
+      "sector": "Cement & Concrete",
+      "timings_ms": {},
+      "superseded_recommended": [],
+      "superseded_withheld": [],
+      "edition_exact": true,
+      "hit": {
+        "@1": true,
+        "@3": true,
+        "@5": true,
+        "@10": true
+      },
+      "top": [
+        "IS 269:2015",
+        "IS 269:2015",
+        "IS 269:2015",
+        "IS 269:1989",
+        "IS 269:1989",
+        "IS 269:1989",
+        "IS 456:2000",
+        "IS 456:2000"
+      ],
+      "superseded_ahead": [],
+      "superseded_seen": [
+        "IS 269:1989",
+        "IS 269:1989"
+      ],
+      "latency_ms": 14.999,
+      "error": ""
+    },
+    {
+      "id": "proc-cement-53",
+      "query": "53 grade ordinary portland cement for high strength concrete",
+      "expected": [
+        "IS 12269"
+      ],
+      "difficulty": "easy",
+      "tags": [
+        "cement"
+      ],
+      "answerable": false,
+      "rejection": false,
+      "declined": false,
+      "top_score": 0.0415,
+      "rank": null,
+      "sector": "Cement & Concrete",
+      "timings_ms": {},
+      "superseded_recommended": [],
+      "superseded_withheld": [],
+      "edition_exact": false,
+      "hit": {
+        "@1": false,
+        "@3": false,
+        "@5": false,
+        "@10": false
+      },
+      "top": [
+        "IS 269:2015",
+        "IS 269:2015",
+        "IS 269:2015",
+        "IS 269:1989",
+        "IS 269:1989",
+        "IS 269:1989",
+        "IS 1786:2008",
+        "IS 1786:2008",
+        "IS 1786:2008",
+        "IS 456:2000"
+      ],
+      "superseded_ahead": [],
+      "superseded_seen": [
+        "IS 269:1989",
+        "IS 269:1989"
+      ],
+      "latency_ms": 19.44,
+      "error": ""
+    },
+    {
+      "id": "proc-cement-43",
+      "query": "43 grade OPC for reinforced cement concrete work",
+      "expected": [
+        "IS 8112"
+      ],
+      "difficulty": "easy",
+      "tags": [
+        "cement"
+      ],
+      "answerable": false,
+      "rejection": false,
+      "declined": false,
+      "top_score": 0.0415,
+      "rank": null,
+      "sector": "Cement & Concrete",
+      "timings_ms": {},
+      "superseded_recommended": [],
+      "superseded_withheld": [],
+      "edition_exact": false,
+      "hit": {
+        "@1": false,
+        "@3": false,
+        "@5": false,
+        "@10": false
+      },
+      "top": [
+        "IS 269:2015",
+        "IS 269:2015",
+        "IS 269:2015",
+        "IS 269:1989",
+        "IS 269:1989",
+        "IS 269:1989",
+        "IS 456:2000",
+        "IS 456:2000",
+        "IS 456:2000",
+        "IS 456:1978"
+      ],
+      "superseded_ahead": [],
+      "superseded_seen": [
+        "IS 269:1989",
+        "IS 269:1989"
+      ],
+      "latency_ms": 15.424,
+      "error": ""
+    },
+    {
+      "id": "proc-ppc-flyash",
+      "query": "portland pozzolana cement made with fly ash",
+      "expected": [
+        "IS 1489"
+      ],
+      "difficulty": "easy",
+      "tags": [
+        "cement"
+      ],
+      "answerable": false,
+      "rejection": false,
+      "declined": false,
+      "top_score": 0.0412,
+      "rank": null,
+      "sector": "Cement & Concrete",
+      "timings_ms": {},
+      "superseded_recommended": [],
+      "superseded_withheld": [],
+      "edition_exact": false,
+      "hit": {
+        "@1": false,
+        "@3": false,
+        "@5": false,
+        "@10": false
+      },
+      "top": [
+        "IS 269:2015",
+        "IS 269:2015",
+        "IS 269:2015",
+        "IS 269:1989",
+        "IS 269:1989",
+        "IS 269:1989"
+      ],
+      "superseded_ahead": [],
+      "superseded_seen": [
+        "IS 269:1989",
+        "IS 269:1989"
+      ],
+      "latency_ms": 13.463,
+      "error": ""
+    },
+    {
+      "id": "proc-slag-cement",
+      "query": "portland slag cement from a steel plant by-product",
+      "expected": [
+        "IS 455"
+      ],
+      "difficulty": "easy",
+      "tags": [
+        "cement"
+      ],
+      "answerable": false,
+      "rejection": false,
+      "declined": false,
+      "top_score": 0.0412,
+      "rank": null,
+      "sector": "Cement & Concrete",
+      "timings_ms": {},
+      "superseded_recommended": [],
+      "superseded_withheld": [],
+      "edition_exact": false,
+      "hit": {
+        "@1": false,
+        "@3": false,
+        "@5": false,
+        "@10": false
+      },
+      "top": [
+        "IS 269:2015",
+        "IS 269:2015",
+        "IS 269:2015",
+        "IS 269:1989",
+        "IS 269:1989",
+        "IS 269:1989",
+        "IS 1239:2004",
+        "IS 1239:2004",
+        "IS 1239:2004",
+        "IS 1786:2008"
+      ],
+      "superseded_ahead": [],
+      "superseded_seen": [
+        "IS 269:1989",
+        "IS 269:1989"
+      ],
+      "latency_ms": 16.015,
+      "error": ""
+    },
+    {
+      "id": "proc-masonry-cement",
+      "query": "masonry cement for plastering and brickwork",
+      "expected": [
+        "IS 3466"
+      ],
+      "difficulty": "medium",
+      "tags": [
+        "cement"
+      ],
+      "answerable": false,
+      "rejection": false,
+      "declined": false,
+      "top_score": 0.0409,
+      "rank": null,
+      "sector": "Cement & Concrete",
+      "timings_ms": {},
+      "superseded_recommended": [],
+      "superseded_withheld": [],
+      "edition_exact": false,
+      "hit": {
+        "@1": false,
+        "@3": false,
+        "@5": false,
+        "@10": false
+      },
+      "top": [
+        "IS 269:2015",
+        "IS 269:2015",
+        "IS 269:2015",
+        "IS 269:1989",
+        "IS 269:1989",
+        "IS 269:1989"
+      ],
+      "superseded_ahead": [],
+      "superseded_seen": [
+        "IS 269:1989",
+        "IS 269:1989"
+      ],
+      "latency_ms": 13.929,
+      "error": ""
+    },
+    {
+      "id": "proc-tmt-bars",
+      "query": "TMT bars for RCC reinforcement",
+      "expected": [
+        "IS 1786"
+      ],
+      "difficulty": "medium",
+      "tags": [
+        "steel"
+      ],
+      "answerable": true,
+      "rejection": false,
+      "declined": false,
+      "top_score": 0.0415,
+      "rank": 1,
+      "sector": "Structural Steel",
+      "timings_ms": {},
+      "superseded_recommended": [],
+      "superseded_withheld": [],
+      "edition_exact": true,
+      "hit": {
+        "@1": true,
+        "@3": true,
+        "@5": true,
+        "@10": true
+      },
+      "top": [
+        "IS 1786:2008",
+        "IS 1786:2008",
+        "IS 1786:2008",
+        "IS 456:2000",
+        "IS 456:2000"
+      ],
+      "superseded_ahead": [],
+      "superseded_seen": [],
+      "latency_ms": 13.524,
+      "error": ""
+    },
+    {
+      "id": "proc-deformed-bars",
+      "query": "high strength deformed steel bars and wires for concrete reinforcement",
+      "expected": [
+        "IS 1786"
+      ],
+      "difficulty": "easy",
+      "tags": [
+        "steel"
+      ],
+      "answerable": true,
+      "rejection": false,
+      "declined": false,
+      "top_score": 0.0415,
+      "rank": 1,
+      "sector": "Structural Steel",
+      "timings_ms": {},
+      "superseded_recommended": [],
+      "superseded_withheld": [],
+      "edition_exact": true,
+      "hit": {
+        "@1": true,
+        "@3": true,
+        "@5": true,
+        "@10": true
+      },
+      "top": [
+        "IS 1786:2008",
+        "IS 1786:2008",
+        "IS 1786:2008",
+        "IS 456:2000",
+        "IS 456:2000",
+        "IS 1239:2004",
+        "IS 1239:2004",
+        "IS 1239:2004",
+        "IS 456:2000",
+        "IS 383:2016"
+      ],
+      "superseded_ahead": [],
+      "superseded_seen": [],
+      "latency_ms": 14.859,
+      "error": ""
+    },
+    {
+      "id": "proc-mild-steel-bars",
+      "query": "mild steel bars for concrete reinforcement",
+      "expected": [
+        "IS 432"
+      ],
+      "difficulty": "easy",
+      "tags": [
+        "steel"
+      ],
+      "answerable": false,
+      "rejection": false,
+      "declined": false,
+      "top_score": 0.0415,
+      "rank": null,
+      "sector": "Structural Steel",
+      "timings_ms": {},
+      "superseded_recommended": [],
+      "superseded_withheld": [],
+      "edition_exact": false,
+      "hit": {
+        "@1": false,
+        "@3": false,
+        "@5": false,
+        "@10": false
+      },
+      "top": [
+        "IS 1786:2008",
+        "IS 1786:2008",
+        "IS 1786:2008",
+        "IS 456:2000",
+        "IS 456:2000",
+        "IS 1239:2004",
+        "IS 1239:2004",
+        "IS 1239:2004",
+        "IS 456:2000",
+        "IS 383:2016"
+      ],
+      "superseded_ahead": [],
+      "superseded_seen": [],
+      "latency_ms": 14.651,
+      "error": ""
+    },
+    {
+      "id": "proc-structural-steel-bridge",
+      "query": "structural steel plates and sections for a bridge girder",
+      "expected": [
+        "IS 2062"
+      ],
+      "difficulty": "medium",
+      "tags": [
+        "steel"
+      ],
+      "answerable": false,
+      "rejection": false,
+      "declined": false,
+      "top_score": 0.0189,
+      "rank": null,
+      "sector": "Structural Steel",
+      "timings_ms": {},
+      "superseded_recommended": [],
+      "superseded_withheld": [],
+      "edition_exact": false,
+      "hit": {
+        "@1": false,
+        "@3": false,
+        "@5": false,
+        "@10": false
+      },
+      "top": [
+        "IS 1239:2004",
+        "IS 1239:2004",
+        "IS 1239:2004",
+        "IS 1786:2008",
+        "IS 1786:2008",
+        "IS 1786:2008",
+        "IS 456:1978",
+        "IS 456:1978",
+        "IS 10500:1991"
+      ],
+      "superseded_ahead": [],
+      "superseded_seen": [],
+      "latency_ms": 14.228,
+      "error": ""
+    },
+    {
+      "id": "proc-steel-tubes-water",
+      "query": "steel tubes for a water supply line",
+      "expected": [
+        "IS 1239"
+      ],
+      "difficulty": "easy",
+      "tags": [
+        "steel"
+      ],
+      "answerable": true,
+      "rejection": false,
+      "declined": false,
+      "top_score": 0.0412,
+      "rank": 1,
+      "sector": "Structural Steel",
+      "timings_ms": {},
+      "superseded_recommended": [],
+      "superseded_withheld": [],
+      "edition_exact": true,
+      "hit": {
+        "@1": true,
+        "@3": true,
+        "@5": true,
+        "@10": true
+      },
+      "top": [
+        "IS 1239:2004",
+        "IS 1239:2004",
+        "IS 1239:2004",
+        "IS 1786:2008",
+        "IS 10500:2012",
+        "IS 4985:2000",
+        "IS 1786:2008",
+        "IS 1786:2008",
+        "IS 10500:2012",
+        "IS 10500:1991"
+      ],
+      "superseded_ahead": [],
+      "superseded_seen": [],
+      "latency_ms": 14.019,
+      "error": ""
+    },
+    {
+      "id": "proc-steel-pipe-main",
+      "query": "large diameter steel pipe for a water transmission main",
+      "expected": [
+        "IS 3589"
+      ],
+      "difficulty": "medium",
+      "tags": [
+        "steel"
+      ],
+      "answerable": false,
+      "rejection": false,
+      "declined": false,
+      "top_score": 0.0185,
+      "rank": null,
+      "sector": "Structural Steel",
+      "timings_ms": {},
+      "superseded_recommended": [],
+      "superseded_withheld": [],
+      "edition_exact": false,
+      "hit": {
+        "@1": false,
+        "@3": false,
+        "@5": false,
+        "@10": false
+      },
+      "top": [
+        "IS 1239:2004",
+        "IS 1239:2004",
+        "IS 1239:2004",
+        "IS 1786:2008",
+        "IS 10500:2012",
+        "IS 4985:2000",
+        "IS 1786:2008",
+        "IS 1786:2008",
+        "IS 10500:2012",
+        "IS 10500:1991"
+      ],
+      "superseded_ahead": [],
+      "superseded_seen": [],
+      "latency_ms": 15.764,
+      "error": ""
+    },
+    {
+      "id": "proc-bricks",
+      "query": "common burnt clay building bricks for a load bearing wall",
+      "expected": [
+        "IS 1077"
+      ],
+      "difficulty": "easy",
+      "tags": [
+        "masonry"
+      ],
+      "answerable": false,
+      "rejection": false,
+      "declined": false,
+      "top_score": 0.0185,
+      "rank": null,
+      "sector": "Masonry",
+      "timings_ms": {},
+      "superseded_recommended": [],
+      "superseded_withheld": [],
+      "edition_exact": false,
+      "hit": {
+        "@1": false,
+        "@3": false,
+        "@5": false,
+        "@10": false
+      },
+      "top": [
+        "IS 1239:2004",
+        "IS 456:2000",
+        "IS 456:1978",
+        "IS 1239:2004",
+        "IS 456:1978",
+        "IS 456:2000"
+      ],
+      "superseded_ahead": [],
+      "superseded_seen": [
+        "IS 456:1978",
+        "IS 456:1978"
+      ],
+      "latency_ms": 13.464,
+      "error": ""
+    },
+    {
+      "id": "proc-hollow-blocks",
+      "query": "hollow concrete blocks for a masonry wall",
+      "expected": [
+        "IS 2185"
+      ],
+      "difficulty": "easy",
+      "tags": [
+        "masonry"
+      ],
+      "answerable": false,
+      "rejection": false,
+      "declined": false,
+      "top_score": 0.0189,
+      "rank": null,
+      "sector": "Masonry",
+      "timings_ms": {},
+      "superseded_recommended": [],
+      "superseded_withheld": [],
+      "edition_exact": false,
+      "hit": {
+        "@1": false,
+        "@3": false,
+        "@5": false,
+        "@10": false
+      },
+      "top": [
+        "IS 456:2000",
+        "IS 383:2016",
+        "IS 1786:2008",
+        "IS 1786:2008",
+        "IS 383:2016",
+        "IS 383:2016",
+        "IS 456:1978",
+        "IS 456:2000",
+        "IS 456:2000",
+        "IS 1786:2008"
+      ],
+      "superseded_ahead": [],
+      "superseded_seen": [],
+      "latency_ms": 15.042,
+      "error": ""
+    },
+    {
+      "id": "proc-paver-blocks",
+      "query": "heavy duty concrete paver blocks for a container yard",
+      "expected": [
+        "IS 15658"
+      ],
+      "difficulty": "medium",
+      "tags": [
+        "masonry"
+      ],
+      "answerable": false,
+      "rejection": false,
+      "declined": false,
+      "top_score": 0.0189,
+      "rank": null,
+      "sector": "Masonry",
+      "timings_ms": {},
+      "superseded_recommended": [],
+      "superseded_withheld": [],
+      "edition_exact": false,
+      "hit": {
+        "@1": false,
+        "@3": false,
+        "@5": false,
+        "@10": false
+      },
+      "top": [
+        "IS 456:2000",
+        "IS 383:2016",
+        "IS 1786:2008",
+        "IS 1786:2008",
+        "IS 383:2016",
+        "IS 383:2016",
+        "IS 456:1978",
+        "IS 456:2000",
+        "IS 456:2000",
+        "IS 1786:2008"
+      ],
+      "superseded_ahead": [],
+      "superseded_seen": [],
+      "latency_ms": 15.889,
+      "error": ""
+    },
+    {
+      "id": "proc-upvc-pipe",
+      "query": "unplasticized PVC pipes for potable water supply",
+      "expected": [
+        "IS 4985"
+      ],
+      "difficulty": "easy",
+      "tags": [
+        "water"
+      ],
+      "answerable": true,
+      "rejection": false,
+      "declined": false,
+      "top_score": 0.0415,
+      "rank": 1,
+      "sector": "Water & Sanitation",
+      "timings_ms": {},
+      "superseded_recommended": [],
+      "superseded_withheld": [],
+      "edition_exact": true,
+      "hit": {
+        "@1": true,
+        "@3": true,
+        "@5": true,
+        "@10": true
+      },
+      "top": [
+        "IS 4985:2000",
+        "IS 4985:2000",
+        "IS 4985:2000",
+        "IS 10500:2012",
+        "IS 10500:2012",
+        "IS 10500:2012",
+        "IS 10500:1991",
+        "IS 10500:1991",
+        "IS 10500:1991",
+        "IS 1239:2004"
+      ],
+      "superseded_ahead": [],
+      "superseded_seen": [],
+      "latency_ms": 16.094,
+      "error": ""
+    },
+    {
+      "id": "proc-hdpe-pipe",
+      "query": "flexible polyethylene pipe for a buried rural water supply main",
+      "expected": [
+        "IS 4984"
+      ],
+      "difficulty": "hard",
+      "tags": [
+        "water"
+      ],
+      "answerable": false,
+      "rejection": false,
+      "declined": false,
+      "top_score": 0.0185,
+      "rank": null,
+      "sector": "Water & Sanitation",
+      "timings_ms": {},
+      "superseded_recommended": [],
+      "superseded_withheld": [],
+      "edition_exact": false,
+      "hit": {
+        "@1": false,
+        "@3": false,
+        "@5": false,
+        "@10": false
+      },
+      "top": [
+        "IS 10500:2012",
+        "IS 4985:2000",
+        "IS 10500:2012",
+        "IS 10500:2012",
+        "IS 4985:2000",
+        "IS 10500:1991",
+        "IS 4985:2000",
+        "IS 10500:1991",
+        "IS 10500:1991",
+        "IS 1239:2004"
+      ],
+      "superseded_ahead": [],
+      "superseded_seen": [],
+      "latency_ms": 14.309,
+      "error": ""
+    },
+    {
+      "id": "proc-pvc-soil-waste",
+      "query": "PVC pipe for soil and waste discharge from a building",
+      "expected": [
+        "IS 13488"
+      ],
+      "difficulty": "medium",
+      "tags": [
+        "water"
+      ],
+      "answerable": false,
+      "rejection": false,
+      "declined": false,
+      "top_score": 0.0189,
+      "rank": null,
+      "sector": "Water & Sanitation",
+      "timings_ms": {},
+      "superseded_recommended": [],
+      "superseded_withheld": [],
+      "edition_exact": false,
+      "hit": {
+        "@1": false,
+        "@3": false,
+        "@5": false,
+        "@10": false
+      },
+      "top": [
+        "IS 4985:2000",
+        "IS 4985:2000",
+        "IS 4985:2000",
+        "IS 456:2000",
+        "IS 456:1978",
+        "IS 456:1978",
+        "IS 456:2000"
+      ],
+      "superseded_ahead": [],
+      "superseded_seen": [
+        "IS 456:1978"
+      ],
+      "latency_ms": 15.611,
+      "error": ""
+    },
+    {
+      "id": "proc-grp-pipe",
+      "query": "glass fibre reinforced plastic pipe for drinking water",
+      "expected": [
+        "IS 12709"
+      ],
+      "difficulty": "medium",
+      "tags": [
+        "water"
+      ],
+      "answerable": false,
+      "rejection": false,
+      "declined": false,
+      "top_score": 0.0415,
+      "rank": null,
+      "sector": "Water & Sanitation",
+      "timings_ms": {},
+      "superseded_recommended": [],
+      "superseded_withheld": [],
+      "edition_exact": false,
+      "hit": {
+        "@1": false,
+        "@3": false,
+        "@5": false,
+        "@10": false
+      },
+      "top": [
+        "IS 10500:2012",
+        "IS 10500:2012",
+        "IS 10500:2012",
+        "IS 10500:1991",
+        "IS 10500:1991",
+        "IS 10500:1991",
+        "IS 456:2000",
+        "IS 4985:2000",
+        "IS 456:2000",
+        "IS 456:2000"
+      ],
+      "superseded_ahead": [],
+      "superseded_seen": [
+        "IS 10500:1991",
+        "IS 10500:1991"
+      ],
+      "latency_ms": 15.341,
+      "error": ""
+    },
+    {
+      "id": "proc-ac-pressure-pipe",
+      "query": "asbestos cement pressure pipe for water mains",
+      "expected": [
+        "IS 1592"
+      ],
+      "difficulty": "easy",
+      "tags": [
+        "water"
+      ],
+      "answerable": false,
+      "rejection": false,
+      "declined": false,
+      "top_score": 0.0403,
+      "rank": null,
+      "sector": "Water & Sanitation",
+      "timings_ms": {},
+      "superseded_recommended": [],
+      "superseded_withheld": [],
+      "edition_exact": false,
+      "hit": {
+        "@1": false,
+        "@3": false,
+        "@5": false,
+        "@10": false
+      },
+      "top": [
+        "IS 269:2015",
+        "IS 269:2015",
+        "IS 269:2015",
+        "IS 269:1989",
+        "IS 269:1989",
+        "IS 269:1989",
+        "IS 4985:2000",
+        "IS 4985:2000",
+        "IS 4985:2000",
+        "IS 10500:2012"
+      ],
+      "superseded_ahead": [],
+      "superseded_seen": [
+        "IS 269:1989",
+        "IS 269:1989"
+      ],
+      "latency_ms": 16.251,
+      "error": ""
+    },
+    {
+      "id": "proc-precast-pipes",
+      "query": "precast concrete pipes for storm water drainage",
+      "expected": [
+        "IS 458"
+      ],
+      "difficulty": "easy",
+      "tags": [
+        "water"
+      ],
+      "answerable": false,
+      "rejection": false,
+      "declined": false,
+      "top_score": 0.0189,
+      "rank": null,
+      "sector": "Water & Sanitation",
+      "timings_ms": {},
+      "superseded_recommended": [],
+      "superseded_withheld": [],
+      "edition_exact": false,
+      "hit": {
+        "@1": false,
+        "@3": false,
+        "@5": false,
+        "@10": false
+      },
+      "top": [
+        "IS 4985:2000",
+        "IS 4985:2000",
+        "IS 4985:2000",
+        "IS 10500:2012",
+        "IS 456:2000",
+        "IS 383:2016",
+        "IS 1786:2008",
+        "IS 1786:2008",
+        "IS 10500:1991",
+        "IS 10500:2012"
+      ],
+      "superseded_ahead": [],
+      "superseded_seen": [],
+      "latency_ms": 14.784,
+      "error": ""
+    },
+    {
+      "id": "proc-rcc-hume-pipe",
+      "query": "reinforced cement concrete hume pipes for culverts",
+      "expected": [
+        "IS 458"
+      ],
+      "difficulty": "medium",
+      "tags": [
+        "water"
+      ],
+      "answerable": false,
+      "rejection": false,
+      "declined": false,
+      "top_score": 0.0384,
+      "rank": null,
+      "sector": "Water & Sanitation",
+      "timings_ms": {},
+      "superseded_recommended": [],
+      "superseded_withheld": [],
+      "edition_exact": false,
+      "hit": {
+        "@1": false,
+        "@3": false,
+        "@5": false,
+        "@10": false
+      },
+      "top": [
+        "IS 269:2015",
+        "IS 269:2015",
+        "IS 269:1989",
+        "IS 269:1989",
+        "IS 269:1989",
+        "IS 269:2015",
+        "IS 456:2000",
+        "IS 456:2000",
+        "IS 456:2000",
+        "IS 456:1978"
+      ],
+      "superseded_ahead": [],
+      "superseded_seen": [
+        "IS 269:1989",
+        "IS 269:1989",
+        "IS 269:1989"
+      ],
+      "latency_ms": 17.068,
+      "error": ""
+    },
+    {
+      "id": "proc-pvc-cable",
+      "query": "PVC insulated cable for domestic wiring up to 1100 volts",
+      "expected": [
+        "IS 694"
+      ],
+      "difficulty": "easy",
+      "tags": [
+        "electrical"
+      ],
+      "answerable": false,
+      "rejection": false,
+      "declined": false,
+      "top_score": 0.0,
+      "rank": null,
+      "sector": "Electrical & Electronics",
+      "timings_ms": {},
+      "superseded_recommended": [],
+      "superseded_withheld": [],
+      "edition_exact": false,
+      "hit": {
+        "@1": false,
+        "@3": false,
+        "@5": false,
+        "@10": false
+      },
+      "top": [],
+      "superseded_ahead": [],
+      "superseded_seen": [],
+      "latency_ms": 5.776,
+      "error": ""
+    },
+    {
+      "id": "proc-heavy-duty-cable",
+      "query": "heavy duty PVC insulated cable for a factory distribution board",
+      "expected": [
+        "IS 1554"
+      ],
+      "difficulty": "medium",
+      "tags": [
+        "electrical"
+      ],
+      "answerable": false,
+      "rejection": false,
+      "declined": false,
+      "top_score": 0.0189,
+      "rank": null,
+      "sector": "Electrical & Electronics",
+      "timings_ms": {},
+      "superseded_recommended": [],
+      "superseded_withheld": [],
+      "edition_exact": false,
+      "hit": {
+        "@1": false,
+        "@3": false,
+        "@5": false,
+        "@10": false
+      },
+      "top": [
+        "IS 4985:2000",
+        "IS 4985:2000",
+        "IS 4985:2000",
+        "IS 1239:2004",
+        "IS 1239:2004"
+      ],
+      "superseded_ahead": [],
+      "superseded_seen": [],
+      "latency_ms": 14.609,
+      "error": ""
+    },
+    {
+      "id": "proc-xlpe-cable",
+      "query": "XLPE insulated armoured cable for an 11 kV feeder",
+      "expected": [
+        "IS 7098"
+      ],
+      "difficulty": "easy",
+      "tags": [
+        "electrical"
+      ],
+      "answerable": false,
+      "rejection": false,
+      "declined": false,
+      "top_score": 0.0151,
+      "rank": null,
+      "sector": "Electrical & Electronics",
+      "timings_ms": {},
+      "superseded_recommended": [],
+      "superseded_withheld": [],
+      "edition_exact": false,
+      "hit": {
+        "@1": false,
+        "@3": false,
+        "@5": false,
+        "@10": false
+      },
+      "top": [
+        "IS 302 (Part 2):2009",
+        "IS 456:2000"
+      ],
+      "superseded_ahead": [],
+      "superseded_seen": [],
+      "latency_ms": 12.788,
+      "error": ""
+    },
+    {
+      "id": "proc-plug-socket",
+      "query": "6 ampere three pin plug and socket outlet for domestic use",
+      "expected": [
+        "IS 1293"
+      ],
+      "difficulty": "easy",
+      "tags": [
+        "electrical"
+      ],
+      "answerable": false,
+      "rejection": false,
+      "declined": false,
+      "top_score": 0.0185,
+      "rank": null,
+      "sector": "Electrical & Electronics",
+      "timings_ms": {},
+      "superseded_recommended": [],
+      "superseded_withheld": [],
+      "edition_exact": false,
+      "hit": {
+        "@1": false,
+        "@3": false,
+        "@5": false,
+        "@10": false
+      },
+      "top": [
+        "IS 383:2016",
+        "IS 1239:2004",
+        "IS 1786:2008",
+        "IS 456:1978",
+        "IS 383:2016",
+        "IS 1786:2008",
+        "IS 1239:2004",
+        "IS 456:1978"
+      ],
+      "superseded_ahead": [
+        "IS 456:1978"
+      ],
+      "superseded_seen": [
+        "IS 456:1978"
+      ],
+      "latency_ms": 16.828,
+      "error": ""
+    },
+    {
+      "id": "proc-switches",
+      "query": "wall mounted switch for a domestic lighting circuit",
+      "expected": [
+        "IS 3854"
+      ],
+      "difficulty": "medium",
+      "tags": [
+        "electrical"
+      ],
+      "answerable": false,
+      "rejection": false,
+      "declined": false,
+      "top_score": 0.0189,
+      "rank": null,
+      "sector": "Electrical & Electronics",
+      "timings_ms": {},
+      "superseded_recommended": [],
+      "superseded_withheld": [],
+      "edition_exact": false,
+      "hit": {
+        "@1": false,
+        "@3": false,
+        "@5": false,
+        "@10": false
+      },
+      "top": [
+        "IS 1239:2004",
+        "IS 1239:2004"
+      ],
+      "superseded_ahead": [],
+      "superseded_seen": [],
+      "latency_ms": 13.105,
+      "error": ""
+    },
+    {
+      "id": "proc-appliance-safety",
+      "query": "safety requirements for a household electric water heater",
+      "expected": [
+        "IS 302"
+      ],
+      "difficulty": "medium",
+      "tags": [
+        "electrical"
+      ],
+      "answerable": false,
+      "rejection": false,
+      "declined": false,
+      "top_score": 0.0566,
+      "rank": null,
+      "sector": "Electrical & Electronics",
+      "timings_ms": {},
+      "superseded_recommended": [],
+      "superseded_withheld": [],
+      "edition_exact": false,
+      "hit": {
+        "@1": false,
+        "@3": false,
+        "@5": false,
+        "@10": false
+      },
+      "top": [
+        "IS 302 (Part 2):2009",
+        "IS 302 (Part 2):2009",
+        "IS 302 (Part 2):2009",
+        "IS 10500:2012",
+        "IS 10500:2012",
+        "IS 4985:2000",
+        "IS 4985:2000",
+        "IS 10500:1991",
+        "IS 10500:2012",
+        "IS 4985:2000"
+      ],
+      "superseded_ahead": [],
+      "superseded_seen": [],
+      "latency_ms": 17.026,
+      "error": ""
+    },
+    {
+      "id": "proc-luminaire",
+      "query": "ceiling luminaire for an office lighting installation",
+      "expected": [
+        "IS 10322"
+      ],
+      "difficulty": "medium",
+      "tags": [
+        "electrical"
+      ],
+      "answerable": false,
+      "rejection": false,
+      "declined": false,
+      "top_score": 0.0,
+      "rank": null,
+      "sector": "Electrical & Electronics",
+      "timings_ms": {},
+      "superseded_recommended": [],
+      "superseded_withheld": [],
+      "edition_exact": false,
+      "hit": {
+        "@1": false,
+        "@3": false,
+        "@5": false,
+        "@10": false
+      },
+      "top": [],
+      "superseded_ahead": [],
+      "superseded_seen": [],
+      "latency_ms": 14.731,
+      "error": ""
+    },
+    {
+      "id": "proc-lamp",
+      "query": "tungsten filament general service electric lamp",
+      "expected": [
+        "IS 418"
+      ],
+      "difficulty": "easy",
+      "tags": [
+        "electrical"
+      ],
+      "answerable": false,
+      "rejection": false,
+      "declined": false,
+      "top_score": 0.0185,
+      "rank": null,
+      "sector": "Electrical & Electronics",
+      "timings_ms": {},
+      "superseded_recommended": [],
+      "superseded_withheld": [],
+      "edition_exact": false,
+      "hit": {
+        "@1": false,
+        "@3": false,
+        "@5": false,
+        "@10": false
+      },
+      "top": [
+        "IS 302 (Part 2):2009",
+        "IS 456:1978",
+        "IS 302 (Part 2):2009",
+        "IS 456:1978"
+      ],
+      "superseded_ahead": [
+        "IS 456:1978"
+      ],
+      "superseded_seen": [
+        "IS 456:1978",
+        "IS 456:1978"
+      ],
+      "latency_ms": 13.149,
+      "error": ""
+    },
+    {
+      "id": "proc-motor",
+      "query": "three phase squirrel cage induction motor for a pump house",
+      "expected": [
+        "IS 325"
+      ],
+      "difficulty": "medium",
+      "tags": [
+        "electrical"
+      ],
+      "answerable": false,
+      "rejection": false,
+      "declined": false,
+      "top_score": 0.0,
+      "rank": null,
+      "sector": "Electrical & Electronics",
+      "timings_ms": {},
+      "superseded_recommended": [],
+      "superseded_withheld": [],
+      "edition_exact": false,
+      "hit": {
+        "@1": false,
+        "@3": false,
+        "@5": false,
+        "@10": false
+      },
+      "top": [],
+      "superseded_ahead": [],
+      "superseded_seen": [],
+      "latency_ms": 11.836,
+      "error": ""
+    },
+    {
+      "id": "proc-rccb",
+      "query": "we keep getting electric shocks from bathroom fittings and want a residual current circuit breaker",
+      "expected": [
+        "IS 12640"
+      ],
+      "difficulty": "hard",
+      "tags": [
+        "electrical"
+      ],
+      "answerable": false,
+      "rejection": false,
+      "declined": false,
+      "top_score": 0.0185,
+      "rank": null,
+      "sector": "Electrical & Electronics",
+      "timings_ms": {},
+      "superseded_recommended": [],
+      "superseded_withheld": [],
+      "edition_exact": false,
+      "hit": {
+        "@1": false,
+        "@3": false,
+        "@5": false,
+        "@10": false
+      },
+      "top": [
+        "IS 1239:2004",
+        "IS 1239:2004",
+        "IS 1239:2004",
+        "IS 302 (Part 2):2009",
+        "IS 302 (Part 2):2009"
+      ],
+      "superseded_ahead": [],
+      "superseded_seen": [],
+      "latency_ms": 14.493,
+      "error": ""
+    },
+    {
+      "id": "proc-wiring-code",
+      "query": "electrical wiring installation for a new house, which code of practice applies",
+      "expected": [
+        "IS 732"
+      ],
+      "difficulty": "medium",
+      "tags": [
+        "electrical"
+      ],
+      "answerable": false,
+      "rejection": false,
+      "declined": false,
+      "top_score": 0.0189,
+      "rank": null,
+      "sector": "Electrical & Electronics",
+      "timings_ms": {},
+      "superseded_recommended": [],
+      "superseded_withheld": [],
+      "edition_exact": false,
+      "hit": {
+        "@1": false,
+        "@3": false,
+        "@5": false,
+        "@10": false
+      },
+      "top": [
+        "IS 302 (Part 2):2009",
+        "IS 302 (Part 2):2009",
+        "IS 302 (Part 2):2009"
+      ],
+      "superseded_ahead": [],
+      "superseded_seen": [],
+      "latency_ms": 10.289,
+      "error": ""
+    },
+    {
+      "id": "proc-switchgear-assembly",
+      "query": "factory assembled low voltage switchgear and controlgear assembly",
+      "expected": [
+        "IS 8623"
+      ],
+      "difficulty": "medium",
+      "tags": [
+        "electrical"
+      ],
+      "answerable": false,
+      "rejection": false,
+      "declined": false,
+      "top_score": 0.0,
+      "rank": null,
+      "sector": "Electrical & Electronics",
+      "timings_ms": {},
+      "superseded_recommended": [],
+      "superseded_withheld": [],
+      "edition_exact": false,
+      "hit": {
+        "@1": false,
+        "@3": false,
+        "@5": false,
+        "@10": false
+      },
+      "top": [],
+      "superseded_ahead": [],
+      "superseded_seen": [],
+      "latency_ms": 13.977,
+      "error": ""
+    },
+    {
+      "id": "proc-interior-illumination",
+      "query": "lighting levels for an office, code of practice for interior illumination",
+      "expected": [
+        "IS 3646"
+      ],
+      "difficulty": "medium",
+      "tags": [
+        "electrical"
+      ],
+      "answerable": false,
+      "rejection": false,
+      "declined": false,
+      "top_score": 0.0408,
+      "rank": null,
+      "sector": "Electrical & Electronics",
+      "timings_ms": {},
+      "superseded_recommended": [],
+      "superseded_withheld": [],
+      "edition_exact": false,
+      "hit": {
+        "@1": false,
+        "@3": false,
+        "@5": false,
+        "@10": false
+      },
+      "top": [
+        "IS 456:2000",
+        "IS 456:1978",
+        "IS 456:1978",
+        "IS 456:2000",
+        "IS 456:2000",
+        "IS 456:1978"
+      ],
+      "superseded_ahead": [],
+      "superseded_seen": [
+        "IS 456:1978",
+        "IS 456:1978"
+      ],
+      "latency_ms": 17.185,
+      "error": ""
+    },
+    {
+      "id": "proc-single-phase-motor",
+      "query": "single phase induction motor for a domestic water pump",
+      "expected": [
+        "IS 996"
+      ],
+      "difficulty": "medium",
+      "tags": [
+        "electrical"
+      ],
+      "answerable": false,
+      "rejection": false,
+      "declined": false,
+      "top_score": 0.0185,
+      "rank": null,
+      "sector": "Electrical & Electronics",
+      "timings_ms": {},
+      "superseded_recommended": [],
+      "superseded_withheld": [],
+      "edition_exact": false,
+      "hit": {
+        "@1": false,
+        "@3": false,
+        "@5": false,
+        "@10": false
+      },
+      "top": [
+        "IS 10500:2012",
+        "IS 4985:2000",
+        "IS 10500:2012",
+        "IS 10500:2012",
+        "IS 4985:2000",
+        "IS 10500:1991",
+        "IS 4985:2000",
+        "IS 10500:1991",
+        "IS 10500:1991",
+        "IS 1239:2004"
+      ],
+      "superseded_ahead": [],
+      "superseded_seen": [],
+      "latency_ms": 16.073,
+      "error": ""
+    },
+    {
+      "id": "proc-galvanised-sheets",
+      "query": "galvanised corrugated steel sheets for a factory roof",
+      "expected": [
+        "IS 277"
+      ],
+      "difficulty": "easy",
+      "tags": [
+        "steel"
+      ],
+      "answerable": false,
+      "rejection": false,
+      "declined": false,
+      "top_score": 0.0189,
+      "rank": null,
+      "sector": "Structural Steel",
+      "timings_ms": {},
+      "superseded_recommended": [],
+      "superseded_withheld": [],
+      "edition_exact": false,
+      "hit": {
+        "@1": false,
+        "@3": false,
+        "@5": false,
+        "@10": false
+      },
+      "top": [
+        "IS 1239:2004",
+        "IS 1239:2004",
+        "IS 1239:2004",
+        "IS 1786:2008",
+        "IS 1786:2008",
+        "IS 1786:2008"
+      ],
+      "superseded_ahead": [],
+      "superseded_seen": [],
+      "latency_ms": 13.604,
+      "error": ""
+    },
+    {
+      "id": "proc-drinking-water",
+      "query": "what is safe to drink, permissible limits for drinking water quality",
+      "expected": [
+        "IS 10500"
+      ],
+      "difficulty": "medium",
+      "tags": [
+        "water"
+      ],
+      "answerable": true,
+      "rejection": false,
+      "declined": false,
+      "top_score": 0.0411,
+      "rank": 1,
+      "sector": "Water & Sanitation",
+      "timings_ms": {},
+      "superseded_recommended": [],
+      "superseded_withheld": [],
+      "edition_exact": true,
+      "hit": {
+        "@1": true,
+        "@3": true,
+        "@5": true,
+        "@10": true
+      },
+      "top": [
+        "IS 10500:2012",
+        "IS 10500:2012",
+        "IS 10500:1991",
+        "IS 10500:2012",
+        "IS 10500:1991",
+        "IS 10500:1991",
+        "IS 4985:2000",
+        "IS 4985:2000",
+        "IS 4985:2000",
+        "IS 383:2016"
+      ],
+      "superseded_ahead": [],
+      "superseded_seen": [
+        "IS 10500:1991",
+        "IS 10500:1991"
+      ],
+      "latency_ms": 16.068,
+      "error": ""
+    },
+    {
+      "id": "proc-borewell-salty",
+      "query": "my borewell water tastes salty and nobody knows what is safe to drink",
+      "expected": [
+        "IS 10500"
+      ],
+      "difficulty": "hard",
+      "tags": [
+        "water"
+      ],
+      "answerable": true,
+      "rejection": false,
+      "declined": false,
+      "top_score": 0.0185,
+      "rank": 1,
+      "sector": "Water & Sanitation",
+      "timings_ms": {},
+      "superseded_recommended": [],
+      "superseded_withheld": [],
+      "edition_exact": true,
+      "hit": {
+        "@1": true,
+        "@3": true,
+        "@5": true,
+        "@10": true
+      },
+      "top": [
+        "IS 10500:2012",
+        "IS 4985:2000",
+        "IS 10500:2012",
+        "IS 10500:2012",
+        "IS 4985:2000",
+        "IS 10500:1991",
+        "IS 4985:2000",
+        "IS 10500:1991",
+        "IS 10500:1991",
+        "IS 1239:2004"
+      ],
+      "superseded_ahead": [],
+      "superseded_seen": [],
+      "latency_ms": 15.618,
+      "error": ""
+    },
+    {
+      "id": "proc-water-test-methods",
+      "query": "test methods for chloride and fluoride in a water sample",
+      "expected": [
+        "IS 3025"
+      ],
+      "difficulty": "medium",
+      "tags": [
+        "water"
+      ],
+      "answerable": false,
+      "rejection": false,
+      "declined": false,
+      "top_score": 0.0566,
+      "rank": null,
+      "sector": "Water & Sanitation",
+      "timings_ms": {},
+      "superseded_recommended": [],
+      "superseded_withheld": [],
+      "edition_exact": false,
+      "hit": {
+        "@1": false,
+        "@3": false,
+        "@5": false,
+        "@10": false
+      },
+      "top": [
+        "IS 10500:2012",
+        "IS 4985:2000",
+        "IS 10500:2012",
+        "IS 10500:2012",
+        "IS 4985:2000",
+        "IS 4985:2000",
+        "IS 10500:1991",
+        "IS 10500:1991",
+        "IS 10500:1991",
+        "IS 1:1968"
+      ],
+      "superseded_ahead": [],
+      "superseded_seen": [],
+      "latency_ms": 14.79,
+      "error": ""
+    },
+    {
+      "id": "proc-flushing-cistern",
+      "query": "flushing cistern for a water closet in a public toilet",
+      "expected": [
+        "IS 774"
+      ],
+      "difficulty": "easy",
+      "tags": [
+        "plumbing"
+      ],
+      "answerable": false,
+      "rejection": false,
+      "declined": false,
+      "top_score": 0.0185,
+      "rank": null,
+      "sector": "Plumbing & Sanitation",
+      "timings_ms": {},
+      "superseded_recommended": [],
+      "superseded_withheld": [],
+      "edition_exact": false,
+      "hit": {
+        "@1": false,
+        "@3": false,
+        "@5": false,
+        "@10": false
+      },
+      "top": [
+        "IS 10500:2012",
+        "IS 4985:2000",
+        "IS 10500:2012",
+        "IS 10500:2012",
+        "IS 4985:2000",
+        "IS 10500:1991",
+        "IS 4985:2000",
+        "IS 10500:1991",
+        "IS 10500:1991",
+        "IS 1239:2004"
+      ],
+      "superseded_ahead": [],
+      "superseded_seen": [],
+      "latency_ms": 13.527,
+      "error": ""
+    },
+    {
+      "id": "proc-wash-basin",
+      "query": "vitreous china wash basin for a hotel washroom",
+      "expected": [
+        "IS 2556"
+      ],
+      "difficulty": "easy",
+      "tags": [
+        "plumbing"
+      ],
+      "answerable": false,
+      "rejection": false,
+      "declined": false,
+      "top_score": 0.0,
+      "rank": null,
+      "sector": "Plumbing & Sanitation",
+      "timings_ms": {},
+      "superseded_recommended": [],
+      "superseded_withheld": [],
+      "edition_exact": false,
+      "hit": {
+        "@1": false,
+        "@3": false,
+        "@5": false,
+        "@10": false
+      },
+      "top": [],
+      "superseded_ahead": [],
+      "superseded_seen": [],
+      "latency_ms": 11.02,
+      "error": ""
+    },
+    {
+      "id": "proc-kitchen-sink",
+      "query": "stainless steel kitchen sink for a household",
+      "expected": [
+        "IS 13983"
+      ],
+      "difficulty": "easy",
+      "tags": [
+        "plumbing"
+      ],
+      "answerable": false,
+      "rejection": false,
+      "declined": false,
+      "top_score": 0.0189,
+      "rank": null,
+      "sector": "Plumbing & Sanitation",
+      "timings_ms": {},
+      "superseded_recommended": [],
+      "superseded_withheld": [],
+      "edition_exact": false,
+      "hit": {
+        "@1": false,
+        "@3": false,
+        "@5": false,
+        "@10": false
+      },
+      "top": [
+        "IS 302 (Part 2):2009",
+        "IS 1239:2004",
+        "IS 302 (Part 2):2009",
+        "IS 302 (Part 2):2009",
+        "IS 1239:2004",
+        "IS 1239:2004",
+        "IS 1786:2008",
+        "IS 1786:2008",
+        "IS 1786:2008"
+      ],
+      "superseded_ahead": [],
+      "superseded_seen": [],
+      "latency_ms": 13.859,
+      "error": ""
+    },
+    {
+      "id": "proc-concrete-code",
+      "query": "code of practice for plain and reinforced concrete",
+      "expected": [
+        "IS 456"
+      ],
+      "difficulty": "easy",
+      "tags": [
+        "concrete"
+      ],
+      "answerable": true,
+      "rejection": false,
+      "declined": false,
+      "top_score": 0.0411,
+      "rank": 1,
+      "sector": "Cement & Concrete",
+      "timings_ms": {},
+      "superseded_recommended": [],
+      "superseded_withheld": [],
+      "edition_exact": true,
+      "hit": {
+        "@1": true,
+        "@3": true,
+        "@5": true,
+        "@10": true
+      },
+      "top": [
+        "IS 456:2000",
+        "IS 456:2000",
+        "IS 456:2000",
+        "IS 456:1978",
+        "IS 456:1978",
+        "IS 456:1978",
+        "IS 383:2016",
+        "IS 1786:2008",
+        "IS 1786:2008",
+        "IS 383:2016"
+      ],
+      "superseded_ahead": [],
+      "superseded_seen": [
+        "IS 456:1978",
+        "IS 456:1978"
+      ],
+      "latency_ms": 14.153,
+      "error": ""
+    },
+    {
+      "id": "proc-mix-design",
+      "query": "how do I work out the mix proportions for M30 concrete",
+      "expected": [
+        "IS 10262"
+      ],
+      "difficulty": "hard",
+      "tags": [
+        "concrete"
+      ],
+      "answerable": false,
+      "rejection": false,
+      "declined": false,
+      "top_score": 0.0189,
+      "rank": null,
+      "sector": "Cement & Concrete",
+      "timings_ms": {},
+      "superseded_recommended": [],
+      "superseded_withheld": [],
+      "edition_exact": false,
+      "hit": {
+        "@1": false,
+        "@3": false,
+        "@5": false,
+        "@10": false
+      },
+      "top": [
+        "IS 383:2016",
+        "IS 383:2016",
+        "IS 456:2000",
+        "IS 383:2016",
+        "IS 1786:2008",
+        "IS 1786:2008",
+        "IS 456:2000",
+        "IS 456:1978",
+        "IS 456:2000",
+        "IS 1786:2008"
+      ],
+      "superseded_ahead": [],
+      "superseded_seen": [],
+      "latency_ms": 15.124,
+      "error": ""
+    },
+    {
+      "id": "proc-cement-tests",
+      "query": "how do I test cement for fineness and setting time",
+      "expected": [
+        "IS 4031"
+      ],
+      "difficulty": "hard",
+      "tags": [
+        "concrete"
+      ],
+      "answerable": false,
+      "rejection": false,
+      "declined": false,
+      "top_score": 0.0398,
+      "rank": null,
+      "sector": "Cement & Concrete",
+      "timings_ms": {},
+      "superseded_recommended": [],
+      "superseded_withheld": [],
+      "edition_exact": false,
+      "hit": {
+        "@1": false,
+        "@3": false,
+        "@5": false,
+        "@10": false
+      },
+      "top": [
+        "IS 269:2015",
+        "IS 269:1989",
+        "IS 269:2015",
+        "IS 269:1989",
+        "IS 269:2015",
+        "IS 269:1989",
+        "IS 10500:2012",
+        "IS 1239:2004",
+        "IS 1:1968",
+        "IS 10500:2012"
+      ],
+      "superseded_ahead": [],
+      "superseded_seen": [
+        "IS 269:1989",
+        "IS 269:1989"
+      ],
+      "latency_ms": 14.24,
+      "error": ""
+    },
+    {
+      "id": "proc-aggregates",
+      "query": "coarse and fine aggregate grading requirements for concrete",
+      "expected": [
+        "IS 383"
+      ],
+      "difficulty": "medium",
+      "tags": [
+        "concrete"
+      ],
+      "answerable": true,
+      "rejection": false,
+      "declined": false,
+      "top_score": 0.0408,
+      "rank": 1,
+      "sector": "Cement & Concrete",
+      "timings_ms": {},
+      "superseded_recommended": [],
+      "superseded_withheld": [],
+      "edition_exact": true,
+      "hit": {
+        "@1": true,
+        "@3": true,
+        "@5": true,
+        "@10": true
+      },
+      "top": [
+        "IS 383:2016",
+        "IS 383:2016",
+        "IS 383:2016",
+        "IS 1786:2008",
+        "IS 456:2000",
+        "IS 1786:2008",
+        "IS 456:1978",
+        "IS 1786:2008",
+        "IS 456:2000",
+        "IS 456:2000"
+      ],
+      "superseded_ahead": [],
+      "superseded_seen": [],
+      "latency_ms": 15.659,
+      "error": ""
+    },
+    {
+      "id": "proc-seismic-design",
+      "query": "our building is in seismic zone IV, which standard governs the design",
+      "expected": [
+        "IS 1893"
+      ],
+      "difficulty": "hard",
+      "tags": [
+        "structural"
+      ],
+      "answerable": false,
+      "rejection": false,
+      "declined": false,
+      "top_score": 0.0339,
+      "rank": null,
+      "sector": "Structural Steel",
+      "timings_ms": {},
+      "superseded_recommended": [],
+      "superseded_withheld": [],
+      "edition_exact": false,
+      "hit": {
+        "@1": false,
+        "@3": false,
+        "@5": false,
+        "@10": false
+      },
+      "top": [
+        "IS 456:2000",
+        "IS 4985:2000",
+        "IS 456:1978",
+        "IS 456:2000",
+        "IS 4985:2000",
+        "IS 456:2000",
+        "IS 1:1968",
+        "IS 10500:2012",
+        "IS 383:2016",
+        "IS 456:1978"
+      ],
+      "superseded_ahead": [],
+      "superseded_seen": [
+        "IS 456:1978"
+      ],
+      "latency_ms": 16.036,
+      "error": ""
+    },
+    {
+      "id": "proc-ductile-detailing",
+      "query": "ductile detailing of reinforcement for a frame in a high seismic zone",
+      "expected": [
+        "IS 13920"
+      ],
+      "difficulty": "medium",
+      "tags": [
+        "structural"
+      ],
+      "answerable": false,
+      "rejection": false,
+      "declined": false,
+      "top_score": 0.0412,
+      "rank": null,
+      "sector": "Structural Steel",
+      "timings_ms": {},
+      "superseded_recommended": [],
+      "superseded_withheld": [],
+      "edition_exact": false,
+      "hit": {
+        "@1": false,
+        "@3": false,
+        "@5": false,
+        "@10": false
+      },
+      "top": [
+        "IS 1786:2008",
+        "IS 1786:2008",
+        "IS 1786:2008",
+        "IS 456:2000",
+        "IS 456:2000"
+      ],
+      "superseded_ahead": [],
+      "superseded_seen": [],
+      "latency_ms": 13.29,
+      "error": ""
+    },
+    {
+      "id": "proc-waterproofing",
+      "query": "integral waterproofing compound to add to terrace mortar",
+      "expected": [
+        "IS 2645"
+      ],
+      "difficulty": "medium",
+      "tags": [
+        "concrete"
+      ],
+      "answerable": false,
+      "rejection": false,
+      "declined": false,
+      "top_score": 0.0,
+      "rank": null,
+      "sector": "Cement & Concrete",
+      "timings_ms": {},
+      "superseded_recommended": [],
+      "superseded_withheld": [],
+      "edition_exact": false,
+      "hit": {
+        "@1": false,
+        "@3": false,
+        "@5": false,
+        "@10": false
+      },
+      "top": [],
+      "superseded_ahead": [],
+      "superseded_seen": [],
+      "latency_ms": 11.794,
+      "error": ""
+    },
+    {
+      "id": "proc-admixture",
+      "query": "concrete admixture to improve workability",
+      "expected": [
+        "IS 9103"
+      ],
+      "difficulty": "medium",
+      "tags": [
+        "concrete"
+      ],
+      "answerable": false,
+      "rejection": false,
+      "declined": false,
+      "top_score": 0.0189,
+      "rank": null,
+      "sector": "Cement & Concrete",
+      "timings_ms": {},
+      "superseded_recommended": [],
+      "superseded_withheld": [],
+      "edition_exact": false,
+      "hit": {
+        "@1": false,
+        "@3": false,
+        "@5": false,
+        "@10": false
+      },
+      "top": [
+        "IS 456:2000",
+        "IS 383:2016",
+        "IS 1786:2008",
+        "IS 1786:2008",
+        "IS 383:2016",
+        "IS 383:2016",
+        "IS 456:2000",
+        "IS 456:1978",
+        "IS 456:2000",
+        "IS 1786:2008"
+      ],
+      "superseded_ahead": [],
+      "superseded_seen": [],
+      "latency_ms": 15.483,
+      "error": ""
+    },
+    {
+      "id": "proc-foundation-black-cotton",
+      "query": "foundation design for a building on expansive black cotton soil",
+      "expected": [
+        "IS 1904"
+      ],
+      "difficulty": "hard",
+      "tags": [
+        "structural"
+      ],
+      "answerable": false,
+      "rejection": false,
+      "declined": false,
+      "top_score": 0.0339,
+      "rank": null,
+      "sector": "Structural Steel",
+      "timings_ms": {},
+      "superseded_recommended": [],
+      "superseded_withheld": [],
+      "edition_exact": false,
+      "hit": {
+        "@1": false,
+        "@3": false,
+        "@5": false,
+        "@10": false
+      },
+      "top": [
+        "IS 456:2000",
+        "IS 456:1978",
+        "IS 456:2000",
+        "IS 456:2000",
+        "IS 456:1978",
+        "IS 456:1978"
+      ],
+      "superseded_ahead": [],
+      "superseded_seen": [
+        "IS 456:1978",
+        "IS 456:1978"
+      ],
+      "latency_ms": 17.407,
+      "error": ""
+    },
+    {
+      "id": "proc-water-tank",
+      "query": "underground tank for storing 50000 litres of water, which concrete code applies",
+      "expected": [
+        "IS 3370"
+      ],
+      "difficulty": "hard",
+      "tags": [
+        "structural"
+      ],
+      "answerable": false,
+      "rejection": false,
+      "declined": false,
+      "top_score": 0.0406,
+      "rank": null,
+      "sector": "Structural Steel",
+      "timings_ms": {},
+      "superseded_recommended": [],
+      "superseded_withheld": [],
+      "edition_exact": false,
+      "hit": {
+        "@1": false,
+        "@3": false,
+        "@5": false,
+        "@10": false
+      },
+      "top": [
+        "IS 456:2000",
+        "IS 456:2000",
+        "IS 456:2000",
+        "IS 456:1978",
+        "IS 456:1978",
+        "IS 456:1978",
+        "IS 4985:2000",
+        "IS 10500:2012",
+        "IS 4985:2000",
+        "IS 383:2016"
+      ],
+      "superseded_ahead": [],
+      "superseded_seen": [
+        "IS 456:1978",
+        "IS 456:1978"
+      ],
+      "latency_ms": 19.104,
+      "error": ""
+    },
+    {
+      "id": "proc-steel-design",
+      "query": "design of a steel framed industrial shed, which code of practice",
+      "expected": [
+        "IS 800"
+      ],
+      "difficulty": "medium",
+      "tags": [
+        "structural"
+      ],
+      "answerable": false,
+      "rejection": false,
+      "declined": false,
+      "top_score": 0.0415,
+      "rank": null,
+      "sector": "Structural Steel",
+      "timings_ms": {},
+      "superseded_recommended": [],
+      "superseded_withheld": [],
+      "edition_exact": false,
+      "hit": {
+        "@1": false,
+        "@3": false,
+        "@5": false,
+        "@10": false
+      },
+      "top": [
+        "IS 456:2000",
+        "IS 456:2000",
+        "IS 456:2000",
+        "IS 456:1978",
+        "IS 456:1978",
+        "IS 456:1978",
+        "IS 1239:2004",
+        "IS 1239:2004",
+        "IS 1239:2004",
+        "IS 1786:2008"
+      ],
+      "superseded_ahead": [],
+      "superseded_seen": [
+        "IS 456:1978",
+        "IS 456:1978"
+      ],
+      "latency_ms": 15.157,
+      "error": ""
+    },
+    {
+      "id": "proc-loads",
+      "query": "design loads including wind for a multi storey building",
+      "expected": [
+        "IS 875"
+      ],
+      "difficulty": "medium",
+      "tags": [
+        "structural"
+      ],
+      "answerable": false,
+      "rejection": false,
+      "declined": false,
+      "top_score": 0.0339,
+      "rank": null,
+      "sector": "Structural Steel",
+      "timings_ms": {},
+      "superseded_recommended": [],
+      "superseded_withheld": [],
+      "edition_exact": false,
+      "hit": {
+        "@1": false,
+        "@3": false,
+        "@5": false,
+        "@10": false
+      },
+      "top": [
+        "IS 456:2000",
+        "IS 456:1978",
+        "IS 456:2000",
+        "IS 456:2000",
+        "IS 1:1968",
+        "IS 302 (Part 2):2009",
+        "IS 269:2015",
+        "IS 383:2016",
+        "IS 456:1978",
+        "IS 10500:1991"
+      ],
+      "superseded_ahead": [],
+      "superseded_seen": [
+        "IS 456:1978"
+      ],
+      "latency_ms": 13.809,
+      "error": ""
+    },
+    {
+      "id": "neg-company-registration",
+      "query": "how do I register a private limited company in india",
+      "expected": [],
+      "difficulty": "out_of_scope",
+      "tags": [
+        "negative"
+      ],
+      "answerable": false,
+      "rejection": true,
+      "declined": false,
+      "top_score": 0.0189,
+      "rank": null,
+      "sector": "Out of scope",
+      "timings_ms": {},
+      "superseded_recommended": [],
+      "superseded_withheld": [],
+      "edition_exact": false,
+      "hit": {
+        "@1": false,
+        "@3": false,
+        "@5": false,
+        "@10": false
+      },
+      "top": [
+        "IS 1:1968",
+        "IS 1:1968",
+        "IS 1:1968"
+      ],
+      "superseded_ahead": [],
+      "superseded_seen": [],
+      "latency_ms": 15.994,
+      "error": ""
+    },
+    {
+      "id": "neg-restaurant",
+      "query": "best restaurants near me for dinner tonight",
+      "expected": [],
+      "difficulty": "out_of_scope",
+      "tags": [
+        "negative"
+      ],
+      "answerable": false,
+      "rejection": true,
+      "declined": true,
+      "top_score": 0.0,
+      "rank": null,
+      "sector": "Out of scope",
+      "timings_ms": {},
+      "superseded_recommended": [],
+      "superseded_withheld": [],
+      "edition_exact": false,
+      "hit": {
+        "@1": false,
+        "@3": false,
+        "@5": false,
+        "@10": false
+      },
+      "top": [],
+      "superseded_ahead": [],
+      "superseded_seen": [],
+      "latency_ms": 11.75,
+      "error": ""
+    },
+    {
+      "id": "neg-capital-city",
+      "query": "what is the capital of australia",
+      "expected": [],
+      "difficulty": "out_of_scope",
+      "tags": [
+        "negative"
+      ],
+      "answerable": false,
+      "rejection": true,
+      "declined": true,
+      "top_score": 0.0,
+      "rank": null,
+      "sector": "Out of scope",
+      "timings_ms": {},
+      "superseded_recommended": [],
+      "superseded_withheld": [],
+      "edition_exact": false,
+      "hit": {
+        "@1": false,
+        "@3": false,
+        "@5": false,
+        "@10": false
+      },
+      "top": [],
+      "superseded_ahead": [],
+      "superseded_seen": [],
+      "latency_ms": 11.473,
+      "error": ""
+    },
+    {
+      "id": "neg-income-tax",
+      "query": "how do I file my income tax return online",
+      "expected": [],
+      "difficulty": "out_of_scope",
+      "tags": [
+        "negative"
+      ],
+      "answerable": false,
+      "rejection": true,
+      "declined": true,
+      "top_score": 0.0,
+      "rank": null,
+      "sector": "Out of scope",
+      "timings_ms": {},
+      "superseded_recommended": [],
+      "superseded_withheld": [],
+      "edition_exact": false,
+      "hit": {
+        "@1": false,
+        "@3": false,
+        "@5": false,
+        "@10": false
+      },
+      "top": [],
+      "superseded_ahead": [],
+      "superseded_seen": [],
+      "latency_ms": 14.945,
+      "error": ""
+    },
+    {
+      "id": "neg-cricket",
+      "query": "who won the 2011 cricket world cup final",
+      "expected": [],
+      "difficulty": "out_of_scope",
+      "tags": [
+        "negative"
+      ],
+      "answerable": false,
+      "rejection": true,
+      "declined": false,
+      "top_score": 0.0339,
+      "rank": null,
+      "sector": "Out of scope",
+      "timings_ms": {},
+      "superseded_recommended": [],
+      "superseded_withheld": [],
+      "edition_exact": false,
+      "hit": {
+        "@1": false,
+        "@3": false,
+        "@5": false,
+        "@10": false
+      },
+      "top": [
+        "IS 269:2015"
+      ],
+      "superseded_ahead": [],
+      "superseded_seen": [],
+      "latency_ms": 14.886,
+      "error": ""
+    },
+    {
+      "id": "neg-flight-price",
+      "query": "how much does a flight to dubai cost in december",
+      "expected": [],
+      "difficulty": "out_of_scope",
+      "tags": [
+        "negative"
+      ],
+      "answerable": false,
+      "rejection": true,
+      "declined": true,
+      "top_score": 0.0,
+      "rank": null,
+      "sector": "Out of scope",
+      "timings_ms": {},
+      "superseded_recommended": [],
+      "superseded_withheld": [],
+      "edition_exact": false,
+      "hit": {
+        "@1": false,
+        "@3": false,
+        "@5": false,
+        "@10": false
+      },
+      "top": [],
+      "superseded_ahead": [],
+      "superseded_seen": [],
+      "latency_ms": 13.868,
+      "error": ""
+    },
+    {
+      "id": "neg-recipe",
+      "query": "recipe for butter chicken with cream",
+      "expected": [],
+      "difficulty": "out_of_scope",
+      "tags": [
+        "negative"
+      ],
+      "answerable": false,
+      "rejection": true,
+      "declined": true,
+      "top_score": 0.0,
+      "rank": null,
+      "sector": "Out of scope",
+      "timings_ms": {},
+      "superseded_recommended": [],
+      "superseded_withheld": [],
+      "edition_exact": false,
+      "hit": {
+        "@1": false,
+        "@3": false,
+        "@5": false,
+        "@10": false
+      },
+      "top": [],
+      "superseded_ahead": [],
+      "superseded_seen": [],
+      "latency_ms": 12.537,
+      "error": ""
+    },
+    {
+      "id": "neg-car-tyre",
+      "query": "how do I change a flat car tyre",
+      "expected": [],
+      "difficulty": "out_of_scope",
+      "tags": [
+        "negative"
+      ],
+      "answerable": false,
+      "rejection": true,
+      "declined": true,
+      "top_score": 0.0,
+      "rank": null,
+      "sector": "Out of scope",
+      "timings_ms": {},
+      "superseded_recommended": [],
+      "superseded_withheld": [],
+      "edition_exact": false,
+      "hit": {
+        "@1": false,
+        "@3": false,
+        "@5": false,
+        "@10": false
+      },
+      "top": [],
+      "superseded_ahead": [],
+      "superseded_seen": [],
+      "latency_ms": 15.293,
+      "error": ""
+    },
+    {
+      "id": "neg-cold-symptoms",
+      "query": "what are the symptoms of a common cold",
+      "expected": [],
+      "difficulty": "out_of_scope",
+      "tags": [
+        "negative"
+      ],
+      "answerable": false,
+      "rejection": true,
+      "declined": true,
+      "top_score": 0.0,
+      "rank": null,
+      "sector": "Out of scope",
+      "timings_ms": {},
+      "superseded_recommended": [],
+      "superseded_withheld": [],
+      "edition_exact": false,
+      "hit": {
+        "@1": false,
+        "@3": false,
+        "@5": false,
+        "@10": false
+      },
+      "top": [],
+      "superseded_ahead": [],
+      "superseded_seen": [],
+      "latency_ms": 13.333,
+      "error": ""
+    },
+    {
+      "id": "neg-cover-letter",
+      "query": "how do I write a cover letter for a job application",
+      "expected": [],
+      "difficulty": "out_of_scope",
+      "tags": [
+        "negative"
+      ],
+      "answerable": false,
+      "rejection": true,
+      "declined": false,
+      "top_score": 0.0189,
+      "rank": null,
+      "sector": "Out of scope",
+      "timings_ms": {},
+      "superseded_recommended": [],
+      "superseded_withheld": [],
+      "edition_exact": false,
+      "hit": {
+        "@1": false,
+        "@3": false,
+        "@5": false,
+        "@10": false
+      },
+      "top": [
+        "IS 1:1968",
+        "IS 383:2016",
+        "IS 302 (Part 2):2009",
+        "IS 456:2000",
+        "IS 456:2000",
+        "IS 1239:2004",
+        "IS 1786:2008",
+        "IS 10500:1991",
+        "IS 269:1989",
+        "IS 456:2000"
+      ],
+      "superseded_ahead": [],
+      "superseded_seen": [],
+      "latency_ms": 16.363,
+      "error": ""
+    },
+    {
+      "id": "neg-stock-market",
+      "query": "when does the stock market open on monday",
+      "expected": [],
+      "difficulty": "out_of_scope",
+      "tags": [
+        "negative"
+      ],
+      "answerable": false,
+      "rejection": true,
+      "declined": true,
+      "top_score": 0.0,
+      "rank": null,
+      "sector": "Out of scope",
+      "timings_ms": {},
+      "superseded_recommended": [],
+      "superseded_withheld": [],
+      "edition_exact": false,
+      "hit": {
+        "@1": false,
+        "@3": false,
+        "@5": false,
+        "@10": false
+      },
+      "top": [],
+      "superseded_ahead": [],
+      "superseded_seen": [],
+      "latency_ms": 11.935,
+      "error": ""
+    },
+    {
+      "id": "neg-puppy-training",
+      "query": "how do I train a puppy to sit",
+      "expected": [],
+      "difficulty": "out_of_scope",
+      "tags": [
+        "negative"
+      ],
+      "answerable": false,
+      "rejection": true,
+      "declined": true,
+      "top_score": 0.0,
+      "rank": null,
+      "sector": "Out of scope",
+      "timings_ms": {},
+      "superseded_recommended": [],
+      "superseded_withheld": [],
+      "edition_exact": false,
+      "hit": {
+        "@1": false,
+        "@3": false,
+        "@5": false,
+        "@10": false
+      },
+      "top": [],
+      "superseded_ahead": [],
+      "superseded_seen": [],
+      "latency_ms": 14.365,
+      "error": ""
+    }
+  ],
+  "notes": [
+    "first search excluded from latency as a warm-up",
+    "cases file: /home/user/landing-page/bis_scraper/eval/retrieval_cases.jsonl",
+    "optional input absent: mandatory (mandatory.json) -- this does not affect retrieval, but it does affect features that use it"
+  ],
+  "baseline": null,
+  "generated_at": "2026-09-17T21:03:46.892825+00:00",
+  "cases_file": "/home/user/landing-page/bis_scraper/eval/retrieval_cases.jsonl",
+  "ablation": [
+    {
+      "config": "tfidf_only",
+      "bm25": false,
+      "tfidf": true,
+      "dense": false,
+      "fusion": "-",
+      "rerank": false,
+      "hit@1": 1.0,
+      "hit@3": 1.0,
+      "hit@5": 1.0,
+      "hit@10": 1.0,
+      "hit@1_end_to_end": 0.1786,
+      "hit@5_end_to_end": 0.1786,
+      "mrr@5": 1.0,
+      "mrr@10": 1.0,
+      "exact_edition": 1.0,
+      "hard_n": 1,
+      "hard_hit@5": 1.0,
+      "hard_mrr@5": 1.0,
+      "latency_p50_ms": 0.2,
+      "latency_p95_ms": 0.38,
+      "latency_p99_ms": 0.43,
+      "rag_p95_ms": "",
+      "superseded_first": 0.0,
+      "superseded_exposure": 0.0,
+      "coverage": 0.1786,
+      "note": "the pre-existing bis_data index, no BM25, no vectors"
+    },
+    {
+      "config": "bm25_only",
+      "bm25": true,
+      "tfidf": false,
+      "dense": false,
+      "fusion": "-",
+      "rerank": false,
+      "hit@1": 1.0,
+      "hit@3": 1.0,
+      "hit@5": 1.0,
+      "hit@10": 1.0,
+      "hit@1_end_to_end": 0.1786,
+      "hit@5_end_to_end": 0.1786,
+      "mrr@5": 1.0,
+      "mrr@10": 1.0,
+      "exact_edition": 1.0,
+      "hard_n": 1,
+      "hard_hit@5": 1.0,
+      "hard_mrr@5": 1.0,
+      "latency_p50_ms": 0.5,
+      "latency_p95_ms": 1.11,
+      "latency_p99_ms": 1.51,
+      "rag_p95_ms": "",
+      "superseded_first": 0.0,
+      "superseded_exposure": 0.0,
+      "coverage": 0.1786,
+      "note": "sparse retrieval over chunks and summaries"
+    },
+    {
+      "config": "dense_only",
+      "bm25": false,
+      "tfidf": false,
+      "dense": true,
+      "fusion": "-",
+      "rerank": false,
+      "hit@1": 0.9,
+      "hit@3": 0.9,
+      "hit@5": 0.9,
+      "hit@10": 0.9,
+      "hit@1_end_to_end": 0.1607,
+      "hit@5_end_to_end": 0.1607,
+      "mrr@5": 0.9,
+      "mrr@10": 0.9,
+      "exact_edition": 0.9,
+      "hard_n": 1,
+      "hard_hit@5": 0.0,
+      "hard_mrr@5": 0.0,
+      "latency_p50_ms": 12.53,
+      "latency_p95_ms": 16.03,
+      "latency_p99_ms": 16.29,
+      "rag_p95_ms": "",
+      "superseded_first": 0.0,
+      "superseded_exposure": 0.0,
+      "coverage": 0.1786,
+      "note": "vectors alone; needs a built store"
+    },
+    {
+      "config": "bm25_dense",
+      "bm25": true,
+      "tfidf": false,
+      "dense": true,
+      "fusion": "score",
+      "rerank": false,
+      "hit@1": 1.0,
+      "hit@3": 1.0,
+      "hit@5": 1.0,
+      "hit@10": 1.0,
+      "hit@1_end_to_end": 0.1786,
+      "hit@5_end_to_end": 0.1786,
+      "mrr@5": 1.0,
+      "mrr@10": 1.0,
+      "exact_edition": 1.0,
+      "hard_n": 1,
+      "hard_hit@5": 1.0,
+      "hard_mrr@5": 1.0,
+      "latency_p50_ms": 13.31,
+      "latency_p95_ms": 18.66,
+      "latency_p99_ms": 19.53,
+      "rag_p95_ms": "",
+      "superseded_first": 0.0,
+      "superseded_exposure": 0.0,
+      "coverage": 0.1786,
+      "note": "two legs, weighted normalised scores instead of RRF"
+    },
+    {
+      "config": "bm25_dense_rrf",
+      "bm25": true,
+      "tfidf": false,
+      "dense": true,
+      "fusion": "rrf",
+      "rerank": false,
+      "hit@1": 1.0,
+      "hit@3": 1.0,
+      "hit@5": 1.0,
+      "hit@10": 1.0,
+      "hit@1_end_to_end": 0.1786,
+      "hit@5_end_to_end": 0.1786,
+      "mrr@5": 1.0,
+      "mrr@10": 1.0,
+      "exact_edition": 1.0,
+      "hard_n": 1,
+      "hard_hit@5": 1.0,
+      "hard_mrr@5": 1.0,
+      "latency_p50_ms": 13.77,
+      "latency_p95_ms": 19.0,
+      "latency_p99_ms": 19.75,
+      "rag_p95_ms": "",
+      "superseded_first": 0.0,
+      "superseded_exposure": 0.0,
+      "coverage": 0.1786,
+      "note": "same two legs, reciprocal rank fusion"
+    },
+    {
+      "config": "bm25_dense_rrf_rerank",
+      "bm25": true,
+      "tfidf": false,
+      "dense": true,
+      "fusion": "rrf",
+      "rerank": true,
+      "hit@1": 1.0,
+      "hit@3": 1.0,
+      "hit@5": 1.0,
+      "hit@10": 1.0,
+      "hit@1_end_to_end": 0.1786,
+      "hit@5_end_to_end": 0.1786,
+      "mrr@5": 1.0,
+      "mrr@10": 1.0,
+      "exact_edition": 1.0,
+      "hard_n": 1,
+      "hard_hit@5": 1.0,
+      "hard_mrr@5": 1.0,
+      "latency_p50_ms": 15.81,
+      "latency_p95_ms": 20.05,
+      "latency_p99_ms": 20.96,
+      "rag_p95_ms": "",
+      "superseded_first": 0.0,
+      "superseded_exposure": 0.0,
+      "coverage": 0.1786,
+      "note": "the shipped configuration"
+    }
+  ],
+  "ablation_configs": [
+    {
+      "name": "tfidf_only",
+      "use_bm25": false,
+      "use_tfidf": true,
+      "use_dense": false,
+      "fusion": "rrf",
+      "rerank": false,
+      "note": "the pre-existing bis_data index, no BM25, no vectors"
+    },
+    {
+      "name": "bm25_only",
+      "use_bm25": true,
+      "use_tfidf": false,
+      "use_dense": false,
+      "fusion": "rrf",
+      "rerank": false,
+      "note": "sparse retrieval over chunks and summaries"
+    },
+    {
+      "name": "dense_only",
+      "use_bm25": false,
+      "use_tfidf": false,
+      "use_dense": true,
+      "fusion": "rrf",
+      "rerank": false,
+      "note": "vectors alone; needs a built store"
+    },
+    {
+      "name": "bm25_dense",
+      "use_bm25": true,
+      "use_tfidf": false,
+      "use_dense": true,
+      "fusion": "score",
+      "rerank": false,
+      "note": "two legs, weighted normalised scores instead of RRF"
+    },
+    {
+      "name": "bm25_dense_rrf",
+      "use_bm25": true,
+      "use_tfidf": false,
+      "use_dense": true,
+      "fusion": "rrf",
+      "rerank": false,
+      "note": "same two legs, reciprocal rank fusion"
+    },
+    {
+      "name": "bm25_dense_rrf_rerank",
+      "use_bm25": true,
+      "use_tfidf": false,
+      "use_dense": true,
+      "fusion": "rrf",
+      "rerank": true,
+      "note": "the shipped configuration"
+    }
+  ]
+}
