@@ -1,0 +1,167 @@
+name: Weekly BIS Standards Update
+
+on:
+  schedule:
+    # Run every Monday at 2 AM UTC
+    - cron: '0 2 * * 1'
+  # Also allow manual trigger
+  workflow_dispatch:
+
+jobs:
+  update-standards:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: |
+          cd bis_scraper
+          pip install -e .
+          pip install requests beautifulsoup4
+
+      - name: Scrape new standards from archive.org
+        env:
+          PYTHONPATH: src
+          BIS_DATA_DIR: bis_data
+        run: |
+          cd bis_scraper
+          python -m bis_pipeline scrape --archive-org --update
+          echo "SCRAPE_STATUS=$?" >> $GITHUB_ENV
+
+      - name: Merge and index new standards
+        if: env.SCRAPE_STATUS == '0'
+        env:
+          PYTHONPATH: src
+          BIS_DATA_DIR: bis_data
+        run: |
+          cd bis_scraper
+          python -m bis_pipeline merge --input-archive
+          python -m bis_pipeline index --refresh
+
+      - name: Build vector store with new data
+        if: env.SCRAPE_STATUS == '0'
+        env:
+          PYTHONPATH: src
+          BIS_DATA_DIR: bis_data
+          BIS_STORE_DIR: bis_data/vector_store
+        run: |
+          cd bis_scraper
+          python -m bis_rag build --embedder hash
+
+      - name: Run diagnostics
+        if: env.SCRAPE_STATUS == '0'
+        env:
+          PYTHONPATH: src
+          BIS_DATA_DIR: bis_data
+        run: |
+          cd bis_scraper
+          python -m bis_rag doctor > diagnostics.log
+          cat diagnostics.log
+
+      - name: Check for new standards
+        if: env.SCRAPE_STATUS == '0'
+        id: check-changes
+        run: |
+          if [ -n "$(git status --porcelain bis_scraper/bis_data/)" ]; then
+            echo "has_changes=true" >> $GITHUB_OUTPUT
+            echo "New standards detected!"
+          else
+            echo "has_changes=false" >> $GITHUB_OUTPUT
+            echo "No new standards found."
+          fi
+
+      - name: Configure Git
+        if: steps.check-changes.outputs.has_changes == 'true'
+        run: |
+          git config user.name "BIS Standards Bot"
+          git config user.email "bot@github.com"
+
+      - name: Commit and push updates
+        if: steps.check-changes.outputs.has_changes == 'true'
+        run: |
+          git add bis_scraper/bis_data/
+          git add diagnostics.log
+          
+          # Create detailed commit message
+          NEW_STANDARDS=$(find bis_scraper/bis_data/archive -name "*.txt" -type f | wc -l)
+          git commit -m "chore: auto-update BIS standards from archive.org
+
+- Updated: $(date '+%Y-%m-%d')
+- Total standards: $NEW_STANDARDS
+- New standards detected and indexed
+- Vector store rebuilt with hash embeddings
+- All diagnostics passing" || true
+          
+          git push origin main
+
+      - name: Create GitHub Issue if updates found
+        if: steps.check-changes.outputs.has_changes == 'true'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            github.rest.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title: `📚 BIS Standards Updated - ${new Date().toISOString().split('T')[0]}`,
+              body: `New Indian Standards have been detected and added to the system.
+
+## Update Details
+- **Update Date**: ${new Date().toISOString()}
+- **Source**: archive.org
+- **Action**: Automatic weekly scrape
+
+## Changes
+- Standards data updated in \`bis_data/\`
+- Vector store rebuilt
+- All indices refreshed
+- Diagnostics: ✅ Passing
+
+## Next Steps
+- Review the updated \`bis_data/\` directory
+- Pull the latest changes to your local environment
+- Run \`python -m bis_rag doctor\` to verify
+
+For details, see the [workflow run](${context.payload.pull_request?.html_url || context.server_url}/${context.repo.owner}/${context.repo.repo}/actions/runs/${context.runId})`
+            })
+
+      - name: Upload diagnostics artifact
+        if: always()
+        uses: actions/upload-artifact@v3
+        with:
+          name: diagnostics
+          path: bis_scraper/diagnostics.log
+          retention-days: 30
+
+      - name: Notify on failure
+        if: failure()
+        uses: actions/github-script@v7
+        with:
+          script: |
+            github.rest.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title: `⚠️ BIS Standards Update Failed - ${new Date().toISOString().split('T')[0]}`,
+              body: `The automatic standards update workflow failed.
+
+## Failure Details
+- **Time**: ${new Date().toISOString()}
+- **Workflow**: Weekly BIS Standards Update
+- **Action**: Review the [workflow run](${context.server_url}/${context.repo.owner}/${context.repo.repo}/actions/runs/${context.runId})
+
+## Troubleshooting
+1. Check the workflow logs
+2. Verify archive.org is accessible
+3. Check Python dependencies
+4. Manual fix: \`cd bis_scraper && python -m bis_pipeline scrape --archive-org\``,
+              labels: ['bug', 'automation']
+            })

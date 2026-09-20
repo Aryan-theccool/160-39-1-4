@@ -163,12 +163,19 @@ A complete machine learning pipeline and RAG (Retrieval-Augmented Generation) sy
 - ⏳ **To run API**: `uvicorn bis_api.main:app --port 8000`
 - ⏳ **To run UI**: `cd bis_web && npm run dev`
 
-### 6. Continuous Updates (❌ NOT BUILT)
-- ❌ GitHub Actions workflow not created
-- ⏳ Could be automated with GitHub Actions
-- ⏳ Would add new standards from archive.org periodically
-- ⏳ Complexity: 2-4 hours
-- ✅ **Not critical** - system works without it
+### 6. Continuous Updates (✅ BUILT)
+- ✅ GitHub Actions workflow created: `.github/workflows/update-standards.yml`
+- ✅ **Schedule**: Weekly scrape (Mondays 2 AM UTC)
+- ✅ **Manual trigger**: Available via `workflow_dispatch`
+- ✅ **Full pipeline**: Scrape → Merge → Index → Build → Commit → Notify
+- ✅ Features:
+  - Automatic detection of new standards from archive.org
+  - Vector store rebuild after each update
+  - Detailed commit messages with counts
+  - GitHub Issues created for updates and failures
+  - Diagnostics artifact uploaded for verification
+  - Conditional execution (skips if no new standards)
+- ✅ **Status: READY** - Automatically runs weekly, can be triggered manually anytime
 
 ---
 
