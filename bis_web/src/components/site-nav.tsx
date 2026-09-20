@@ -17,6 +17,7 @@ import { cn } from "@/lib/utils";
 const LINKS = [
   { href: "/", label: "Home", icon: Search },
   { href: "/search", label: "Search", icon: Search },
+  { href: "/product", label: "Product", icon: FileUp },
   { href: "/upload", label: "Tender Analysis", icon: FileUp },
   { href: "/compliance", label: "Compliance", icon: ShieldCheck },
   { href: "/standards", label: "Standards", icon: Library },
