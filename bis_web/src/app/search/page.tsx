@@ -120,11 +120,22 @@ function SearchPageInner() {
                   </SelectTrigger>
                   <SelectContent>
                     <SelectItem value={ALL}>All divisions</SelectItem>
-                    {(facets.data?.facets.divisions ?? []).map((option) => (
-                      <SelectItem key={option} value={option}>
-                        {option}
-                      </SelectItem>
-                    ))}
+                    {(facets.data?.facets.divisions ?? []).map((option) => {
+                      // Clean HTML tags from division names
+                      const cleanedOption = option
+                        .replace(/<br\s*\/?>/gi, ' ')
+                        .replace(/<\/?[^>]+>/g, '')
+                        .replace(/&lt;/g, '<')
+                        .replace(/&gt;/g, '>')
+                        .replace(/&amp;/g, '&')
+                        .replace(/\s+/g, ' ')
+                        .trim();
+                      return (
+                        <SelectItem key={option} value={option}>
+                          {cleanedOption}
+                        </SelectItem>
+                      );
+                    })}
                   </SelectContent>
                 </Select>
               </div>
