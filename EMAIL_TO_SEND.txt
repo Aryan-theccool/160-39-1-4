@@ -1,0 +1,83 @@
+TO: standards@bis.gov.in, info@bis.gov.in, docsupport@bis.gov.in
+CC: [Your Email]
+SUBJECT: Data Export Request - Complete BIS Standards Catalog for SIH26108 AI Project
+
+================================================================================
+BODY:
+================================================================================
+
+Dear BIS Standards Team,
+
+I am writing to request bulk export of the **complete BIS Standards Catalog** for integration into an AI-Powered Recommendation Engine being developed as part of **Smart India Hackathon 2026 (Challenge SIH26108)**.
+
+**PROJECT OVERVIEW:**
+- Challenge: SIH26108 - "AI-Powered Recommendation Engine for Identifying Applicable Indian Standards for Procurement Specifications"
+- Organizing Ministry: Ministry of Consumer Affairs, Food & Public Distribution
+- Objective: Help procurement officials automatically identify relevant Indian Standards for tender specifications
+- Status: Active development for final submission (deadline: October 15, 2026)
+
+**DATA REQUEST:**
+
+We request the complete standards catalog in CSV, Excel, or JSON format with the following fields:
+
+1. Designation (e.g., IS 8112:2013, IS 269:2015)
+2. Full Title / Specification Name
+3. Publication Year (YYYY)
+4. Latest Amendment Date (if applicable)
+5. Current Status (Current / Superseded / Withdrawn / Draft)
+6. Sector/Category (e.g., Civil, Steel, Water, Materials, Cement, Electronics, etc.)
+7. Scope/Description (first 300 characters)
+8. Normative References (related/allied standards)
+9. ICS Classification (if available)
+10. PDF Download Link (if publicly available)
+
+**PRIORITY STANDARDS (sample list):**
+IS 8112:2013, IS 269:2015, IS 456:2000, IS 1786:2008, IS 10500:2012, IS 3025:2023, IS 2751:2007, IS 1239:2004, IS 1077:2016, IS 2250:2012, IS 4014:2003, IS 800:2007, IS 13620:2022, IS 455:2015, IS 1161:2014, IS 226:2012, IS 1905:2016, IS 2030:2012, IS 1172:2012
+
+**SCOPE:**
+We need metadata for all published BIS standards (estimated 500-1500 standards) across all sectors, with particular emphasis on:
+- Procurement/Material Standards
+- Construction & Civil Works
+- Water Management & Treatment
+- Steel & Reinforcement
+- Testing Methods & Codes of Practice
+
+**USE CASE:**
+- Non-commercial: Academic research for government hackathon
+- Open data: Only publicly available/published standards
+- Attribution: Full credit to BIS in our recommendation system
+- No modifications: Data used as-is, no alterations
+
+**TIMELINE:**
+- Request Date: September 20, 2026
+- Final Submission Deadline: October 15, 2026
+- Available for Integration: 25 days
+
+**REQUESTED FORMAT ALTERNATIVES:**
+1. CSV/Excel export (preferred)
+2. JSON API endpoint
+3. FTP/SFTP repository access
+4. Direct contact with BIS technical team for data integration
+
+**CONTACT INFORMATION:**
+Name: [Your Name]
+Email: [Your Email]
+Mobile: [Your Mobile]
+Team: [Team Name] - SIH26108
+Location: [City, State]
+
+We would deeply appreciate BIS's support for this initiative. This project aligns with the government's Smart India Hackathon objectives and will help standardize procurement practices across Indian organizations.
+
+Could you please confirm if this data can be exported and made available? Please reply at your earliest convenience.
+
+Thank you for your time and support.
+
+Best regards,
+[Your Name]
+[Team Name]
+Smart India Hackathon 2026 - SIH26108
+
+================================================================================
+NOTE: Send this email to all three addresses above.
+Expected response time: 3-7 days (government processing)
+================================================================================
