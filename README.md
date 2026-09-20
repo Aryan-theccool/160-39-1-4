@@ -123,41 +123,52 @@ A complete machine learning pipeline and RAG (Retrieval-Augmented Generation) sy
 
 ## What's Left 📝
 
-### 1. Vector Store Setup (NOT STARTED)
-- ❌ Initialize vector store (JSON or Chroma)
-- ⏳ **Next step**: `python -m bis_rag build`
+### 1. Vector Store Setup (✅ BUILT, NOT INITIALIZED)
+- ✅ Code built: `bis_scraper/src/bis_rag/vectorstore.py`
+- ✅ Backend support: JSON + Chroma
+- ⏳ **To initialize**: `python -m bis_rag build`
 - Options:
-  - **hash** embeddings (no download, lexical-only, ~4096 dims)
+  - **hash** embeddings (no download, lexical-only, ~4096 dims) - ready now
   - **BAAI/bge-large-en-v1.5** (semantic, needs `pip install sentence-transformers`)
   - **OpenAI API** (needs OPENAI_API_KEY)
 
-### 2. Dense Embeddings (OPTIONAL)
-- ❌ Download sentence-transformers models
-- ⏳ **Command**: `pip install sentence-transformers torch`
-- ⏳ **Build**: `python -m bis_rag build --embedder st:BAAI/bge-large-en-v1.5`
+### 2. Dense Embeddings (✅ BUILT, NOT INSTALLED)
+- ✅ Code built: `bis_scraper/src/bis_rag/embeddings.py`
+- ✅ Automatic fallback to hash embeddings
+- ⏳ **Optional install**: `pip install sentence-transformers torch`
+- ⏳ **Build with**: `python -m bis_rag build --embedder st:BAAI/bge-large-en-v1.5`
 
-### 3. LLM Integration (OPTIONAL)
-- ❌ Configure LLM for generated answers
-- ⏳ **Options**:
+### 3. LLM Integration (✅ BUILT, NOT CONFIGURED)
+- ✅ Code built: `bis_scraper/src/bis_rag/rag.py`
+- ✅ Supported backends:
   - Groq (set `GROQ_API_KEY`)
   - OpenAI (set `OPENAI_API_KEY`)
   - Ollama (set `OLLAMA_HOST`)
-- ⏳ **Why**: For `bis-rag ask` to generate prose (not just extract)
+  - Any OpenAI-compatible endpoint
+- ✅ **Works without LLM** - falls back to extractive mode
+- ⏳ **To enable**: Set API key and run `python -m bis_rag ask "query"`
 
-### 4. Evaluation Suite (OPTIONAL)
-- ❌ Run full evaluation on QA pairs
-- ⏳ **Command**: `python -m bis_rag evaluate`
-- Measures: Retrieval accuracy, ranking, citation coverage
+### 4. Evaluation Suite (✅ BUILT & EXTENDED)
+- ✅ Code built: `bis_scraper/src/bis_rag/evaluate.py`
+- ✅ Metrics: Hit Rate, MRR, NDCG, Latency, Hallucination detection
+- ✅ Features: Difficulty-based breakdown, ablation analysis
+- ⏳ **To run**: `python -m bis_rag evaluate`
+- ✅ Ready for: 985 QA pairs, custom evaluation sets
 
-### 5. Web UI/API (NOT STARTED)
-- ❌ Build REST API or web interface
-- ⏳ Could use FastAPI + React
-- ⏳ Features: Search, ask, compliance check
+### 5. Web UI/API (✅ BUILT)
+- ✅ FastAPI backend: `bis_scraper/src/bis_api/`
+- ✅ Endpoints: 7 REST endpoints (search, recommend, compliance, etc.)
+- ✅ Next.js frontend: `bis_scraper/src/bis_web/`
+- ✅ Pages: Search, results, PDF analysis, compliance, standards browser, dashboard
+- ⏳ **To run API**: `uvicorn bis_api.main:app --port 8000`
+- ⏳ **To run UI**: `cd bis_web && npm run dev`
 
-### 6. Continuous Updates (OPTIONAL)
-- ❌ Periodic scraping from archive.org for new standards
+### 6. Continuous Updates (❌ NOT BUILT)
+- ❌ GitHub Actions workflow not created
 - ⏳ Could be automated with GitHub Actions
-- ⏳ BIS releases ~5-10 new standards/year
+- ⏳ Would add new standards from archive.org periodically
+- ⏳ Complexity: 2-4 hours
+- ✅ **Not critical** - system works without it
 
 ---
 
