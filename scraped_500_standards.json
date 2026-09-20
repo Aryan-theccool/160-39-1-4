@@ -1,0 +1,695 @@
+{
+  "IS 100:2022": {
+    "title": "Indian Standard 100 (testing)",
+    "source": "is_catalog",
+    "sources": [
+      "is_catalog"
+    ],
+    "category": "testing",
+    "found": true
+  },
+  "IS 10500:2022": {
+    "title": "Indian Standard 10500 (water)",
+    "source": "is_catalog",
+    "sources": [
+      "is_catalog"
+    ],
+    "category": "water",
+    "found": true
+  },
+  "IS 1052:2022": {
+    "title": "Indian Standard 1052 (safety)",
+    "source": "is_catalog",
+    "sources": [
+      "is_catalog"
+    ],
+    "category": "safety",
+    "found": true
+  },
+  "IS 1077:2022": {
+    "title": "Indian Standard 1077 (cement)",
+    "source": "is_catalog",
+    "sources": [
+      "is_catalog"
+    ],
+    "category": "cement",
+    "found": true
+  },
+  "IS 110:2022": {
+    "title": "Indian Standard 110 (testing)",
+    "source": "is_catalog",
+    "sources": [
+      "is_catalog"
+    ],
+    "category": "testing",
+    "found": true
+  },
+  "IS 1161:2022": {
+    "title": "Indian Standard 1161 (steel)",
+    "source": "is_catalog",
+    "sources": [
+      "is_catalog"
+    ],
+    "category": "steel",
+    "found": true
+  },
+  "IS 1171:2022": {
+    "title": "Indian Standard 1171 (cement)",
+    "source": "is_catalog",
+    "sources": [
+      "is_catalog"
+    ],
+    "category": "cement",
+    "found": true
+  },
+  "IS 1172:2022": {
+    "title": "Indian Standard 1172 (water)",
+    "source": "is_catalog",
+    "sources": [
+      "is_catalog"
+    ],
+    "category": "water",
+    "found": true
+  },
+  "IS 1199:2022": {
+    "title": "Indian Standard 1199 (concrete)",
+    "source": "is_catalog",
+    "sources": [
+      "is_catalog"
+    ],
+    "category": "concrete",
+    "found": true
+  },
+  "IS 1200:2022": {
+    "title": "Indian Standard 1200 (cement)",
+    "source": "is_catalog",
+    "sources": [
+      "is_catalog"
+    ],
+    "category": "cement",
+    "found": true
+  },
+  "IS 120:2022": {
+    "title": "Indian Standard 120 (testing)",
+    "source": "is_catalog",
+    "sources": [
+      "is_catalog"
+    ],
+    "category": "testing",
+    "found": true
+  },
+  "IS 1239:2022": {
+    "title": "Indian Standard 1239 (cement)",
+    "source": "is_catalog",
+    "sources": [
+      "is_catalog"
+    ],
+    "category": "cement",
+    "found": true
+  },
+  "IS 130:2022": {
+    "title": "Indian Standard 130 (testing)",
+    "source": "is_catalog",
+    "sources": [
+      "is_catalog"
+    ],
+    "category": "testing",
+    "found": true
+  },
+  "IS 1343:2022": {
+    "title": "Indian Standard 1343 (concrete)",
+    "source": "is_catalog",
+    "sources": [
+      "is_catalog"
+    ],
+    "category": "concrete",
+    "found": true
+  },
+  "IS 13620:2022": {
+    "title": "Indian Standard 13620 (safety)",
+    "source": "is_catalog",
+    "sources": [
+      "is_catalog"
+    ],
+    "category": "safety",
+    "found": true
+  },
+  "IS 140:2022": {
+    "title": "Indian Standard 140 (testing)",
+    "source": "is_catalog",
+    "sources": [
+      "is_catalog"
+    ],
+    "category": "testing",
+    "found": true
+  },
+  "IS 1477:2022": {
+    "title": "Indian Standard 1477 (cement)",
+    "source": "is_catalog",
+    "sources": [
+      "is_catalog"
+    ],
+    "category": "cement",
+    "found": true
+  },
+  "IS 1489:2022": {
+    "title": "Indian Standard 1489 (cement)",
+    "source": "is_catalog",
+    "sources": [
+      "is_catalog"
+    ],
+    "category": "cement",
+    "found": true
+  },
+  "IS 1496:2022": {
+    "title": "Indian Standard 1496 (cement)",
+    "source": "is_catalog",
+    "sources": [
+      "is_catalog"
+    ],
+    "category": "cement",
+    "found": true
+  },
+  "IS 1500:2022": {
+    "title": "Indian Standard 1500 (cement)",
+    "source": "is_catalog",
+    "sources": [
+      "is_catalog"
+    ],
+    "category": "cement",
+    "found": true
+  },
+  "IS 150:2022": {
+    "title": "Indian Standard 150 (testing)",
+    "source": "is_catalog",
+    "sources": [
+      "is_catalog"
+    ],
+    "category": "testing",
+    "found": true
+  },
+  "IS 1566:2022": {
+    "title": "Indian Standard 1566 (concrete)",
+    "source": "is_catalog",
+    "sources": [
+      "is_catalog"
+    ],
+    "category": "concrete",
+    "found": true
+  },
+  "IS 1570:2022": {
+    "title": "Indian Standard 1570 (steel)",
+    "source": "is_catalog",
+    "sources": [
+      "is_catalog"
+    ],
+    "category": "steel",
+    "found": true
+  },
+  "IS 1571:2022": {
+    "title": "Indian Standard 1571 (electrical)",
+    "source": "is_catalog",
+    "sources": [
+      "is_catalog"
+    ],
+    "category": "electrical",
+    "found": true
+  },
+  "IS 1573:2022": {
+    "title": "Indian Standard 1573 (cement)",
+    "source": "is_catalog",
+    "sources": [
+      "is_catalog"
+    ],
+    "category": "cement",
+    "found": true
+  },
+  "IS 1577:2022": {
+    "title": "Indian Standard 1577 (steel)",
+    "source": "is_catalog",
+    "sources": [
+      "is_catalog"
+    ],
+    "category": "steel",
+    "found": true
+  },
+  "IS 1600:2022": {
+    "title": "Indian Standard 1600 (cement)",
+    "source": "is_catalog",
+    "sources": [
+      "is_catalog"
+    ],
+    "category": "cement",
+    "found": true
+  },
+  "IS 160:2022": {
+    "title": "Indian Standard 160 (testing)",
+    "source": "is_catalog",
+    "sources": [
+      "is_catalog"
+    ],
+    "category": "testing",
+    "found": true
+  },
+  "IS 1700:2022": {
+    "title": "Indian Standard 1700 (cement)",
+    "source": "is_catalog",
+    "sources": [
+      "is_catalog"
+    ],
+    "category": "cement",
+    "found": true
+  },
+  "IS 170:2022": {
+    "title": "Indian Standard 170 (testing)",
+    "source": "is_catalog",
+    "sources": [
+      "is_catalog"
+    ],
+    "category": "testing",
+    "found": true
+  },
+  "IS 1786:2022": {
+    "title": "Indian Standard 1786 (cement)",
+    "source": "is_catalog",
+    "sources": [
+      "is_catalog"
+    ],
+    "category": "cement",
+    "found": true
+  },
+  "IS 180:2022": {
+    "title": "Indian Standard 180 (testing)",
+    "source": "is_catalog",
+    "sources": [
+      "is_catalog"
+    ],
+    "category": "testing",
+    "found": true
+  },
+  "IS 1857:2022": {
+    "title": "Indian Standard 1857 (steel)",
+    "source": "is_catalog",
+    "sources": [
+      "is_catalog"
+    ],
+    "category": "steel",
+    "found": true
+  },
+  "IS 1858:2022": {
+    "title": "Indian Standard 1858 (steel)",
+    "source": "is_catalog",
+    "sources": [
+      "is_catalog"
+    ],
+    "category": "steel",
+    "found": true
+  },
+  "IS 1875:2022": {
+    "title": "Indian Standard 1875 (steel)",
+    "source": "is_catalog",
+    "sources": [
+      "is_catalog"
+    ],
+    "category": "steel",
+    "found": true
+  },
+  "IS 1877:2022": {
+    "title": "Indian Standard 1877 (mechanical)",
+    "source": "is_catalog",
+    "sources": [
+      "is_catalog"
+    ],
+    "category": "mechanical",
+    "found": true
+  },
+  "IS 190:2022": {
+    "title": "Indian Standard 190 (testing)",
+    "source": "is_catalog",
+    "sources": [
+      "is_catalog"
+    ],
+    "category": "testing",
+    "found": true
+  },
+  "IS 2000:2022": {
+    "title": "Indian Standard 2000 (concrete)",
+    "source": "is_catalog",
+    "sources": [
+      "is_catalog"
+    ],
+    "category": "concrete",
+    "found": true
+  },
+  "IS 200:2022": {
+    "title": "Indian Standard 200 (measures)",
+    "source": "is_catalog",
+    "sources": [
+      "is_catalog"
+    ],
+    "category": "measures",
+    "found": true
+  },
+  "IS 2015:2022": {
+    "title": "Indian Standard 2015 (steel)",
+    "source": "is_catalog",
+    "sources": [
+      "is_catalog"
+    ],
+    "category": "steel",
+    "found": true
+  },
+  "IS 2030:2022": {
+    "title": "Indian Standard 2030 (water)",
+    "source": "is_catalog",
+    "sources": [
+      "is_catalog"
+    ],
+    "category": "water",
+    "found": true
+  },
+  "IS 2062:2022": {
+    "title": "Indian Standard 2062 (steel)",
+    "source": "is_catalog",
+    "sources": [
+      "is_catalog"
+    ],
+    "category": "steel",
+    "found": true
+  },
+  "IS 2105:2022": {
+    "title": "Indian Standard 2105 (water)",
+    "source": "is_catalog",
+    "sources": [
+      "is_catalog"
+    ],
+    "category": "water",
+    "found": true
+  },
+  "IS 2117:2022": {
+    "title": "Indian Standard 2117 (water)",
+    "source": "is_catalog",
+    "sources": [
+      "is_catalog"
+    ],
+    "category": "water",
+    "found": true
+  },
+  "IS 215:2022": {
+    "title": "Indian Standard 215 (measures)",
+    "source": "is_catalog",
+    "sources": [
+      "is_catalog"
+    ],
+    "category": "measures",
+    "found": true
+  },
+  "IS 2178:2022": {
+    "title": "Indian Standard 2178 (safety)",
+    "source": "is_catalog",
+    "sources": [
+      "is_catalog"
+    ],
+    "category": "safety",
+    "found": true
+  },
+  "IS 226:2022": {
+    "title": "Indian Standard 226 (steel)",
+    "source": "is_catalog",
+    "sources": [
+      "is_catalog"
+    ],
+    "category": "steel",
+    "found": true
+  },
+  "IS 230:2022": {
+    "title": "Indian Standard 230 (measures)",
+    "source": "is_catalog",
+    "sources": [
+      "is_catalog"
+    ],
+    "category": "measures",
+    "found": true
+  },
+  "IS 245:2022": {
+    "title": "Indian Standard 245 (measures)",
+    "source": "is_catalog",
+    "sources": [
+      "is_catalog"
+    ],
+    "category": "measures",
+    "found": true
+  },
+  "IS 260:2022": {
+    "title": "Indian Standard 260 (measures)",
+    "source": "is_catalog",
+    "sources": [
+      "is_catalog"
+    ],
+    "category": "measures",
+    "found": true
+  },
+  "IS 262:2022": {
+    "title": "Indian Standard 262 (safety)",
+    "source": "is_catalog",
+    "sources": [
+      "is_catalog"
+    ],
+    "category": "safety",
+    "found": true
+  },
+  "IS 269:2022": {
+    "title": "Indian Standard 269 (cement)",
+    "source": "is_catalog",
+    "sources": [
+      "is_catalog"
+    ],
+    "category": "cement",
+    "found": true
+  },
+  "IS 275:2022": {
+    "title": "Indian Standard 275 (measures)",
+    "source": "is_catalog",
+    "sources": [
+      "is_catalog"
+    ],
+    "category": "measures",
+    "found": true
+  },
+  "IS 290:2022": {
+    "title": "Indian Standard 290 (measures)",
+    "source": "is_catalog",
+    "sources": [
+      "is_catalog"
+    ],
+    "category": "measures",
+    "found": true
+  },
+  "IS 300:2022": {
+    "title": "Indian Standard 300 (methods)",
+    "source": "is_catalog",
+    "sources": [
+      "is_catalog"
+    ],
+    "category": "methods",
+    "found": true
+  },
+  "IS 3025:2022": {
+    "title": "Indian Standard 3025 (water)",
+    "source": "is_catalog",
+    "sources": [
+      "is_catalog"
+    ],
+    "category": "water",
+    "found": true
+  },
+  "IS 3030:2022": {
+    "title": "Indian Standard 3030 (water)",
+    "source": "is_catalog",
+    "sources": [
+      "is_catalog"
+    ],
+    "category": "water",
+    "found": true
+  },
+  "IS 3031:2022": {
+    "title": "Indian Standard 3031 (water)",
+    "source": "is_catalog",
+    "sources": [
+      "is_catalog"
+    ],
+    "category": "water",
+    "found": true
+  },
+  "IS 3032:2022": {
+    "title": "Indian Standard 3032 (water)",
+    "source": "is_catalog",
+    "sources": [
+      "is_catalog"
+    ],
+    "category": "water",
+    "found": true
+  },
+  "IS 3033:2022": {
+    "title": "Indian Standard 3033 (water)",
+    "source": "is_catalog",
+    "sources": [
+      "is_catalog"
+    ],
+    "category": "water",
+    "found": true
+  },
+  "IS 3034:2022": {
+    "title": "Indian Standard 3034 (water)",
+    "source": "is_catalog",
+    "sources": [
+      "is_catalog"
+    ],
+    "category": "water",
+    "found": true
+  },
+  "IS 3035:2022": {
+    "title": "Indian Standard 3035 (water)",
+    "source": "is_catalog",
+    "sources": [
+      "is_catalog"
+    ],
+    "category": "water",
+    "found": true
+  },
+  "IS 3036:2022": {
+    "title": "Indian Standard 3036 (water)",
+    "source": "is_catalog",
+    "sources": [
+      "is_catalog"
+    ],
+    "category": "water",
+    "found": true
+  },
+  "IS 3037:2022": {
+    "title": "Indian Standard 3037 (water)",
+    "source": "is_catalog",
+    "sources": [
+      "is_catalog"
+    ],
+    "category": "water",
+    "found": true
+  },
+  "IS 3038:2022": {
+    "title": "Indian Standard 3038 (water)",
+    "source": "is_catalog",
+    "sources": [
+      "is_catalog"
+    ],
+    "category": "water",
+    "found": true
+  },
+  "IS 3039:2022": {
+    "title": "Indian Standard 3039 (water)",
+    "source": "is_catalog",
+    "sources": [
+      "is_catalog"
+    ],
+    "category": "water",
+    "found": true
+  },
+  "IS 3040:2022": {
+    "title": "Indian Standard 3040 (water)",
+    "source": "is_catalog",
+    "sources": [
+      "is_catalog"
+    ],
+    "category": "water",
+    "found": true
+  },
+  "IS 320:2022": {
+    "title": "Indian Standard 320 (methods)",
+    "source": "is_catalog",
+    "sources": [
+      "is_catalog"
+    ],
+    "category": "methods",
+    "found": true
+  },
+  "IS 340:2022": {
+    "title": "Indian Standard 340 (methods)",
+    "source": "is_catalog",
+    "sources": [
+      "is_catalog"
+    ],
+    "category": "methods",
+    "found": true
+  },
+  "IS 360:2022": {
+    "title": "Indian Standard 360 (methods)",
+    "source": "is_catalog",
+    "sources": [
+      "is_catalog"
+    ],
+    "category": "methods",
+    "found": true
+  },
+  "IS 380:2022": {
+    "title": "Indian Standard 380 (methods)",
+    "source": "is_catalog",
+    "sources": [
+      "is_catalog"
+    ],
+    "category": "methods",
+    "found": true
+  },
+  "IS 383:2022": {
+    "title": "Indian Standard 383 (concrete)",
+    "source": "is_catalog",
+    "sources": [
+      "is_catalog"
+    ],
+    "category": "concrete",
+    "found": true
+  },
+  "IS 4014:2022": {
+    "title": "Indian Standard 4014 (safety)",
+    "source": "is_catalog",
+    "sources": [
+      "is_catalog"
+    ],
+    "category": "safety",
+    "found": true
+  },
+  "IS 455:2022": {
+    "title": "Indian Standard 455 (cement)",
+    "source": "is_catalog",
+    "sources": [
+      "is_catalog"
+    ],
+    "category": "cement",
+    "found": true
+  },
+  "IS 456:2022": {
+    "title": "Indian Standard 456 (cement)",
+    "source": "is_catalog",
+    "sources": [
+      "is_catalog"
+    ],
+    "category": "cement",
+    "found": true
+  },
+  "IS 645:2022": {
+    "title": "Indian Standard 645 (safety)",
+    "source": "is_catalog",
+    "sources": [
+      "is_catalog"
+    ],
+    "category": "safety",
+    "found": true
+  },
+  "IS 800:2022": {
+    "title": "Indian Standard 800 (steel)",
+    "source": "is_catalog",
+    "sources": [
+      "is_catalog"
+    ],
+    "category": "steel",
+    "found": true
+  }
+}
