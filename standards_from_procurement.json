@@ -1,0 +1,107 @@
+[
+  {
+    "designation": "IS 10500:2012",
+    "title": "Indian Standard for potable water",
+    "category": "water",
+    "context": "Water supply, quality",
+    "procurement_frequency": 85
+  },
+  {
+    "designation": "IS 1077:2016",
+    "title": "Common burnt clay building bricks",
+    "category": "bricks",
+    "context": "Masonry construction",
+    "procurement_frequency": 82
+  },
+  {
+    "designation": "IS 1239:2004",
+    "title": "Steel tubes for structural purposes",
+    "category": "pipes",
+    "context": "Piping systems, structural",
+    "procurement_frequency": 78
+  },
+  {
+    "designation": "IS 13620:2022",
+    "title": "Code of practice for repair, maintenance and rehabilitation of RCC structures",
+    "category": "maintenance",
+    "context": "Structure repair, RCC",
+    "procurement_frequency": 70
+  },
+  {
+    "designation": "IS 1786:2008",
+    "title": "High strength deformed steel bars and wires for concrete reinforcement",
+    "category": "steel",
+    "context": "Reinforcement, RCC",
+    "procurement_frequency": 95
+  },
+  {
+    "designation": "IS 1905:2016",
+    "title": "Code of practice for structural use of stone masonry",
+    "category": "masonry",
+    "context": "Stone masonry design",
+    "procurement_frequency": 60
+  },
+  {
+    "designation": "IS 2250:2012",
+    "title": "Code of practice for brick masonry",
+    "category": "masonry",
+    "context": "Brick construction design",
+    "procurement_frequency": 80
+  },
+  {
+    "designation": "IS 269:2015",
+    "title": "Ordinary portland cement - Specification",
+    "category": "cement",
+    "context": "General construction",
+    "procurement_frequency": 90
+  },
+  {
+    "designation": "IS 2751:2007",
+    "title": "Structural steel - specification",
+    "category": "steel",
+    "context": "Building structures",
+    "procurement_frequency": 88
+  },
+  {
+    "designation": "IS 3025:2023",
+    "title": "Methods of sampling and test (physical and chemical) for water",
+    "category": "water",
+    "context": "Water testing, quality assurance",
+    "procurement_frequency": 80
+  },
+  {
+    "designation": "IS 4014:2003",
+    "title": "Safety code for industrial lifts and hoists",
+    "category": "safety",
+    "context": "Lift installation, safety",
+    "procurement_frequency": 75
+  },
+  {
+    "designation": "IS 455:2015",
+    "title": "Portland slag cement",
+    "category": "cement",
+    "context": "Eco-friendly construction",
+    "procurement_frequency": 65
+  },
+  {
+    "designation": "IS 456:2000",
+    "title": "Code of practice for plain and reinforced concrete",
+    "category": "concrete",
+    "context": "Structural design, RCC",
+    "procurement_frequency": 98
+  },
+  {
+    "designation": "IS 800:2007",
+    "title": "Code of practice for general construction in steel",
+    "category": "steel",
+    "context": "Steel structures design",
+    "procurement_frequency": 92
+  },
+  {
+    "designation": "IS 8112:2013",
+    "title": "High strength ordinary portland cement",
+    "category": "cement",
+    "context": "Building construction, RCC",
+    "procurement_frequency": 95
+  }
+]
