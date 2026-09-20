@@ -35,6 +35,7 @@ from .middleware.logging import RequestContextMiddleware
 from .middleware.rate_limit import RateLimitMiddleware, RateLimiter
 from .routers import compliance as compliance_router
 from .routers import demo as demo_router
+from .routers import product as product_router
 from .routers import recommend as recommend_router
 from .routers import search as search_router
 from .routers import standards as standards_router
@@ -187,6 +188,7 @@ def create_app(settings: Optional[Settings] = None) -> FastAPI:
     application.include_router(recommend_router.router)
     application.include_router(compliance_router.router)
     application.include_router(standards_router.router)
+    application.include_router(product_router.router)
     application.include_router(demo_router.router)
 
     @application.get("/health", include_in_schema=False)
