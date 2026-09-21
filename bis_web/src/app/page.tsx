@@ -4,9 +4,6 @@ import { useEffect, useRef } from 'react';
 import Link from 'next/link';
 import gsap from 'gsap';
 import { useGSAP } from '@gsap/react';
-import ScrollToPlugin from 'gsap/ScrollToPlugin';
-
-gsap.registerPlugin(useGSAP, ScrollToPlugin);
 
 const AnimatedBackground = () => {
   const containerRef = useRef<HTMLDivElement>(null);
@@ -113,9 +110,6 @@ export default function Home() {
         ease: 'back.out',
       });
     }
-
-    // Feature cards on scroll
-    ScrollToPlugin.defaults({ overwrite: 'auto' });
   }, { scope: heroRef });
 
   return (
