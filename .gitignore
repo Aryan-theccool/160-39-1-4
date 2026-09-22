@@ -1,0 +1,61 @@
+# Scraped and generated data
+bis_data/
+vector_store/
+*.sqlite3
+*.jsonl
+*.part
+!eval/retrieval_cases.jsonl
+!eval/results/failures.jsonl
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# Node
+node_modules/
+.next/
+out/
+build/
+
+# Environment files & secrets
+.env
+.env.*
+*.env
+.env.local
+.env*.local
+
+# OS & IDE
+.DS_Store
+.idea/
+.vscode/
+
+# Generated mega-corpus and scraped artifacts (not real curated standards)
+mega_corpus_*.json
+scraped_*.json
+scraped_*.txt
+unified_standards_database.json
+*_generated*.json
+standards_from_procurement.json
+comprehensive_validation_results.json
+
+# HTTP cache (scraping artifacts)
+http_cache/
+
+# Coverage reports
+coverage/
+.coverage
+
+# Temp and scratch
+scratch/
+
+# Large data files that are not part of the committed corpus
+EXTRACTION_*.txt
+EXTRACTION_*.md
+FETCH_SUCCESS.txt
+FIND_YOUR_DATA.txt
+RAG_EXTRACTION_COMPLETE.txt
+WHERE_IS_MY_DATA.md
+RAG_DATASET_SUMMARY.md

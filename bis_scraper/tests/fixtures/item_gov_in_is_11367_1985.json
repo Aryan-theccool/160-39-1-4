@@ -1,0 +1,31 @@
+{
+  "created": 1789666259,
+  "d1": "ia600401.us.archive.org",
+  "dir": "/17/items/gov.in.is.11367.1985",
+  "files": [
+    {"name": "__ia_thumb.jpg", "source": "original", "size": "25110", "format": "Item Tile"},
+    {"name": "gov.in.is.11367.1985_meta.xml", "source": "original", "format": "Metadata", "size": "2672"},
+    {"name": "is.11367.1985.djvu", "source": "derivative", "format": "DjVu", "size": "819850"},
+    {"name": "is.11367.1985.pdf", "source": "original", "format": "Text PDF", "size": "1725492", "md5": "25432904a831ce7d8623c5254b08d1e6"},
+    {"name": "is.11367.1985_djvu.txt", "source": "derivative", "format": "DjVuTXT", "size": "24585", "md5": "43a368478b7fe507f24d043b17bd37d8"},
+    {"name": "is.11367.1985_djvu.xml", "source": "derivative", "format": "Djvu XML", "size": "236832"}
+  ],
+  "files_count": 6,
+  "item_size": 7513395,
+  "metadata": {
+    "identifier": "gov.in.is.11367.1985",
+    "contributor": "Public.Resource.Org",
+    "creator": "Bureau of Indian Standards",
+    "date": "1985",
+    "description": "In order to promote public education and public safety, equal justice for all, a better informed citizenry, the rule of law, world trade and world peace, this legal document is hereby made available on a noncommercial basis, as it is the right of all humans to know and speak the laws that govern them. (For more information: 12 Tables of Code)Name of Standards Organization: Bureau of Indian Standards (BIS)Division Name: TextilesSection Name: Textile Materials for Aerospace Purposes (TXD 13)Designator of Legally Binding Document: IS 11367 Title of Legally Binding Document: Glossary of terms relating to textile materials for aerospace purposesNumber of Amendments: 1Equivalence: Superceding: Superceded by: LEGALLY BINDING DOCUMENT",
+    "language": "English",
+    "licenseurl": "http://creativecommons.org/publicdomain/zero/1.0/",
+    "mediatype": "texts",
+    "rights": "Published under the auspices of the Right to Information Act 2005",
+    "subject": "data.gov.in;standardsbis.in;public.resource.org",
+    "title": "IS 11367: Glossary of terms relating to textile materials for aerospace purposes",
+    "downloads": "412",
+    "collection": ["publicsafetycode", "government-documents"]
+  },
+  "server": "ia600401.us.archive.org"
+}

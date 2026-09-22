@@ -1,0 +1,35 @@
+{
+  "responseHeader": {
+    "status": 0,
+    "QTime": 21,
+    "params": {
+      "query": "identifier:gov.in.is.*",
+      "qin": "identifier:gov.in.is.*",
+      "fields": "identifier,title,date",
+      "wt": "json",
+      "rows": 5,
+      "start": 0
+    }
+  },
+  "response": {
+    "numFound": 22025,
+    "start": 0,
+    "docs": [
+      {
+        "date": "1985-01-01T00:00:00Z",
+        "identifier": "gov.in.is.11367.1985",
+        "title": "IS 11367: Glossary of terms relating to textile materials for aerospace purposes"
+      },
+      {
+        "date": "1992-01-01T00:00:00Z",
+        "identifier": "gov.in.is.12970.3.2.1992",
+        "title": "IS 12970-3-2: Semiconductor devices - Integrated circuits, Part 3: Digital integrated circuits - Measuring methods, Section 2: Static characteristics"
+      },
+      {
+        "date": "1979-01-01T00:00:00Z",
+        "identifier": "gov.in.is.104.1979",
+        "title": "IS 104: Ready mixed paint, brushing, zinc chrome, priming"
+      }
+    ]
+  }
+}

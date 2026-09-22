@@ -1,0 +1,1127 @@
+{
+  "supersession_chains": {
+    "IS|10|2|None|1996|None": "IS 10 (Part 2):2013",
+    "IS|101|1|1|1986|None": "IS 101 (Part 1 / Section 1):2023",
+    "IS|101|2|1|1988|None": "IS 101 (Part 2 / Section 1):2018",
+    "IS|1000|None|None|1989|None": "IS 1000:2021",
+    "IS|1009|None|None|1979|None": "IS 1009:2023",
+    "IS|10010|None|None|1981|None": "IS 10010:2022",
+    "IS|10027|None|None|2000|None": "IS 10027:2018",
+    "IS|10032|None|None|1981|None": "IS 10032:2013",
+    "IS|10035|None|None|1993|None": "IS 10035:2023",
+    "IS|10047|None|None|1981|None": "IS 10047:2023",
+    "IS|10056|None|None|1982|None": "IS 10056:2023",
+    "IS|10060|None|None|1981|None": "IS 10060:2013",
+    "IS|10068|1|None|1982|None": "IS 10068 (Part 1):2018",
+    "IS|10068|2|None|1982|None": "IS 10068 (Part 2):2018",
+    "IS|10084|2|None|1994|None": "IS 10084 (Part 2):2014",
+    "IS|10086|None|None|1982|None": "IS 10086:2021",
+    "IS|10096|1|2|1986|None": "IS 10096 (Part 1 / Section 2):2014"
+  },
+  "related_by_division": {
+    "</b> Textiles<br /><b>": [
+      "IS|1|None|None|1968|None",
+      "IS|10010|None|None|1981|None",
+      "IS|10014|1|None|1984|None",
+      "IS|10014|2|None|1981|None",
+      "IS|10054|None|None|1996|None",
+      "IS|10055|None|None|1982|None",
+      "IS|10056|None|None|1982|None",
+      "IS|10057|None|None|1982|None",
+      "IS|10099|None|None|1982|None"
+    ],
+    "</b> Civil Engineering<br /><b>": [
+      "IS|10|1|None|1990|None",
+      "IS|10|2|None|1996|None",
+      "IS|10|3|None|1974|None",
+      "IS|10|4|None|1989|None",
+      "IS|10|5|None|1976|None",
+      "IS|1003|1|None|2003|None",
+      "IS|1003|2|None|1994|None",
+      "IS|10013|1|None|1981|None",
+      "IS|10013|2|None|1981|None",
+      "IS|10013|3|None|1981|None",
+      "IS|10019|None|None|1981|None",
+      "IS|10020|4|None|1981|None",
+      "IS|10037|1|None|1981|None",
+      "IS|10037|2|None|1983|None",
+      "IS|10037|3|None|1983|None",
+      "IS|10042|None|None|1981|None",
+      "IS|10049|None|None|1981|None",
+      "IS|10050|None|None|1981|None",
+      "IS|10053|None|None|1981|None",
+      "IS|10067|None|None|1982|None",
+      "IS|10070|None|None|1982|None",
+      "IS|10074|None|None|1982|None",
+      "IS|10077|None|None|1982|None",
+      "IS|10078|None|None|1982|None",
+      "IS|10079|None|None|1982|None",
+      "IS|10080|None|None|1982|None",
+      "IS|10082|None|None|1981|None",
+      "IS|10086|None|None|1982|None",
+      "IS|10090|None|None|1982|None"
+    ],
+    "</b> Chemical<br /><b>": [
+      "IS|101|1|1|1986|None",
+      "IS|101|1|2|1987|None",
+      "IS|101|1|3|1986|None",
+      "IS|101|1|4|1987|None",
+      "IS|101|1|5|1989|None",
+      "IS|101|1|6|1987|None",
+      "IS|101|1|7|1987|None",
+      "IS|101|2|1|1988|None",
+      "IS|101|2|2|1986|None",
+      "IS|101|3|1|1986|None",
+      "IS|101|3|2|1989|None",
+      "IS|101|3|4|1987|None",
+      "IS|101|3|5|1987|None",
+      "IS|101|4|1|1988|None",
+      "IS|101|4|2|1989|None",
+      "IS|101|4|3|1988|None",
+      "IS|101|4|4|1988|None",
+      "IS|101|5|1|1988|None",
+      "IS|101|5|2|1988|None",
+      "IS|101|5|3|1999|None",
+      "IS|101|5|4|1988|None",
+      "IS|101|6|1|1988|None",
+      "IS|101|6|2|1989|None",
+      "IS|101|6|3|1990|None",
+      "IS|101|6|4|1991|None",
+      "IS|101|6|5|1997|None",
+      "IS|101|7|1|1989|None",
+      "IS|101|7|2|1990|None",
+      "IS|101|7|3|1990|None",
+      "IS|101|7|4|1990|None",
+      "IS|10018|None|None|1981|None",
+      "IS|10025|None|None|1981|None",
+      "IS|10044|None|None|1981|None",
+      "IS|10066|None|None|1981|None",
+      "IS|10072|None|None|1982|None",
+      "IS|10073|None|None|1982|None",
+      "IS|10081|None|None|1981|None",
+      "IS|10089|None|None|1981|None"
+    ],
+    "</b> Civil Engineering<br /><b>Section Name:</b> Cement and Concrete (CED 2)<br /><br /><b>Designator of Legally Binding Document:</b> IS 269 <br /><b>Title of Legally Binding Document:</b> Specification for  Ordinary Portland Cement, 33 Grade<br /><b>Number of Amendments:</b> <br /><b>Equivalence:</b> <br /><b>Superceding:</b> <br /><b>Superceded by:</b> <br /><br /><br /><b>LEGALLY BINDING DOCUMENT</b><br /><br /><i>Step Out From the Old to the New</i>--Jawaharlal Nehru<br /><i>Invent a new India using knowledge.</i>--Satyanarayan Gangaram Pitroda": [
+      "IS|269|None|None|2013|None"
+    ],
+    "</b> Electrotechnical<br /><b>Section Name:</b> Electrical Appliances (ETD 32)<br /><br /><b>Designator of Legally Binding Document:</b> IS 302-1 <br /><b>Title of Legally Binding Document:</b> Safety of household and similar electrical appliances, Part 1: General Requirements<br /><b>Number of Amendments:</b> <br /><b>Equivalence:</b> IEC 60335-1<br /><b>Superceding:</b> <br /><b>Superceded by:</b> <br /><br /><br /><b>LEGALLY BINDING DOCUMENT</b><br /><br /><i>Step Out From the Old to the New</i>--Jawaharlal Nehru<br /><i>Invent a new India using knowledge.</i>--Satyanarayan Gangaram Pitroda": [
+      "IS|302|1|None|2008|None"
+    ],
+    "</b> Civil Engineering Division (CED)<br /><b>Section Name:</b> Cement and Concrete (CED 2)<br /><br /><b>Designator of Legally Binding Document:</b> IS 383 <br /><b>Title of Legally Binding Document:</b> Coarse and Fine Aggregate for Concrete - Specification    <br /><br /><b>LEGALLY BINDING DOCUMENT</b><br /><br /><i>Step Out From the Old to the New</i>--Jawaharlal Nehru<br /><i>Invent a new India using Knowledge</i>--Satyanarayan Gangaram Pitroda": [
+      "IS|383|None|None|2016|None"
+    ],
+    "</b> Civil Engineering<br /><b>Section Name:</b> Concrete Reinforcement (CED 54)<br /><br /><b>Designator of Legally Binding Document:</b> IS 432-1 <br /><b>Title of Legally Binding Document:</b> Mild Steel and Medium Tensile Steel Bars and Hard-Drawn Steel Wire for Concrete Reinforcement, Part 1: Mild Steel and Medium Tensile Steel Bars<br /><b>Number of Amendments:</b> 1<br /><b>Equivalence:</b> <br /><b>Superceding:</b> <br /><b>Superceded by:</b> <br /><br /><br /><b>LEGALLY BINDING DOCUMENT</b><br /><br /><i>Step Out From the Old to the New</i>--Jawaharlal Nehru<br /><i>Invent a new India using knowledge.</i>--Satyanarayan Gangaram Pitroda": [
+      "IS|432|1|None|1982|None"
+    ],
+    "</b> Civil Engineering<br /><b>Section Name:</b> Cement and Concrete (CED 2)<br /><br /><b>Designator of Legally Binding Document:</b> IS 456 <br /><b>Title of Legally Binding Document:</b> Plain and Reinforced Concrete - Code of Practice<br /><b>Number of Amendments:</b> 3<br /><b>Equivalence:</b> <br /><b>Superceding:</b> <br /><b>Superceded by:</b> <br /><br /><br /><b>LEGALLY BINDING DOCUMENT</b><br /><br /><i>Step Out From the Old to the New</i>--Jawaharlal Nehru<br /><i>Invent a new India using knowledge.</i>--Satyanarayan Gangaram Pitroda": [
+      "IS|456|None|None|2000|None"
+    ],
+    "</b> Civil Engineering<br /><b>Section Name:</b> Cement Matrix Products (CED 53)<br /><br /><b>Designator of Legally Binding Document:</b> IS 458 <br /><b>Title of Legally Binding Document:</b> Precast Concrete Pipes (with and without Reinforcement) -<br /><b>Number of Amendments:</b> 1<br /><b>Equivalence:</b> <br /><b>Superceding:</b> <br /><b>Superceded by:</b> <br /><br /><br /><b>LEGALLY BINDING DOCUMENT</b><br /><br /><i>Step Out From the Old to the New</i>--Jawaharlal Nehru<br /><i>Invent a new India using knowledge.</i>--Satyanarayan Gangaram Pitroda": [
+      "IS|458|None|None|2003|None"
+    ],
+    "</b> Civil Engineering<br /><b>Section Name:</b> Cement and Concrete (CED 2)<br /><br /><b>Designator of Legally Binding Document:</b> IS 516 <br /><b>Title of Legally Binding Document:</b> Method of Tests for Strength of Concrete<br /><b>Number of Amendments:</b> 2<br /><b>Equivalence:</b> <br /><b>Superceding:</b> <br /><b>Superceded by:</b> <br /><br /><br /><b>LEGALLY BINDING DOCUMENT</b><br /><br /><i>Step Out From the Old to the New</i>--Jawaharlal Nehru<br /><i>Invent a new India using knowledge.</i>--Satyanarayan Gangaram Pitroda": [
+      "IS|516|None|None|1959|None"
+    ],
+    "</b> Electrotechnical<br /><b>Section Name:</b> Power Cables (ETD 9)<br /><br /><b>Designator of Legally Binding Document:</b> IS 694 <br /><b>Title of Legally Binding Document:</b> POLYVINYL CHLORIDE INSULATED UNSHEATHED AND SHEATHED CABLES/CORDS WITH RIGID AND FLEXIBLE CONDUCTOR FOR RATED VOLTAGES UP TO AND INCLUDING 450/750 V<br /><b>Number of Amendments:</b> 1<br /><b>Equivalence:</b> IEC 60227 - 1 to 5<br /><b>Superceding:</b> <br /><b>Superceded by:</b> <br /><br /><br /><b>LEGALLY BINDING DOCUMENT</b><br /><br /><i>Step Out From the Old to the New</i>--Jawaharlal Nehru<br /><i>Invent a new India using knowledge.</i>--Satyanarayan Gangaram Pitroda": [
+      "IS|694|None|None|2010|None"
+    ],
+    "</b> Electrotechnical<br /><b>Section Name:</b> Electrical Installation (ETD 20)<br /><br /><b>Designator of Legally Binding Document:</b> IS 732 <br /><b>Title of Legally Binding Document:</b> Code of Practice for Electrical Wiring Installations<br /><b>Number of Amendments:</b> <br /><b>Equivalence:</b> <br /><b>Superceding:</b> IS 2274<br /><b>Superceded by:</b> <br /><br /><br /><b>LEGALLY BINDING DOCUMENT</b><br /><br /><i>Step Out From the Old to the New</i>--Jawaharlal Nehru<br /><i>Invent a new India using knowledge.</i>--Satyanarayan Gangaram Pitroda": [
+      "IS|732|None|None|1989|None"
+    ],
+    "</b> Civil Engineering<br /><b>Section Name:</b> Structural Engineering and structural sections (CED 7)<br /><br /><b>Designator of Legally Binding Document:</b> IS 800 <br /><b>Title of Legally Binding Document:</b> General Construction In Steel - Code of Practice<br /><b>Number of Amendments:</b> 1<br /><b>Equivalence:</b> <br /><b>Superceding:</b> <br /><b>Superceded by:</b> <br /><br /><br /><b>LEGALLY BINDING DOCUMENT</b><br /><br /><i>Step Out From the Old to the New</i>--Jawaharlal Nehru<br /><i>Invent a new India using knowledge.</i>--Satyanarayan Gangaram Pitroda": [
+      "IS|800|None|None|2007|None"
+    ],
+    "</b> Civil Engineering<br /><b>Section Name:</b> Structural Engineering and structural sections (CED 7)<br /><br /><b>Designator of Legally Binding Document:</b> IS 808 <br /><b>Title of Legally Binding Document:</b> Dimensions for Hot Rolled Steel Beam, Column, Channel and Angle Sections<br /><b>Number of Amendments:</b> 1<br /><b>Equivalence:</b> <br /><b>Superceding:</b> <br /><b>Superceded by:</b> <br /><br /><br /><b>LEGALLY BINDING DOCUMENT</b><br /><br /><i>Step Out From the Old to the New</i>--Jawaharlal Nehru<br /><i>Invent a new India using knowledge.</i>--Satyanarayan Gangaram Pitroda": [
+      "IS|808|None|None|1989|None"
+    ],
+    "</b> Food and Agriculture<br /><b>": [
+      "IS|1000|None|None|1989|None",
+      "IS|1005|None|None|1992|None",
+      "IS|1006|None|None|1984|None",
+      "IS|1007|None|None|1984|None",
+      "IS|1008|None|None|2004|None",
+      "IS|1009|None|None|1979|None",
+      "IS|10006|None|None|1981|None",
+      "IS|10017|None|None|1981|None",
+      "IS|10029|None|None|1981|None",
+      "IS|10030|None|None|1981|None",
+      "IS|10038|None|None|1981|None",
+      "IS|10048|None|None|1999|None",
+      "IS|10059|None|None|1981|None",
+      "IS|10065|None|None|1981|None",
+      "IS|10083|None|None|1982|None"
+    ],
+    "</b> Petroleum, Coal, and Related Products<br /><b>": [
+      "IS|1001|None|None|1991|None",
+      "IS|10016|1|None|1981|None",
+      "IS|10016|2|None|1984|None",
+      "IS|10016|4|None|1984|None",
+      "IS|10016|5|None|1981|None",
+      "IS|10016|6|None|2000|None"
+    ],
+    "</b> Production and General Engineering<br /><b>": [
+      "IS|1004|None|None|1980|None",
+      "IS|10022|None|None|1981|None",
+      "IS|10023|None|None|1981|None",
+      "IS|10068|1|None|1982|None",
+      "IS|10068|2|None|1982|None",
+      "IS|10068|3|None|1990|None",
+      "IS|10068|4|None|1997|None",
+      "IS|10068|5|None|1996|None",
+      "IS|10068|6|None|1996|None",
+      "IS|10069|None|None|1992|None"
+    ],
+    "</b> Civil Engineering<br /><b>Section Name:</b> Clay and Stabilized Soil Products for Construction (CED 30)<br /><br /><b>Designator of Legally Binding Document:</b> IS 1077 <br /><b>Title of Legally Binding Document:</b> Common Burnt Clay Building Bricks -Specification<br /><b>Number of Amendments:</b> 1<br /><b>Equivalence:</b> <br /><b>Superceding:</b> IS 3102<br /><b>Superceded by:</b> <br /><br /><br /><b>LEGALLY BINDING DOCUMENT</b><br /><br /><i>Step Out From the Old to the New</i>--Jawaharlal Nehru<br /><i>Invent a new India using knowledge.</i>--Satyanarayan Gangaram Pitroda": [
+      "IS|1077|None|None|1992|None"
+    ],
+    "</b> Civil Engineering<br /><b>Section Name:</b> Cement and Concrete (CED 2)<br /><br /><b>Designator of Legally Binding Document:</b> IS 1199 <br /><b>Title of Legally Binding Document:</b> Methods of sampling and analysis of concrete<br /><b>Number of Amendments:</b> <br /><b>Equivalence:</b> <br /><b>Superceding:</b> <br /><b>Superceded by:</b> <br /><br /><br /><b>LEGALLY BINDING DOCUMENT</b><br /><br /><i>Step Out From the Old to the New</i>--Jawaharlal Nehru<br /><i>Invent a new India using knowledge.</i>--Satyanarayan Gangaram Pitroda <br /><br /><p><b style=\"color:#FF0000;\">ATTENTION!</b> This standard, Indian Standard IS 1199:1959, has been declared to be <b>WITHDRAWN</b> is thus no longer active.  Superceding standard: IS 1199 : Part 1 to 7.</p>": [
+      "IS|1199|None|None|1959|None"
+    ],
+    "</b> Metallurgical Engineering<br /><b>Section Name:</b> Steel Tubes, Pipes abd Fittings (MTD 19)<br /><br /><b>Designator of Legally Binding Document:</b> IS 1239-1 <br /><b>Title of Legally Binding Document:</b> Steel Tubes, Tubulars and Other Wrought Steel Fittings, Part 1: Steel Tubes<br /><b>Number of Amendments:</b> 4<br /><b>Equivalence:</b> <br /><b>Superceding:</b> <br /><b>Superceded by:</b> <br /><br /><br /><b>LEGALLY BINDING DOCUMENT</b><br /><br /><i>Step Out From the Old to the New</i>--Jawaharlal Nehru<br /><i>Invent a new India using knowledge.</i>--Satyanarayan Gangaram Pitroda": [
+      "IS|1239|1|None|2004|None"
+    ],
+    "</b> Electrotechnical<br /><b>Section Name:</b> Electrical Wiring Accessories (ETD 14)<br /><br /><b>Designator of Legally Binding Document:</b> IS 1293 <br /><b>Title of Legally Binding Document:</b> Plugs and socket- outlets of rated voltage up to and including  250 volts and rated current up to 16 amperes<br /><b>Number of Amendments:</b> 5<br /><b>Equivalence:</b> IEC  60884-1<br /><b>Superceding:</b> <br /><b>Superceded by:</b> <br /><br /><br /><b>LEGALLY BINDING DOCUMENT</b><br /><br /><i>Step Out From the Old to the New</i>--Jawaharlal Nehru<br /><i>Invent a new India using knowledge.</i>--Satyanarayan Gangaram Pitroda": [
+      "IS|1293|None|None|2005|None"
+    ],
+    "</b> Civil Engineering<br /><b>Section Name:</b> Cement and Concrete (CED 2)<br /><br /><b>Designator of Legally Binding Document:</b> IS 1489-1 <br /><b>Title of Legally Binding Document:</b> Specification for Portland pozzolana cement, Part 1: Flyash based<br /><b>Number of Amendments:</b> 5<br /><b>Equivalence:</b> <br /><b>Superceding:</b> <br /><b>Superceded by:</b> <br /><br /><br /><b>LEGALLY BINDING DOCUMENT</b><br /><br /><i>Step Out From the Old to the New</i>--Jawaharlal Nehru<br /><i>Invent a new India using knowledge.</i>--Satyanarayan Gangaram Pitroda": [
+      "IS|1489|1|None|1991|None"
+    ],
+    "</b> Metallurgical Engineering<br /><b>Section Name:</b> Pig iron and Cast Iron (MTD 6)<br /><br /><b>Designator of Legally Binding Document:</b> IS 1536 <br /><b>Title of Legally Binding Document:</b> Centrifugally cast (spun) iron pressure pipes for water, gas and sewage<br /><b>Number of Amendments:</b> 4<br /><b>Equivalence:</b> <br /><b>Superceding:</b> <br /><b>Superceded by:</b> <br /><br /><br /><b>LEGALLY BINDING DOCUMENT</b><br /><br /><i>Step Out From the Old to the New</i>--Jawaharlal Nehru<br /><i>Invent a new India using knowledge.</i>--Satyanarayan Gangaram Pitroda": [
+      "IS|1536|None|None|2001|None"
+    ],
+    "</b> Electrotechnical<br /><b>Section Name:</b> Power Cables (ETD 9)<br /><br /><b>Designator of Legally Binding Document:</b> IS 1554-1 <br /><b>Title of Legally Binding Document:</b> PVC insulated (heavy duty) electric cables, Part 1: For working voltages up to and including 1 100 V<br /><b>Number of Amendments:</b> 5<br /><b>Equivalence:</b> IEC 60502)<br /><b>Superceding:</b> <br /><b>Superceded by:</b> <br /><br /><br /><b>LEGALLY BINDING DOCUMENT</b><br /><br /><i>Step Out From the Old to the New</i>--Jawaharlal Nehru<br /><i>Invent a new India using knowledge.</i>--Satyanarayan Gangaram Pitroda": [
+      "IS|1554|1|None|1988|None"
+    ],
+    "</b> Civil Engineering<br /><b>Section Name:</b> Fire Safety (CED 36)<br /><br /><b>Designator of Legally Binding Document:</b> IS 1641 <br /><b>Title of Legally Binding Document:</b> Code of practice for fire safety of buildings (general): General principles of fire grading and classification<br /><b>Number of Amendments:</b> <br /><b>Equivalence:</b> <br /><b>Superceding:</b> <br /><b>Superceded by:</b> <br /><br /><br /><b>LEGALLY BINDING DOCUMENT</b><br /><br /><i>Step Out From the Old to the New</i>--Jawaharlal Nehru<br /><i>Invent a new India using knowledge.</i>--Satyanarayan Gangaram Pitroda": [
+      "IS|1641|None|None|1988|None"
+    ],
+    "</b> Civil Engineering<br /><b>Section Name:</b> Fire Safety (CED 36)<br /><br /><b>Designator of Legally Binding Document:</b> IS 1642 <br /><b>Title of Legally Binding Document:</b> Code of practice for fire safety of buildings (general): Details of construction<br /><b>Number of Amendments:</b> <br /><b>Equivalence:</b> <br /><b>Superceding:</b> IS 1645<br /><b>Superceded by:</b> <br /><br /><br /><b>LEGALLY BINDING DOCUMENT</b><br /><br /><i>Step Out From the Old to the New</i>--Jawaharlal Nehru<br /><i>Invent a new India using knowledge.</i>--Satyanarayan Gangaram Pitroda": [
+      "IS|1642|None|None|1989|None"
+    ],
+    "</b> Civil Engineering<br /><b>Section Name:</b> Fire Safety (CED 36)<br /><br /><b>Designator of Legally Binding Document:</b> IS 1643 <br /><b>Title of Legally Binding Document:</b> Code of practice for fire safety of buildings (general): Exposure hazard<br /><b>Number of Amendments:</b> <br /><b>Equivalence:</b> <br /><b>Superceding:</b> <br /><b>Superceded by:</b> <br /><br /><br /><b>LEGALLY BINDING DOCUMENT</b><br /><br /><i>Step Out From the Old to the New</i>--Jawaharlal Nehru<br /><i>Invent a new India using knowledge.</i>--Satyanarayan Gangaram Pitroda": [
+      "IS|1643|None|None|1988|None"
+    ],
+    "</b> Civil Engineering<br /><b>Section Name:</b> Concrete Reinforcement (CED 54)<br /><br /><b>Designator of Legally Binding Document:</b> IS 1786 <br /><b>Title of Legally Binding Document:</b> High strength deformed steel bars and wires for concrete reinforcement-<br /><b>Number of Amendments:</b> <br /><b>Equivalence:</b> <br /><b>Superceding:</b> IS 1139:1966<br /><b>Superceded by:</b> <br /><br /><br /><b>LEGALLY BINDING DOCUMENT</b><br /><br /><i>Step Out From the Old to the New</i>--Jawaharlal Nehru<br /><i>Invent a new India using knowledge.</i>--Satyanarayan Gangaram Pitroda": [
+      "IS|1786|None|None|2008|None"
+    ],
+    "</b> Electrotechnical<br /><b>Section Name:</b> Transformers (ETD 16)<br /><br /><b>Designator of Legally Binding Document:</b> IS 2026-1 <br /><b>Title of Legally Binding Document:</b> Power transformers, Part 1: General<br /><b>Number of Amendments:</b> <br /><b>Equivalence:</b> <br /><b>Superceding:</b> <br /><b>Superceded by:</b> <br /><br /><br /><b>LEGALLY BINDING DOCUMENT</b><br /><br /><i>Step Out From the Old to the New</i>--Jawaharlal Nehru<br /><i>Invent a new India using knowledge.</i>--Satyanarayan Gangaram Pitroda": [
+      "IS|2026|1|None|2011|None"
+    ],
+    "</b> Metallurgical Engineering<br /><b>Section Name:</b> Wrought Steel Products (MTD 4)<br /><br /><b>Designator of Legally Binding Document:</b> IS 2062 <br /><b>Title of Legally Binding Document:</b> Hot Rolled Medium and High Tensile Structural Steel<br /><b>Number of Amendments:</b> <br /><b>Equivalence:</b> <br /><b>Superceding:</b> <br /><b>Superceded by:</b> <br /><br /><br /><b>LEGALLY BINDING DOCUMENT</b><br /><br /><i>Step Out From the Old to the New</i>--Jawaharlal Nehru<br /><i>Invent a new India using knowledge.</i>--Satyanarayan Gangaram Pitroda": [
+      "IS|2062|None|None|2011|None"
+    ],
+    "</b> Civil Engineering<br /><b>Section Name:</b> Cement Matrix Products (CED 53)<br /><br /><b>Designator of Legally Binding Document:</b> IS 2185-1 <br /><b>Title of Legally Binding Document:</b> Concrete masonry units, Part 1: Hollow and solid concrete blocks<br /><b>Number of Amendments:</b> <br /><b>Equivalence:</b> <br /><b>Superceding:</b> <br /><b>Superceded by:</b> <br /><br /><br /><b>LEGALLY BINDING DOCUMENT</b><br /><br /><i>Step Out From the Old to the New</i>--Jawaharlal Nehru<br /><i>Invent a new India using knowledge.</i>--Satyanarayan Gangaram Pitroda": [
+      "IS|2185|1|None|2005|None"
+    ],
+    "</b> Civil Engineering<br /><b>Section Name:</b> Fire Fighting (CED 22)<br /><br /><b>Designator of Legally Binding Document:</b> IS 2190 <br /><b>Title of Legally Binding Document:</b> SELECTION, INSTALLATION AND MAINTENANCE OF FIRST-AID FIRE EXTINGUISHERS \u2014 CODE OF PRACTICE<br /><b>Number of Amendments:</b> <br /><b>Equivalence:</b> <br /><b>Superceding:</b> <br /><b>Superceded by:</b> <br /><br /><br /><b>LEGALLY BINDING DOCUMENT</b><br /><br /><i>Step Out From the Old to the New</i>--Jawaharlal Nehru<br /><i>Invent a new India using knowledge.</i>--Satyanarayan Gangaram Pitroda": [
+      "IS|2190|None|None|2010|None"
+    ],
+    "</b> Civil Engineering<br /><b>Section Name:</b> Cement and Concrete (CED 2)<br /><br /><b>Designator of Legally Binding Document:</b> IS 2386-1 <br /><b>Title of Legally Binding Document:</b> Methods of Test for Aggregates for Concrete, Part I: Particle Size and Shape<br /><b>Number of Amendments:</b> 4<br /><b>Equivalence:</b> <br /><b>Superceding:</b> <br /><b>Superceded by:</b> <br /><br /><br /><b>LEGALLY BINDING DOCUMENT</b><br /><br /><i>Step Out From the Old to the New</i>--Jawaharlal Nehru<br /><i>Invent a new India using knowledge.</i>--Satyanarayan Gangaram Pitroda": [
+      "IS|2386|1|None|1963|None"
+    ],
+    "</b> Civil Engineering<br /><b>Section Name:</b> Cement and Concrete (CED 2)<br /><br /><b>Designator of Legally Binding Document:</b> IS 2502 <br /><b>Title of Legally Binding Document:</b> Code of Practice for Bending and Fixing of Bars for Concrete Reinforcement<br /><b>Number of Amendments:</b> <br /><b>Equivalence:</b> <br /><b>Superceding:</b> <br /><b>Superceded by:</b> <br /><br /><br /><b>LEGALLY BINDING DOCUMENT</b><br /><br /><i>Step Out From the Old to the New</i>--Jawaharlal Nehru<br /><i>Invent a new India using knowledge.</i>--Satyanarayan Gangaram Pitroda": [
+      "IS|2502|None|None|1963|None"
+    ],
+    "</b> Civil Engineering<br /><b>Section Name:</b> Fire Fighting (CED 22)<br /><br /><b>Designator of Legally Binding Document:</b> IS 2925 <br /><b>Title of Legally Binding Document:</b> Specification for Industrial Safety Helmets(Bi-Lingual)<br /><b>Number of Amendments:</b> 4<br /><b>Equivalence:</b> <br /><b>Superceding:</b> <br /><b>Superceded by:</b> <br /><br /><br /><b>LEGALLY BINDING DOCUMENT</b><br /><br /><i>Step Out From the Old to the New</i>--Jawaharlal Nehru<br /><i>Invent a new India using knowledge.</i>--Satyanarayan Gangaram Pitroda": [
+      "IS|2925|None|None|1984|None"
+    ],
+    "</b> Chemical<br /><b>Section Name:</b> Environmental Protection and Waste Management (CHD 32)<br /><br /><b>Designator of Legally Binding Document:</b> IS 3025-11 <br /><b>Title of Legally Binding Document:</b> Methods of sampling and test (physical and chemical) for water and wastewater, Part 11: pH value<br /><b>Number of Amendments:</b> <br /><b>Equivalence:</b> <br /><b>Superceding:</b> <br /><b>Superceded by:</b> <br /><br /><br /><b>LEGALLY BINDING DOCUMENT</b><br /><br /><i>Step Out From the Old to the New</i>--Jawaharlal Nehru<br /><i>Invent a new India using knowledge.</i>--Satyanarayan Gangaram Pitroda": [
+      "IS|3025|11|None|1983|None"
+    ],
+    "</b> Electrotechnical<br /><b>Section Name:</b> Electrical Installation (ETD 20)<br /><br /><b>Designator of Legally Binding Document:</b> IS 3043 <br /><b>Title of Legally Binding Document:</b> Code of practice for earthing<br /><b>Number of Amendments:</b> 2<br /><b>Equivalence:</b> <br /><b>Superceding:</b> <br /><b>Superceded by:</b> <br /><br /><br /><b>LEGALLY BINDING DOCUMENT</b><br /><br /><i>Step Out From the Old to the New</i>--Jawaharlal Nehru<br /><i>Invent a new India using knowledge.</i>--Satyanarayan Gangaram Pitroda": [
+      "IS|3043|None|None|1987|None"
+    ],
+    "</b> Mechanical Engineering<br /><b>Section Name:</b> Gas Cylinders (MED 16)<br /><br /><b>Designator of Legally Binding Document:</b> IS 3196-1 <br /><b>Title of Legally Binding Document:</b> Welded Low Carbon Steel Cylinders Exceeding 5 Litre Water Capacity for Low Pressure Liquefiable Gases, Part 1: Cylinders for liquefied Petroleum Gases (LPG)<br /><b>Number of Amendments:</b> 5<br /><b>Equivalence:</b> <br /><b>Superceding:</b> <br /><b>Superceded by:</b> <br /><br /><br /><b>LEGALLY BINDING DOCUMENT</b><br /><br /><i>Step Out From the Old to the New</i>--Jawaharlal Nehru<br /><i>Invent a new India using knowledge.</i>--Satyanarayan Gangaram Pitroda": [
+      "IS|3196|1|None|2006|None"
+    ],
+    "</b> Chemical<br /><b>Section Name:</b> Occupational Safety, Health and Chemical Hazards (CHD 8)<br /><br /><b>Designator of Legally Binding Document:</b> IS 3521 <br /><b>Title of Legally Binding Document:</b> Industrial safety belts and harnesses - Specification<br /><b>Number of Amendments:</b> 2<br /><b>Equivalence:</b> <br /><b>Superceding:</b> <br /><b>Superceded by:</b> <br /><br /><br /><b>LEGALLY BINDING DOCUMENT</b><br /><br /><i>Step Out From the Old to the New</i>--Jawaharlal Nehru<br /><i>Invent a new India using knowledge.</i>--Satyanarayan Gangaram Pitroda": [
+      "IS|3521|None|None|1999|None"
+    ],
+    "</b> Civil Engineering<br /><b>Section Name:</b> Fire Fighting (CED 22)<br /><br /><b>Designator of Legally Binding Document:</b> IS 3844 <br /><b>Title of Legally Binding Document:</b> Code of practice for installation and maintenance of internal fire hydrants and hose reels on premises<br /><b>Number of Amendments:</b> <br /><b>Equivalence:</b> <br /><b>Superceding:</b> <br /><b>Superceded by:</b> <br /><br /><br /><b>LEGALLY BINDING DOCUMENT</b><br /><br /><i>Step Out From the Old to the New</i>--Jawaharlal Nehru<br /><i>Invent a new India using knowledge.</i>--Satyanarayan Gangaram Pitroda": [
+      "IS|3844|None|None|1989|None"
+    ],
+    "</b> Metallurgical Engineering<br /><b>Section Name:</b> Steel Tubes, Pipes abd Fittings (MTD 19)<br /><br /><b>Designator of Legally Binding Document:</b> IS 4923 <br /><b>Title of Legally Binding Document:</b> Hollow steel sections for structural use - Specification<br /><b>Number of Amendments:</b> 6<br /><b>Equivalence:</b> <br /><b>Superceding:</b> <br /><b>Superceded by:</b> <br /><br /><br /><b>LEGALLY BINDING DOCUMENT</b><br /><br /><i>Step Out From the Old to the New</i>--Jawaharlal Nehru<br /><i>Invent a new India using knowledge.</i>--Satyanarayan Gangaram Pitroda": [
+      "IS|4923|None|None|1997|None"
+    ],
+    "</b> Mechanical Engineering<br /><b>Section Name:</b> Pumps (MED 20)<br /><br /><b>Designator of Legally Binding Document:</b> IS 5120 <br /><b>Title of Legally Binding Document:</b> Technical requirements for rotodynamic special purpose pumps<br /><b>Number of Amendments:</b> 5<br /><b>Equivalence:</b> <br /><b>Superceding:</b> <br /><b>Superceded by:</b> <br /><br /><br /><b>LEGALLY BINDING DOCUMENT</b><br /><br /><i>Step Out From the Old to the New</i>--Jawaharlal Nehru<br /><i>Invent a new India using knowledge.</i>--Satyanarayan Gangaram Pitroda": [
+      "IS|5120|None|None|1977|None"
+    ],
+    "</b> Chemical<br /><b>Section Name:</b> Occupational Safety, Health and Chemical Hazards (CHD 8)<br /><br /><b>Designator of Legally Binding Document:</b> IS 5983 <br /><b>Title of Legally Binding Document:</b> Eye-protectors<br /><b>Number of Amendments:</b> 1<br /><b>Equivalence:</b> <br /><b>Superceding:</b> <br /><b>Superceded by:</b> <br /><br /><br /><b>LEGALLY BINDING DOCUMENT</b><br /><br /><i>Step Out From the Old to the New</i>--Jawaharlal Nehru<br /><i>Invent a new India using knowledge.</i>--Satyanarayan Gangaram Pitroda": [
+      "IS|5983|None|None|1980|None"
+    ],
+    "</b> Electrotechnical<br /><b>Section Name:</b> Power Cables (ETD 9)<br /><br /><b>Designator of Legally Binding Document:</b> IS 7098-1 <br /><b>Title of Legally Binding Document:</b> Crosslinked polyethylene insulated PVC sheathed cables, Part 1: For working voltage upto and including 1 100 V<br /><b>Number of Amendments:</b> 4<br /><b>Equivalence:</b> IEC 60502<br /><b>Superceding:</b> <br /><b>Superceded by:</b> <br /><br /><br /><b>LEGALLY BINDING DOCUMENT</b><br /><br /><i>Step Out From the Old to the New</i>--Jawaharlal Nehru<br /><i>Invent a new India using knowledge.</i>--Satyanarayan Gangaram Pitroda": [
+      "IS|7098|1|None|1988|None"
+    ],
+    "</b> Electrotechnical<br /><b>Section Name:</b> Power Cables (ETD 9)<br /><br /><b>Designator of Legally Binding Document:</b> IS 7098-2 <br /><b>Title of Legally Binding Document:</b> Crosslinked Polyethylene Insulated Thermoplastics Sheathed Cables, Part 2: for Working Voltages from 3.3 kV up to and Including 33 kV<br /><b>Number of Amendments:</b> <br /><b>Equivalence:</b> <br /><b>Superceding:</b> <br /><b>Superceded by:</b> <br /><br /><br /><b>LEGALLY BINDING DOCUMENT</b><br /><br /><i>Step Out From the Old to the New</i>--Jawaharlal Nehru<br /><i>Invent a new India using knowledge.</i>--Satyanarayan Gangaram Pitroda": [
+      "IS|7098|2|None|2011|None"
+    ],
+    "</b> Civil Engineering Division (CED)<br /><b>Section Name:</b> Cement and Concrete (CED 2)<br /><br /><b>Designator of Legally Binding Document:</b> IS 8112 <br /><b>Title of Legally Binding Document:</b> 43 grade ordinary Portland cement    <br /><br /><b>LEGALLY BINDING DOCUMENT</b><br /><br /><i>Step Out From the Old to the New</i>--Jawaharlal Nehru<br /><i>Invent a new India using Knowledge</i>--Satyanarayan Gangaram Pitroda <br /><br /><p><b style=\"color:#FF0000;\">ATTENTION!</b> This standard, Indian Standard IS 8112:2013, has been declared to be <b>WITHDRAWN</b> is thus no longer active.  Superceding standard: IS 269 : 2015.</p>": [
+      "IS|8112|None|None|2013|None"
+    ],
+    "</b> Electrotechnical<br /><b>Section Name:</b> Secondary Cells and Batteries (ETD 11)<br /><br /><b>Designator of Legally Binding Document:</b> IS 8320 <br /><b>Title of Legally Binding Document:</b> General Requirements and Methods of Tests for Lead-acid Storage Batteries<br /><b>Number of Amendments:</b> <br /><b>Equivalence:</b> <br /><b>Superceding:</b> <br /><b>Superceded by:</b> <br /><br /><br /><b>LEGALLY BINDING DOCUMENT</b><br /><br /><i>Step Out From the Old to the New</i>--Jawaharlal Nehru<br /><i>Invent a new India using knowledge.</i>--Satyanarayan Gangaram Pitroda": [
+      "IS|8320|None|None|2000|None"
+    ],
+    "</b> Mechanical Engineering<br /><b>Section Name:</b> Pumps (MED 20)<br /><br /><b>Designator of Legally Binding Document:</b> IS 8472 <br /><b>Title of Legally Binding Document:</b> Pumps - Regenerative or clear, cold water<br /><b>Number of Amendments:</b> 2<br /><b>Equivalence:</b> <br /><b>Superceding:</b> <br /><b>Superceded by:</b> <br /><br /><br /><b>LEGALLY BINDING DOCUMENT</b><br /><br /><i>Step Out From the Old to the New</i>--Jawaharlal Nehru<br /><i>Invent a new India using knowledge.</i>--Satyanarayan Gangaram Pitroda": [
+      "IS|8472|None|None|1998|None"
+    ],
+    "</b> Petroleum, Coal, and Related Products<br /><b>Section Name:</b> Plastics (PCD 12)<br /><br /><b>Designator of Legally Binding Document:</b> IS 9873-3 <br /><b>Title of Legally Binding Document:</b> Safety Requirements for Toys, Part 3: Migration of Certain Elements<br /><b>Number of Amendments:</b> 3<br /><b>Equivalence:</b> ISO 8124-3<br /><b>Superceding:</b> <br /><b>Superceded by:</b> <br /><br /><br /><b>LEGALLY BINDING DOCUMENT</b><br /><br /><i>Step Out From the Old to the New</i>--Jawaharlal Nehru<br /><i>Invent a new India using knowledge.</i>--Satyanarayan Gangaram Pitroda": [
+      "IS|9873|3|None|1999|None"
+    ],
+    "</b> Transport Engineering<br /><b>": [
+      "IS|10000|1|None|1980|None",
+      "IS|10000|2|None|1980|None",
+      "IS|10000|3|None|1980|None",
+      "IS|10000|4|None|1980|None",
+      "IS|10000|5|None|1980|None",
+      "IS|10000|6|None|1980|None",
+      "IS|10000|7|None|1980|None",
+      "IS|10000|8|None|1980|None",
+      "IS|10000|9|None|1980|None",
+      "IS|10000|10|None|1980|None",
+      "IS|10000|11|None|1980|None",
+      "IS|10000|12|None|1980|None",
+      "IS|10000|13|None|2002|None",
+      "IS|10001|None|None|1981|None",
+      "IS|10002|None|None|1981|None",
+      "IS|10007|None|None|1981|None",
+      "IS|10041|None|None|1981|None",
+      "IS|10063|None|None|1982|None",
+      "IS|10097|None|None|1982|None"
+    ],
+    "</b> Management and Systems<br /><b>": [
+      "IS|10005|None|None|1994|None"
+    ],
+    "</b> Mechanical Engineering<br /><b>": [
+      "IS|10008|None|None|1992|None",
+      "IS|10039|None|None|1981|None",
+      "IS|10040|None|None|1981|None",
+      "IS|10046|None|None|1981|None",
+      "IS|10092|None|None|1982|None",
+      "IS|10095|None|None|1982|None"
+    ],
+    "</b> Medical Equipment and Hospital Planning<br /><b>": [
+      "IS|10009|None|None|1981|None",
+      "IS|10011|None|None|1981|None",
+      "IS|10012|None|None|1981|None",
+      "IS|10045|None|None|1981|None",
+      "IS|10058|None|None|1985|None",
+      "IS|10088|None|None|1981|None"
+    ],
+    "</b> Water Resources<br /><b>": [
+      "IS|10021|None|None|2000|None",
+      "IS|10060|None|None|1981|None",
+      "IS|10061|None|None|1991|None",
+      "IS|10062|None|None|1991|None",
+      "IS|10084|1|None|1982|None",
+      "IS|10084|2|None|1994|None",
+      "IS|10096|1|1|1983|None",
+      "IS|10096|1|2|1986|None",
+      "IS|10096|2|None|1983|None",
+      "IS|10096|3|None|2002|None"
+    ],
+    "</b> Electrotechnical<br /><b>": [
+      "IS|10026|1|None|1998|None",
+      "IS|10026|2|None|1999|None",
+      "IS|10026|3|1|1999|None",
+      "IS|10026|3|2|1999|None",
+      "IS|10026|3|3|1983|None",
+      "IS|10026|3|4|1983|None",
+      "IS|10026|3|5|1983|None",
+      "IS|10026|3|6|1983|None",
+      "IS|10026|3|7|1983|None",
+      "IS|10026|3|8|1986|None",
+      "IS|10026|3|9|1986|None",
+      "IS|10027|None|None|2000|None",
+      "IS|10028|1|None|1985|None",
+      "IS|10028|2|None|1981|None",
+      "IS|10028|3|None|1981|None",
+      "IS|10031|None|None|1981|None",
+      "IS|10075|None|None|1981|None",
+      "IS|10098|None|None|1982|None"
+    ],
+    "</b> Metallurgical Engineering<br /><b>": [
+      "IS|10032|None|None|1981|None",
+      "IS|10033|None|None|1992|None",
+      "IS|10034|None|None|1981|None",
+      "IS|10035|None|None|1993|None",
+      "IS|10047|None|None|1981|None",
+      "IS|10085|None|None|2003|None",
+      "IS|10091|None|None|1981|None",
+      "IS|10094|None|None|1998|None"
+    ],
+    "</b> Electronics and Information Technology<br /><b>": [
+      "IS|10052|1|None|1999|None",
+      "IS|10052|2|None|1999|None",
+      "IS|10071|None|None|1981|None",
+      "IS|10076|1|None|1981|None",
+      "IS|10087|None|None|1981|None"
+    ],
+    "</b> Electrotechnical<br /><b>Section Name:</b> Illumination Engineering and Luminaries (ETD 24)<br /><br /><b>Designator of Legally Binding Document:</b> IS 10322-1 <br /><b>Title of Legally Binding Document:</b> Luminaires, Part 1: General requirements<br /><b>Number of Amendments:</b> <br /><b>Equivalence:</b> IEC 598-1<br /><b>Superceding:</b> <br /><b>Superceded by:</b> <br /><br /><br /><b>LEGALLY BINDING DOCUMENT</b><br /><br /><i>Step Out From the Old to the New</i>--Jawaharlal Nehru<br /><i>Invent a new India using knowledge.</i>--Satyanarayan Gangaram Pitroda": [
+      "IS|10322|1|None|1982|None"
+    ],
+    "</b> Food and Agriculture<br /><b>Section Name:</b> Drinking Water (FAD 25)<br /><br /><b>Designator of Legally Binding Document:</b> IS 10500 <br /><b>Title of Legally Binding Document:</b> Drinking water<br /><b>Number of Amendments:</b> <br /><b>Equivalence:</b> <br /><b>Superceding:</b> <br /><b>Superceded by:</b> <br /><br /><br /><b>LEGALLY BINDING DOCUMENT</b><br /><br /><i>Step Out From the Old to the New</i>--Jawaharlal Nehru<br /><i>Invent a new India using knowledge.</i>--Satyanarayan Gangaram Pitroda": [
+      "IS|10500|None|None|2012|None"
+    ],
+    "</b> Food and Agriculture<br /><b>Section Name:</b> Farm Irrigation and Drainage Systems (FAD 17)<br /><br /><b>Designator of Legally Binding Document:</b> IS 13488 <br /><b>Title of Legally Binding Document:</b> Irrigation equipment -Emitting pipes system<br /><b>Number of Amendments:</b> <br /><b>Equivalence:</b> <br /><b>Superceding:</b> <br /><b>Superceded by:</b> <br /><br /><br /><b>LEGALLY BINDING DOCUMENT</b><br /><br /><i>Step Out From the Old to the New</i>--Jawaharlal Nehru<br /><i>Invent a new India using knowledge.</i>--Satyanarayan Gangaram Pitroda": [
+      "IS|13488|None|None|2008|None"
+    ],
+    "</b> Electrotechnical<br /><b>Section Name:</b> Low Voltage Switchgear and Controlgear (ETD 7)<br /><br /><b>Designator of Legally Binding Document:</b> IS 13947-5-2 <br /><b>Title of Legally Binding Document:</b> Low-Voltage Switchgear and Controlgear, Part 5: Control Circuit Devices and Switching Elements, Section 2: Proximity Switches<br /><b>Number of Amendments:</b> <br /><b>Equivalence:</b> IEC 60947-5-2<br /><b>Superceding:</b> <br /><b>Superceded by:</b> <br /><br /><br /><b>LEGALLY BINDING DOCUMENT</b><br /><br /><i>Step Out From the Old to the New</i>--Jawaharlal Nehru<br /><i>Invent a new India using knowledge.</i>--Satyanarayan Gangaram Pitroda": [
+      "IS|13947|5|2|2004|None"
+    ],
+    "</b> Electrotechnical<br /><b>Section Name:</b> Electric Lamps and their Auxiliaries (ETD 23)<br /><br /><b>Designator of Legally Binding Document:</b> IS 16102-1 <br /><b>Title of Legally Binding Document:</b> Self - Ballasted LED Lamps for General Lighting Services, Part 1: Safety Requirements<br /><b>Number of Amendments:</b> <br /><b>Equivalence:</b> <br /><b>Superceding:</b> <br /><b>Superceded by:</b> <br /><br /><br /><b>LEGALLY BINDING DOCUMENT</b><br /><br /><i>Step Out From the Old to the New</i>--Jawaharlal Nehru<br /><i>Invent a new India using knowledge.</i>--Satyanarayan Gangaram Pitroda": [
+      "IS|16102|1|None|2012|None"
+    ],
+    "</b> Electrotechnical<br /><b>Section Name:</b> Electric Lamps and their Auxiliaries (ETD 23)<br /><br /><b>Designator of Legally Binding Document:</b> IS 16102-2 <br /><b>Title of Legally Binding Document:</b> Self - Ballasted LED Lamps for General Lighting Services, Part 2: Performance Requirements<br /><b>Number of Amendments:</b> <br /><b>Equivalence:</b> <br /><b>Superceding:</b> <br /><b>Superceded by:</b> <br /><br /><br /><b>LEGALLY BINDING DOCUMENT</b><br /><br /><i>Step Out From the Old to the New</i>--Jawaharlal Nehru<br /><i>Invent a new India using knowledge.</i>--Satyanarayan Gangaram Pitroda": [
+      "IS|16102|2|None|2012|None"
+    ],
+    "Civil Engineering": [
+      "IS 4926:2003",
+      "IS 9103:1999",
+      "IS 73:2013",
+      "IS 3812 (Part 1):2013",
+      "IS 303:1989",
+      "IS 2202 (Part 1):1999",
+      "IS 15622:2017",
+      "IS 2556 (Part 4):2004",
+      "IS 1729:2002",
+      "IS 3629:1986",
+      "IS 4984:2016",
+      "IS 15778:2007",
+      "IS 9762:1994",
+      "IS 15683:2018",
+      "IS 884:1985",
+      "IS 15105:2002",
+      "IS 2189:2008",
+      "IS 3614:2021"
+    ],
+    "Metallurgical Engineering": [
+      "IS 733:1983",
+      "IS 2629:1985"
+    ],
+    "Chemical Engineering": [
+      "IS 2835:1987",
+      "IS 16240:2015",
+      "IS 2553 (Part 2):2019"
+    ],
+    "Electrotechnical": [
+      "IS 13779:1999",
+      "IS 14697:1999",
+      "IS 1180 (Part 1):2014",
+      "IS/IEC 60898-1:2002",
+      "IS 12640 (Part 1):2008",
+      "IS/IEC 60947-2:2003",
+      "IS 2082:1993",
+      "IS 366:1991",
+      "IS 16242 (Part 1):2014",
+      "IS 8623 (Part 1):1993",
+      "IS 7098 (Part 3):1993",
+      "IS 2418 (Part 1):1977"
+    ],
+    "Production & General": [
+      "IS 15809:2008",
+      "IS 6994 (Part 1):1973",
+      "IS 1179:1967",
+      "IS 16648:2017"
+    ],
+    "Textiles / Safety": [
+      "IS 15071:2001",
+      "IS 16890:2018"
+    ],
+    "Mechanical Engineering": [
+      "IS 14846:2000",
+      "IS 8034:2002",
+      "IS 9079:2002",
+      "IS 2266:2002",
+      "IS 3196 (Part 1):2013",
+      "IS 7285 (Part 1):2004"
+    ]
+  },
+  "related_by_committee": {
+    "TXD 8": [
+      "IS|1|None|None|1968|None"
+    ],
+    "CED 9": [
+      "IS|10|1|None|1990|None",
+      "IS|10|2|None|1996|None",
+      "IS|10|3|None|1974|None",
+      "IS|10|4|None|1989|None",
+      "IS|10|5|None|1976|None",
+      "IS|10013|1|None|1981|None",
+      "IS|10013|2|None|1981|None",
+      "IS|10013|3|None|1981|None",
+      "IS 3629:1986"
+    ],
+    "CHD 20": [
+      "IS|101|1|1|1986|None",
+      "IS|101|1|2|1987|None",
+      "IS|101|1|3|1986|None",
+      "IS|101|1|4|1987|None",
+      "IS|101|1|5|1989|None",
+      "IS|101|1|6|1987|None",
+      "IS|101|1|7|1987|None",
+      "IS|101|2|1|1988|None",
+      "IS|101|2|2|1986|None",
+      "IS|101|3|1|1986|None",
+      "IS|101|3|2|1989|None",
+      "IS|101|3|4|1987|None",
+      "IS|101|3|5|1987|None",
+      "IS|101|4|1|1988|None",
+      "IS|101|4|2|1989|None",
+      "IS|101|4|3|1988|None",
+      "IS|101|4|4|1988|None",
+      "IS|101|5|1|1988|None",
+      "IS|101|5|2|1988|None",
+      "IS|101|5|3|1999|None",
+      "IS|101|5|4|1988|None",
+      "IS|101|6|1|1988|None",
+      "IS|101|6|2|1989|None",
+      "IS|101|6|3|1990|None",
+      "IS|101|6|4|1991|None",
+      "IS|101|6|5|1997|None",
+      "IS|101|7|1|1989|None",
+      "IS|101|7|2|1990|None",
+      "IS|101|7|3|1990|None",
+      "IS|101|7|4|1990|None",
+      "IS|10018|None|None|1981|None"
+    ],
+    "FAD 19": [
+      "IS|1000|None|None|1989|None",
+      "IS|10029|None|None|1981|None",
+      "IS|10030|None|None|1981|None",
+      "IS|10083|None|None|1982|None"
+    ],
+    "PCD 13": [
+      "IS|1001|None|None|1991|None",
+      "IS|10016|1|None|1981|None",
+      "IS|10016|2|None|1984|None",
+      "IS|10016|4|None|1984|None",
+      "IS|10016|5|None|1981|None",
+      "IS|10016|6|None|2000|None"
+    ],
+    "CED 11": [
+      "IS|1003|1|None|2003|None",
+      "IS|1003|2|None|1994|None",
+      "IS 2202 (Part 1):1999",
+      "IS 3614:2021"
+    ],
+    "PGD 9": [
+      "IS|1004|None|None|1980|None"
+    ],
+    "FAD 16": [
+      "IS|1005|None|None|1992|None",
+      "IS|1006|None|None|1984|None",
+      "IS|1007|None|None|1984|None",
+      "IS|1008|None|None|2004|None",
+      "IS|1009|None|None|1979|None",
+      "IS|10038|None|None|1981|None",
+      "IS|10065|None|None|1981|None"
+    ],
+    "TED 2": [
+      "IS|10000|1|None|1980|None",
+      "IS|10000|2|None|1980|None",
+      "IS|10000|3|None|1980|None",
+      "IS|10000|4|None|1980|None",
+      "IS|10000|5|None|1980|None",
+      "IS|10000|6|None|1980|None",
+      "IS|10000|7|None|1980|None",
+      "IS|10000|8|None|1980|None",
+      "IS|10000|9|None|1980|None",
+      "IS|10000|10|None|1980|None",
+      "IS|10000|11|None|1980|None",
+      "IS|10000|12|None|1980|None",
+      "IS|10000|13|None|2002|None",
+      "IS|10001|None|None|1981|None",
+      "IS|10002|None|None|1981|None"
+    ],
+    "MSD 10": [
+      "IS|10005|None|None|1994|None"
+    ],
+    "FAD 13": [
+      "IS|10006|None|None|1981|None"
+    ],
+    "TED 19": [
+      "IS|10007|None|None|1981|None"
+    ],
+    "MED 30": [
+      "IS|10008|None|None|1992|None"
+    ],
+    "MHD 5": [
+      "IS|10009|None|None|1981|None",
+      "IS|10045|None|None|1981|None",
+      "IS|10058|None|None|1985|None"
+    ],
+    "TXD 7": [
+      "IS|10010|None|None|1981|None"
+    ],
+    "MHD 8": [
+      "IS|10011|None|None|1981|None",
+      "IS|10012|None|None|1981|None",
+      "IS|10088|None|None|1981|None"
+    ],
+    "TXD 1": [
+      "IS|10014|1|None|1984|None",
+      "IS|10014|2|None|1981|None"
+    ],
+    "FAD 6": [
+      "IS|10017|None|None|1981|None"
+    ],
+    "CED 15": [
+      "IS|10019|None|None|1981|None",
+      "IS|10090|None|None|1982|None"
+    ],
+    "CED 47": [
+      "IS|10020|4|None|1981|None"
+    ],
+    "WRD 12": [
+      "IS|10021|None|None|2000|None",
+      "IS|10096|1|1|1983|None",
+      "IS|10096|1|2|1986|None",
+      "IS|10096|2|None|1983|None",
+      "IS|10096|3|None|2002|None"
+    ],
+    "PGD 31": [
+      "IS|10022|None|None|1981|None"
+    ],
+    "PGD 27": [
+      "IS|10023|None|None|1981|None"
+    ],
+    "CHD 23": [
+      "IS|10025|None|None|1981|None"
+    ],
+    "ETD 2": [
+      "IS|10026|1|None|1998|None",
+      "IS|10026|2|None|1999|None",
+      "IS|10026|3|1|1999|None",
+      "IS|10026|3|2|1999|None",
+      "IS|10026|3|3|1983|None",
+      "IS|10026|3|4|1983|None",
+      "IS|10026|3|5|1983|None",
+      "IS|10026|3|6|1983|None",
+      "IS|10026|3|7|1983|None",
+      "IS|10026|3|8|1986|None",
+      "IS|10026|3|9|1986|None"
+    ],
+    "ETD 7": [
+      "IS|10027|None|None|2000|None",
+      "IS/IEC 60898-1:2002",
+      "IS 12640 (Part 1):2008",
+      "IS/IEC 60947-2:2003",
+      "IS 8623 (Part 1):1993"
+    ],
+    "ETD 16": [
+      "IS|10028|1|None|1985|None",
+      "IS|10028|2|None|1981|None",
+      "IS|10028|3|None|1981|None",
+      "IS 1180 (Part 1):2014"
+    ],
+    "ETD 33": [
+      "IS|10031|None|None|1981|None"
+    ],
+    "MTD 14": [
+      "IS|10032|None|None|1981|None",
+      "IS|10033|None|None|1992|None",
+      "IS|10034|None|None|1981|None",
+      "IS|10091|None|None|1981|None",
+      "IS|10094|None|None|1998|None"
+    ],
+    "MTD 25": [
+      "IS|10035|None|None|1993|None"
+    ],
+    "CED 24": [
+      "IS|10037|1|None|1981|None",
+      "IS|10037|2|None|1983|None",
+      "IS|10037|3|None|1983|None",
+      "IS|10053|None|None|1981|None"
+    ],
+    "MED 25": [
+      "IS|10039|None|None|1981|None"
+    ],
+    "MED 29": [
+      "IS|10040|None|None|1981|None"
+    ],
+    "TED 14": [
+      "IS|10041|None|None|1981|None"
+    ],
+    "CED 43": [
+      "IS|10042|None|None|1981|None",
+      "IS|10074|None|None|1982|None",
+      "IS|10077|None|None|1982|None"
+    ],
+    "CHD 32": [
+      "IS|10044|None|None|1981|None"
+    ],
+    "MED 8": [
+      "IS|10046|None|None|1981|None"
+    ],
+    "MTD 15": [
+      "IS|10047|None|None|1981|None"
+    ],
+    "FAD 20": [
+      "IS|10048|None|None|1999|None"
+    ],
+    "CED 4": [
+      "IS|10049|None|None|1981|None"
+    ],
+    "CED 48": [
+      "IS|10050|None|None|1981|None",
+      "IS|10082|None|None|1981|None"
+    ],
+    "LITD 9": [
+      "IS|10052|1|None|1999|None",
+      "IS|10052|2|None|1999|None"
+    ],
+    "TXD 23": [
+      "IS|10054|None|None|1996|None"
+    ],
+    "TXD 33": [
+      "IS|10055|None|None|1982|None"
+    ],
+    "TXD 12": [
+      "IS|10056|None|None|1982|None",
+      "IS|10057|None|None|1982|None"
+    ],
+    "FAD 12": [
+      "IS|10059|None|None|1981|None"
+    ],
+    "WRD 5": [
+      "IS|10060|None|None|1981|None"
+    ],
+    "WRD 23": [
+      "IS|10061|None|None|1991|None",
+      "IS|10062|None|None|1991|None"
+    ],
+    "TED 21": [
+      "IS|10063|None|None|1982|None"
+    ],
+    "CHD 15": [
+      "IS|10066|None|None|1981|None"
+    ],
+    "CED 29": [
+      "IS|10067|None|None|1982|None"
+    ],
+    "PGD 4": [
+      "IS|10068|1|None|1982|None",
+      "IS|10068|2|None|1982|None",
+      "IS|10068|3|None|1990|None",
+      "IS|10068|4|None|1997|None",
+      "IS|10068|5|None|1996|None",
+      "IS|10068|6|None|1996|None"
+    ],
+    "PGD 16": [
+      "IS|10069|None|None|1992|None"
+    ],
+    "CED 2": [
+      "IS|10070|None|None|1982|None",
+      "IS|10078|None|None|1982|None",
+      "IS|10079|None|None|1982|None",
+      "IS|10080|None|None|1982|None",
+      "IS|10086|None|None|1982|None",
+      "IS 4926:2003",
+      "IS 9103:1999",
+      "IS 3812 (Part 1):2013"
+    ],
+    "LITD 4": [
+      "IS|10071|None|None|1981|None"
+    ],
+    "CHD 10": [
+      "IS|10072|None|None|1982|None",
+      "IS|10073|None|None|1982|None",
+      "IS 2835:1987",
+      "IS 2553 (Part 2):2019"
+    ],
+    "ETD 35": [
+      "IS|10075|None|None|1981|None"
+    ],
+    "LITD 5": [
+      "IS|10076|1|None|1981|None",
+      "IS|10087|None|None|1981|None"
+    ],
+    "CHD 26": [
+      "IS|10081|None|None|1981|None"
+    ],
+    "WRD 22": [
+      "IS|10084|1|None|1982|None",
+      "IS|10084|2|None|1994|None"
+    ],
+    "MTD 13": [
+      "IS|10085|None|None|2003|None"
+    ],
+    "CHD 19": [
+      "IS|10089|None|None|1981|None"
+    ],
+    "MED 17": [
+      "IS|10092|None|None|1982|None"
+    ],
+    "MED 7": [
+      "IS|10095|None|None|1982|None"
+    ],
+    "TED 24": [
+      "IS|10097|None|None|1982|None"
+    ],
+    "ETD 17": [
+      "IS|10098|None|None|1982|None"
+    ],
+    "TXD 5": [
+      "IS|10099|None|None|1982|None"
+    ],
+    "PCD 6": [
+      "IS 73:2013"
+    ],
+    "CED 20": [
+      "IS 303:1989"
+    ],
+    "MTD 7": [
+      "IS 733:1983"
+    ],
+    "CED 5": [
+      "IS 15622:2017"
+    ],
+    "CED 3": [
+      "IS 2556 (Part 4):2004",
+      "IS 1729:2002",
+      "IS 9762:1994"
+    ],
+    "ETD 13": [
+      "IS 13779:1999",
+      "IS 14697:1999"
+    ],
+    "ETD 32": [
+      "IS 2082:1993",
+      "IS 366:1991"
+    ],
+    "ETD 22": [
+      "IS 16242 (Part 1):2014"
+    ],
+    "ETD 9": [
+      "IS 7098 (Part 3):1993"
+    ],
+    "ETD 23": [
+      "IS 2418 (Part 1):1977"
+    ],
+    "TXD 32": [
+      "IS 15809:2008",
+      "IS 15071:2001",
+      "IS 16890:2018"
+    ],
+    "PGD 36": [
+      "IS 6994 (Part 1):1973",
+      "IS 1179:1967",
+      "IS 16648:2017"
+    ],
+    "CED 50": [
+      "IS 4984:2016",
+      "IS 15778:2007"
+    ],
+    "MED 3": [
+      "IS 14846:2000"
+    ],
+    "MED 20": [
+      "IS 8034:2002",
+      "IS 9079:2002"
+    ],
+    "CHD 13": [
+      "IS 16240:2015"
+    ],
+    "CED 22": [
+      "IS 15683:2018",
+      "IS 884:1985",
+      "IS 15105:2002",
+      "IS 2189:2008"
+    ],
+    "MED 10": [
+      "IS 2266:2002"
+    ],
+    "MTD 8": [
+      "IS 2629:1985"
+    ],
+    "MED 16": [
+      "IS 3196 (Part 1):2013",
+      "IS 7285 (Part 1):2004"
+    ]
+  },
+  "latest_editions": [
+    "IS|1|None|None|1968|None",
+    "IS|10|1|None|1990|None",
+    "IS|10|2|None|2013|None",
+    "IS|10|3|None|1974|None",
+    "IS|10|4|None|1989|None",
+    "IS|10|5|None|1976|None",
+    "IS|101|1|1|2023|None",
+    "IS|101|1|2|1987|None",
+    "IS|101|1|3|1986|None",
+    "IS|101|1|4|1987|None",
+    "IS|101|1|5|1989|None",
+    "IS|101|1|6|1987|None",
+    "IS|101|1|7|1987|None",
+    "IS|101|2|1|2018|None",
+    "IS|101|2|2|1986|None",
+    "IS|101|3|1|1986|None",
+    "IS|101|3|2|1989|None",
+    "IS|101|3|4|1987|None",
+    "IS|101|3|5|1987|None",
+    "IS|101|4|1|1988|None",
+    "IS|101|4|2|1989|None",
+    "IS|101|4|3|1988|None",
+    "IS|101|4|4|1988|None",
+    "IS|101|5|1|1988|None",
+    "IS|101|5|2|1988|None",
+    "IS|101|5|3|1999|None",
+    "IS|101|5|4|1988|None",
+    "IS|101|6|1|1988|None",
+    "IS|101|6|2|1989|None",
+    "IS|101|6|3|1990|None",
+    "IS|101|6|4|1991|None",
+    "IS|101|6|5|1997|None",
+    "IS|101|7|1|1989|None",
+    "IS|101|7|2|1990|None",
+    "IS|101|7|3|1990|None",
+    "IS|101|7|4|1990|None",
+    "IS|269|None|None|2013|None",
+    "IS|302|1|None|2008|None",
+    "IS|383|None|None|2016|None",
+    "IS|432|1|None|1982|None",
+    "IS|456|None|None|2000|None",
+    "IS|458|None|None|2003|None",
+    "IS|516|None|None|1959|None",
+    "IS|694|None|None|2010|None",
+    "IS|732|None|None|1989|None",
+    "IS|800|None|None|2007|None",
+    "IS|808|None|None|1989|None",
+    "IS|1000|None|None|2021|None",
+    "IS|1001|None|None|1991|None",
+    "IS|1003|1|None|2003|None",
+    "IS|1003|2|None|1994|None",
+    "IS|1004|None|None|1980|None",
+    "IS|1005|None|None|1992|None",
+    "IS|1006|None|None|1984|None",
+    "IS|1007|None|None|1984|None",
+    "IS|1008|None|None|2004|None",
+    "IS|1009|None|None|2023|None",
+    "IS|1077|None|None|1992|None",
+    "IS|1161|None|None|2014|None",
+    "IS|1199|None|None|1959|None",
+    "IS|1239|1|None|2004|None",
+    "IS|1293|None|None|2005|None",
+    "IS|1489|1|None|1991|None",
+    "IS|1536|None|None|2001|None",
+    "IS|1554|1|None|1988|None",
+    "IS|1641|None|None|1988|None",
+    "IS|1642|None|None|1989|None",
+    "IS|1643|None|None|1988|None",
+    "IS|1786|None|None|2008|None",
+    "IS|2026|1|None|2011|None",
+    "IS|2062|None|None|2011|None",
+    "IS|2185|1|None|2005|None",
+    "IS|2190|None|None|2010|None",
+    "IS|2386|1|None|1963|None",
+    "IS|2502|None|None|1963|None",
+    "IS|2925|None|None|1984|None",
+    "IS|3025|11|None|1983|None",
+    "IS|3025|59|None|2023|None",
+    "IS|3043|None|None|1987|None",
+    "IS|3196|1|None|2006|None",
+    "IS|3521|None|None|1999|None",
+    "IS|3844|None|None|1989|None",
+    "IS|4923|None|None|1997|None",
+    "IS|4985|None|None|2021|None",
+    "IS|5120|None|None|1977|None",
+    "IS|5983|None|None|1980|None",
+    "IS|7098|1|None|1988|None",
+    "IS|7098|2|None|2011|None",
+    "IS|8112|None|None|2013|None",
+    "IS|8130|None|None|2013|None",
+    "IS|8320|None|None|2000|None",
+    "IS|8472|None|None|1998|None",
+    "IS|9873|3|None|1999|None",
+    "IS|10000|1|None|1980|None",
+    "IS|10000|2|None|1980|None",
+    "IS|10000|3|None|1980|None",
+    "IS|10000|4|None|1980|None",
+    "IS|10000|5|None|1980|None",
+    "IS|10000|6|None|1980|None",
+    "IS|10000|7|None|1980|None",
+    "IS|10000|8|None|1980|None",
+    "IS|10000|9|None|1980|None",
+    "IS|10000|10|None|1980|None",
+    "IS|10000|11|None|1980|None",
+    "IS|10000|12|None|1980|None",
+    "IS|10000|13|None|2002|None",
+    "IS|10001|None|None|1981|None",
+    "IS|10002|None|None|1981|None",
+    "IS|10005|None|None|1994|None",
+    "IS|10006|None|None|1981|None",
+    "IS|10007|None|None|1981|None",
+    "IS|10008|None|None|1992|None",
+    "IS|10009|None|None|1981|None",
+    "IS|10010|None|None|2022|None",
+    "IS|10011|None|None|1981|None",
+    "IS|10012|None|None|1981|None",
+    "IS|10013|1|None|1981|None",
+    "IS|10013|2|None|1981|None",
+    "IS|10013|3|None|1981|None",
+    "IS|10014|1|None|1984|None",
+    "IS|10014|2|None|1981|None",
+    "IS|10016|1|None|1981|None",
+    "IS|10016|2|None|1984|None",
+    "IS|10016|4|None|1984|None",
+    "IS|10016|5|None|1981|None",
+    "IS|10016|6|None|2000|None",
+    "IS|10017|None|None|1981|None",
+    "IS|10018|None|None|1981|None",
+    "IS|10019|None|None|1981|None",
+    "IS|10020|4|None|1981|None",
+    "IS|10021|None|None|2000|None",
+    "IS|10022|None|None|1981|None",
+    "IS|10023|None|None|1981|None",
+    "IS|10025|None|None|1981|None",
+    "IS|10026|1|None|1998|None",
+    "IS|10026|2|None|1999|None",
+    "IS|10026|3|1|1999|None",
+    "IS|10026|3|2|1999|None",
+    "IS|10026|3|3|1983|None",
+    "IS|10026|3|4|1983|None",
+    "IS|10026|3|5|1983|None",
+    "IS|10026|3|6|1983|None",
+    "IS|10026|3|7|1983|None",
+    "IS|10026|3|8|1986|None",
+    "IS|10026|3|9|1986|None",
+    "IS|10027|None|None|2018|None",
+    "IS|10028|1|None|1985|None",
+    "IS|10028|2|None|1981|None",
+    "IS|10028|3|None|1981|None",
+    "IS|10029|None|None|1981|None",
+    "IS|10030|None|None|1981|None",
+    "IS|10031|None|None|1981|None",
+    "IS|10032|None|None|2013|None",
+    "IS|10033|None|None|1992|None",
+    "IS|10034|None|None|1981|None",
+    "IS|10035|None|None|2023|None",
+    "IS|10037|1|None|1981|None",
+    "IS|10037|2|None|1983|None",
+    "IS|10037|3|None|1983|None",
+    "IS|10038|None|None|1981|None",
+    "IS|10039|None|None|1981|None",
+    "IS|10040|None|None|1981|None",
+    "IS|10041|None|None|1981|None",
+    "IS|10042|None|None|1981|None",
+    "IS|10044|None|None|1981|None",
+    "IS|10045|None|None|1981|None",
+    "IS|10046|None|None|1981|None",
+    "IS|10047|None|None|2023|None",
+    "IS|10048|None|None|1999|None",
+    "IS|10049|None|None|1981|None",
+    "IS|10050|None|None|1981|None",
+    "IS|10052|1|None|1999|None",
+    "IS|10052|2|None|1999|None",
+    "IS|10053|None|None|1981|None",
+    "IS|10054|None|None|1996|None",
+    "IS|10055|None|None|1982|None",
+    "IS|10056|None|None|2023|None",
+    "IS|10057|None|None|1982|None",
+    "IS|10058|None|None|1985|None",
+    "IS|10059|None|None|1981|None",
+    "IS|10060|None|None|2013|None",
+    "IS|10061|None|None|1991|None",
+    "IS|10062|None|None|1991|None",
+    "IS|10063|None|None|1982|None",
+    "IS|10065|None|None|1981|None",
+    "IS|10066|None|None|1981|None",
+    "IS|10067|None|None|1982|None",
+    "IS|10068|1|None|2018|None",
+    "IS|10068|2|None|2018|None",
+    "IS|10068|3|None|1990|None",
+    "IS|10068|4|None|1997|None",
+    "IS|10068|5|None|1996|None",
+    "IS|10068|6|None|1996|None",
+    "IS|10069|None|None|1992|None",
+    "IS|10070|None|None|1982|None",
+    "IS|10071|None|None|1981|None",
+    "IS|10072|None|None|1982|None",
+    "IS|10073|None|None|1982|None",
+    "IS|10074|None|None|1982|None",
+    "IS|10075|None|None|1981|None",
+    "IS|10076|1|None|1981|None",
+    "IS|10077|None|None|1982|None",
+    "IS|10078|None|None|1982|None",
+    "IS|10079|None|None|1982|None",
+    "IS|10080|None|None|1982|None",
+    "IS|10081|None|None|1981|None",
+    "IS|10082|None|None|1981|None",
+    "IS|10083|None|None|1982|None",
+    "IS|10084|1|None|1982|None",
+    "IS|10084|2|None|2014|None",
+    "IS|10085|None|None|2003|None",
+    "IS|10086|None|None|2021|None",
+    "IS|10087|None|None|1981|None",
+    "IS|10088|None|None|1981|None",
+    "IS|10089|None|None|1981|None",
+    "IS|10090|None|None|1982|None",
+    "IS|10091|None|None|1981|None",
+    "IS|10092|None|None|1982|None",
+    "IS|10094|None|None|1998|None",
+    "IS|10095|None|None|1982|None",
+    "IS|10096|1|1|1983|None",
+    "IS|10096|1|2|2014|None",
+    "IS|10096|2|None|1983|None",
+    "IS|10096|3|None|2002|None",
+    "IS|10097|None|None|1982|None",
+    "IS|10098|None|None|1982|None",
+    "IS|10099|None|None|1982|None",
+    "IS|10322|1|None|1982|None",
+    "IS|10322|5|5|2013|None",
+    "IS|10500|None|None|2012|None",
+    "IS|13488|None|None|2008|None",
+    "IS|13947|5|2|2004|None",
+    "IS|14543|None|None|2016|None",
+    "IS|15298|2|None|2016|None",
+    "IS|16102|1|None|2012|None",
+    "IS|16102|2|None|2012|None",
+    "IS 4926:2003",
+    "IS 9103:1999",
+    "IS 73:2013",
+    "IS 3812 (Part 1):2013",
+    "IS 303:1989",
+    "IS 2202 (Part 1):1999",
+    "IS 733:1983",
+    "IS 15622:2017",
+    "IS 2556 (Part 4):2004",
+    "IS 1729:2002",
+    "IS 2835:1987",
+    "IS 3629:1986",
+    "IS 13779:1999",
+    "IS 14697:1999",
+    "IS 1180 (Part 1):2014",
+    "IS/IEC 60898-1:2002",
+    "IS 12640 (Part 1):2008",
+    "IS/IEC 60947-2:2003",
+    "IS 2082:1993",
+    "IS 366:1991",
+    "IS 16242 (Part 1):2014",
+    "IS 8623 (Part 1):1993",
+    "IS 7098 (Part 3):1993",
+    "IS 2418 (Part 1):1977",
+    "IS 15809:2008",
+    "IS 6994 (Part 1):1973",
+    "IS 1179:1967",
+    "IS 15071:2001",
+    "IS 16890:2018",
+    "IS 16648:2017",
+    "IS 4984:2016",
+    "IS 15778:2007",
+    "IS 14846:2000",
+    "IS 9762:1994",
+    "IS 8034:2002",
+    "IS 9079:2002",
+    "IS 16240:2015",
+    "IS 15683:2018",
+    "IS 884:1985",
+    "IS 15105:2002",
+    "IS 2189:2008",
+    "IS 3614:2021",
+    "IS 2266:2002",
+    "IS 2629:1985",
+    "IS 3196 (Part 1):2013",
+    "IS 7285 (Part 1):2004",
+    "IS 2553 (Part 2):2019"
+  ]
+}

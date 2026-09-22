@@ -1,0 +1,46 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "bis-pipeline"
+version = "1.0.0"
+description = "Scrape, merge, index and serve Bureau of Indian Standards data for retrieval"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "requests>=2.31",
+    "beautifulsoup4>=4.12",
+    "lxml>=5.1",
+    "pandas>=2.0",
+]
+
+[project.optional-dependencies]
+xlsx = ["openpyxl>=3.1"]
+pdf = ["PyMuPDF>=1.24"]
+# `bis_rag` runs without any of these: the default embedder is offline and the
+# default vector store has no dependencies. Install `rag-dense` for real
+# semantic embeddings and `rag-chroma` for a ChromaDB backend.
+dense = ["sentence-transformers>=2.7"]
+chroma = ["chromadb>=0.5"]
+rag = ["chromadb>=0.5"]
+rag-dense = ["chromadb>=0.5", "sentence-transformers>=2.7"]
+dev = ["pytest>=8.0"]
+
+[project.scripts]
+bis-pipeline = "bis_pipeline.cli:main"
+bis-rag = "bis_rag.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]
+addopts = "-q"
+filterwarnings = ["ignore::DeprecationWarning"]
+markers = [
+    # Tests that call a real provider. Skipped unless the key is set, so a
+    # normal run needs no network and no key; `-m live_llm` runs only these.
+    "live_llm: requires a real LLM provider (GROQ_API_KEY)",
+]

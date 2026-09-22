@@ -1,0 +1,342 @@
+{
+  "corpus": {
+    "standards": 12,
+    "chunks": 47
+  },
+  "scored_cases": 56,
+  "covered_cases": 10,
+  "coverage": 0.1786,
+  "provenance": {
+    "root": "/home/user/demo_data/bis_data",
+    "kind": "synthetic fixture",
+    "is_fixture": true,
+    "marker": "/home/user/demo_data/bis_data/.synthetic_fixture.json",
+    "suspiciously_small": true,
+    "certifiable_as_production": false,
+    "standards": 12,
+    "detail": {
+      "generator": "tests/synth_bis_data.py",
+      "standards": 12,
+      "chunks_per_standard": 4,
+      "warning": "Generated fixture. Not the scraped 197-standard corpus."
+    }
+  },
+  "missing": [
+    {
+      "designation": "IS 458",
+      "cases": [
+        "proc-precast-pipes",
+        "proc-rcc-hume-pipe"
+      ],
+      "case_count": 2
+    },
+    {
+      "designation": "IS 10262",
+      "cases": [
+        "proc-mix-design"
+      ],
+      "case_count": 1
+    },
+    {
+      "designation": "IS 10322",
+      "cases": [
+        "proc-luminaire"
+      ],
+      "case_count": 1
+    },
+    {
+      "designation": "IS 1077",
+      "cases": [
+        "proc-bricks"
+      ],
+      "case_count": 1
+    },
+    {
+      "designation": "IS 12269",
+      "cases": [
+        "proc-cement-53"
+      ],
+      "case_count": 1
+    },
+    {
+      "designation": "IS 12640",
+      "cases": [
+        "proc-rccb"
+      ],
+      "case_count": 1
+    },
+    {
+      "designation": "IS 12709",
+      "cases": [
+        "proc-grp-pipe"
+      ],
+      "case_count": 1
+    },
+    {
+      "designation": "IS 1293",
+      "cases": [
+        "proc-plug-socket"
+      ],
+      "case_count": 1
+    },
+    {
+      "designation": "IS 13488",
+      "cases": [
+        "proc-pvc-soil-waste"
+      ],
+      "case_count": 1
+    },
+    {
+      "designation": "IS 13920",
+      "cases": [
+        "proc-ductile-detailing"
+      ],
+      "case_count": 1
+    },
+    {
+      "designation": "IS 13983",
+      "cases": [
+        "proc-kitchen-sink"
+      ],
+      "case_count": 1
+    },
+    {
+      "designation": "IS 1489",
+      "cases": [
+        "proc-ppc-flyash"
+      ],
+      "case_count": 1
+    },
+    {
+      "designation": "IS 1554",
+      "cases": [
+        "proc-heavy-duty-cable"
+      ],
+      "case_count": 1
+    },
+    {
+      "designation": "IS 15658",
+      "cases": [
+        "proc-paver-blocks"
+      ],
+      "case_count": 1
+    },
+    {
+      "designation": "IS 1592",
+      "cases": [
+        "proc-ac-pressure-pipe"
+      ],
+      "case_count": 1
+    },
+    {
+      "designation": "IS 1893",
+      "cases": [
+        "proc-seismic-design"
+      ],
+      "case_count": 1
+    },
+    {
+      "designation": "IS 1904",
+      "cases": [
+        "proc-foundation-black-cotton"
+      ],
+      "case_count": 1
+    },
+    {
+      "designation": "IS 2062",
+      "cases": [
+        "proc-structural-steel-bridge"
+      ],
+      "case_count": 1
+    },
+    {
+      "designation": "IS 2185",
+      "cases": [
+        "proc-hollow-blocks"
+      ],
+      "case_count": 1
+    },
+    {
+      "designation": "IS 2556",
+      "cases": [
+        "proc-wash-basin"
+      ],
+      "case_count": 1
+    },
+    {
+      "designation": "IS 2645",
+      "cases": [
+        "proc-waterproofing"
+      ],
+      "case_count": 1
+    },
+    {
+      "designation": "IS 277",
+      "cases": [
+        "proc-galvanised-sheets"
+      ],
+      "case_count": 1
+    },
+    {
+      "designation": "IS 302",
+      "cases": [
+        "proc-appliance-safety"
+      ],
+      "case_count": 1
+    },
+    {
+      "designation": "IS 3025",
+      "cases": [
+        "proc-water-test-methods"
+      ],
+      "case_count": 1
+    },
+    {
+      "designation": "IS 325",
+      "cases": [
+        "proc-motor"
+      ],
+      "case_count": 1
+    },
+    {
+      "designation": "IS 3370",
+      "cases": [
+        "proc-water-tank"
+      ],
+      "case_count": 1
+    },
+    {
+      "designation": "IS 3466",
+      "cases": [
+        "proc-masonry-cement"
+      ],
+      "case_count": 1
+    },
+    {
+      "designation": "IS 3589",
+      "cases": [
+        "proc-steel-pipe-main"
+      ],
+      "case_count": 1
+    },
+    {
+      "designation": "IS 3646",
+      "cases": [
+        "proc-interior-illumination"
+      ],
+      "case_count": 1
+    },
+    {
+      "designation": "IS 3854",
+      "cases": [
+        "proc-switches"
+      ],
+      "case_count": 1
+    },
+    {
+      "designation": "IS 4031",
+      "cases": [
+        "proc-cement-tests"
+      ],
+      "case_count": 1
+    },
+    {
+      "designation": "IS 418",
+      "cases": [
+        "proc-lamp"
+      ],
+      "case_count": 1
+    },
+    {
+      "designation": "IS 432",
+      "cases": [
+        "proc-mild-steel-bars"
+      ],
+      "case_count": 1
+    },
+    {
+      "designation": "IS 455",
+      "cases": [
+        "proc-slag-cement"
+      ],
+      "case_count": 1
+    },
+    {
+      "designation": "IS 4984",
+      "cases": [
+        "proc-hdpe-pipe"
+      ],
+      "case_count": 1
+    },
+    {
+      "designation": "IS 694",
+      "cases": [
+        "proc-pvc-cable"
+      ],
+      "case_count": 1
+    },
+    {
+      "designation": "IS 7098",
+      "cases": [
+        "proc-xlpe-cable"
+      ],
+      "case_count": 1
+    },
+    {
+      "designation": "IS 732",
+      "cases": [
+        "proc-wiring-code"
+      ],
+      "case_count": 1
+    },
+    {
+      "designation": "IS 774",
+      "cases": [
+        "proc-flushing-cistern"
+      ],
+      "case_count": 1
+    },
+    {
+      "designation": "IS 800",
+      "cases": [
+        "proc-steel-design"
+      ],
+      "case_count": 1
+    },
+    {
+      "designation": "IS 8112",
+      "cases": [
+        "proc-cement-43"
+      ],
+      "case_count": 1
+    },
+    {
+      "designation": "IS 8623",
+      "cases": [
+        "proc-switchgear-assembly"
+      ],
+      "case_count": 1
+    },
+    {
+      "designation": "IS 875",
+      "cases": [
+        "proc-loads"
+      ],
+      "case_count": 1
+    },
+    {
+      "designation": "IS 9103",
+      "cases": [
+        "proc-admixture"
+      ],
+      "case_count": 1
+    },
+    {
+      "designation": "IS 996",
+      "cases": [
+        "proc-single-phase-motor"
+      ],
+      "case_count": 1
+    }
+  ]
+}

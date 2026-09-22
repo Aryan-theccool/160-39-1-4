@@ -1,0 +1,7 @@
+config,bm25,tfidf,dense,fusion,rerank,hit@1,hit@3,hit@5,hit@10,hit@1_end_to_end,hit@5_end_to_end,mrr@5,mrr@10,exact_edition,hard_n,hard_hit@5,hard_mrr@5,latency_p50_ms,latency_p95_ms,latency_p99_ms,rag_p95_ms,superseded_first,superseded_exposure,coverage,note
+tfidf_only,False,True,False,-,False,1.0,1.0,1.0,1.0,0.1786,0.1786,1.0,1.0,1.0,1,1.0,1.0,0.2,0.38,0.43,,0.0,0.0,0.1786,"the pre-existing bis_data index, no BM25, no vectors"
+bm25_only,True,False,False,-,False,1.0,1.0,1.0,1.0,0.1786,0.1786,1.0,1.0,1.0,1,1.0,1.0,0.5,1.11,1.51,,0.0,0.0,0.1786,sparse retrieval over chunks and summaries
+dense_only,False,False,True,-,False,0.9,0.9,0.9,0.9,0.1607,0.1607,0.9,0.9,0.9,1,0.0,0.0,12.53,16.03,16.29,,0.0,0.0,0.1786,vectors alone; needs a built store
+bm25_dense,True,False,True,score,False,1.0,1.0,1.0,1.0,0.1786,0.1786,1.0,1.0,1.0,1,1.0,1.0,13.31,18.66,19.53,,0.0,0.0,0.1786,"two legs, weighted normalised scores instead of RRF"
+bm25_dense_rrf,True,False,True,rrf,False,1.0,1.0,1.0,1.0,0.1786,0.1786,1.0,1.0,1.0,1,1.0,1.0,13.77,19.0,19.75,,0.0,0.0,0.1786,"same two legs, reciprocal rank fusion"
+bm25_dense_rrf_rerank,True,False,True,rrf,True,1.0,1.0,1.0,1.0,0.1786,0.1786,1.0,1.0,1.0,1,1.0,1.0,15.81,20.05,20.96,,0.0,0.0,0.1786,the shipped configuration
