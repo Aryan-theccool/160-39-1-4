@@ -1,0 +1,832 @@
+**************** 
+
+
+
+
+Disclosure to Promote the Right To Information 
+
+Whereas the Parliament of India has set out to provide a practical regime of right to 
+information for citizens to secure access to information under the control of public authorities, 
+in order to promote transparency and accountability in the working of every public authority, 
+and whereas the attached publication of the Bureau of Indian Standards is of particular interest 
+to the public, particularly disadvantaged communities and those engaged in the pursuit of 
+education and knowledge, the attached public safety standard is made available to promote the 
+timely dissemination of this information in an accurate manner to the public. 
+
+
+
+
+Mazdoor Kisan Shakti Sangathan 
+"The Right to Information, The Right to Live'' 
+
+
+
+IS 10001 (1981) : Performance requirements for constant 
+speed compression ignition (diesel) engines for general 
+purposes (up to 20 kW) [TED 2: Automotive Primemovers] 
+
+
+
+
+Jawaharlal Nehru 
+'Step Out From the Old to the New" 
+
+
+
+aj^&vi iJii^s:y%K^ isb^^ni^seg 
+
+
+
+:<>5&i| mT'5K^5?::5:^>^i»l 
+
+
+
+K^^^iXSVCd^ 
+
+
+
+Satyanarayan Gangaram Pitroda 
+Invent a New India Using Knowledge 
+
+
+
+Bhartrhari — Nitisatakam 
+''Knowledge is such a treasure which cannot be stolen" 
+
+
+
+
+^'^^^r 
+
+
+
+k 
+
+
+
+
+BLANK PAGE 
+
+
+
+^*-^^^ 
+
+
+
+
+
+PROTECTED BY COPYRIGHT 
+
+
+
+UDC-621'436-018-6 (Second Reorint APRIL 1990) IS: 10001-1981 
+
+
+
+, ,. -^ , , (Reaffirmed 2002) 
+
+Indian Standard 
+
+SPECIFICATION FOR PERFORMANCE REQUIREMENTS FOR 
+
+CONSTANT SPEED COMPRESSION IGNITION ( DIESEL) 
+
+ENGINES FOR GENERAL PURPOSES (UP TO 20 kW) 
+
+
+
+1. Scope — Lays down the performance requirements of constant speed compression ignition 
+( diesel ) engines for agricultural and other general purposes of ratings up to 20 kW ( IS Rating A ). 
+
+1.1 This standard is not applicable to: 
+
+a) pressure-charged engines, 
+
+b) engines for ship propulsion or marine auxiliaries, 
+
+c) engines for aircraft propulsion or aircraft auxiliaries, and 
+
+d) engines for rail or road traction. 
+
+2. Definitions — Given in IS: 10000 (Part I )-1980 'Methods of tests for internal combustion 
+engines: Part I Glossary of terms relati ng to test methods ' shall apply. 
+
+3. Tests — Shall be carried out to determine the performance of the engine. The tests may be 
+carried out at the ambient conditions and the power and the specific fuel consumption determined 
+during the test shall beadjusted by using adjustment factors [see IS : 1G000 ( Part IV )-1980 Methods 
+of tests for internal combustion engines: Part IV Declarations of power, efficiency, fuel consumption 
+and lubricating oil consumption],* if the ambient conditions are different from the standard 
+reference conditions specified in Section I of 13:10000 (Part ll)-1980 ' Methods of test for internal 
+combustion engines: Part II Standard reference conditions '. For determining the performance, 
+the following tests shall be carried out. 
+
+3.1 Type fesfs — Shall be carried out on engines when first offered and shall also be carried out 
+when there is any significant change in design of the engine or the change of any of the critical 
+components given in 3.1.1. Type tests shall include: 
+
+a) Preparation for tests according to Section I of 13 : 10000 ( Part V )-1980 * Methods of tests 
+for internal combustion engines: Part V Preparation for tests and measurements for wear \ 
+
+b) Preliminary run according to Section I of IS : 10000 (Part V )-1980, 
+
+c) Initial performance test according to Section I of IS: 10000 (Part VIII )-1980 'Methods of 
+tests for internal combustion engines: Part VIII Performance tests ', 
+
+d) Governing tests according to IS : 10000 ( Part VII )-1980 'Methods of tests for internal 
+combustion engines; Part VII Governing tests for constant speed engines and selection of 
+engines for use with electrical generators \ 
+
+e) Endurance test according to Section I of IS : 10000 (Part IX)-1980 'Methods of tests for 
+internal combustion engines: Part IX Endurance tests ', 
+
+f ) Governing tests according to IS : 10000 ( Part VII )-1980, 
+
+g) Final performance test according to Section I of IS : 10000 ( Part VIM >-1980, and 
+
+h) Final inspection test according to Section I of IS : 10000 ( Part VI )-1980 ' Methods of test 
+for internal combustion engines: Part VI Recording of test results \ 
+
+3.1.1 In case any of the following critical components of the engine is changed, the type test 
+shall be carried out again: 
+
+i) Cylinder head; 
+
+11) Crank case; 
+ill) Cylinder block; 
+iv) Cylinder liner; 
+
+
+
+Adopted 25 February 1981 © July 1931, BIS 
+
+
+
+Gr 3 
+
+
+
+BUREAU OF INDIAN STANDARDS 
+
+MANAK BHAVAN, 9 BAHADUR SHAH ZAFAR MARG 
+
+NtW DELHI 110002 
+
+
+
+18:10001-1981 
+
+v) Inlet and exhaust valves; 
+vi) Valves guides; 
+vii) Rocker arm; 
+viii) Tappets; 
+ix) Piston; 
+x) Piston rings; 
+
+xi) Gudgeon pin; 
+
+xii) Connecting rod; 
+xiii) Crankshaft; 
+xiv) Main bearings; 
+
+xv) Big end bearing and small end bush for connecting rod; 
+xvi) Connecting rod bolts and nuts; 
+xvii) Crankshaft, cams and timing gears; 
+
+xviii) Valve springs and governor springs ( wherever applicable ); 
+xix) Fuel injection equipment, such as fuel injection pump and high pressure pipe; 
+xx) Lubricating oil pump; 
+xxi) Sealing gaskets; and 
+xxii) Governor weights. 
+
+3.1.2 In case any of the declared parameters, that is, specific fuel consumption, power, speed. 
+eit, is changed, such a change shall constitute significant change and shall entail retype testing of 
+the engines. 
+
+3.2 Fuel Consumption Test — Fuel consumption shall be measured at the beginning of the endurance 
+test and during the final performance test and shall be declared according to Section I of IS ; 10000 
+( Part IV)-1980. 
+
+3.3 Power of the engine shall be determined during the final performance test and shall be declared 
+according to Section I of IS : 10000 ( Part IV )-1980. 
+
+3.4 Mechanical efficiency shall be detsrmined by the method specified in Section I of IS : 10000 
+( Part IV )-1980. 
+
+3.5 After the engines have been type tested, the engines of similar design shall be subjected to 
+following performance tests: 
+
+3.5.1 Initial performance test according to S3Ctionlof IS :10000 { Part VIII )-1980. 
+
+3.5.2 Governing test a3::ordin3 to IS : 10303 (Part VII )-1980. 
+
+3.5.3 Fuel consumption test (see 3.2). 
+
+3.5.4 Power determination ( see 3.3 )• 
+
+3.5.5 Lubricating oil consumption according to IS : 10000 (Part IV )-1980. 
+
+Note -Sequence of governing test and fuel consumption test may be interchanged depending on the 
+convenience for testing. 
+
+
+
+IS: 10001-1991 
+
+
+
+4. Performance Requirements of Engines 
+
+4.1 Power -The power of the engine shall be declared in kilowatts (kW ). The recommended 
+preferred ratings in kW are: 
+
+10 
+
+11'2 
+
+12'5 
+
+14 
+
+16 
+
+18 
+
+20 
+
+
+
+0'8 
+
+
+2-0 
+
+
+4'5 
+
+
+I'O 
+
+
+2'24 
+
+
+5'0 
+
+
+1'12 
+
+
+2'5 
+
+
+5-6 
+
+
+V25 
+
+
+2-8 
+
+
+6-3 
+
+
+1-4 
+
+
+3-15 
+
+
+7'1 
+
+
+1'6 
+
+
+3'55 
+
+
+8 
+
+
+1'8 
+
+
+4'0 
+
+
+9 
+
+
+
+4.1.1 The power determined in 3.3 shall not be less than 1 percent of the declared value from 
+the declared value. 
+
+4.2 Specific Fuel Consumption ( SFC ) -Of the engines varies with speed and shall, have the follow- 
+ing values: 
+
+
+
+Rated Engine Speed 
+(rev/min) 
+up to 500 
+
+Above 500 up to 1 000 
+Above 1 000 up to 2 000 
+Above 2 000 
+
+
+
+SFC, Max 
+(g/kWh) 
+
+350 
+290 
+265 
+325 
+
+
+
+4.2.1 SFC values in 4.2 shall be valid till 1 January 1984. 
+the following SFC values: 
+
+Rated Engine Speed 
+f rev/min) 
+
+up to 500 
+Above 500 up to 1 000 
+Above 1 000 up to 2 000 
+Above 2 000 
+
+
+
+After this date the engines shall have 
+
+SFC, Max 
+(g/kWh) 
+
+332'5 
+275'5 
+24175 
+30875 
+
+
+
+4.2.2 SFC of the engine after the endurance test specified in Section I of IS! 10000 ( Part IX )-1980 
+shall not increase by more than 5 percent of the value obtained after the- initial performance 
+test specified in Section I of IS : 10000 ( Part VIII )-1980. 
+
+5. lest Results — Shall be recorded according to Section I of IS : 10000 (Part VI )-1980. Performance 
+curves shall also be plotted according to IS : 10000 ( Part VI )-1980. 
+
+6. Information for Inquiry or Order and Information to be Supplied by the Manufacturer -^ 
+
+Shall be according to IS: 10000 ( Part XI )-1980 * iWetiiods of test for internal combustion engines: 
+Part XI Information required with inquiry or order and information supplied by the manufacturer 
+with the engine *. 
+
+7. Marking — The engines shall be clearly=?marked with the following: 
+
+a) Rated output in kW, 
+
+b) Rated speed in rev/min, 
+
+c) Specific fuel consumption ( SFC ) in g/kWh, 
+
+d) Class of governing, and, ' 
+
+e) Manufacturer's name or trade-mark and code No. 
+
+7.1 IS! Certification Marking— Details available with the Indian Standards Institution. 
+
+6. Test Certificate -Shall be provided by the testing authoritv to the manufacturer, in the pro forma 
+given in IS: 10000 ( Part XII )-1980* Methods of tests for internal consumption engines: Part XII 
+Test certificates '. 
+
+
+
+9. Packing -The engines shall be suitably crated so as to avoid damage during transit. 
+
+
+
+18:10001-1981 
+
+EXPLANATORY NOTE 
+
+The testing and performance of constant speed and variable speed internal combustion 
+engines was earlier covered by the following Indian Standards: 
+
+IS: 1600-1960 Code for type testing of constant speed internal combustion engines for general 
+purposes 
+
+IS : 1601-1960 Performance of constant speed internal combustion engines for general purposes 
+IS : 1602-1960 Code for type testing of variable speed internal combustion engines for auto- 
+motive purposes 
+
+IS; 1603-1960 Performance of variable speed internal combustion engines for automotive 
+purposes 
+
+These standards are originally issued in 1S60. As a result of implementation of these 
+standards by the manufacturers of engines and testing laboratories, as also the operation of jSI 
+Certification Marking Scheme, these standards have now been extensively revised. 
+
+While IS : 1600 and IS : 1602 covered the codes for type testing of constant and variable speed 
+engines respectively, the performance requirements of such engines were covered by IS : 1601 and 
+IS: 1603 respectively. These standards are replaced by two sets of standards, one set covers the 
+methods of testing of engines and the other covers the specification and performance requirements 
+of both constant speed and variable speed engines. 
+
+The standard covering methods of tests is being published in. following 12 parts of IS : 10C00 
+(each part covering a particular test method or infornVation related to methods of tests: 
+
+IS : 10000 Methods of tests for internal combustion engines: 
+Part I Glossary of terms relating to test methods 
+Part II Standard reference conditions 
+
+Part III Measurement for testing, units and limits of accuracy 
+
+Part IV Declarations of power, efficiency, fuel consumption and lubricating oil consumption 
+Part V Preparation for tests and measurements for wear 
+Part VI Recording of test results 
+
+Part VII Governing tests for constant speed engines and selection of engines for use with 
+
+electrical generators 
+Part VIII Performance tests 
+Part IX Endurance tests 
+Part X Tests for smoke levels, limits and corrections for smoke levels for variable speed 
+
+engines 
+
+Part XI Information required with inquiry or order and information supplied by the manufac- 
+turer with the engine 
+
+Part XII Test certificates 
+
+IS : 10000 ( Part I to XII ) will be complementary to specifications for performance requirements 
+of different types of engines covered by following standards: 
+
+IS : 10001 Specification for performance requirementrfior constant speed compression ignition 
+(diesel ) engines for general purposes (up to 20 kW) 
+
+IS:10002 Specification for performance requirements for constant speed compression ignition 
+( diesel) engines for general purposes (above 20 kW) 
+
+IS;1C0C3 Specification for performance requirements for variable speed compression ignition 
+(jdiesel) engines for automotive purposes 
+
+IS: 10004 Specification for performance jep^uirements for variable'speed spark ignition engines 
+for automotive purposes 
+
+Spark ignition engines for sprayers and similar application have been covered by IS : 7347-1974 
+' Specification for parfarmanca of small size spark ignition engines \ 
+
+Two-stroke spark ignition engines for automotive applications which were earlier covered by 
+IS : 1603 will be covered by a separate specification. 
+
+
+
+18:10001-1981 
+
+This standard, that is, IS :, 10001 has been evolved to help the user to quote the power, specific 
+fuel consumption, lubricating oil consumption, etc, for ordering purposes. On the other hand, it 
+would be useful for the manufacturer to declare the performance of his engine. This standard 
+would be mainly applicable for agricultural pumpsets and other allied fields. The engines for this 
+purpose are expected to be rated for IS Rating A as there is bound to be occasional overloading 
+for agricultural applications. 
+
+In this standard preferred power ratings according to R 20 series ( and R 20/2, R 20/3 derived 
+series ) have been included as it was found that ths engines presently manufactured tended to fall 
+in line with this series. It is desirable that the manufacturers declare the power of their engines 
+from one of the preferred values. 
+
+This standard specifies SFC values for engines which varies with the speed of the engine. 
+While laying down these values the committee has taken cognizance of the capabilities of the 
+engines manufactured in India at present. In view of the need-to conserve fuel and-to improve the 
+efficiency of small diesel engines, the committee has desired that the SFC values should be 
+improved and has laid down the values that the engines are expected to meet after' 1 January 1984. 
+In arriving at these SFC values the committes has envisaged a 5 percent improvement over the 
+present SFC values and these values will be further reduced in case there is evidence that this can 
+be achieved. 
+
+IS : 10001 and IS : 10002 replace IS : 1691 for diesel engines up to 2 kW and above 20 kW, 
+respectively. The category of spark ignition engines for general purposes is not being covered as 
+these types of engines are getting extinct. 
+
+
+
+Reprography Unit, BIS, New Delhi, India 
+
+
+
+AMENDMENT NO. 1 JUNE 1982 
+
+TO 
+
+15:10301-1981 SPECI Fl CATI ON FOR PERFORMANCE 
+REQUIREMENTS FOR CONSTANT SPEED COMPRESSION 
+IGNITION (DIESEL) ENGINES FOR GENERAL 
+PURPOSES (UP TO 20 kW) 
+
+foai^eoda, 
+
+[Page J, clauses 3,i(a), 3. J (b) and c.2{h)] - 
+
+Delete the words 'Section 1 of from these clauses. 
+
+[Page 2, clause 3.J.i(xvii)] - Substitute 
+'CaMhaft' for the word 'Cranksnaft * . 
+
+{Page 3, claused. 2. J^ informal tile, second 
+column^ third entry) - substitute '251.7 5' for '21^1 .75 
+
+(Page 3, clause 5) - Delete the words 'Section 1 
+of from this clause. 
+
+
+
+(E)C 14) 
+
+
+
+Reprography Unit, BIS, New Delhi, India 
+
+
+
+AMENDMENT NO. 2 ' FEBRUARY 1935 
+
+TO 
+
+IS: lOOOM 961 SPCCIF I CAT I ON FOR PERFORMANCE 
+REQU IkE'lENTS FOR CONSTANT SPEED COMPRESSION IGNITION 
+(GICSEL) Elii IKES FOR GENERAL PURPOSES (UP TOZOkb!) 
+
+
+
+(Page 1 ^clause Inline 2) -^ Delete the words 
+'agricultural ana other'. 
+
+{Page 1, cl^zu^e 3.1, first paragraph) • Substitute 
+the folloviiig for the cscistiog: 
+
+*3.1 Type Tests'^ Shall be carried out on engines when 
+first offered and shall also be carried out vhen there 
+is any functional change in design of the engine or its 
+critical caaponent_s listed in 3.1.1. Type tests shall 
+
+include: * 
+
+{Page 1, clause ZA.l, /oret pocragraph) ^ Substitute 
+the follovlr^5 for the existing: 
+
+'3»1.1 The critical components of the engine shall 
+canprise of the folloviig:' 
+
+{Page 3, clauae 4,2J) - Substitute the following 
+for the existii>2;: 
+
+'4.2.1 SFC values in 4.2 shall be valid till 
+1 Ajrill935» After this date the engines shall have 
+the follovias SFC values: 
+
+Bated Engine Speed SFC, Max 
+
+{RevMn ) (g/kWh) 
+
+up to 500 332 
+
+Above 500 up to 1 000 276 
+
+Above 1000 up to 2 000 252 
+
+Above 2 000 30»» 
+
+
+
+(n)c 14) 
+
+
+
+Reprography Unit, BIS, New Delhi, India 
+
+
+
+AMENDMENT NO. 3 MAY 1999 
+
+TO 
+
+IS 10001:1981 SPECIFICATION FOR 
+
+PERFORMANCE REQUIREMENTS FOR CONSTANT 
+
+SPEED COMPRESSION IGNITION (DIESEL) ENGINES 
+
+FOR GENERAL PURPOSES (UP TO 20 kW) 
+
+( Page 3, clause 4.1,1 ) — Substitute the following for the existing: 
+
+'4.1.1 The power determined in 3.3 shall not be less than 97 percent of 
+the declared value.' 
+
+( Page 3, clause 4.2 ) — Substitute the following for the existing: 
+
+'4.2 Specific Fuel Consumption (SFC) — Of engines varies with speed, 
+type of fuel injection and methods of cooling and shall have the following 
+values: 
+
+
+
+Rated Engine Speed 
+(rev/min) 
+
+
+
+
+
+
+SFC, Max 
+
+(g/kwh) 
+
+
+
+
+Direct 1 
+
+
+Injection 
+
+
+Indirect injection 
+
+
+
+
+Air 
+cooled 
+
+
+Water 
+coolec 
+
+
+Air Water 
+1 cooled cooled 
+
+
+Up to 1 000 
+
+
+272 
+
+
+248 
+
+
+294 268 
+
+
+Above 1 000 up to 2 000 
+
+
+276 
+
+
+252 
+
+
+276 252 
+
+
+Above 2 000 
+
+
+309 
+
+
+282 
+
+
+309 282 
+
+
+
+[ Page 3, clause 4JSJ ( see also Amendment No, 2 ) ] — Delete. 
+(HMD 19) 
+
+
+
+Reprography Unit, BIS, New E>€lht, India 
+
+
+
+AMENDMENT NO. 4 MAY 2002 
+
+TO 
+
+IS 10001:1981 SPECIIICATION FOR PERI ORMANCE 
+
+REQUIREMENTS FOR CONSTANT SPEED 
+
+COMPRESSION IGNITION (DIESEL) ENGINES FOR 
+
+GENERAL PURPOSES (UP TO 20 kW) 
+
+( Page 2, clause 3,5 ) — Insert the following new clause after 3*5: 
+
+3,6 Routine Production Acceptance Test 
+
+3-6-1 For routine production acceptance test, the rating test shall be of 8-hour 
+juration on a well-run-in engine as per details given below: 
+
+3.6J,i Engine of IS rating A — Seven hours of continuous run at rated full load 
+;4i the rated' speed to be followed immediately by one hour run at 10 percent 
+uvcrioad as specified in IS lOOOO (Part IV): 1980. 
+
+3,6.1,2 Engine of IS rating B — Eight hours of continuous run at the rated 
+%0tcd and rated full load without subjecting the engine to any overload as 
+^Dccified in IS 10000 { Part IV ) : 1980. 
+
+3.6.2 The fuel ccxisumption test shall be done as per il3(b) dCIS 10000 ( Part VIIl ) 
+
+; 1980. 
+
+3*6.3 The governing test shall be done as per IS 10000 (Part VII): 1980. 
+
+3.6.4 The fuel consumption test and governing test shall be carried out only 
+alter the 8-hour rating test has been completed. The sequence of fuel 
+consumption test and governing test may be interchanged depending on the 
+convenience for testing. 
+
+
+
+(TED 9) 
+
+
+
+Reprography Unit, BIS, New Dcihi, India 
+
+
+
+AMENDMENT NO. 5 DECEMBER 2005 
+
+TO 
+
+18 10001:1981 SPECIFICATION FOR 
+
+PERFORMANCE REQUIREMENTS FOR CONSTANT 
+
+SPEED COMPRESSION IGNITION (DIESEL) ENGINES 
+
+FOR GENERAL PURPOSES (UP TO 20 kW) 
+
+( Page 1, clause 3.1,1, first line ) — Substitute the following for the 
+existing: 
+
+'3,1.1 In case any functional change in the design of the following critical 
+components of the engine is made, the test shall be carried out according to 
+
+IS 10000( Part 13): 2002:' 
+
+
+
+(TED 2) 
+
+
+
+Reprography Unit, BIS, New Delhi, India 
+
+
+
+AMENDMENT NO. 6 NOVEMBER 2010 
+
+TO 
+
+IS 10001 : 1981 SPECIFICATION FOR 
+
+PERFORMANCE REQUIREMENTS FOR 
+
+CONSTANT SPEED COMPRESSION IGNITION (DIESEL) 
+
+ENGINES FOR GENERAL PURPOSES 
+
+(UP TO 20 kW) 
+
+{Page 1, Title) — Substitute '(UP TO 19 kW)'/or '(UP TO 20 kW)'. 
+
+{Page 1, clause 1) — Substitute 'up to 19 kW for 'up to 20 kW\ 
+
+
+
+(TED 2) 
+
+
+
+ic/- 
+
+
+
+^ Reprography Unit, BIS, New Delhi, India 
+
+
+

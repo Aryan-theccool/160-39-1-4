@@ -1,0 +1,823 @@
+**************** 
+
+
+
+
+Disclosure to Promote the Right To Information 
+
+Whereas the Parliament of India has set out to provide a practical regime of right to 
+information for citizens to secure access to information under the control of public authorities, 
+in order to promote transparency and accountability in the working of every public authority, 
+and whereas the attached publication of the Bureau of Indian Standards is of particular interest 
+to the public, particularly disadvantaged communities and those engaged in the pursuit of 
+education and knowledge, the attached public safety standard is made available to promote the 
+timely dissemination of this information in an accurate manner to the public. 
+
+
+
+
+Mazdoor Kisan Shakti Sangathan 
+"The Right to Information, The Right to Live" 
+
+
+
+IS 10050 (1981) : Method for determination of slake 
+durability index of rocks [CED 48: Rock Mechanics] 
+
+
+
+
+Jawaharlal Nehru 
+'Step Out From the Old to the New' 
+
+
+
+■K^y / 1 juaaaws^fea rs^^TTF^ 
+
+
+
+2*S< W I *>S*V2^NK^ 
+
+
+
+^frcvvv^ 
+
+
+
+Satyanarayan Gangaram Pitroda 
+Invent a New India Using Knowledge 
+
+
+
+?TR TJ^ ^TT teMHI | ^t ^Wt ^m\ ^f ^TT ^T^?TT \' 
+
+Bhartrhari — Nitisatakam 
+"Knowledge is such a treasure which cannot be stolen" 
+
+
+
+
+.^^_ 
+
+
+
+• 
+
+
+
+
+BLANK PAGE 
+
+
+
+*rt*2V^ 
+
+
+
+
+
+PROTECTED BY COPYRIGHT 
+
+
+
+JS : 10050 - 1931 
+
+(Reaffirmed 2001) 
+
+Indian Standard 
+
+METHOD FOR W 
+
+DETERMINATION OF SLAKE DURABILITY 
+
+INDEX OF ROCKS 
+
+
+
+UDC fi24-|31'537 
+
+
+
+
+© Copyright £982 
+INDIAN STANDARDS INSTITUTION 
+
+MANAK BKAVAN, 9 BAHADUR SHAH ZAFAA MARG 
+
+NEW DELHI I100Q3 
+
+
+
+
+
+
+A/awA 1982 
+
+
+
+IS: 10050 -1981 
+
+Indian Standard 
+
+METHOD FOR 
+
+DETERMINATION OF SLAKE DURABILITY 
+
+INDEX OF ROCKS 
+
+Soil Engineering and Rock Mechanics Sectional Committee, BDC 23 
+
+Chairman Representing 
+
+Dr Jagdish Narain University of Roorkee, Roorkee 
+
+Members 
+
+Additional Director, Research Ministry of Railways 
+( FE ), RDSO 
+Deputy Director Research 
+
+( Soil-Mech ), RDSO ( Alternate ) 
+Shri P. D. Agarwal Public Works Department, Government of Uttar 
+
+Pradesh, Lucknow 
+Dr B. L. Dhawan ( Alternate ) 
+Prof Alam Singh University of Jodhpur, Jodhpur 
+
+Col Avtar Singh Engineer-in-Chief 's Branch, Army Headquarters 
+
+(i Ministry of Defence ) 
+Lt-Col V. K. Kanitkar ( Alternate ) 
+Chief Engineer ( D & R ) Irrigation Department, Government of Punjab, 
+
+Chandigarh 
+Dr G. S. Dhillon ( Alternate ) 
+Shri M. C. Dandavate The Concrete Association of India, Bombay 
+
+Shri N. C. Duggal ( Alternate ) 
+Shri A. G. Dastidar In personal capacity {5 Hunger ford Street, 12\1 Hunger- 
+
+ford Court, Calcutta 700017) 
+Dr G. S. Dhillon Indian Geotechnical Society, New Delhi 
+
+Director, IRI Irrigation Department, Government of Uttar 
+
+Pradesh, Roorkee 
+Shri A. H. Divanji Asia Foundations and Construction (P) Ltd, Bombay 
+
+Shri A. N. Jangle {Alternate) 
+Dr Gopal Ran jan Institution of Engineers ( India ), Calcutta 
+
+Dr Gopal Ranjan University of Roorkee, Roorkee 
+
+Shri S. Gupta Cemindia Co Ltd, Bombay 
+
+Shri N. V. De Souza ( Alternate ) 
+Shri G. S.Jain G. S.Jain & Associates, Roorkee 
+
+Shri Vijav K. Jain ( Alternate ) 
+
+( Continued on page 2 ) 
+
+
+
+© Copyright 1982 
+
+INDIAN STANDARDS INSTITUTION 
+
+This publication is protected under the Indian Copyright Act ( XIV of 1957 ) and 
+
+reproduction in whole or in part by any means except with written permission of the 
+
+publisher shall be deemed to be an infringement of copyright under the said Act. 
+
+
+
+IS : 10050 - 1981 
+
+( Continued from page 1 ) 
+
+Members Representing 
+
+Shri A. B.Joshi Central Water Commission, New Delhi 
+
+Dy Director ( CSMRS ) ( Alternate ) 
+Col M. V. Kayerkar Ministry of Defence (R&D) 
+
+Shri V. B. Ghorpade ( Alternate ) 
+Shbi O. P. Malhotra Public Works Department, Chandigarh Adminis- 
+
+tration, Chandigarh 
+Shri D. R. Narahari Central Building Research Institute ( CSIR ), 
+
+Roorkee 
+Shej B. G« Rao ( Alternate ) 
+Shri T. K, Natrajan Central Road Research Institute, New Delhi 
+
+Dr G. V. Rao Indian Institute of Technology, New Delhi 
+
+Dr K. K. Gupta ( Alternate ) 
+Research Officer ( B & RRL ) Public Works Department, Government of Punjab, 
+
+Chandigarh 
+Shri K. R. Saxena Engineering Research Laboratories, Government of 
+
+Andhra Pradesh, Hyderabad 
+Secretary Central Board of Irrigation & Power, New Delhi 
+
+Dy Secretary ( Alternate ) 
+Shri N. Sivaguru Roads Wing ( Ministry of Shipping and Transport ) 
+
+Shri D, V. Sikka ( Alternate ) 
+Shri K. S. Srinivasan National Buiidings Organization, New Delhi 
+
+Shri Stjnil Berry ( Alternate ) 
+Shri N. Subramanyam Karnataka Engineering Research Station, Krishna- 
+
+rajasagar 
+Superintending Engineer Public Works Department, Government of Tamil 
+
+( P & D ) Nadu, Madras 
+
+Executive Engineer ( SMRD ) ( Alternate ) 
+Shri G. Raman, Director General, ISI ( Ex-officio Member ) 
+
+Director ( Civ Engg ) 
+
+Secretary 
+
+Shri K. M. Mathur 
+Deputy Director ( Civ Engg ), ISI 
+
+
+
+Rock Mechanics Subcommittee, BDG 23 : 5 
+
+Convener 
+Dr B. Singh Central Mining Research Station, Dhanbad 
+
+Members 
+Shri A. K. Dure ( Alternate to 
+Dr B. Singh ) 
+Shri Amah Singh Central Building Research Institute ( CSIR ), 
+
+Roorkee 
+Shri Chandra Prakash ( Alternate ) 
+Vrof Bhawani Singh University of Roorkee, Roorkee 
+
+Director ( CSMRS ) Central Soil Mechanics Research Station, New 
+
+Delhi 
+Director ( CW & PRS ) Central Water & Power Research Station, Pune 
+
+Shri S. L. Mokhashi ( Alternate ) 
+
+( Continued on page 1) 
+
+
+
+IS : 10050 - 1981 
+
+Indian Standard 
+
+METHOD FOR 
+
+DETERMINATION OF SLAKE DURABILITY 
+
+INDEX OF ROCKS 
+
+0- FOREWORD 
+
+0.1 This Indian Standard Was adopted by the Indian Standards Institution 
+on 24 December 1981, after the draft finalized by the Soil Engineering 
+and Rock Mechanics Sectional Committee had been approved by the 
+Civil Engineering Division Council. 
+
+0,2 A number of Indian Standards covering method of test to assess 
+various properties of rocks are being formulated. This standard covers 
+the property of durability of rock which is best used for comparing one 
+rock with another on the basis of their respective slake- durabilities. 
+
+0.3 In reporting the results of a test or analysis made in accordance 
+with this standard, if the final value, observed or calculated, is to be 
+rounded off, it shall be done in accordance with IS : 2-1960*, 
+
+
+
+1. SCOPE 
+
+1.1 This test is intended to assess the resistance offered by a rock sample 
+to weakening and disintegration when subjected to two standard cycles 
+of drying and wetting in a slaking fluid usually water. 
+
+Note — Acids, sea water or corrosive ground water could also be used. 
+
+2, TERMINOLOGY 
+
+2.0 For the purpose of this standard, the following definition shall 
+apply. 
+
+2.1 Slaking Fluid — The fluid used in slake durability test is termed 
+as slaking fluid. Tap water at 20°C, approximating to normal ambient 
+temperature is specified for the test. 
+
+
+
+♦Rules for rounding off numerical values ( revised), 
+
+3 
+
+
+
+IS : 10050 - 1981 
+
+
+
+3. APPARATUS — ( see Fig. 1 ). 
+
+—100mm — 
+
+
+
+UOmm 
+
+
+
+40 mm 
+
+
+
+
+-FLUID LEVEL 
+
+
+
+•7-r7-ry s s / s s s jsssjjjt. 
+
+
+
+
+Fig. 1 Line Diagram of Slake-Durability Test Apparatus 
+
+3.1 The test drum shall be made from a 2*0 mm wire mesh of unobstruc- 
+ted length of 100*0 mm and diameter 140 mm with a solid fixed base. 
+The drum shall be able to withstand a temperature of 105°C. The drum 
+shall have solid removable lid. The drum shall be sufficiently strong to 
+retain its shape during use, but neither the exterior of the mesh nor the 
+interior of the drum should be obstructed, by reinforcing members. 
+
+3.2 A trough, to contain the test drum supported with its axis horizontal 
+in a manner allowing rotation, capable of being filled with a slaking fluid, 
+such as water, to a level 20 mm below the drum axis. The drum shall 
+be mounted to allow 40 mm unobstructed clearance between the trough 
+and the base of the mesh. 
+
+3.3 A motor drive, capable of rotating the drum at a speed of 20 rev/ 
+min, the speed to be held constant to within 5 percent for a period of 
+
+1.0 minutes. 
+
+3.4 An oven, capable of maintaining a temperature of 105 ± 5°C for a 
+period of at least 12 hours. 
+
+3.5 A balance, capable of weighing the drum plus sample to an accuracy 
+of 0*5 g. 
+
+4* TEST PROCEDURE 
+
+4.1 A representative sample comprising ten rock lumps should be selected, 
+each weighing 40-60 g to give a total sample weight of 400-600 g. 
+Lumps should be roughly spherical in shape and corners should be 
+rounded off during preparation. 
+
+
+
+IS : 10050 - 1981 
+
+4.2 The sample shall be placed in clean drum and dried to constant 
+weight at a temperature of 105 ± 5°C. The weight A of the drum 
+plus sample shall be recorded. The sample should then immediately 
+be used for testing purposes. 
+
+4.3 The lid shall be then placed, the drum mounted in the trough and 
+coupled to the motor. 
+
+4.4 The trough shall be filled with slaking fluid, usually tap water at 
+20°C, to a level of 20 mm below the drum axis, and the drum rotated 
+at 20 rev/min for a period of 10 minutes. 
+
+4.5 The drum shall be removed from the trough and the lid removed 
+from the drum. The drum plus retained portion of sample shall be 
+dried to constant weight at 105 ± 5°C. The weight B of the drum plus 
+retained portion of the sample shall be recorded. 
+
+4.6 The test shall be repeated as in 4.4 and 4.5 for a further period of 
+10 minutes. The weight C of the drum plus retained portion of the 
+sample shall be recorded. 
+
+4.7 The drum shall then be brushed clean and its weight D recorded. 
+
+5. CALCULATION 
+
+5.1 The slake-durability index ( second cycle ) is calculated as percen- 
+tage ratio of final to initial dry sample weights as follows: 
+
+C — D 
+Slake-durability Index ( I d% ) = -j—y X 100 
+
+percent 
+
+6. REPORTING OF RESULTS 
+
+6.1 The report shall include the following information for each sample 
+tested: 
+
+a) The slake-durability index ( second cycle ) to nearest 0*1 percent; 
+
+and 
+
+b) The nature and temperature of the slaking fluid, usually tap 
+water at 20°C. 
+
+6.1.1 If required additional information for details of fragments 
+retained in the drum and material passing through the drum may also be 
+given. 
+
+6.2 A tentative sub-division of the slake-durability scale may be used 
+for classification as given in Table 1 . 
+
+
+
+IS : 10050 - 1981 
+
+
+
+TABLE 1 TENTATIVE SUB-DIVISION OF SLAKE-DURABILITY SCALE 
+
+
+( Clause 6.2 ) 
+
+
+
+
+Slake-Dtjkability I& 
+
+
+Classification 
+
+
+Percent 
+
+
+
+
+0-25 
+
+
+Very low 
+
+
+Over 25-50 
+
+
+Low 
+
+
+Over 50-75 
+
+
+Medium 
+
+
+Over 75-90 
+
+
+High 
+
+
+Over 90-95 
+
+
+Very high 
+
+
+Over 95-100 
+
+
+Extremely high 
+
+
+
+6»3 The second cycle slake- durability index, calculated as in 5, with tap 
+water at 20°C, is proposed for use in rock classification. However, sample 
+with second cycle indexes from to 10 percent should be further 
+characterized by their first cycle slake-durability indices as follows: 
+
+Slake- durability Index ( First-cycle ) Id\ £ _ £> 
+
+percent = . _ ~ - X 100 
+
+
+
+IS : 10050 - 1981 
+
+( Continued from page 2 ) 
+
+Members Representing 
+
+Prof B. K. Kaul Kurukshetra University, Kurukshetra 
+
+Shri M. D. Naib Associated Instrument Manufacturers ( India ) 
+
+Private Limited, New Delhi 
+Prof T. S. Nag aii a j ( Alternate ) 
+Shsi P. L. Nartxla Geological Survey of India, Calcutta 
+
+Dr Y. V. Ramana National Geophysical Research Institute, Hyderabad 
+
+Da T. Rahamuethi Indian Institute of Technology, New Delhi 
+
+Research Officer, SRPD, Irrigation Department, Government of Maharashtra, 
+
+MERI Bombay 
+
+Secretary Central Board of Irrigation & Power, New Delhi 
+
+Deputy Secretary ( Alternate ) 
+
+
+
+INTERNATIONAL SYSTEM OF UNITS ( SI UNITS ) 
+Base Units 
+
+
+
+Quantity 
+
+
+Unit 
+
+
+Symbol 
+
+
+
+
+Length 
+
+
+metre 
+
+
+m 
+
+
+
+
+Mass 
+
+
+kilogram 
+
+
+kg 
+
+
+
+
+Time 
+
+
+second 
+
+
+6 
+
+
+
+
+Electric current 
+
+
+ampere 
+
+
+A 
+
+
+
+
+Thermodynamic 
+
+
+kelvin 
+
+
+K 
+
+
+
+
+temperature 
+
+
+
+
+
+
+
+
+Luminous intensity 
+
+
+candela 
+
+
+cd 
+
+
+
+
+Amount of substance 
+
+
+mole 
+
+
+mcl 
+
+
+
+
+Supplementary Units 
+
+
+
+
+
+
+
+
+Quantity 
+
+
+Unit 
+
+
+Symbol 
+
+
+
+
+Plane angle 
+
+
+radian 
+
+
+rad 
+
+
+
+
+So] id angle 
+
+
+fteradian 
+
+
+sr 
+
+
+
+
+Derived Units 
+
+
+
+
+
+
+
+
+Quantity 
+
+
+Unit 
+
+
+Symbol 
+
+
+Definition 
+
+
+Force 
+
+
+newcon 
+
+
+N 
+
+
+i N « i kg. m/s £ 
+
+
+Energy 
+
+
+joule 
+
+
+J 
+
+
+1 J - 1 N.m 
+
+
+Power 
+
+
+watt 
+
+
+W 
+
+
+1 W-1J/. 
+
+
+Flux 
+
+
+weber 
+
+
+Wb 
+
+
+i wb - i v.s 
+
+
+Flux density 
+
+
+cesla 
+
+
+T 
+
+
+1 T ~ J Wb/m 2 
+
+
+Frequency 
+
+
+hertz 
+
+
+Hs 
+
+
+1 Hz «- 1 c/s (a" 1 ) 
+
+
+Electric conductance 
+
+
+Siemens 
+
+
+S 
+
+
+1 S « 1 A/V 
+
+
+Electromotive force 
+
+
+volt 
+
+
+V 
+
+
+1 V - 1 W/A 
+
+
+Pressure, stress 
+
+
+pascal 
+
+
+Pd 
+
+
+1 Pa i 1 N/m 2 
+
+
+

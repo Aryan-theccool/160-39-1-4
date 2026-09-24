@@ -1,0 +1,1060 @@
+**************** 
+
+
+
+
+Disclosure to Promote the Right To Information 
+
+Whereas the Parliament of India has set out to provide a practical regime of right to 
+information for citizens to secure access to information under the control of public authorities, 
+in order to promote transparency and accountability in the working of every public authority, 
+and whereas the attached publication of the Bureau of Indian Standards is of particular interest 
+to the public, particularly disadvantaged communities and those engaged in the pursuit of 
+education and knowledge, the attached public safety standard is made available to promote the 
+timely dissemination of this information in an accurate manner to the public. 
+
+
+
+
+Mazdoor Kisan Shakti Sangathan 
+"The Right to Information, The Right to Live" 
+
+
+
+IS 10001 (1981) : Performance requirements for constant 
+speed compression ignition (diesel) engines for general 
+purposes (up to 20 kW) (Hindi Edition) [TED 2: Automotive 
+Primemovers] 
+
+
+
+
+Jawaharlal Nehru 
+'Step Out From the Old to the New' 
+
+
+
+a^v j i iw&*<m&a rsi>frgamsBP 
+
+
+
+2*S< W I *>S*V2^NK^ 
+
+
+
+^frcvvv^ 
+
+
+
+Satyanarayan Gangaram Pitroda 
+Invent a New India Using Knowledge 
+
+
+
+Bhartrhari — Nitisatakam 
+"Knowledge is such a treasure which cannot be stolen" 
+
+
+
+
+.^^_ 
+
+
+
+• 
+
+
+
+
+BLANK PAGE 
+
+
+
+*rt*2V^ 
+
+
+
+
+
+PROTECTED BY COPYRIGHT 
+
+
+
+IS : 10001 - 1981 
+
+( 3?^Nft £r 3Rfk?r ) 
+
+
+
+m*FQ SWfciFT % fat? *m*Tfa SPfte* 5*pT (sta?f) t^ftf 
+
+(20 farr <fp) ^t ^R^rRcTf srorretf ^t faferfta: 
+
+( ^ siteR *rcm 1 afk 2 Hmfaes ) 
+
+
+
+3. ft. tft. 621-436018-6 
+
+
+
+© srfafa^fepFR 1990 
+
+ft froft 110002 
+
+fpH** 3 ^ 1«>90 
+
+
+
+AMENDMENT NO. 1 JUNE 1982 
+
+TO 
+
+IS: 10301 -1981 SPECIFICATION FOR PERFORMANCE 
+REQUIREMENTS FOR CONSTANT SPEED COMPRESSION 
+IGNITION (DIESEL) ENGINES FOR GENERAL 
+PURPOSES (UP TO 20 kU) 
+
+Corrigenda 
+
+[Page 1, clauses 3. 2(a), 3, 1 (b) and c.l(h)} - 
+
+Delete the words 'Section 1 of from these clauses. 
+
+[Page 2, clause 3.1.1{xvii)} - Substitute 
+'Camshaft' for the word 'CranKcr.aft ' . 
+
+(Page 3, clause 4 .2.1 $ infortrul tile, second 
+column, third entry) - Substitute ' 251. 75' for '2U\. 75* 
+
+[Page 3, clause 5) - Delete the words 'Section 1 
+of from this clause. 
+
+
+
+(E)C 14) 
+
+
+
+Reprography Unit, BIS, New Delhi, India 
+
+
+
+AMENDMENT NO. 2 "fEtftUARY 193S 
+
+TO 
+
+IS: 10001-1961 SPCCIF ICATION FOR PERFORMANCE 
+KEQU IkMENTS FOR CONSTANT SPEED COMPRESSION IGNITION 
+(GICSEL) EUG IKES FOR GENERAL PURPOSES (UP T0 20kb!) 
+
+
+
+(Page 1 p clause Inline 2) ~ Delete the words 
+'agricultural ana other'. 
+
+{Page 1, cl-zuve 3.1, first paragraph) . Substitute 
+the following for the existing: 
+
+'3.1 Type Tests- Shall be carried out on engines when 
+first offered and shall also be carried out vhen there 
+is any functional change in design of the engine or its 
+critical components listed in 3.1.1. Type tests shall 
+
+include: ' 
+
+{Page l,clause Z .1 A , first paragraph) - Substitute 
+the following for the existing: 
+
+•3.1.1 The critical components of the engine shall 
+comprise of the following:' 
+
+(Page 3, clause 4.2.1) - Substitute the following 
+for the existing: 
+
+'4.2.1 SPC values in 4.2 shall be valid till 
+1 Ajrill$>35* After this date the engines shall have 
+the following SFC values: 
+
+
+
+Hated Engine Speed 
+(Rev/Min ) 
+
+
+SFC, Max 
+(g/kWh) 
+
+
+up to 500 
+
+Above 500 up to 1 000 
+Above 1000 up to 2 000 
+Above 2 000 
+
+
+332 
+276 
+252 
+309" 
+
+
+14) 
+
+
+
+
+
+Reprography Unit, BIS, New Delhi, India 
+
+
+
+AMENDMENT NO. 3 MAY 1999 
+
+TO 
+
+IS 10001 : 1981 SPECIFICATION FOR 
+
+PERFORMANCE REQUIREMENTS FOR CONSTANT 
+
+SPEED COMPRESSION IGNITION (DIESEL) ENGINES 
+
+FOR GENERAL PURPOSES (UP TO 20 kW) 
+
+( Page 3, clause 4.1.1 ) — Substitute the following for the existing: 
+
+'4.1.1 The power determined in 3.3 shall not be less than 97 percent of 
+the declared value.' 
+
+( Page 3, clause 4.2 ) — Substitute the following for the existing: 
+
+'4.2 Specific Fuel Consumption (SFC) — Of engines varies with speed, 
+type of fuel Injection and methods of cooling and shall have tho following 
+values: 
+
+Rated Engine Speed SFC, Max 
+
+(rev/min) (g/kwh) 
+
+Direct Injection Indirect Injection 
+
+
+
+
+
+Air 
+
+
+Water 
+
+
+Air 
+
+
+Water 
+
+
+
+
+cooled 
+
+
+cooled 
+
+
+cooled 
+
+
+cooled 
+
+
+Up to 1 000 
+
+
+272 
+
+
+248 
+
+
+294 
+
+
+268 
+
+
+Above 1 000 up to 2 000 
+
+
+276 
+
+
+252 
+
+
+276 
+
+
+252 
+
+
+Above 2 000 
+
+
+309 
+
+
+282 
+
+
+309 
+
+
+282 
+
+
+
+[ Page 3, clause 4.2.1 ( sec also Amendment No. 2 ) J — Delete. 
+( HMD 19) 
+
+
+
+Reprography Unit, BIS, New Delhi, India 
+
+
+
+AMENDMENT NO. 4 MAY 2002 
+
+TO 
+
+IS 10001 : 1981 SPECIFICATION FOR PERFORMANCE 
+
+REQUIREMENTS FOR CONSTANT SPEED 
+
+COMPRESSION IGNITION (DIESEL) ENGINES FOR 
+
+GENERAL PURPOSES (UP TO 20 kW) 
+
+( Page 2, clause 3.5 ) — Insert the following new clause after 3.5: 
+3.6 Routine Production Acceptance Test 
+
+3.6.1 For routine production acceptance test, the rating test shall be of 8-hour 
+duration on a well-run-in engine as per details given below: 
+
+3.6.1.1 Engine of IS rating A — Seven hours of continuous run at rated full load 
+ui the rated speed to be followed immediately by one hour run at 10 percent 
+overload as specified in IS 10000 (Part IV): 1980. 
+
+3.6.1.2 Engine of IS rating B — Eight hours of continuous run at the rated 
+.speed and rated full load without subjecting the engine to any overload as 
+shifted in IS 10000 ( Part IV ) : 1980. 
+
+3.6.2 The fuel consumption test shall be done as per 2.13(b) dCIS 10000 ( Part VJU ) 
+;. 1980. 
+
+3-6.3 The governing test shall be done as per IS 10000 (Part VII): 1980. 
+
+3.6.4 The fuel consumption test and governing test shall be carried out only 
+a iter the 8- hour rating test has been completed. The sequence of fuel 
+consumption test and governing test may be interchanged depending on the 
+convenience for testing. 
+
+
+
+( TED 9 ) 
+
+
+
+Reprography Unit, BIS. New Delhi, India 
+
+
+
+AMENDMENT NO. 5 DECEMBER 2005 
+
+TO 
+
+IS 10001 : 1981 SPECIFICATION FOR 
+
+PERFORMANCE REQUIREMENTS FOR CONSTANT 
+
+SPEED COMPRESSION IGNITION (DIESEL) ENGINES 
+
+FOR GENERAL PURPOSES (UP TO 20 kW) 
+
+( Page I, clause 3.1.1, first line ) — Substitute the following for the 
+existing: 
+
+'3.1.1 In case any functional change in the design of the following critical 
+components of the engine is made, the test shall be carried out according to 
+IS 10000 (Part 13 ) : 2002:' 
+
+
+
+( TED 2 ) 
+
+
+
+Reprography Unit, BIS. New Delhi, India 
+
+
+
+IS : 10001 - 1981 
+
+
+
+
+
+
+i I? 
+
+
+
+
+
+
+CO 
+
+
+
+"t-lur 
+
+
+
+IP 
+
+
+
+If 
+
+
+
+I 
+
+
+
+inrrfor hm* 
+
+
+
+tfPTFJT SW^FT # fa^ *Wlfd 3<ft3T SfpT (Steffi) i 3R? 
+(20 ^T <ffi) ^ *l4*lRcff SITOTRCff *ft fa%fe 
+
+
+
+( wftaf ihwt l sflr 2 WRrrfro ) 
+
+
+
+( IS Vbr ^ ) wv * s*rnfa ^frtr*r *^ ( fm* ) 
+
+l) TTgiJH ^TWT 3PWT TTgTFT ^HW VT*ff % 
+
+fin? <**, «ftr 
+
+2. qfturonf— is : loooo ( *mr i )-i980 
+srcrc?$ faff *■ Tflem <nrfirat, trm l Tftsrr 
+q^ftrot srwrfara stsst^, $ *r «rf qfomn? *tt$ 
+
+3. <rfta«t — Oft «ft vnhnPwT itrt *t* % firs 
+<rtta*r Pftt ^rrtf i ^r <rftopr <rft^r fttjftref * f%<r. 
+arrif i qftftr fafa*rt IS : loooo ( *nr 2 ) - 1980 
+ar^nr^t tanf «ft TTtero ^ifiraf, srrrr 2 jtpt^ 
+tfrt fttfWf Ir Sft £r i *rfa> aftr ^r <rft«n>fJ % 
+tfTTT 5TTS *ft t^ *rfa» sftr artftw PFT ORS *tt 
+fpnifora, s^roto yw [ Wf is : loooo 
+( *rm 4 ) - 1980 3ftrcf# s'^rcf # <rtforo <rs- 
+ftnrt; wt 4 tptt $r»rm <** fw, *ta: i*p fcr 
+«w ] ft *re v? ** qftSrtr arwrril is : loooo 
+
+( HPT 2 ) - 1980 'sRPrf^ iapff tf «rft«PT <T*- 
+
+ftprf, wr 2 th* *tetf swrnF *f fafoz mro 
+
+
+
+3.1 ?rri q^«fm — ^ TctaT ^r tt ^r ^nr^ 
+fat* ^rr^f ^snr ^? ^T5r% <r^% qft^^ % firq ^ fw 
+
+TUT ?ft aftT ^ *PTT 3W ^'3PT ^t fefTT^T *T «Ptf 
+, I^c^r *TfTT^T f^m TTT ^t 3TTTT 9V 3.1.1 ^ for 
+
+V) IS: 10000 ( HTT5 ) - 1980 afwtf$ 
+fir^ ^TRt 3ftT faffT* TPPT % 3T5TTT 
+
+
+
+IS : 10000 (irm 5) 
+
+
+
+1980 % 3?5TTT 
+
+
+
+it) IS : 10000 ( urc 8 ) • 1980 % anrcfif 
+<vfl ^V Tftw qtftrirt, mi 8 ^T?T- 
+
+v&m t 
+
+W) IS : 10000 ( *THT 7 ) - 1980 % ar?jmT 
+
+f) IS : 10000 ( WT9 ) - 1980 afarfft 
+?3Rf ^ qrftJfTOT T^rfiRTf, *TTT 9 Sism 
+
+Tft^T, % 3{?r^n; ^?tt t$ot i 
+
+
+
+26^TTTt 1981 
+
+
+
+€> f^T< 1990 
+TT TT ^[Tt 
+
+
+
+T?IT TT 3 
+
+
+
+»TTfi^ «R?T, 9 5TjrF|7W 3TOT HPT 
+
+?rf fe^fV 1 10002 
+
+
+
+IS : 10001 - 1981 
+
+
+
+<r 
+
+
+) IS : 10000 ( ifPT 7 ) - 1980 % appTTC 
+
+
+
+
+«TTfl qftom 1 
+
+
+9 
+
+
+) IS : 10000 ( %m 8 ) - 1980 * arjSTT 
+
+
+
+
+3rf?^T VrwfaftT TfttPTT I 
+
+
+* 
+
+
+) is : ioooo ( *w 6 ) - 1980 f aftnrf# 
+
+
+
+
+s'sr! * q-ftaor <T3fa*rf , frnr 6 qftero 
+
+
+
+
+<TfT«iro fafnrs *tt¥ % arprc arfo* 
+
+
+
+
+faftOT »rtta*r 1 
+
+
+3.1.1 
+
+
+T3PT % T$??P$af $? frsJTfafaRT ^Pt: 
+
+
+1) 
+
+
+faf*T¥T |»; 
+
+
+2 ] 
+
+
+♦v far; 
+
+
+3) 
+
+
+farfar** **rw; 
+
+
+4) 
+
+
+faftriT msrc; 
+
+
+5) 
+
+
+afcPfa aftT farm *tpt; 
+
+
+*) 
+
+
+wt?* *rr*3; 
+
+
+7) 
+
+
+Tfo* «rnf; 
+
+
+*) 
+
+
+*te; 
+
+
+9) 
+
+
+f«WT; 
+
+
+10) 
+
+
+fwr fm; 
+
+
+>0 
+
+
+T^r^r far; 
+
+
+12) 
+
+
+tfifaft wr ( v#Fsr:»t t>* ); 
+
+
+13) 
+
+
+*N wt«rt; 
+
+
+14) 
+
+
+ijiq- 3taft*r; 
+
+
+15) 
+
+
+ffifaft 3? % ftr^ art sftr an% ^rftr aftr 
+
+
+
+
+sfc str m$ jvt; 
+
+
+16) 
+
+
+ir«ft*f ^? % *t*t% 3^t finrPwt 
+
+
+17) 
+
+
+to *rra f to afa «wfww ( zitfm ) farcr; 
+
+
+18) 
+
+
+wrc* «P*TTf^^t aftr srr$ qnrrPnrt ( ^^t <ft 
+
+
+
+
+^fff ); 
+
+
+19) 
+
+
+<tyjT, 3f?r:«?«m ( &*m ) % ^?^t *% 
+
+
+
+
+iv* wxmw ( *%*?rc ) % <t*<t afk ts^t 
+
+
+
+
+*t* <rm; 
+
+
+20) 
+
+
+*^T ^T W 
+
+
+21) 
+
+
+tffa *T* *T% fa**; 3T>T 
+
+
+22) 
+
+
+to^t *nr; 
+
+
+
+3.1.2 lift arftfa* <tsR srq-ff, *rfa>, nfa ^inft $% 
+tftfaff Tfwff if <TfT*<fa fft eft ^ ^^f Tftqrfo 
+jtrt 3TTq aft* ^ft ftirftrot 3 t*# tt st*<t tOot* 
+5«fTTT fart ^srnr | 
+
+3.2 fiw ww q^taro — f^r^T ww sr^rerT <rftwir 
+% srre*tr Sr ark arf?<PT vwvrfarr qrftsrr * tf *r 
+irrft *n? 3tVt is : ioooo ( %mr 4 ) - 1980 % 
+
+
+
+3.3 v*r fft srfas arfwr vifaiftfli <rftwr % ttKPi 
+
+5TW * *n$ artT IS : IOOOO ( %tm 4 ) - 1980 
+
+% sr^^nn l % 9T5^r «ftf«w * amj i 
+
+3.4 *tf*V »| ifa*W T IS : IOOOO ( %m 4 ) - 
+1980 % ar^nm l $ faft«£ <r*fa «i? acjtfTT *w 
+
+3.5 t^^ft % 3TT^T «rthff"T VT tt % T^TO tjr^f dr% 
+
+?pt ftnT gn^: 
+
+3.5.1 IS : IOOOO ( *PT 8 ) - 1980 % 3T3*HT 2 
+
+3.5.2 IS : IOOOO ( inn 7 ) - 1980 % arjHTT 
+
+3.5.3 fBR WV& 'rthffT ( W 3.2 ) I 
+
+3.5.4 qrsrx 1TT3 ^JTTT ( HF 3.3 ) I 
+
+3.5.5 IS : IOOOO ( WT 4 ) - 1980 % «rjmr 
+
+firwr«ft — <rfta«r ^ gf^TT ^ it^ttt T^sfT T^Vwr ar>T 
+
+4.1 qT^t — iw *■ Tr^nc ft?^r * *Rw ift ^t^ i 
+^Rrt 3if«RTfor ftr?rr ^fei PrRftrfro |: 
+
+08 20 45 10 
+
+10 224 50 IT2 
+
+112 2'5 56 12 5 
+
+1*25 28 6'3 14 
+
+1*4 315 71 16 
+
+1-6 3'55 8 18 
+
+18 40 9 20 
+
+4.1.1 *f* 3.3 $ *rm ^ n< <n*r, ^tfiwr kr % ^ 
+srfasra & vr «r ^t i 
+
+4.2 WfT^ftfV fw WW — *RT * ar^ftPF <OT 
+5r*qrer to* <Tfa «l? srynr ^«ft | etk ^r% jtr 
+fsr^Tftrftra' t : 
+
+( ^frr/ft^ ) ( *T/fa*T «r ) 
+
+500 ov 350 
+
+500 ?T 3Tf«V «ftT 1 000 TO 290 
+
+1 000 It arftpfr 8T>T 2 000 ?Mf 265 
+
+2 000 % arftpp 325 
+
+
+
+IS : 10001 - 1981 
+
+
+
+4.2.1 ajff 4.2 $ far ntr arrtfTO 5«R ajqfl 1TR 
+13WT 1985 TO ttf^ft I ^f#^^^f# 
+•rftfaff <W <m *TR frsfTfcrfacT iftft: 
+
+(<**RR/fiWS) (ffT/ftRT*) 
+
+500 TO 332 
+
+500 & arfTO aftr 1 000 TO 276 
+
+i ooo Sr srfro ato 2 000 to 252 
+
+2 000 & srfTO 309 
+
+4.2.2 IS : 10000 ( urn 9 ) - 1980 % aT^TR 1 
+$r fafas s^f qft^r^r % <ren^ sstc *ft arrtfenF 
+&rc sqs, is : 10000 ( i^ht 8 ) - 1980 % 
+
+*PJ*mr 1 *f fafa<T tfTTfTO VTTOTftcTT qffOT % 
+
+<twr[ jtrt faq ntr itr* & 5 y%w ^fro * si i 
+
+5. <iftaw qfrrm — qftsw Tform IS : ioooo 
+( *tr 6 ) - 1980 % 8?^ttt farrf firer ariq; i 
+
+vrfVTftffT Wift IS : 10000 ( WT 6 ) - 1980 % 
+aT^CR fTOT^TT ^TT^ I 
+
+•Wan «n%IT fl*a[?Eft aiTTOTft — *T$ ^pRT IS : 
+
+
+
+10000 ( WT 11 ) - 1980 'afaaftft iapft aft 
+
+•r^y^^r TOfnaff, urn 1 1 ^otto 3t«rt an** % mn 
+
+afifOT $*RT aftr OPT % ffT«f finrf&T 5RT * if 
+WTf' % ar^TR JRR" «tfl" 3fTtr I 
+
+7. ajfror was* — f'anif <r ftHfa fa ff ^n 
+rre a?q Ir affair aft ant*: 
+
+«5) *ftfircr finra, fasarrJf; 
+
+«) aftfar Tf^r, apwR/firo: 3f; 
+
+n) arftfcRf <*ar ajqs, <orT/faRT $; 
+
+ar) HHT^; aftr 
+
+y) flnrfcrr vt ?rm, *r>T afa vs ^wtt i 
+
+7.1 m HT l^[ft SW«W *|Ria5*l — ^f% vtft TT7- 
+
+tfta anro ^> fc firar to^t 1 1 
+
+8. «Rtaw wm«T qar — t^ Jnrm q* Tftam snfa- 
+a$nft 5TTT ftwftn aft is : 10000 ( tnr 12 ) - 
+1980 'skr^ f/anfi aft qft*T«r «T5f?nTt, «tr 12 
+q-ftOT snrm <pt' $ far itit ritaraf it ftin ant* i 
+
+9. qfa«T — i'araf aft aqgw apq % *rf if fa fip«n 
+«TTtr mfa> qfw^f % ?>tpt *H *nfa t tJ^t ?f% i 
+
+
+
+nnwiiw* ft^nft 
+
+
+
+is : 1600-1960 frnrr?iT 3^lT>R• % faq ^inrftr 
+«r?r??^ f *^5ft % *r*q T^em ^ ^f^r 
+
+IS: 1601-1960 mmm *ifo& % fair *nprf?r 
+
+IS : 1602-1960 ^r^Tfef spffapff % f^tr qfT^'cff 
+Tf^T ar^R^y <5aRt ^ JT^qr qftST'n- ^ffRTT 
+
+IS : 1603-1960 ^^Tfim $TC>** % fin? qft^cff 
+
+^ ttto ^T^r q^?r 1960 ^r srrft f^ itit ^ i 
+
+IS : 1600 aftT IS : 1602 ^f WW. ^~»fir aftT 
+
+qft^nff nfir % $&ft * z\% q <ritoro qft nf^T ?ft nf 
+«fk ?t f'^Rt ^ qrnNnfT^T artonr ^jtvt: is : 
+
+1601 afft IS : 1603 H ft irf | I rr arR«5f % 
+
+
+
+^ ^T ^»TTfiT aftT qfica^ff ^TfcT % ^'iTT % WeiFV % 
+fifftrfi^q-f aftT VTTOlfan' ^3f?«ft aq^TTT ft it| § I 
+
+TfteTT qrarfgrarf ^r *rs*fi*?r mT^frq- »tt^ 
+IS : 10000 % str^ nnff ^ JRrrftra ^> T^r 1 1 
+
+3TR3FTft ar«T2TT f^$w qft?Tq q^fir^f ft *ii |: 
+IS : 10000 anR?*£ ^^ ^ vttsw q«f?Rf 
+mn 1 q^^T qrefinfi ^ar?tft ?T5TTa[?ft 
+
+TR 2 TtTPCQ ^R^f araff«rp? 
+
+«nq^ 
+
+tTPT 4 qRT, areffcnr, ^?j?t ^q?r 3t>t ^5*5 ^?r <arq?r 
+
+^m 5 firnR^ % firrr m^ tftx ^f\^^ % firrr 
+
+^rn 6 qftari qfc^m fT^Ti ^t^t 
+
+«tht 7 ^^TTfir 5'apff ^ ^ ^^ qftsm afk ftaj^ 
+^rfirr ( ^^7T ) ^ *rr«r sr^ ?'^ff ^r ^^r 
+
+
+
+IS : 10001 - 1981 
+
+
+
+*rnr 9 w$m qfw\ 
+
+<r«n vjri *<r $ §tirc ^ faij q-ft^^r 
+
+mm 1 1 ^rra *n an^r % *rm ft <srr% *T?ft ar^faa 
+
+STTTtfTTt 3fk f^m STTT *>* % *TT* # 3TT% ^TT^fV 
+3TTW(t 
+
+wt 12 <TTte<JT jptt*t-<™ 
+
+IS: ioooo ( *tt l fci2tf* ), Pr*sfftrfircr 
+
+artoTafr ft Pifirfeiif % <rfics*F $* i 
+
+is : ioooi wm «j yreT % ftrq wrftr rift** 
+
+tp ( ifrsNT ) f^Fff ( 20 ftWTT ?PP ) tf fT<- 
+TTftSTT 3T^T3ff ^t fafafe 
+
+IS : 10002 «nrw *mt % fatr, wiftr, «Htvt 
+s$?r ( ^Vsr^ ) I'apft ( 20 Pi?*t ?r srfa* ) * *nf- 
+VTfc«rr ar^ormf ft firfirfte 
+
+IS : 10003 ^TcR-^Ttff % f^Ttr qforff «T% % 
+sNt^r *5*r ( sto*T ) t*ft *V *rrifarfi?rr artfaraff 
+qft faftrfa 
+
+is : 10004 pr*ra-*rit ^ fntr qfr^ff-Tfa Fgfspr 
+^r %'^ft ft ^nfarfrm ar^raff ^t fafarfe 
+
+firq SjfaT ^T ?'3R IS : 7347 - 1974 rift 
+
+*rr^ % fjf^ s^t f*&i ft *pfarf>?TT ft ftrfirfe 
+Jr *rfarfa<r fan?, ?TtT | i 
+
+^^rar TwWt * fatr, it *$* *r% sjfoi 
+*$* S'apT «T^T IS : 1603 *r fffarfrra" f¥<r *rrt 
+
+^ 7T?5 3T* ^ET% fcTTT 3f*pT fafafe ^TTT ft ^fl^ft I 
+
+«T^ *TFr; aptf^ IS : 1000 1 s<rct*r*rrf ft 
+tf % Ti|cU % fatT, #*TTT fa*TT irirr |, farsfa 3TT*9T 
+^ SOT 3f^ s'aPT *rfa>, 3Ttff$TcT ^SPT W<TrT, *%$* 
+
+
+
+ff^TTaft % fiT^ ft ^f% f 3R ^t WJWifPuM «ftf*RT 
+*?T% $T KgTTO |[t<TT I *F$ WWV TOj^T: %^ft % <n«T 
+
+w *w % ftf^ ?% srmT *■ 3TT* I far ?*3R, ^t^jt 
+
+?r»TiT H^rzr itt afhrr ^ftfvq ^t ^T^n *mft % » 
+
+^ m^P % R 20 ifKhr [ R R 20/2 R 
+20/3 ?r fotft ftfa ] % aryrn: *tftt ^ft gncjft^ 
+*for ft if |, «pftf«f? ^ 'tot t?tt f-ftr fit w*m wt 
+
+^ *toifta | fa7 Pmhrr arqpft ^"^r qnn: ^ ?tt^ 
+
+f ^ »TR for ifi I ^T^t ?'^T ft nf?T % fTT«T ^V 
+*<ffi it *fV firftFRTT 3TT STTcft | I ^ «TPff *T finrf- 
+
+^*3r?ff ^ aqraiBft ^t <fy wtt?t ?:«t 1 1 rift ihm 
+^ "«r! «ft «ff«RTT $t ^^nr wt% aftr <^r ^tt% ^ 
+
+fa? an^f^V 46R-«rm «TPJ1f *t TOFT faflTT «TT?fr 
+snf?TT 3^7: ^fJTf^T ^ ^ # JTUT T% 1 f^T% ***** % 
+
+n% 3rmT ^t srreft ^ far ^'sr ^r *?r «n*ff tt l «fi^rfV 
+1985 % *TC 3T^TT?r?T ?>TT I ^ arftfsrer ^ ^^ 
+f^T^T^ ^TIT Sfafa ^ TH fann t fa? *$WR 3TT^- 
+
+ftT^ <g-JT ^r^RT «rnff Jr 5 5r%?rar crt 5«tr ^W i 
+«rfa w fRT % sriTTir ftw artf far ^ irr?ft ^> *rc<r 
+fa>?TT ^tt ^rm | ft s?nt aftx ^*ft ^t it arnt*ft i 
+
+IS : 10001 aftT IS : 10002 sFTO: 20 far^TT ?Pff 
+
+aftT 20 far*r ?r arftr^ * ft*t*t %*H % ^mrf??RT 
+
+^TT^ TTTV IS : 1601 ^T ^TT?T ^ j| 
+
+^r?TF2T fTTzft ^ fartr qfftnr ^rfpr ?'3r?rf * tfanf ^r> 
+fipff for *mr 5tfr *t Tfct i 
+
+
+
+fjp^t-sr'gift fn^-^fft 
+
+
+
+«nr:d7T Injection nrrtfafr 
+
+w# ff^ Internal Combustion Engine tffhw f t^ 
+
+irfOTrffTfr Preferred w$m Tft9fT 
+
+wH?rftr?r, ftPBrftsfi" Recommended ffcfan t^t 
+
+
+
+Specific 
+
+Compression Engine 
+Endurance Test 
+Spark Ignition 
+
+
+
+ntftrc siftftratf f*vm «f fjptf $ surtsra w*r mro 
+
+
+
+IS : 6593-1980 ffa frit % foq tfHi, 5* afk eTT% <TPft % tffcT* 
+
+2 afa 3 snnfira:) 
+
+IS : 9694 (*mr 2)-198o *fa vnff % faq tfftnr aprtrnft <f<fi % 'ymr, *farm, 
+
+5RT?r arft tow* «ft ft% ftf^^rT: wr 2 ?farm 
+
+IS : 9694 (*nr 3)-1980 »f«r *>rtf * fan tfffor **%?# <ftf % <^n?T, ^f«n^T, 
+
+5RT5R aftT TOWT "ft ftfcT sf|*n: *TT«T 3 JPmflfl 
+
+IS : 9694 (wr 4)-1980 $fa vrot % fan efrfa* are*???* <tff * ^T«r, swft, 
+
+5P*T3H «fhc T5TTST* ^ ftfa nf?m: HUT 4 TSTOTO 
+
+
+

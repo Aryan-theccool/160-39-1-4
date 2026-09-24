@@ -1,0 +1,1186 @@
+**************** 
+
+
+
+
+Disclosure to Promote the Right To Information 
+
+Whereas the Parliament of India has set out to provide a practical regime of right to 
+information for citizens to secure access to information under the control of public authorities, 
+in order to promote transparency and accountability in the working of every public authority, 
+and whereas the attached publication of the Bureau of Indian Standards is of particular interest 
+to the public, particularly disadvantaged communities and those engaged in the pursuit of 
+education and knowledge, the attached public safety standard is made available to promote the 
+timely dissemination of this information in an accurate manner to the public. 
+
+
+
+
+Mazdoor Kisan Shakti Sangathan 
+"The Right to Information, The Right to Live" 
+
+
+
+IS 10049 (1981): Code of practice for manufacture of lime 
+based blocks [CED 4: Building Limes and Gypsum Products] 
+
+
+
+
+Jawaharlal Nehru 
+'Step Out From the Old to the New' 
+
+
+
+■K^y / 1 juaaaws^fea rs^^TTF^ 
+
+
+
+2*S< W I *>S*V2^NK^ 
+
+
+
+^frcvvv^ 
+
+
+
+Satyanarayan Gangaram Pitroda 
+Invent a New India Using Knowledge 
+
+
+
+?TR TJ^ ^TT teMHI | ^t ^Wt ^^PTT ^f ^TT ^T^?TT \' 
+
+Bhartrhari — Nitisatakam 
+"Knowledge is such a treasure which cannot be stolen" 
+
+
+
+
+.^^_ 
+
+
+
+• 
+
+
+
+
+BLANK PAGE 
+
+
+
+*rt*2V^ 
+
+
+
+
+
+PROTECTED BY COPYRIGHT 
+
+
+
+Indian Standard 
+
+
+
+IS : 10049-1981 
+Reaffirmed 2009 
+
+
+
+CODE OF 
+PRACTICE FOR MANUFACTURE OF 
+LIME BASED BLOCKS 
+
+
+
+UDC 666-921-431 : 006-76 
+
+
+
+m 
+
+
+
+<§) Copyright 1982 
+INDIAN STANDARDS INSTITUTION 
+
+MANAK BHAVAN, 9 BAHADUR SHAH ZAFAR MARG 
+
+NEW DELHI 110002 
+
+
+
+March 1982 
+
+
+
+IS : 10049 - 1981 
+
+Indian Standard 
+
+CODE OF 
+PRACTICE FOR MANUFACTURE OF 
+LIME BASED BLOCKS 
+
+Building Limes Sectional Committee, BDG 4 
+
+Chairman Representing 
+
+Dr Iqdal Ali Engineering Research Laboratories, Government 
+
+of Andhra Pradesh, Hyderabad 
+
+Members 
+
+Smti V. S, Aqarwala Engineer-in-Chief 's Branch, Ministry of Defence 
+
+ShriT. Suphakar ( Alternate ) 
+Shbi Srii>har Bandyopadhyay Khadi & Village Industries Commission, Bombay 
+
+SuRi E, R^m^ciundran ( Alternate ) 
+Siirt S. K. Banekjee National Test House, Calcutta 
+
+Shri D. K. Kanctngo ( Alternate ) 
+Dr S. K. Chopra Cement Research Institute of India, New Delhi 
+
+Shki Y, N, Dave Department of Mines and Geology, Government 
+
+of Rajasthan, Udaipur 
+Sum R. G, Garg ( Alternate ) 
+Director Land Reclamation, Irrigation & Power Research 
+
+Institute, Punjab, Amritsar 
+Research Officer ( B & M ) ( Alternate ) 
+Director, GERI, Vadouara Public Works Department, Government of Gujarat 
+
+Research Officer 
+( Material Testing 
+Division ) ( Alternate ) 
+Director, MERI, Nasik Irrigation and Power Department, Government of 
+
+Maharashtra 
+Research Officer 
+
+{ Material Testing 
+
+Division ), MERI ( Alternate ) 
+Du R. K. Ghosh Central Road Research Institute ( CSIR ), New 
+
+Delhi 
+Shim M. L. Bhati\ ( Alternate ) 
+Houhino Commissioner Rajasthan Housing Board, Jaipur 
+
+Dr Irshad Mahooh Central Building Research Institute ( CSIR ), 
+
+Roorkte 
+
+
+
+Shri S. P. Garo ( Alternate ) 
+
+
+
+( Continued on page 2 ) 
+
+
+
+© Copyright 1982 
+
+INDIAN STANDARDS INSTITUTION 
+
+This publication is protected under the Indian Copyright Act ( XIV of 1957 ) and 
+reproduction in whole or in part by any means except with written permission of the 
+publisher shall be deemed to be an infringement of copyright under the said Act, 
+
+
+
+IS i 10049 - 1981 
+
+( Continued from page 1 ) 
+
+Members Representing 
+
+Joint Director Research Ministry of Railways 
+( B & S ), RDSO 
+Assistant Director Re- 
+search ( B & S), RDSO ( Alternate ) 
+Smu N. Macedu Dyer's Stone Co Pvt Ltd, Delhi 
+
+Smti H, L. Marwah Builder's Association of India, Bombay 
+
+Shki Harish C. KoiiTii ( Alternate) 
+Dr S. G. Moudgai, Department of Science & Technology, Now Delhi 
+
+Dk A. V. R. Rao National Buildings Organization, New Delhi 
+
+Sum J. Sen Gupta ( Alternate ) 
+Representative Lime Manufacturers Association of India, New 
+
+Delhi 
+Superintending Engineer (W) Public Works Department, Government of Madhya 
+
+Pradesh, Bhopal 
+Shri R. N. Khanna { Alternate ) 
+Superintending Engineer Public Works Department, Government of Tamil 
+
+( Pl,o & Design ) Nadu, Madras 
+
+Executive Engineer ( Build- 
+ings Centkk Division ) ( Alternate ) 
+ShriSuraj S. J. Bahadur Housing and Urban Development Corporation, 
+
+New DcJhi 
+Sitri G. Raman, Director General, ISI ( Ex-officio Member ) 
+
+Director { Civ Engg ) 
+
+Secretary 
+
+Shut Ravjnder Kumar 
+Assistant Director ( Civ Engg ), ISI 
+
+
+
+AMENDMENT NO. 1 DECEMBER 1994 
+
+TO 
+IS 10049 : 1981 CODE OF PRACTICE FOR 
+MANUFACTURE OF LIME BASED BLOCKS 
+
+( Page 4, clause 2.1 ) — Substitute MS 3115 : 1992*' for 'IS : 3115 - 1978*' 
+and *IS 6508 : 1988f for 'IS : 6508 - 1972f. 
+
+(Page 4 t clause 3.1 ) — Substitute 'IS 712 : 1984? for 'IS : 712- 1973*'. 
+
+( Page 4, clause 3.2 ) — Substitute the existing for the following: 
+
+'Cement — This shall conform to either IS 269 : 1989§, IS 1489 (Part 1) : 19911 
+or IS 1489 (Part 2): 199 1H/ 
+
+( Page 4, sub-clause 33.1 ) — Substitute the existing for the following: 
+
+'33,1 CalcinedCtayPozzotana — This shall conform to IS 1344 : 1981**.' 
+
+( Page 4, clause 3.4 ) — Substitute 'IS 4098 : 1983$*' for 'IS : 4098 - 
+
+( Page A, clause 3.5 ) — Substitute 'IS 3068 : 1986||||' for 'IS : 3068 - 
+19751'. 
+
+( Page 4, clause 3*8 ) — Substitute the existing for the following: 
+
+"3.8 Water — It shall be clean and free from harmful amount of deleterious 
+materials. For the limits of deleterious material permitted in the water, reference 
+may be made to IS 456 : 1978 'Code of practice for plain and reinforced 
+concrete ( third revision )\ Potable water is generally considered satisfactory/' 
+
+( Page 4, foot-notes with 4 »\ 4 f\ *?, T. X ***\ 4 *t" and l \\\[ marks) — 
+Substitute the following for the existing: 
+
+1 'Specification for time bised blocks ( second revision ). 
+tGIossary of fcrms relating lo building lime ( first revision ), 
+^Specification for building limes ( third revision ), 
+{Specification for 33 grade ordinary porlfand cement (fourth revision ). 
+US pacification for Portland-pozzolana cement: 
+
+Pari 1 Flyash based ( third revision ). 
+
+Part 2 Calcined day based ( third revision y 
+"Specification for calcined clay pozzolana ( second revision ), 
+{^Specification for lime-pozzolana mixture (first revision ). 
+
+({((Specification for broken brick (burnt clay) coarse aggregates for use in lime concreie ( second 
+revision ). 
+
+(CED4) 
+
+Reprography Unit, BIS, New Delhi, India 
+
+
+
+AMENDMENT NO. 2 DECEMBER 1999 
+
+TO 
+IS 10049 : 1981 CODE OF PRACTICE FOR 
+MANUFACTURE OF LIME BASED BLOCKS 
+
+( Page 3, clause 0.2 ) — Substitute 'IS 3115 : 1992*' for 'IS : 3115 - 
+1978*'. 
+
+( Page 3, footnote marked * ) — Substitute the following for the existing 
+footnote: 
+
+' •Specification for lime based blocks ( second revision ).' 
+
+( Page 5, clause 4.0 ) — Substitute the following for the existing clause: 
+
+'4.0 The mix shall be so designed that the blocks meet the requirement of 
+IS 3115: 1992*'. 
+
+( Page 5, footnote ) — Substitute the following for the existing footnote: 
+
+'•Specification for lime based blocks ( second revision)' . 
+
+
+
+(CED04) 
+
+
+
+Reprography Unit, BIS, New Delhi, India 
+
+
+
+AMENDMENT NO. 3 JULY 2011 
+
+TO 
+
+IS 10049 : 1981 CODE OF PRACTICE FOR MANUFACTURE OF LIME BASED 
+
+BLOCKS 
+
+(Page 4, clause 3.3.2) — Substitute the following for the existing: 
+
+'3.3.2 Pulverized fuel ash shall conform to IS 15648 : 2006ff\' 
+
+[Page 4, clause 3.8, line 3 (see also Amendment No. 2)] — Substitute 'IS 456 : 2000 'Code of 
+practice for plain and reinforced concrete (fourth revision)' for 'IS 456 : 1978 'Code of practice for 
+plain and reinforced concrete (third revision)' . 
+
+(Page A, footnote marked f f ) — Substitute the following for the existing: 
+'f f Pulverized fuel ash for lime pozzolana mixture applications — Specification.' 
+
+
+
+(CED 4) 
+
+
+
+Reprography Unit, BIS, New Delhi, India 
+
+
+
+IS : 10049 - 1981 
+
+Indian Standard 
+
+CODE OF 
+PRACTICE FOR MANUFACTURE OF 
+LIME BASED BLOCKS 
+
+0. FOREWORD 
+
+0.1 This Indian Standard was adopted by tho Indian Standards 
+Institution on 24 December 1981, after the draft finalized by the 
+Building Limes Sectional Committee had been approved by the Civil 
+Engineering Division Council. 
+
+0,2 Lime based blocks are being used on a limited scale for the construc- 
+tion of walls, internal partitions and filler walls in place of traditional 
+clay building bricks, particularly for low cost housing. These blocks are 
+normally made from lime, lime and cement, lime and pozzoiana or 
+lime-pozzolana mixture. These blocks being light in weight ensure 
+rapid construction, help in saving of mortar, and the surfaces being 
+smooth do not need plastering. The specification of these blocks has been 
+covered in IS : 3115-1978*. This standard which is an essential adjunct 
+to the above specification is intended to provide guidance with respect to 
+the manufacture of such blocks making use of lime, pozzoiana, cement 
+and aggregates as chief constituents* While preparing this standard 
+assistance has been derived from Central Road Research Institute, 
+New Delhi. 
+
+0*3 For the purpose of deciding whether a particular requirement of 
+this standard is complied with, the final value, observed or calculated, 
+expressing the result of a test or analysis, shall be rounded off in accor- 
+dance with IS : 2-1960t- The number of significant places retained in 
+the rounded off value should be the same as that of the specified value 
+in this standard. 
+
+
+
+1. SCOPE 
+
+1,1 This standard lays down the requirements regarding materials, 
+method of manufacture, curing and finishing of lime based blocks. 
+
+
+
+•Specification for lime based blocks (first revision ). 
+tallies for rounding off numerical values ( revised ). 
+
+
+
+IS ; 10049 - 1981 
+
+2. TERMINOLOGY 
+
+2.1 For the purpose of this standard, the definitions given in IS : 3115- 
+1978* and IS : 6508-1972t shall apply. 
+
+3. MATERIALS 
+
+3.1 Lime — This shall conform to Glass C ( dry hydrated ) of IS : 712- 
+1973+. 
+
+3.2 Cement — This shall conform to either IS : 269-1976§, IS : 455- 
+1976H or IS : 1489-1 976^- 
+
+3*3 Pozzolana 
+
+3.3.1 Burnt Clay Pozzolana — This shall conform to IS : 1344-1968**. 
+
+3.3.2 Fly Ash — This shall conform to IS : 3812-I981tt- 
+
+3*4 LSme-PoMolaiia Mixture — This shall conform to IS : 4098- 
+1967J:, 
+
+3.5 Coarse Aggregate — Shall be either natural or crushed stone con- 
+forming to IS : 383-l970§§ or broken brick ( burnt clay) aggregates 
+conforming to IS ; 3068-1975JU]. 
+
+3.6 Cinder Aggregate — This shall conform to IS : 2G86- 1977^ and 
+the maximum size shall not exceed 20 mm. 
+
+3.7 Fine Aggregate — This shall conform to IS : 383-1970§§, 
+
+3.8 Water — Shall be clean and free from injurious amount of de- 
+leterious matter. Potable water is generally considered satisfactory. 
+
+3,8.1 The pYL value of water shall generally be not less than 6. 
+
+
+
+•Specification for lime based blocks (first revision ). 
+
+tGlossary of terms relating to building lime. 
+
+^Specification for building limes ( second reviuon ). 
+
+§Spccifuation for ordinary and low heat Portland cfrncnl ( third revision ). 
+
+[[Specification for Portland slag cement ( third revision ), 
+
+^[Specification for Portland-poz/olana cement ( second revision ), 
+
+••Specification for burnt clay pozzolana (first revision ). 
+
+ttSpecification for fly ash for use as pozzolana and admixture [first revision ), 
+
+^Specification for lirne-pozzolana mixture. 
+
+^Specification for coarse and fine aggregates from natural sources for concrete 
+( second revision ). 
+
+^Specification for broken brick ( burnt clay ) coarse aggregate for use in lime 
+concrete. 
+
+^Specification for cinder aggregates for use in lime concrete (first revision ). 
+
+
+
+IS : 10049 - 1981 
+
+4. MIX PROPORTION 
+
+4*0 The mix shall be so designed that the blocks meet the requirement 
+of IS : 3115-1978*. 
+
+4.1 Mix Proportion for Lime-Pozzolana Blocks — The 
+
+recommended mix proportions of lime pozzolana concrete for ihe manu- 
+facture of Hme-pozzolana blocks are given in Table 1. 
+
+
+
+
+
+TABLE 1 RECOMMENDED MIX PROPORTIONS 
+
+
+
+
+St, 
+No. 
+
+
+DKsnaiPTioN Mix Proportion hy Wkicuit 
+
+_ .... _ * 
+
+
+
+
+T.irne Lime Pozzo- 
+
+
+Fine 
+
+
+('oar so 
+
+
+— 1 
+Water 
+
+
+
+
+Pozzol- lana 
+
+
+Aggre- 
+
+
+Aggre- 
+
+
+Require- 
+
+
+
+
+ana 
+
+
+gate 
+
+
+gate 
+
+
+ment by 
+
+
+
+
+Mixture 
+
+
+( Other 
+
+
+(Other 
+
+
+Weight 
+
+
+
+
+
+
+than 
+
+
+than 
+
+
+of Total 
+
+
+
+
+
+
+Cinder 
+
+
+Cinder 
+
+
+Material 
+
+
+
+
+
+
+Aggre- 
+
+
+Aggre- 
+
+
+( Percent ) 
+
+
+
+
+
+
+gate ) 
+
+
+gate ) 
+
+
+
+
+
+(1) 
+
+
+
+(2) 
+
+
+
+1. Using Lime-Pozzo- 
+
+lana Mixture of 
+Grade: 
+
+LP 20 
+LP 40 
+
+2. Using Lime and 
+
+Pozzolana 
+Separately: 
+
+Lime reactivity 
+
+40 k^f'rm 8 
+( 4 iN'/inm* ) 
+
+Lime- reactivity 
+80 kgf/rm* 
+{ U Si/ mm 3 ) 
+
+
+
+(3) (4) 
+
+
+
+(5) 
+
+
+
+(C) 
+
+
+
+1 
+2 
+
+
+
+(7) 
+
+
+
+2 
+4 
+
+
+
+12 
+
+
+
+(8) 
+
+
+
+11 
+10 
+
+
+
+11 
+
+
+
+10 
+
+
+
+4.2 Mix Proportion for Lime-Cement Blocks — The recommended 
+mix proportion for manufacture of lime-cement blocks is 1*3 : 1 : 18 
+( lime, cement, cinder aggregate by volume ). 
+
+4.2.1 Water in just sufficient quantity shall be added to maintain the 
+working consistency, but at the same time it shall not be excessive lead- 
+ing to segregation of aggregates from the cementitious material. 
+
+
+
+•Specification for lime based blocks ( first revision ) . 
+
+5 
+
+
+
+IS : 10049 - 1981 
+
+5. MIXING AND MOULDING 
+
+5.1 Mixing shall be done in a mechanical mixer, 
+
+5.2 Mixing for Lime-Pozzolana Blocks 
+
+5.2.1 Saturated surface dry coarse aggregate shall first be fed into the 
+mechanical mixer. The required quantities of sand and lime-pozzolana 
+mixture or lime and pozzolana separately shall then be added to the 
+mixer. Part of the water shall then be added and the contents mixed. 
+The remaining quantity of water shall then be finally added and the 
+contents shall be mixed well. The total time of mixing shall not be 
+less than 2 minutes and shall be sufficient to ensure uniform mixing. 
+
+5.3 Mixing for Lime-Cement Blocks 
+
+5.3.1 Cement and well soaked cinder aggregates in the required 
+proportion shall be mixed dry in the mixer. Lime putty mixed in water 
+shall then be passed into the mixer and mixed until a well mixed con- 
+crete of uniform appearance is obtained. The quantity of water added 
+to lime putty shall be slightly less than the required quantity. The use of 
+excess water impairs the strength of the block and it should be ensured 
+that no water shall flow out of the block during compacting and only a 
+thin film of water shall appear at the surface after compaction. 
+
+5.4 In a mechanically or electrically operated machine, the mould for 
+the blocks shall be filled up with the mix by providing a surcharge of 
+about 20 percent above the top level of the mould. It shall be vibrated 
+or mechanically tamped and struck off level. 
+
+5.5 In the case of hand-operated machine, the mix shall be placed into 
+the mould in layers of about 50 to 70 mm and each layer thoroughly 
+tamped with suitable tamper until the whole mould is filled up and 
+struck off level with a trowel. 
+
+6. DRYING 
+
+6.1 Immediately after the block is prepared as per 5.4 and 5.5 it shall be 
+released from the mould and removed along with the base plate to a 
+covered shed. The shed shall be such as to provide protection against 
+sun, strong wind and rain. The blocks shall be stored in the shed until 
+these are sufficiently hardened to permit handling without damage* But 
+in no case shall the period be less than 96 h in the case of lime-pozzolana 
+blocks and 18 h in the case of lime-cement blocks. 
+
+7. CURING 
+
+7.1 The blocks after drying for 96 h in the case of lime-pozzolana blocks 
+and 18 h in the case of lime-cement blocks shall be stacked, suitably 
+covered and shall be kept moist by spraying with water at regular 
+intervals. The curing period shall not be less than 28 days, 
+
+G 
+
+
+
+RceHMfioNAlHfrWt o¥*mrtf(M vmts ) 
+
+
+
+Base Unjts 
+
+
+
+
+
+
+
+
+Quantity 
+
+
+Unit 
+
+
+Symbol 
+
+
+
+
+Length < 
+
+
+m^trp 
+
+
+m 
+
+
+
+
+Mass 
+
+
+kilogram 
+
+
+^ 
+
+
+
+
+Tune 
+
+
+Second 
+
+
+s 
+
+
+
+
+Electric current 
+
+
+ampere 
+
+
+A 
+
+
+
+
+1 hormodynamic 
+
+
+kelvin 
+
+
+K 
+
+
+
+
+temperature 
+
+
+
+
+
+
+
+
+Luminous mt^nMty 
+
+
+Cdndola 
+
+
+cd 
+
+
+
+
+Amount of substance 
+
+
+mole 
+
+
+mol 
+
+
+
+
+Supplementary Units 
+
+
+
+
+
+
+
+
+Quantity 
+
+
+Unit 
+
+
+bVMHOL 
+
+
+
+
+Piano angle 
+
+
+rachan 
+
+
+rad 
+
+
+
+
+Solid angle 
+
+
+ateradian 
+
+
+sr 
+
+
+
+
+Derived Unit* 
+
+
+
+
+
+
+
+
+Quantiiy 
+
+
+Unit 
+
+
+Symhol 
+
+
+DEMVTTlnN 
+
+
+Force 
+
+
+nowton 
+
+
+N 
+
+
+1 N - 1 kg mjs* 
+
+
+Energy 
+
+
+joule 
+
+
+J 
+
+
+1 J - 1 N.m 
+
+
+Power 
+
+
+watt 
+
+
+W 
+
+
+I w - 1 J/s 
+
+
+Flux 
+
+
+wt ber 
+
+
+Wb 
+
+
+1 Wb- 1 V.* 
+
+
+Flux density 
+
+
+tesla 
+
+
+T 
+
+
+I T - 1 Wb/m' 
+
+
+Frequency 
+
+
+hertz 
+
+
+Hz 
+
+
+1 Hz - I c/s ( s -») 
+
+
+Electric conductance 
+
+
+Siemens 
+
+
+S 
+
+
+1 S - 1 A/V 
+
+
+Electromotive force 
+
+
+volt 
+
+
+V 
+
+
+1 V - I W/A 
+
+
+Prcssurp, stress 
+
+
+pascal 
+
+
+Pa 
+
+
+1 Pa — 1 N/m" 
+
+
+
+INDIAN STANDARDS INSTITUTION 
+
+Manak Bhavan, 9 Bahadur Shah Zafar Marg, NEW DELHI 110002 
+
+
+
+Telephones s 2« 60 21, 27 01 31 
+
+Regional Qfftcts: 
+
+Western : Novelty Chambers, GraTit Rofld 
+Eastern : 5 Chowringheo Approach w 
+Southern : C. I- T. Campus, Adyar 
+Northern: B69, Phase VII 
+
+Branch Offfc0$: 
+
+'Pushpak', Nurmohamed Shaikh Marg, Khanpur 
+
+'F # Block, Unity Btdg, Narasimharaja Square 
+
+Gangotrf Complex, Bhadbhsda Road, T,T, Nagar 
+
+22E Kalpana Area 
+
+6-8-56C L N. Gupta Marg 
+
+R 14 Yudhister Marg, C Scheme 
+
+117/418 B Sarvodaya Nagar 
+
+Patliputra Industrial Estate 
+
+Nentex Bldg ( 2nd Floor ), Rly Station Road 
+
+
+
+Telegrams : Manakaanstha 
+
+
+
+
+
+Telephone 
+
+
+BOMBAY 400007 
+
+
+37 97 29 
+
+
+CALCUTTA 700072 4 
+
+
+27 50 90 
+
+
+MADRAS 600020 
+
+
+41 24 42 
+
+
+SAS NAGAR 
+
+
+
+
+
+(MOHALI) 160051 
+
+
+
+
+AHMADABAD 380001 
+
+
+2 03 91 
+
+
+BANGALORE 560002 
+
+
+2 76 49 
+
+
+BHOPAL 462003 
+
+
+6 27 16 
+
+
+BHUBANESHWAR 751014 5 36 27 
+
+
+HYDERABAD 500001 
+
+
+22 10 83 
+
+
+JAIPUR 302005 
+
+
+6 98 32 
+
+
+KAN PUR 208005 
+
+
+4 72 92 
+
+
+PATNA 800013 
+
+
+6 28 08 
+
+
+TRIVANDRUM 695001 
+
+
+32 27 
+
+
+
+Printed at Printograph. New Delhi, India 
+
+
+

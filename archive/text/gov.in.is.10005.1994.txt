@@ -1,0 +1,4026 @@
+**************** 
+
+
+Disclosure  to  Promote  the  Right  To  Information 
+
+Whereas  the  Parliament  of  India  has  set  out  to  provide  a  practical  regime  of  right  to 
+information  for  citizens  to  secure  access  to  information  under  the  control  of  public  authorities, 
+in  order  to  promote  transparency  and  accountability  in  the  working  of  every  public  authority, 
+and  whereas  the  attached  publication  of  the  Bureau  of  Indian  Standards  is  of  particular  interest 
+to  the  public,  particularly  disadvantaged  communities  and  those  engaged  in  the  pursuit  of 
+education  and  knowledge,  the  attached  public  safety  standard  is  made  available  to  promote  the 
+timely  dissemination  of  this  information  in  an  accurate  manner  to  the  public. 
+
+
+Mazdoor  Kisan  Shakti  Sangathan 
+"The  Right  to  Information,  The  Right  to  Live'' 
+
+
+IS  10005  (1994) :  SI  Units  and  Recommendations  for  the  Use 
+of  their  Multiples  and  of  Certain  Other  Units  [MSD  10: 
+Social  Responsibility] 
+
+
+Jawaharlal  Nehru 
+'Step  Out  From  the  Old  to  the  New" 
+
+
+aj^&vi  iJii^s:y%K^  isb^^ni^seg 
+
+
+:<>5&i|  mT'5K^5?::5:^>^i»l 
+
+
+K^^^iXSVCd^ 
+
+
+Satyanarayan  Gangaram  Pitroda 
+Invent  a  New  India  Using  Knowledge 
+
+
+Bhartrhari — Nitisatakam 
+''Knowledge  is  such  a  treasure  which  cannot  be  stolen" 
+
+
+^'^^^r 
+
+
+k 
+
+
+BLANK  PAGE 
+
+
+^*-^^^ 
+
+
+PROTECTED  BY  COPYRIGHT 
+
+
+IS  10005  :  1994 
+ISO  1000 :  1992 
+
+
+(  Reaffirmed  2005 ) 
+
+Indian  Standard 
+
+SI  UNITS  AND  RECOMMENDATIONS  FOR  THE 
+USE  OF  THEIR  MULTIPLES  AND  OF  CERTAIN 
+
+OTHER  UNITS 
+(Second  Revision) 
+
+
+UDC  006.057.5 
+
+
+<D  BIS  1994 
+
+BUREAU    OF    INDIAN    STANDARDS 
+
+MANAK     BHAVAN,     9     BAHADUR     SHAH     ZAFAR     MARG 
+NEW    DELHI    110002 
+
+
+A/ovemder1994  Price  Group  9 
+
+
+Basic  Standards  Sectional  Committee,  MSD  1 
+
+
+NATIONAL  FOREWORD 
+
+This  Indian  Standard  (Second  Revision)  which  is  identical  with  ISO  1000  :  1992  'SI  units  and 
+recommendations  for  the  use  of  their  multiples  and  of  certain  other  units',  issued  by  the  International 
+Organization  for  Standardization  (ISO),  was  adopted  by  the  Bureau  of  Indian  Standards  on  the 
+recommendation  of  the  Basic  Standards  Sectional  Committee  (MSD  1)  and  approval  of  the 
+Management  and  Systems  Division  Council. 
+
+The  text  of  the  ISO  Standard  has  been  approved  as  suitable  for  publication  as  Indian  Standard  without 
+deviations.  Certain  conventions  are,  however,  not  identical  to  those  used  in  Indian  Standards. 
+Attention  is  particularly  drawn  to  the  following: 
+
+a)  Comma  ( , )  has  been  used  as  a  decimal  marker  while  in  Indian  Standards  the  current  practice 
+is  to  use  full  point  ( . )  as  the  decimal  marker. 
+
+b)  Wherever  the  words  'International  Standard'  appear  referring  to  this  standard,  they  should  be 
+read  as  Indian  Standard'. 
+
+This  standard  was  first  published  in  1980  and  then  revised  in  1985. 
+
+In  this  second  revision,  the  following  changes  have  been  made: 
+
+a)  Quantities  and  units  from  IS  1890  (Parts  9,  10,  12,  and  13)/IS0  31  (Parts  9,  10,  12  and  13) 
+have  been  added  to  Annex  A  (Normative)  giving  examples  of  decimal  multiples  and  sub- 
+multiples  of  SI  units  and  of  some  other  units  which  may  be  used.  A  cross  reference  to  the  item 
+numbers  of  relevant  standard  has  been  made. 
+
+b)  The  old  definition  of  'metre'  in  Annex  B  has  been  replaced  by  new  definition. 
+
+c)  The  decision  by  International  Committee  for  Weights  and  Measures  (CIPM)  in  1980 
+concerning  the  status  of  supplementary  units  has  been  incorporated. 
+
+In  the  adopted  standard,  normative  references  appear  to  certain  International  Standards  for  which 
+Indian  Standards  also  exist.  The  corresponding  Indian  Standards  which  are  to  be  substituted  in  their 
+place  are  listed  below  along  with  their  degree  of  equivalence  for  the  editions  indicated: 
+
+
+International 
+Standard 
+
+IEC27-1  :  1971 
+
+
+ISO  31-1  :  1992 
+
+
+ISO  31-2:  1992 
+
+
+ISO  31-3:  1992 
+
+
+ISO  31-4:  1992 
+
+
+ISO  31-5:  1992 
+
+
+Corresponding 
+Indian  Standard 
+
+IS  3722  (Part  1 ) :  1 983  Letter  symbols 
+and  signs  used  in  electric  technology  : 
+Part  1  General  guidance  on  symbols 
+and  subscripts  (first  revision) 
+
+IS  1 890  (Part  1 ) :  1 994  Quantities  and 
+units:  Part  1  Space  and  time  (iirst 
+revision) 
+
+IS  1 890  (Part  2) :  1 994  Quantities  and 
+units:  Part  2  Periodic  and  related 
+phenomena  (second  revision) 
+
+IS  1 890  (Part  3) :  1 994  Quantities  and 
+units:  Part  3  Mechanics  (second 
+revision) 
+
+IS  1890  (Part  4)  :  1982^'  Quantities, 
+units  and  symbols:  Part  4  Heat  (first 
+revision) 
+
+IS  1890  (Part  5) :  1994  Quantities  and 
+units:  Part  5  Electricity  and  magnetism 
+(first  revision) 
+
+
+Degree  of 
+Equivalence 
+
+Technically 
+equivalent 
+
+
+Identical 
+
+
+Identical 
+
+
+Identical 
+
+
+Technically 
+equivalent 
+
+Identical 
+
+
+^'  Under  Revision. 
+
+
+(Continued  on  third  cover) 
+
+
+IS  10005 :  1994 
+ISO  1000 :  1992 
+
+
+Indian  Standard 
+
+SI  UNITS  AND  RECOMMENDATIONS  FOR  THE 
+USE  OF  THEIR  MULTIPLES  AND  OF  CERTAIN 
+
+OTHER  UNITS 
+(Second  Revision) 
+
+
+1     Scope 
+
+This  International  Standard 
+
+a)  describes  the  International  System  of  Units^>  (in 
+clauses  3,  4  and  6); 
+
+b)  recomnnends  selected  decinnal  nnultiples  and  sub- 
+multiples  of  SI  units  for  general  use  and  gives 
+certain  other  units  which  may  be  used  with  the 
+International  System  of  Units  (in  clauses  5  and  7, 
+and  annex  A); 
+
+c)  quotes  the  definitions  of  the  SI  base  units  (in  an- 
+nex B). 
+
+
+2    Normative  reference 
+
+The  following  standard  contains  provisions  which, 
+through  reference  in  this  text,  constitute  provisions 
+of  this  International  Standard.  At  the  time  of  publica- 
+tion, the  edition  indicated  was  valid.  All  standards  are 
+subject  to  revision,  and  parties  to  agreements  based 
+on  this  International  Standard  are  encouraged  to  in- 
+vestigate the  possibility  of  applying  the  most  recent 
+edition  of  the  standard  indicated  below.  Members  of 
+
+
+lEC  and  ISO  maintain  registers  of  currently  valid 
+International  Standards. 
+
+lEC  27-1:1971,2)  ietter  symbols  to  be  used  in  elec- 
+trical technology  —  Part  1:  General 
+
+3    SI  units 
+
+The  name  International  System  of  Units  (Syst^me 
+International  d'Unit6s),  with  the  international  abbrevi- 
+ation SI,  was  adopted  by  the  1 1th  General  Conference 
+on  Weights  and  Measures  (Conference  G§n6rale  des 
+Poids  et  Mesures,  CGPM)  in  1960. 
+
+This  system  includes: 
+
+—  base  units 
+
+—  derived  units  including  supplementary  units 
+which  together  form  the  coherent  system  of  SI  units. 
+
+3.1     Base  units 
+
+The  International  System  of  Units  is  based  on  the 
+seven  base  units  listed  in  table  1. 
+
+
+1)  Full  information  about  the  International  System  of  Units  is  given  in  a  publication  by  the  international  Bureau  of  Weights  ana 
+Measures  (Bureau  internationai  des  Poids  et  Mesures,  BIPM):  Le  Systdme  International  d'Unit6s  (SI),  including  an  authorized 
+English  translation. 
+
+2)  5th  edition,  currently  being  revised. 
+
+1 
+
+
+IS  10005:1994 
+ISO  1000:1992 
+
+
+Table  1  —  SI  base  units 
+
+
+Base  quantity 
+
+SI  base  unit 
+
+Name 
+
+Symbol 
+
+length 
+
+mass 
+
+time 
+
+electric  current 
+
+thermodynamic 
+temperature 
+
+amount  of  substance 
+
+luminous  intensity 
+
+metre 
+
+kilogram 
+
+second 
+
+ampere 
+
+kelvin 
+
+mole 
+candela 
+
+m 
+
+kg 
+
+s 
+
+A 
+
+K 
+
+mol 
+cd 
+
+For  the  definitions  of  the  base  units,  see  annex  B. 
+
+3.2    Derived  units  including  supplementary 
+units 
+
+Derived  units  are  expressed  algebraically  in  terms  of 
+base  units.  Their  symbols  are  obtained  by  means  of 
+the  mathematical  signs  of  multiplication  and  division; 
+for  example,  the  SI  unit  for  velocity  is  metre  per  sec- 
+ond (m/s). 
+
+For  some  of  the  SI  derived  units,  special  names  and 
+symbfols  exist;  those  approved  by  the  CGPM  are  listed 
+in  tables  2  and  3. 
+
+The  SI  units  radian  and  steradian  are  called  supple- 
+mentary units.  They  are  "dimensionless"  derived 
+units  (more  precisely,  derived  units  of  dimension  one) 
+with  special  names  and  symbols.  Although  the  co- 
+herent unit  for  plane  angle  and  for  solid  angle  is  ex- 
+pressed by  the  number  1,  it  is  convenient  to  use  the 
+special  names  radian  (rad)  and  steradian  (sr)  respec- 
+
+
+tively instead  of  the  number  1  in  many  practical  cases; 
+for  example  the  SI  unit  for  angular  velocity  can  be 
+written  as  radian  per  second  (rad/s). 
+
+It  may  sometimes  be  useful  to  express  derived  units 
+in  terms  of  other  derived  units  having  special  names; 
+for  example,  the  SI  unit  for  electric  dipole  moment  is 
+usually  expressed  as  C  •  m  instead  of  A  •  s  •  m. 
+
+
+4    Multiples  of  SI  units 
+
+The  prefixes  given  in  table  4  are  used  to  form  names 
+and  symbols  of  multiples  (decimal  multiples  and  sub- 
+multiples)  of  the  SI  units. 
+
+The  symbol  of  a  prefix  is  considered  to  be  combined 
+with  the  kernel  symboP*  to  which  it  is  directly  at- 
+tached, forming  with  it  a  new  symbol  (for  a  decimal 
+multiple  or  sub-multiple)  which  can  be  raised  to  a 
+positive  or  negative  power,  and  which  can  be  com- 
+bined with  other  unit  symbols  to  form  symbols  for 
+compound  units. 
+
+
+EXAMPLES 
+
+
+1  cm'' 
+
+
+=       10"®  m^ 
+
+
+.-1 
+
+
+=       (10-2  m)3 
+Ins"  =      (lO-S)-' 
+
+1  mm^/s         =       (lO-^m)2/s       =      IQ-^m^/p 
+
+
+=      10^  s-^ 
+
+
+Compound  prefixes  shall  not  be  used;  for  example, 
+write  nm  for  nanometre,  not  mjim. 
+
+NOTE  1  For  historical  reasons  the  name  of  the  base  unit 
+for  mass,  the  kilogram,  contains  the  name  of  the  SI  prefix 
+"kilo".  Names  of  the  decimal  multiples  and  sub-multiples 
+Df  the  unit  of  mass  are  formed  by  adding  the  prefixes  to  the 
+word  "gram",  e.g.  milligram  (mg)  instead  of  microkilogram 
+(tikg). 
+
+
+3)    In  this  case,  the  term  "kernel  symbol"  means  only  a  symbol  for  a  base  unit  or  a  derived  unit  with  a  special  name.  See, 
+however,  note  1  in  clause  4  about  the  base  unit  the  kilogram. 
+
+
+IS  tOOOS :  1994 
+ISO  1000:1992 
+
+
+Table  2  —  Si  derived  units  witli  special  names,  including  Si  supplementary  units 
+
+
+Derived  quantity 
+
+SI  derived  unit 
+
+Special  nam* 
+
+Symbol 
+
+Expressed  in  terms  of  SI  base  units 
+and  SI  derived  units 
+
+plane  angle 
+
+radian 
+
+rad 
+
+1  rad  =  1  m/m  =  1 
+
+solid  angle 
+
+steradian 
+
+sr 
+
+1  sr  =  1  m^/m^  =  1 
+
+frequency 
+
+hertz 
+
+Hz 
+
+1  Hz  =  1  s"^ 
+
+force 
+
+newton 
+
+N 
+
+1  N  =  1  kg  .  m/s^ 
+
+pressure, 
+stress 
+
+pascal 
+
+Pa 
+
+1  Pa  =  1  N/m^ 
+
+energy, 
+
+work, 
+
+quantity  of  heat 
+
+joule 
+
+J 
+
+1 J=1 N-m 
+
+power, 
+
+radiant  flux 
+
+watt 
+
+W 
+
+1  W  =  1  J/s 
+
+electric  charge, 
+quantity  of  electricity 
+
+coulomb 
+
+C 
+
+1  C  =  1  A-s 
+
+electric  potential, 
+potential  difference, 
+tension, 
+electromotive  force 
+
+volt 
+
+V 
+
+1  V  =  1  W/A 
+
+capacitance 
+
+farad 
+
+F 
+
+1  F  -  1  C/V 
+
+electric  resistance 
+
+ohm 
+
+a 
+
+1  a  =  1  V/A 
+
+electric  conductance 
+
+Siemens 
+
+s 
+
+1  s  =  1  n-^ 
+
+magnetic  flux 
+
+weber 
+
+Wb 
+
+1  Wb  -  1  V  .  s 
+
+magnetic  flux  density 
+
+testa 
+
+T 
+
+1  T  =  1  Wb/m^ 
+
+inductance 
+
+henry 
+
+H 
+
+1  H  =  1  Wb/A 
+
+Celsius  temperature 
+
+degree  Celsiusi) 
+
+X 
+
+1  X  =  1  K 
+
+luminous  flux 
+
+lumen 
+
+Im 
+
+1  Im  =  1  cd  •  sr 
+
+illuminance 
+
+lux 
+
+Ix 
+
+1  Ix  =  1  tm/m^ 
+
+1)    Degree  Celsius  is  a  special  name  for  t 
+also  note  6  concerning  the  ketvin  in  annex 
+
+he  unit  kelvin  for  us< 
+B.) 
+
+B  in  stating  val 
+
+ues  of  Celsius  temperature.  (See 
+
+IS  10005  :  1994 
+ISO  1000 :  1992 
+
+
+Table  3  —  SI  derived  units  with  special  names  admitted  for  reasons  of  safeguarding  human  health 
+
+
+Derived  quantity 
+
+SI  derived  unit 
+
+Special  name 
+
+Symbol 
+
+Expressed  in  terms  of  SI  base  units 
+and  SI  derived  units 
+
+activity  (of  a  radionuclide) 
+
+absorbed  dose, 
+
+specific  energy  imparted, 
+
+kerma, 
+
+absorbed  dose  index 
+
+dose  equivalent, 
+dose  equivalent  index 
+
+becqueret 
+gray 
+
+sievert 
+
+Bq 
+Gy 
+
+Sv 
+
+1  Bq  =  1  s~^ 
+1  Gy  =  1  J/kg 
+
+1  Sv  =  1  J/kg 
+
+Table  4  —  SI  prefixes 
+
+Factor 
+
+Prefix 
+
+Name 
+
+Symbol 
+
+10^* 
+
+yotta 
+
+Y 
+
+10'^ 
+
+zetta 
+
+Z 
+
+^Q'' 
+
+exa 
+
+E 
+
+^o'' 
+
+peta 
+
+P 
+
+^o'' 
+
+tera 
+
+T 
+
+^o' 
+
+giga 
+
+G 
+
+10^ 
+
+mega 
+
+M 
+
+10' 
+
+kilo 
+
+k 
+
+10^ 
+
+hecto 
+
+h 
+
+10 
+
+deca 
+
+da 
+
+10-^ 
+
+deci 
+
+d 
+
+10-^ 
+
+centi. 
+
+c 
+
+10-= 
+
+milli 
+
+m 
+
+10-^ 
+
+micro 
+
+ti 
+
+10-^ 
+
+nano 
+pico 
+
+n 
+P 
+
+10-^^ 
+
+io-^« 
+
+femto 
+atto 
+
+f 
+a 
+
+10-2^ 
+
+zepto 
+
+z 
+
+10-2" 
+
+yocto 
+
+y 
+
+5,2  The  multiple  can  usually  be  chosen  so  that  the 
+numerical  values  will  be  between  0,1  and  1  000.  In 
+the  case  of  a  compound  unit  containing  a  unit  to  the 
+second  or  third  power,  this  is  not  always  possible. 
+
+
+EXAMPLES 
+
+1,2  X  10^  N 
+0,003  94  m 
+1  401  Pa 
+3,1  X  10"^s 
+
+
+can  be  written  as 
+can  be  written  as 
+can  be  written  as 
+can  be  written  as 
+
+
+12  kN 
+3,94  mm 
+1,401  kPa 
+31  ns 
+
+
+However,  in  a  table  of  values  of  the  same  quantity  or 
+in  a  discussion  of  such  values  within  a  given  context, 
+it  will  generally  be  better  to  use  the  same  multiple  for 
+all  items,  even  if  some  of  the  ngmerical  values  will 
+then  be  outside  the  range  0,1  to  1  000.  For  certain 
+quantities  in  particular  applications,  the  same  multiple 
+is  customarily  used;  for  example,  the  millimetre  is 
+used  for  dimensions  in  most  mechanical  engineering 
+drawings. 
+
+5.3  The  number  of  prefixes  used  in  forming  com- 
+pound units  should  be  limited  as  far  as  is  compatible 
+with  practical  usage. 
+
+5.4  Errors  in  calculations  can  be  avoided  more  easily 
+if  all  quantities  are  expressed  in  SI  units,  powers  of 
+10  being  used  instead  of  prefixes. 
+
+
+5    Use  of  SI  units  and  their  multiples 
+
+
+6    Rules  for  writing  unit  symbols 
+
+
+5,1  The  choice  of  the  appropriate  multiple  (decimal 
+multiple  or  sub-multiple)  of  an  SI  unit  is  governed  by 
+convenience,  the  multiple  chosen  for  a  particular  ap- 
+plication being  the  one  which  will  lead  to  numerical 
+values  within  a  practical  range. 
+
+
+6.1  Unit  symbols  shall  be  printed  in  roman  (upright) 
+type  (irrespective  of  the  type  used  in  the  rest  of  the 
+text),  shall  remain  unaltered  in  the  plural,  shall  be 
+written  without  a  final  full  stop  (period)  except  for 
+normal  punctuation,  e.g.  at  the  end  of  a  sentence,  and 
+shall  be  placed  after  the  complete  numerical  value  in 
+
+
+IS  10005:1994 
+ISO  1000:1992 
+
+
+the  expression  for  a  quantity,  leaving  a  space  be- 
+tween the  numerical  value  and  the  unit  symbol. 
+
+Unit  symbols  shall  in  general  be  written  in  lower  case 
+tetters  except  that  the  first  letter  is  written  in  upper 
+case  when  the  name  of  the  unit  is  derived  from  a 
+proper  nanoe. 
+
+EXAMPLES 
+m        metre 
+s         second 
+A         ampere 
+Wb      weber 
+
+
+7  Non-SI  units  which  may  be  used  with 
+SI  units  and  their  multiples 
+
+7.1  There  are  certain  units,  outside  the  SI,  recog- 
+nized by  the  CIPM  as  having  to  be  retained  because 
+of  their  practical  importance  (see  tables  5  and  6). 
+
+7.2  Prefixes  given  in  table  4  may  be  attached  to 
+some  of  the  units  given  in  tables  5  and  6;  for  example, 
+millilitre,  mL  (See  also  annex  A,  column  6.) 
+
+7.3  In  a  limited  number  of  cases,  compound  units 
+are  formed  with  the  units  given  in  tables  5  and  6  to- 
+gether with  SI  units  and  their  multiples;  for  example, 
+kg/h;  km/h.  (See  also  annex  A,  columns  5  and  6.) 
+
+NOTE  4  Ttiere  are  some  other  units  outside  the  SI  which 
+are  recognized  by  the  CIPM  for  temporary  use.  They  are 
+given  in  column  7  of  the  table  in  annex  A  and  marked  by 
+an  asterisk  (*). 
+
+
+6.2  When  a  compound  unit  is  formed  by  multipli- 
+cation of  two  or  more  units,  this  should  be  indicated 
+in  one  of  the  following  ways: 
+
+
+N-m, 
+
+
+N  m 
+
+
+NOTFS 
+
+
+2  In  systems  with  limited  character  sets  a  dot  on  the  line 
+is  used  instead  of  a  half-high  dot. 
+
+3  The  latter  form  may  also  be  written  without  a  space, 
+provided  that  special  care  is  taken  when  the  symbol  for  one 
+of  the  units  is  the  same  as  the  symbol  for  a  prefix,  e.g.  mN 
+is  used  only  for  millinewton,  not  for  metre  newton. 
+
+When  a  compound  unit  is  formed  by  dividing  one  unit 
+by  another,  this  should  be  indicated  in  one  of  the  fol- 
+lowing ways: 
+
+
+m 
+s 
+
+
+m/s. 
+
+
+m  •  s 
+
+
+A  solidus  (/)  shall  not  be  followed  by  a  multiplication 
+sign  or  a  division  sign  on  the  same  line  unless 
+parentheses  are  inserted  to  avoid  any  ambiguity.  In 
+complicated  cases  negative  powers  or  parentheses 
+shall  be  used. 
+
+
+Table  5  —  Units  used  with  the  Si 
+
+Quantity 
+
+Unit 
+
+Name 
+
+Symbol 
+
+Definition 
+
+time 
+
+minute 
+
+hour 
+
+day 
+
+min 
+
+h 
+
+d 
+
+1  min  =  60  s 
+1  h  =  60  min 
+1  d  =  24  h 
+
+plane  angle 
+
+degree 
+minute 
+second 
+
+o 
+
+/ 
+
+1°  =(it/180)rad 
+1'  =  (1/60)° 
+1"  =  (1/60)' 
+
+volume 
+
+litre 
+
+1,  LD 
+
+1  1  =  1  dm^ 
+
+mass 
+
+tonne2) 
+
+t 
+
+1  t  =  10^kg 
+
+1)  The  two  symbols  for  the  litre  are  on  an  equal 
+footing.  The  CIPM  will,  however,  make  a  survey 
+on  the  development  of  the  use  of  the  two  symbols 
+in  order  to  see  if  one  of  the  two  may  be  sup- 
+pressed. 
+
+2)  Also  called  the  metric  ton  in  the  English  lan- 
+guage. 
+
+IS  10005  :  1994 
+ISO  1000 : 1992 
+
+
+Table  6  —  Units  used  with  tlie  SI,  whose  values  in  SI  units  are  obtained  experimentally 
+
+
+Quantity 
+
+Unit 
+
+Name 
+
+Symbol 
+
+Definition 
+
+energy 
+
+electronvolt 
+
+eV 
+
+The  electronvolt  is  the  kinetic  energy 
+acquired  by  an  electron  in  passing 
+through  a  potential  difference  of  1  volt 
+in  vacuum: 
+1  eV  »  1,602  177  X  10"''^  J. 
+
+mass 
+
+unified  atomic 
+mass  unit 
+
+u 
+
+The  unified  atomic  mass  unit  is  equal 
+to  1/12  of  the  mass  of  an  atom  of  the 
+nuclide  ^^C: 
+1  u  ^  1,660  540x10"^^  kg. 
+
+IS  10005 :  1994 
+ISO  1000:1992 
+
+
+Annex  A 
+
+(normative) 
+
+Examples  of  decimal  multiples  and  sub-multiples  of  SI  units  and  of  some 
+
+other  units  which  may  be  used 
+
+For  a  number  of  commonly  used  quantities,  examples  of  decimal  multiples  and  sub-multiples  of  SI  units,  as  well 
+as  of  some  other  units  which  may  be  used,  are  given  in  this  annex.  It  is  suggested  that  the  selection  shown,  while 
+not  intended  to  be  restrictive,  will  none  the  less  prove  helpful  in  presenting  values  of  quantities  in  an  identical 
+manner  in  similar  contexts  within  the  various  sectors  of  technology.  For  some  needs  (for  example,  in  applications 
+in  science  and  education),  it  is  recognized  that  greater  freedom  will  be  required  in  the  choice  of  decimal  multiples 
+and  sub-rinuitiples  of  SI  units  than  is  exemplified  in  the  list  which  follows. 
+
+
+Hem  No. 
+
+in  ISO  31: 
+
+1992 
+
+Quantity 
+
+SI  unit 
+
+Selection 
+
+of 
+muKlpies 
+and  sub- 
+multiples 
+of  the  SI 
+unit 
+
+Units  outside  tlie  SI  recognized 
+
+by  tlie  aPM  as  having  to  be 
+
+retained,  and  for  special  cases 
+
+some  of  their  combinations  with 
+
+SI  units 
+
+Remarks  and  information  about 
+unKs  used  in  special  fields 
+
+Units 
+
+Multiples  or 
+
+sub-multiples  of 
+
+units  given  In 
+
+column  5 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+Part  1:  Space  and  time 
+
+1-1 
+
+angle,             > 
+(plane  angle) 
+
+rad 
+(radian) 
+
+mrad 
+^rad 
+
+(degree) 
+
+(minute) 
+60 
+
+ft 
+
+(second) 
+60 
+
+gon  [gon  (or  grade)], 
+igon^^So^'^ 
+
+If  the  radian  is  not  used,  the  units 
+degree  or  gon  (or  grade)  may  be 
+used.  Decimal  subdivisions  of 
+degree  are  preferable  to  minute 
+and  second  for  most  applications. 
+For  the  units  degree,  minute  and 
+second  for  plane  angle,  there 
+shall  be  no  space  between  the 
+numerical  value  and  the  unit 
+symbol. 
+
+1-2 
+
+solid  angle 
+
+sr 
+(steradian) 
+
+1-3.1 
+
+length 
+
+m 
+(metre) 
+
+km 
+
+cm 
+
+mm 
+
+^m 
+
+nm 
+
+pm 
+
+fm 
+
+1  nautical  mile*  =  1  852  m 
+(exactly) 
+
+*    Recognized  by  the  CIPM  for 
+temporary  use. 
+
+IS  10005:1994 
+ISO  1000:1992 
+
+
+lt«m  No. 
+
+in  ISO  31: 
+
+1992 
+
+Quantity 
+
+SI  unit 
+
+Salactlon 
+
+of 
+muKiplM 
+andsub- 
+multlplet 
+ofthaSI 
+unit 
+
+Units  outside  the  SI  recognized 
+
+by  the  CIPM  as  having  to  be 
+
+retained,  and  for  special  cases 
+
+some  of  their  combinations  with 
+
+SI  units 
+
+Remarks  and  information  about 
+units  used  In  special  fields 
+
+UnHs 
+
+Multiples  or 
+
+sub-multiples  of 
+
+units  given  In 
+
+column  5 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+1-4 
+
+area 
+
+m^ 
+
+km^ 
+
+dm^ 
+cm^ 
+mm^ 
+
+ha*  (hectare),  1  ha  =  10"^  m^ 
+
+aMare),  1  a  =  10^m^ 
+
+*    Recognized  by  the  CIPM  for 
+temporary  use. 
+
+1-5 
+
+volume 
+
+m^ 
+
+dm^ 
+
+cm^ 
+mm^ 
+
+(litre) 
+1  l« 
+
+10-^m^  = 
+1  dm^ 
+
+hi 
+
+1  hl  =  10~'m^ 
+
+cl 
+
+1  cl«10""^m^ 
+
+ml 
+
+1  ml-10~®m^=: 
+
+1  cm^ 
+
+In  1964,  the  CGPM  declared  that 
+the  name  litre  (1)  may  be  used  as 
+a  special  name  for  the  cubic 
+decimetre  (dm^)  and  advised 
+against  the  use  of  the  name  litre 
+for  high-precision  measure- 
+ments. 
+
+See  also  footnote  1)  to  tables. 
+
+1-7 
+
+time 
+
+s 
+
+(second) 
+
+ks 
+
+ms 
+
+^s 
+
+ns 
+
+d 
+
+(day) 
+
+1  d  =  24  h 
+
+(exactly) 
+
+h 
+
+(hour) 
+
+1  h  =  60  min 
+
+(exactly) 
+
+min 
+
+(minute) 
+1  min  =  60  s 
+(exactly) 
+
+Other  units  such  as  week,  month 
+and  year  (a)  are  in  common  use. 
+The  definitions  of  month  and  year 
+often  need  to  be  specified. 
+
+1-8 
+
+angular 
+velocity 
+
+rad/s 
+
+1-10 
+
+velocity 
+
+m/s 
+
+m/h 
+
+km/h 
+1  km/h  = 
+
+ale  "^1' 
+
+1  knot*  =  1,852  km/h  (exactly)  - 
+0,514444  m/s 
+
+'  For  the  hour,  see  item  No.  1-7. 
+
+•    Recognized  by  the  CIPM  for 
+temporary  use. 
+
+1-11.1 
+
+acceleration 
+
+m/s^ 
+
+8 
+
+
+IS  10005:  1994 
+ISO  1000:  1992 
+
+
+Hem  No. 
+
+in  ISO  31: 
+
+1992 
+
+Quantity 
+
+SI  unit 
+
+Selection 
+
+of 
+multiples 
+and  sub- 
+multiples 
+of  the  SI 
+unit 
+
+Units  outside  the  SI  recognized 
+
+by  the  CIPM  as  having  to  be 
+
+retained,  and  for  special  cases 
+
+some  of  their  combinations  with 
+
+SI  units 
+
+Remarks  and  information  about 
+units  used  in  special  fields 
+
+Units 
+
+Multiples  or 
+
+sub-multiples  of 
+
+uniu  given  in 
+
+column  5 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+Part  2:  Periodic  and  related  phenomena 
+
+2-3.1 
+
+frequency 
+
+Hz 
+(hertz) 
+
+THz 
+GHz 
+MHz 
+kHz 
+
+2-3.2 
+
+rotational 
+frequency 
+
+S-' 
+
+min"'' 
+
+The  designations  "revolutions 
+per  minute"  (r/min)  and  "revo- 
+lutions per  second"  (r/s)  are 
+widely  used  for  rotational  fre- 
+quency in  specifications  on  rotat- 
+ing machinery.  (See  also  lEC 
+27-1.) 
+For  the  minute,  see  item  1-7. 
+
+2-4 
+
+angular 
+frequency 
+
+radls 
+
+Part  3:  Mechanics 
+
+3-1 
+
+mass 
+
+kg 
+(kilogram) 
+
+Mg 
+
+g 
+
+mg 
+
+^g 
+
+t 
+
+(tonne) 
+1  t  =  10^kg 
+
+See  footnote  2)  to  table  5. 
+
+3-2 
+
+volumic 
+mass, 
+density, 
+mass  density 
+
+kg/m^ 
+
+Mg/m^  or 
+kg/dm^ 
+or  g/cm^ 
+
+t/m^  or  kg/I 
+
+g/ml 
+
+g/i 
+
+For  the  litre,  see  item  No.  1-6. 
+For  the  tonne,  see  item  No.  3-1. 
+
+3-5 
+
+lineic  mass, 
+linear  density 
+
+kg/m 
+
+mg/m 
+
+1  tex-10"®kg/m-1  g/km 
+
+The  unit  tex  is  used  for  textile 
+filaments. 
+
+3-7 
+
+moment  of 
+
+inertia 
+
+kg-m^ 
+
+3-8 
+
+momentum 
+
+kg  •  m/s 
+
+3-9.1 
+
+force 
+
+N 
+(newton) 
+
+MN 
+kN 
+
+mN 
+
+9 
+
+
+IS  10005:1994 
+ISO  1000:1992 
+
+
+Item  No. 
+
+in  ISO  31: 
+
+1992 
+
+Quantity 
+
+SI  unit 
+
+Selection 
+
+of 
+muHtples 
+and  sub- 
+multiples 
+of  the  SI 
+unit 
+
+Units  outside  the  SI  recognized 
+
+by  the  CIPM  as  having  to  be 
+
+retained,  and  for  special  cases 
+
+some  of  their  combinations  with 
+
+SI  units 
+
+Remarks  and  information  about 
+units  used  in  special  fields 
+
+Units 
+
+Multiples  or 
+
+sub-multiples  of 
+
+units  given  in 
+
+column  5 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+3-11 
+
+moment  of 
+momentum, 
+angular 
+
+momentum 
+
+kg  -  m^/s 
+
+3-12.1 
+
+moment  of 
+force 
+
+N-m 
+
+MN-m 
+kN-m 
+
+mN '  m 
+^iN-m 
+
+3-15.1 
+
+pressure 
+
+Pa 
+(pascal) 
+
+GPa 
+MPa 
+kPa 
+hPa 
+
+mPa 
+^lPa 
+
+bar*  (bar),  1  bar-IOOkPa 
+(exactly) 
+
+1  mbar  =  1  hPa 
+
+The  use  of  the  bar  shall  be  re- 
+stricted to  existing  uses  in  the 
+field  of  fluid  pressure, 
+
+*    Recognized  by  the  CIPM  for 
+temporary  use. 
+
+3-15.2 
+
+normal  stress 
+
+Pa 
+
+GPa 
+MPa 
+kPa 
+
+3-23 
+
+viscosity, 
+(dynamic 
+viscosity) 
+
+Pa-s 
+
+mPa-s 
+
+P  (poise) 
+
+1  cP  =  1  mPa  •  s 
+
+The  poise  and  stokes  are  special 
+names  for  CGS  units.  They  and 
+their  multiples  and  sub-multiples 
+^hall  not  be  used  together  with 
+SI  units. 
+
+3-24 
+
+kinematic 
+viscosity 
+
+m^/s 
+
+mm^/s 
+
+St  (stokes) 
+
+1  cSt  «  1  mm^/s 
+
+See  remark  on  item  3-23. 
+
+3-25 
+
+surface 
+tension 
+
+N/m 
+
+mN/m 
+
+3-26.1 
+
+and 
+3-26.2 
+
+energy, 
+work 
+
+J 
+(joule) 
+
+EJ 
+
+PJ 
+
+TJ 
+
+GJ 
+
+MJ 
+
+kJ 
+
+mJ 
+
+10 
+
+
+IS  10005:1994 
+ISO  1000:1992 
+
+
+Ham  No. 
+
+in  ISO  31: 
+
+1992 
+
+Quantfty 
+
+SI  unit 
+
+oalacnon 
+
+of 
+muHiplM 
+and  aub- 
+muMplaa 
+ofthaSI 
+unH 
+
+Units  outaida  tha  SI  raeognizad 
+
+by  tha  CIPM  aa  having  to  ba 
+
+ratalnad,  and  for  apadal  casaa 
+
+aoma  of  thair  combinationa  with 
+Slunlta 
+
+Ramarks  and  information  about 
+unita  uaad  in  apaciai  fialda 
+
+Unita 
+
+IMuMplaaor 
+aoiiHnn  5 
+
+1 
+
+2 
+
+3 
+
+4 
+
+B 
+
+6 
+
+7 
+
+3-27 
+
+power 
+
+W 
+(watt) 
+
+GW 
+MW 
+kW 
+
+mW 
+
+uw 
+
+Part  4:  H«at                                                                                                                                                            | 
+
+4-1 
+
+thernno- 
+dynamic 
+tennperature 
+
+X 
+(kelvin) 
+
+4-2 
+
+Celsius 
+temperature 
+
+(degree 
+Celsius) 
+
+The  Celsius  temperature/  is 
+equal  to  the  difference  {T  -  Tq) 
+between  two  thermodynamic 
+temperatures  T  and  Tq,  where 
+To -273,1 5  K  (exactly). 
+
+For  the  definition  and  the  use  of 
+the  degree  Celsius  (°C),  see 
+notes  under  the  definition  of  the 
+kelvin  in  annex  B. 
+
+4-3.1 
+
+linear 
+expansion 
+coefficient 
+
+K-^ 
+
+For  the  degree  Celsius,  see  item 
+4-2. 
+
+4-6 
+
+heat 
+
+J 
+
+EJ 
+
+PJ 
+
+TJ 
+
+GJ 
+
+MJ 
+
+kJ 
+
+mJ 
+
+4-7 
+
+heat  flow  rate 
+
+W 
+
+kW 
+
+- 
+
+4-9 
+
+thermal 
+conductivity 
+
+W/(m  •  K) 
+
+For  the  degree  Celsius,  see  Item 
+4-2. 
+
+4-10.1 
+
+coefficient 
+of  heat 
+transfer 
+
+W/{m^ .  K) 
+
+For  the  degree  Celsius,  see  item 
+4-2. 
+
+4-11 
+
+thermal 
+insutance 
+
+m^  •  K/VV 
+
+For  the  degree  Celsius,  see  item 
+4-2. 
+
+4-15 
+
+heat  capacity 
+
+J/K 
+
+W/K 
+
+For  the  degree  Celsius,  see  item 
+4-2. 
+
+11 
+
+
+IS  10005:1994 
+rSO  1000 :  1992 
+
+
+Item  No. 
+
+In  ISO  31: 
+
+1992 
+
+Quantity 
+
+SI  unit 
+
+Selection 
+
+of 
+multiples 
+and  sub- 
+multiples 
+of  the  SI 
+unit 
+
+Units  outside  the  SI  recognized 
+
+by  the  CIPI^  as  having  to  be 
+
+retained,  and  for  special  cases 
+
+some  of  their  combinations  with 
+
+SI  units 
+
+Remarlcs  and  information  about 
+units  used  in  special  fields 
+
+Units 
+
+MuKlples  or 
+
+sub-multiples  of 
+
+units  given  In 
+
+column  5 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+4-16.1 
+
+massic  heat 
+capacity 
+
+J/(kg  •  K) 
+
+kJ/(kg .  K) 
+
+For  the  degree  Celsius,  see  item 
+4-2. 
+
+4-18 
+
+entropy 
+
+J/K 
+
+kJ/K 
+
+For  the  degree  Celsius,  see  item 
+4-2. 
+
+4-19 
+
+massic 
+entropy 
+
+J/(kg-K) 
+
+kJ/(kg  •  K) 
+
+For  the  degree  Celsius,  see  item 
+4-2. 
+
+4-21.2 
+
+massic 
+thermo- 
+dynamic 
+energy 
+
+J/kg 
+
+MJ/kg 
+
+kJ/kg 
+
+Part  5:  Electricity  and  magnetism 
+
+5-1 
+
+electric 
+current 
+
+A 
+
+(ampere) 
+
+kA 
+
+mA 
+
+nA 
+pA 
+
+5-2 
+
+electric 
+charge. 
+
+quantity  of 
+electricity 
+
+C 
+
+(coulomb) 
+
+kC 
+
+HC 
+nC 
+pC 
+
+A-h 
+1  A-h- 
+3,6  kC 
+
+For  the  hour,  see  item  No.  1-7. 
+
+5-3 
+
+volumic 
+charge, 
+
+volume 
+density  of 
+charge, 
+
+charge 
+density 
+
+C/m^ 
+
+C/mm^  or 
+GC/m^ 
+
+MC/m^  or 
+C/cm^ 
+
+kC/m^ 
+
+mC/m^ 
+nC/m' 
+
+5-4 
+
+areic  charge, 
+surface 
+
+density  of 
+
+charge 
+
+C/m^ 
+
+MC/m^  or 
+C/mm^ 
+C/cm^ 
+kC/m^ 
+
+mC/m^ 
+nC/m^ 
+
+12 
+
+
+IS  10005 :  1994 
+ISO  1000 :  1992 
+
+
+Kern  No. 
+
+in  ISO  31: 
+
+1992 
+
+Quantity 
+
+SI  unit 
+
+Selection 
+
+of 
+multiples 
+and  sub- 
+multiples 
+of  the  SI 
+unit 
+
+Units  outside  the  SI  recognized 
+
+by  the  CIPM  as  having  to  be 
+
+retained,  and  for  special  cases 
+
+some  of  their  combinations  with 
+
+SI  units 
+
+Remarlcs  and  Information  about 
+units  used  in  special  fields 
+
+Units 
+
+IMultlples  or 
+
+sub-multiples  of 
+
+units  given  In 
+
+column  5 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+5-5 
+
+electric  field 
+strength 
+
+V/m 
+
+MV/m 
+kV/m  or 
+V/mm 
+V/cm 
+
+mV/m 
+jiV/m 
+
+5-6.1 
+5-6.2 
+
+5-6.3 
+
+electric 
+potential 
+
+potential 
+difference, 
+tension 
+
+electromotive 
+force 
+
+V 
+(volt) 
+
+MV 
+kV 
+
+mV 
+tiV 
+
+5-7 
+
+electric  flux 
+density 
+
+C/m^ 
+
+C/cm^ 
+kC/m^ 
+
+mC/m^ 
+tiC/m^ 
+
+5-8 
+
+electric  flux 
+
+C 
+
+MC 
+kC 
+
+mC 
+
+• 
+
+5-9 
+
+capacitance 
+
+F 
+(farad) 
+
+mF 
+
+nF 
+PF 
+
+5-10.1 
+
+permittivity 
+
+F/m 
+
+tiF/m 
+nF/m 
+pF/m 
+
+5-13 
+
+electric 
+polarization 
+
+C/m^ 
+
+C/cm^ 
+kC/m^ 
+
+mC/m^ 
+tiC/m^ 
+
+5-14 
+
+electric  dipole 
+
+moment 
+
+C-m 
+
+4 
+
+13 
+
+
+IS  10005:1994 
+ISO  1000:1992 
+
+
+Kem  No. 
+
+in  ISO  31: 
+
+1992 
+
+Quantity 
+
+SI  unit 
+
+Selection 
+
+of 
+multiples 
+end  sub- 
+multiples 
+of  the  SI 
+
+unit 
+
+Units  outside  the  SI  recognized 
+
+by  the  CIPM  as  having  to  be 
+
+retained,  and  for  special  cases 
+
+some  of  their  combinations  with 
+SI  units 
+
+Remarks  and  information  about 
+units  used  in  speclel  fields 
+
+UnHs 
+
+Multiples  or 
+
+sub-multiples  of 
+
+units  given  in 
+
+column  5 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+5-15 
+
+areic  electric 
+
+current, 
+electric 
+
+current 
+
+density 
+
+A/m^ 
+
+MA/m^  or 
+A/mm^ 
+A/cm^ 
+(cA/m^ 
+
+5-16 
+
+lineic  electric 
+
+current, 
+linear  electric 
+
+current 
+
+density 
+
+A/m 
+
+kA/m  or^ 
+Ajfmm  ' 
+A/cm 
+
+5-17 
+
+magnetic 
+field 
+strength 
+
+A/m 
+
+kA/m  or 
+A/mm 
+A/cm 
+
+5-18.1 
+
+magnetic 
+potential 
+difference 
+
+A 
+
+kA 
+mA 
+
+5-19 
+
+magnetic  flux 
+
+density, 
+magnetic 
+
+induction 
+
+T 
+(tesia) 
+
+mT 
+nT 
+
+5-20 
+
+magnetic  flux 
+
+Wb 
+(weber) 
+
+mWb 
+
+5-21 
+
+magnetic 
+vector 
+potential 
+
+Wb/m 
+
+kWb/m 
+or 
+Wb/mm 
+
+5-22.1 
+522.2 
+
+self- 
+inductance 
+
+mutual 
+inductance 
+
+H 
+(henry) 
+
+mH 
+
+nH 
+pH 
+
+5-24 
+
+permeability 
+
+H/m 
+
+^lH/m 
+nH/m 
+
+5-27 
+
+magnetic 
+moment, 
+
+electro- 
+magnetic 
+monnent 
+
+A.m^ 
+
+14 
+
+
+IS  10005 :  1994 
+ISO  1000:1992 
+
+
+Item  No. 
+
+in  ISO  31: 
+
+1992 
+
+Quantity 
+
+SI  unit 
+
+Selection 
+
+of 
+multiples 
+and  sub- 
+multiples 
+of  the  SI 
+unit 
+
+Unite  outeide  the  51  recognized 
+
+by  the  CIPM  as  having  to  be 
+
+retained,  and  for  special  cases 
+
+some  of  their  combinations  with 
+SI  unite 
+
+Remarks  and  information  about 
+units  used  in  special  fields 
+
+Unite 
+
+Multiples  or 
+
+sub-multiples  of 
+
+unite  given  in 
+
+column  5 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+5-28 
+
+magnetization 
+
+A/m 
+
+kA/m  or 
+A/mm 
+
+5-29 
+
+magnetic 
+polarization 
+
+T 
+
+ml 
+
+(lEC 
+
+27-1:1971, 
+Item  86) 
+
+magnetic 
+dipole 
+moment 
+
+N  •  m^/A 
+
+or 
+
+Wb-m 
+
+5-33 
+
+resistance  (to 
+direct 
+current) 
+
+(ohm) 
+
+GQ 
+
+Ma 
+kn 
+
+rr\Ci 
+
+5-34 
+
+conductance 
+(of  direct 
+current) 
+
+S 
+
+(Siemens) 
+
+kS 
+mS 
+
+5-36 
+
+resistivity 
+
+a-  m 
+
+Ga-m 
+Ma-m 
+ka-m 
+
+ii-cm 
+ma-m 
+\iil'  m 
+na-m 
+
+is  also  used. 
+
+5-37 
+
+conductivity 
+
+S/m 
+
+MS/m 
+kS/m 
+
+5-38 
+
+reluctance 
+
+H-^ 
+
+5-39 
+
+permeance 
+
+H 
+
+5-44.1 
+5-44.2 
+
+5-44.3 
+5-44.4 
+
+impedance, 
+(complex 
+impedance) 
+
+modulus  of 
+impedance, 
+(impedance) 
+
+resistance 
+reactance 
+
+Q. 
+
+Mn 
+ka 
+
+mil 
+
+15 
+
+
+IS  10005:1994 
+ISO  1000 :  1992 
+
+
+Hem  No. 
+
+in  ISO  31: 
+
+1992 
+
+Quantity 
+
+SlunH 
+
+Selection 
+
+of 
+multiples 
+and  sub- 
+multiples 
+of  ihe  SI 
+unH 
+
+Units  outside  the  SI  recognized 
+
+by  the  CIPM  as  having  to  be 
+
+retained,  and  for  special  cases 
+
+some  of  their  combinations  with 
+
+SI  unHs 
+
+Remarks  and  information  about 
+unHs  used  in  special  fields 
+
+UnHs 
+
+MuHiples  or 
+
+sub-multiples  of 
+
+unHs  given  in 
+
+column  5 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+5-45.1 
+5-45.2 
+
+5-45.3 
+5-45.4 
+
+adnnlttance, 
+(connpiex 
+admittance) 
+
+modulus  of 
+admittance. 
+(admittance) 
+
+conductance 
+susceptance 
+
+S 
+
+kS 
+mS 
+
+5-49 
+
+active  power 
+
+W 
+
+TW 
+GW 
+MW 
+kW 
+
+mW 
+
+nW 
+
+In  electric  power  technology,  ac- 
+tivje  power  is  expressed  in  watts 
+(W),  apparent  power  in  volt  am- 
+peres (V  •  A)  and  reactive  power 
+in  vars  (var). 
+
+5-52 
+
+active  energy 
+
+J 
+
+TJ 
+GJ 
+MJ 
+
+kJ 
+
+W-h 
+1  W.h  = 
+3,6  kJ 
+(exactly) 
+
+TW-h 
+GW-h 
+
+MW-h 
+
+kW-h 
+
+For  the  hour,  see  item  1-7. 
+
+Part  6:  Light  and  related  electromagnetic  radiations 
+
+6-3 
+
+wavelength 
+
+m 
+
+^im 
+nm 
+pm 
+
+A*  (Angstrom),  1  A=:10~'°m  = 
+lO"""  nm  =  lO^'^nm 
+
+*    Recognized  by  the  CIPM  for 
+temporary  use. 
+
+6-7 
+
+radiant 
+energy 
+
+J 
+
+6-10 
+
+radiant 
+
+power, 
+radiant 
+
+energy  flux 
+
+W 
+
+1 
+
+6-13 
+
+radiant 
+intensity 
+
+W/sr 
+
+16 
+
+
+IS  10005:1994 
+ISO  1000:1992 
+
+
+Item  No. 
+
+in  ISO  31: 
+
+1992 
+
+Quantity 
+
+SI  unit 
+
+Selection 
+
+of 
+multiples 
+and  sub- 
+multiples 
+of  the  SI 
+unit 
+
+Units  outside  the  SI  recognized 
+
+by  the  CIPM  as  having  to  be 
+
+retained,  and  for  special  cases 
+
+some  of  their  combinations  with 
+
+SI  units 
+
+Remarlcs  and  information  about 
+units  used  in  special  fields 
+
+Units 
+
+IMuitipies  or 
+
+sub-multiples  of 
+
+units  given  in 
+
+column  5 
+
+1 
+
+^ 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+6-14 
+
+radiance 
+
+W/(sr .  m^) 
+
+6-15 
+
+radiant 
+exitance 
+
+W/m^ 
+
+6-16 
+
+irradiance 
+
+W/m^ 
+
+6-29 
+
+luminous 
+intensity 
+
+cd 
+(candela) 
+
+6-30 
+
+luminous  flux 
+
+Im 
+(lumen) 
+
+6-31 
+
+quantity  of 
+light 
+
+Im  -s 
+
+Im-h 
+1  Im  .  h  = 
+3  600  Im • s 
+(exactly) 
+
+For  the  hour,  see  item  1-7. 
+
+6-32 
+
+luminance 
+
+cd/m^ 
+
+6-33 
+
+luminous 
+exitance 
+
+im/m^ 
+
+6-34 
+
+illuminance 
+
+Ix 
+(lux) 
+
+6-35 
+
+light 
+exposure 
+
+Ix-s 
+
+6-36.1 
+
+luminous 
+efficacy 
+
+Im/W 
+
+Part  7:  Acoustics 
+
+7-1 
+
+period, 
+periodic  time 
+
+s 
+
+ms 
+pis 
+
+7-2 
+
+frequency 
+
+Hz 
+
+MHz 
+kHz 
+
+7-5 
+
+wavelength 
+
+m 
+
+mm 
+
+7-8 
+
+volumic 
+mass, 
+
+mass  density, 
+density 
+
+kg/m^ 
+
+17 
+
+
+IS  10005  :  1994 
+ISO  1000: 1992 
+
+
+Hem  No. 
+
+in  ISO  31: 
+
+1992 
+
+Quantity 
+
+SI  unit 
+
+Salaction 
+
+of 
+multiples 
+and  sub- 
+multiples 
+of  the  SI 
+unit 
+
+Units  outside  the  SUecognized 
+
+by  the  CIPM  as  having  to  be 
+
+retained,  and  for  special  cases 
+
+some  of  their  combinations  with 
+SI  unfts 
+
+Remarks  and  Information  about 
+units  used  in  special  fields 
+
+Units 
+
+MuKlples  or 
+
+sub-multiples  of 
+
+units  given  in 
+
+column  5 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+7-9.1 
+7-9.2 
+
+static 
+pressure 
+
+(instantaneous) 
+sound 
+pressure 
+
+Pa 
+
+mPa 
+\iPa 
+
+7-11 
+
+(instantaneous) 
+sound 
+particle 
+velocity 
+
+m/s 
+
+mm/s 
+
+7-13 
+
+(instantaneous) 
+volume  flow 
+rate 
+
+m^/s 
+
+7-14.1 
+
+vetocity  of 
+sound 
+
+m/s 
+
+7-16 
+
+sound  power 
+
+W 
+
+kW 
+
+mW 
+
+\i\N 
+
+pW 
+
+7-17 
+
+sound 
+intensity 
+
+W/m^ 
+
+mW/m^ 
+
+jiW/m^ 
+
+pW/m^ 
+
+- 
+
+7-18 
+
+acoustic 
+impedance 
+
+Pa  ■  s/m^ 
+
+7-19 
+
+mechanical 
+impedance 
+
+N-s/m 
+
+7-20.1 
+
+surface 
+density  of 
+mechanical 
+impedance 
+
+Pa  •  s/m 
+
+7-21 
+
+sounxi 
+pressure 
+level 
+
+B  (bel) 
+
+dB.  (decibel),  1  dB  =  10"^B 
+
+7-22 
+
+sound  power 
+level 
+
+B 
+dB 
+
+18 
+
+
+IS  tOOOS  :  1994 
+ISO  1000: 1992 
+
+
+Item  No. 
+
+in  ISO  31: 
+
+1992 
+
+Quantity 
+
+SI  unit 
+
+Selection 
+
+of 
+multiples 
+end  sub- 
+multiples 
+of  the  SI 
+unit 
+
+Units  outside  the  SI  recognized 
+
+by  the  OPfA  as  havino  to  be 
+
+retained,  and  for  special  cases 
+
+some  of  their  combinations  with 
+
+SI  units 
+
+Remarl(s  and  information  about 
+units  used  in  special  fields 
+
+Units 
+
+Multiples  or 
+
+sub-multiples  of 
+
+units  given  in 
+
+column  5 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+7-28 
+
+sound 
+reduction 
+index 
+
+8 
+
+dB 
+
+7-29 
+
+equivalent 
+absorption 
+area  of  a 
+surface  or 
+object 
+
+m^ 
+
+7-30 
+
+reverberation 
+time 
+
+s 
+
+Part  8:  Physical  chemistry  und  molecular  physics 
+
+8-3 
+
+amount  of 
+substance 
+
+mol 
+(mole) 
+
+kmol 
+
+mmol 
+jimoi 
+
+8-5 
+
+molar  mass 
+
+kg/mo! 
+
+g/mol 
+
+8-6 
+
+molar  volume 
+
+m^/mol 
+
+dm^/mol 
+cm^/mol 
+
+i/mo! 
+
+For  the  litre,  see  item  1-6. 
+
+8-7 
+
+molar 
+thermo- 
+dynamic 
+energy 
+
+J/mol 
+
+kJ/mol 
+
+8-8 
+
+molar  heat 
+capacity 
+
+J/{mol  •  K) 
+
+For  the  degree  Celsius,  see  item 
+4-2. 
+
+8-9 
+
+molar  entropy 
+
+J/{mol .  K) 
+
+For  the  degree  Celsius,  see  item 
+4-2. 
+
+8-13 
+
+concentration 
+
+of  B, 
+amount-of- 
+
+substance 
+
+concentration 
+
+of  B 
+
+mol/m^ 
+
+mol/dm^ 
+or 
+kmol/m^ 
+
+mol/l 
+
+For  the  litre,  see  item  1-6. 
+
+8-16 
+
+molality  of 
+solute  B 
+
+mol/kg 
+
+mmol/kg 
+
+8-39 
+
+diffusion 
+coefficient 
+
+m^/s 
+
+19 
+
+
+IS  10005  :  1994 
+ISO  1000  :  1992 
+
+
+Item  No. 
+
+in  ISO  31: 
+
+1992 
+
+Quantity 
+
+SI  unit 
+
+Selection 
+
+of 
+muHiples 
+and  sub- 
+multiples 
+of  the  SI 
+unit 
+
+Units  outside  the  SI  recognized 
+
+by  the  GIPM  as  having  to  be 
+
+retained,  and  for  special  cases 
+
+some  of  their  combinations  with 
+
+SI  units 
+
+Remarks  and  information  about 
+units  used  in  special  fields 
+
+UnHs 
+
+Multiples  or 
+
+sub-multiples  of 
+
+units  given  in 
+
+column  5 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8-41 
+
+thermal 
+
+diffusion 
+coefficient 
+
+m^/s 
+
+Part  9:  Atomic  and  nuclear  physics 
+
+9-28.2 
+
+mass  defect 
+
+kg 
+
+. 
+
+u 
+(unified 
+
+atomic 
+
+mass  unit), 
+1  u^ 
+
+1.660  540  X 
+10""  kg 
+
+9-33 
+
+activity 
+
+Bq 
+
+MBq 
+kBq 
+
+CI*  (curie), 
+
+1  Ci- 3.7  x10'°Bq  (exactly) 
+
+*    Recognized  by  the  CIPM  for 
+temporary  use. 
+
+9-34 
+
+massic 
+activity, 
+
+specific 
+activity 
+
+Bq/kg 
+
+MBq/kg 
+kBq/kg 
+
+9-37 
+
+half-life 
+
+s 
+
+ms 
+
+d 
+
+h 
+
+a  (year) 
+
+For  the  hour  and  the  day.  see 
+
+item  1-7. 
+
+Part  10:  Nuclear  reactions  and  ionizing  radiations 
+
+10-1 
+
+reaction 
+energy 
+
+J 
+
+eV 
+
+(electronvolt), 
+1  eV« 
+1,B02  177x 
+10-^^J 
+
+GeV 
+ivIeV 
+keV 
+
+10-51.2 
+
+absorbed 
+dose 
+
+Gy 
+
+mGy 
+
+rad*  (rad). 
+
+1  rad  =  10-^Gy 
+
+*    Recognized  by  the  CIPM  for 
+temporary  use. 
+
+10-52 
+
+dose 
+equivalent 
+
+Sv 
+
+mSv 
+
+rem*  (rem), 
+1  rem  =  10~^Sv 
+
+•    Recognized  by  the  CIPM  for 
+temporary  use. 
+
+20 
+
+
+IS  10005:1994 
+ISO  1000:1992 
+
+
+Kern  No. 
+
+in  ISO  31: 
+
+1992 
+
+Quantity 
+
+SI  unit 
+
+Selection 
+
+of 
+multiples 
+and  sub- 
+multiples 
+of  the  ^1 
+unit 
+
+Units  outside  the  SI  recognized 
+
+by  the  CIPM  as  having  to  be 
+
+retained,  and  for  special  cases 
+
+some  of  their  combinations  with 
+SI  units 
+
+Remarks  and  information  about 
+units  used  in  special  fields 
+
+Units 
+
+Multiples  or 
+
+sub-multiples  of 
+
+units  given  in 
+
+column  5 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+10-58 
+
+exposure 
+
+C/kg 
+
+mC/kg 
+
+R*  (rontgen), 
+
+1  R  =  2,58  X  10""*  C/kg  (exactly) 
+
+*    Recognized  by  the  CIPM  for 
+temporary  use. 
+
+Part  12:  Characteristic  numbers                                                                                                                                          j 
+
+12-1 
+
+Reynolds 
+nunnber 
+
+1 
+
+As  prefixes  cannot  be  used, 
+powers  of  10  may  be  used,  e.g. 
+/?e=  1,32x10^ 
+
+12-6 
+
+/ 
+
+Mach  number 
+
+1 
+
+Part  13:  Solid  state  physics                                                                                                                                                  | 
+
+13-17 
+
+density  of 
+states 
+
+J-^^ 
+
+eV"Vnn^ 
+
+For  the  electronvolt,  see 
+item  10-1. 
+
+13-20 
+
+Hall 
+coefficient 
+
+m^/C 
+
+13-21 
+
+thermo- 
+electromotive 
+force 
+
+V 
+
+TnV 
+
+13-24 
+
+Thomson 
+coefficient 
+
+V/K 
+
+mV/K 
+
+For  the  degree  Celsius,  see  item 
+4-2. 
+
+13-28.2 
+
+gap  energy 
+
+J 
+
+fj 
+
+aJ 
+
+eV 
+
+For  the  electronvolt,  see 
+item  10-1. 
+
+13-36.1 
+
+Curie 
+temperature 
+
+K 
+
+For  the  degree  Celsius,  see  item 
+4-2. 
+
+21 
+
+
+IS  10005 :  1994 
+ISO  1000:1992 
+
+
+Annex  B 
+
+(informative) 
+
+Definitions  of  tlie  base  units  of  the  international  system  of  units 
+
+metre:  The  metre  is  the  length  of  the  path  travelled  by  light  in  vacuum  during  a  time  interval  of  1/299  792  458 
+of  a  second. 
+
+[17th  CGPM  (1983),  Resolution  1] 
+
+kilogram:  The  kilogram  is  the  unit  of  mass;  it  is  equal  to  the  mass  of  the  international  prototype  of  the  kilogram. 
+[3rd  CGPM  (1901)] 
+
+
+second:  The  second  is  the  duration  of  9  192  631  770  periods  of  the  radiation  corresponding  to  the  transition  be- 
+tween the  two  hv^erf  ine  levels  of  the  around  state  of  the  caesium-l  33  atom. 
+
+[13th  CGPM  (1967),  Resolution  1] 
+
+ampere:  The  ampere  is  that  constant  current  which,  if  maintained  in  two  straight  parallel  conductors  of  infinite 
+length,  of  negligible  circular  cross-section,  and  placed  1  metre  apart  in  vacuum,  would  produce  between  these 
+conductors  a  force  equal  to  2  x  10"^  newton  per  metre  of  length, 
+
+[CIPM  (1946),  Resolution  2  approved  by  the  9th  CGPM  (1948)] 
+
+kelvin:  The  kelvin,  unit  of  thermodynamic  temperature,  is  the  fraction  1/273,16  of  the  thermodynamic  temperature 
+of  the  triple  point  of  water. 
+
+[13th  CGPM  (1967),  Resolution  4] 
+NOTES 
+
+5  The  13th  CGPM  (1967,  Resolution  3)  also  decided  that  the  unit  kelvin  and  its  symbol  K  should  be  used  to  express  an  interval 
+or  a  difference  of  temperature. 
+
+6  In  addition  to  the  thermodynamic  temperature  (symbol  T),  expressed  in  kelvins,  use  is  also  made  of  Celsius  temperature 
+(symbol  t)  defined  by  the  equation  t^T~TQ,  where  To« 273,15  K  by  definition.  To  express  Celsius  temperature,  the  unit 
+"degree  Celsius",  which  is  equal  to  the  unit  "kelvin",  is  used;  in  this  case,  "degree  Celsius"  is  a  special  name  used  in  place 
+of  "kelvin".  An  inten/ai  or  difference  of  Celsius  temperature  can,  however,  be  expressed  in  kelvins  as  well  as  in  degrees 
+Celsius. 
+
+mole:  The  mole  is  the  amount  of  substance  of  a  system  which  contains  as  many  elementary  entities  as  there  are 
+atoms  in  0,012  kilograms  of  carbon-12.  When  the  mole  is  used,  the  elementary  entities  must  be  specified  and 
+may  be  atoms,  molecules,  ions,  electrons,  other  particles,  or  specified  groups  of  such  particles, 
+
+[14th  CGPM  (1971),  Resolution  3] 
+
+candeia:  The  candela  is  the  luminous  intensity,  in  a  given  direction,  of  a  source  that  emits  monochromatic  radiation 
+of  frequency  540  x  10^^  hertz  and  that  has  a  radiant  intensity  in  that  direction  of  1/683  watt  per  steradian. 
+
+[16th  CGPM  (1979),  Resolution  3] 
+
+22 
+
+
+(Continued  from  second  cover) 
+
+International 
+Standard 
+
+ISO  31-6:  1992 
+
+
+ISO  31-7:  1992 
+ISO  31 -8:  1992 
+
+ISO  31-9:  1992 
+ISO  31-10:  1992 
+ISO  31 -11  :  1992 
+
+ISO  31-12:  1992 
+ISO  31-13:  1992 
+ISO  2955:  1983 
+
+
+Corresponding  Degree  of 
+
+Indian  Standard  Equivalence 
+
+IS  1890  (Part  6)  :  1983^*  Quantities,  Technically 
+
+units  and  symbols:  Part  6  Light  and  equivalent 
+
+related  electromagnetic  radiations 
+IS  1890  (Part  7) :  1994  Quantities  and  Identical  ' 
+
+units:  Part  7  Acoustics  {first  revision) 
+
+IS  1890  (Part  8) :  1994  Quantities  and  Identical 
+
+units:  Part  8  Physical  chemistry  and 
+molecular  {first  revision) 
+
+IS  1890  (Part  9) :  1994  Quantities  and  Identical 
+
+units:  Part  9  Atomic  and  nuclear  physics 
+{first  revision) 
+
+IS  1 890  (Part  1 0) :  1 994  Quantities  and  Identical 
+
+units:  Part  10  Nuclear  reactions  and 
+ionizing  radiation  {first  revision) 
+
+IS  1 890  (Part  1 1 ):  1 994  Quantities  and  Identical 
+
+units:  Part  11  Mathematical  signs  and 
+symbols  for  use  in  the  physical  science 
+and  technology  {second  revision) 
+
+IS  1 890  (Part  1 2) :  1 994  Quantities  and  Identical 
+
+units:  Part  12  Characteristic  number 
+{first  revision) 
+
+IS  1890  (Part  13)  :  1983^*  Quantities,  Technically 
+
+units  and  symbols:  Part  13  Solid  state  equivalent 
+
+physics 
+
+IS  1 1366  :  1985  Representation  of  SI  Identical 
+
+and  other  units  in  systems  with 
+limited  characteristics  for  information 
+processing 
+
+
+^>  Under  Revision. 
+
+
+Bureau  of  Indian  Standards 
+
+BIS  is  a  statutory  institution  established  under  the  Bureau  of  Indian  Standards  Act,  1986  to  promote 
+harmonious  development  of  the  activities  of  standardization,  marking  and  quality  certification  of  goods 
+'  and  attending  to  connected  matters  in  the  country. 
+
+Copyright 
+
+BIS  has  the  copyright  of  all  its  publications.  No  part  of  these  publications  may  be  reproduced  in  any  form 
+without  the  prior  permission  in  writing  of  BIS.  This  does  not  preclude  the  free  use,  in  the  course  of 
+implementing  the  standard,  of  necessary  details,  such  as  symbols  and  sizes,  type  or  grade  designations. 
+Enquiries  relating  to  copyright  be  addressed  to  the  Director  (Publications),  BIS. 
+
+Review  of  Indian  Standards 
+
+Amendments  are  issued  to  standards  as  the  need  arises  on  the  basis  of  comments.  Standards  are  also 
+reviewed  periodically;  a  standard  along  with  amendments  is  reaffirmed  when  such  review  indicates  that 
+no  changes  are  needed;  if  the  review  indicates  that  changes  are  needed,  it  is  taken  up  for  revision.  Users 
+of  Indian  Standards  should  ascertain  that  they  are  in  possession  of  the  latest  amendments  or  edition  by 
+referring  to  the  latest  issue  of  *BIS  Handbook'  and  'Standards  Monthly  Additions'. 
+
+This  Indian  Standard  has  been  developed  from  Doc  No.  MSD  1  (89) 
+
+
+Amendments  Issued  Since  Publication 
+
+
+Amend  No. 
+
+
+Date  of  Issue 
+
+
+Text  Affected 
+
+
+BUREAU  OF  INDIAN  STANDARDS 
+
+
+Headquarters: 
+
+
+Manak  Bhavan,  9  Bahadur  Shah  Zafar  Marg,  New  Delhi  110002 
+Telephones  :  331  01  31, 331 13  75 
+
+Regional  Offices : 
+
+Central    :  Manak  Bhavan,  9  Bahadur  Shah  Zafar  Marg 
+NEW  DELHI  110002 
+
+Eastern    :  1/14  C.  LT.  Scheme  VII M,  V.  I.  P.  Road,  Maniktola 
+CALCUTTA  700054 
+
+Northern :  SCO  335-336,  Sector  34.A,  CHANDIGARH  160022 
+Southern :  C  I.  T.  Campus,  IV  Cross  Road,  MADRAS  600113 
+
+
+Western  :  Manakalaya,  E9  MIDC,  Marol,  Andheri  (East) 
+BOMBAY  400093 
+
+
+Telegrams :  Manaksanstha 
+(Common  to  all  offices) 
+
+Telephone 
+
+
+{ 
+
+
+331 01 31 
+331  13  75 
+
+
+r  37 
+
+\  37 
+
+
+8499,37  85  61 
+8626,37  8662 
+
+
+{ 
+
+
+603843 
+602025 
+
+
+f  235  02  16, 235  04  42 
+V.  235  15  19, 235  23  15 
+
+{6329295,632  78  58 
+6327891,632  7892 
+
+
+Branches :  AHMADABAD.      BANGALORE.         BHOPAL.  BHUBANESHWAR. 
+
+COIMBATORE.  FARIDABAD.  GHAZIABAD.  GUWAHATI.  HYDERABAD. 
+JAIPUR.    KANPUR.    LUCKNOW.    PATNA    THIRUVANANTHAPURAM. 
+
+
+Printed  at  Simco  Printing  Press,  Delhi 
+
+

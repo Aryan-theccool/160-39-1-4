@@ -1,0 +1,868 @@
+***•••**•••**••• 
+
+
+
+tOT3 
+
+
+
+
+Disclosure to Promote the Right To Information 
+
+Whereas the Parliament of India has set out to provide a practical regime of right to 
+information for citizens to secure access to information under the control of public authorities, 
+in order to promote transparency and accountability in the working of every public authority, 
+and whereas the attached publication of the Bureau of Indian Standards is of particular interest 
+to the public, particularly disadvantaged communities and those engaged in the pursuit of 
+education and knowledge, the attached public safety standard is made available to promote the 
+timely dissemination of this information in an accurate manner to the public. 
+
+
+
+
+Mazdoor Kisan Shakti Sangathan 
+'The Right to Information, The Right to Live'" 
+
+
+
+Jawaharlal Nehru 
+'Step Out From the Old to the New' 
+
+
+
+IS 10047 (1981): Methods for testing refractory ramming 
+masses [MTD 15: Refractories] 
+
+
+
+.^^llli^=ac^^fc^ll f fm^>N:>;»gaTCAaiiTgs 
+
+
+
+;5«. \V I iT^ft2i^5c:%^>^ift^ 
+
+
+
+yy^^i^^^K^^ 
+
+
+
+
+-k 
+
+
+
+
+Satyanarayan Gangaram Pitroda 
+Invent a New India Using Knowledge'' 
+
+
+
+Bhartrhari — Nitisatakam 
+''Knowledge is such a treasure which cannot be stolen" 
+
+
+
+
+
+BLANK PAGE 
+
+
+
+'^liSSlfi, 
+
+
+
+
+
+5> 
+
+
+
+PROTECTED BY COPYRIGHT 
+
+
+
+Indian Stmhiird 
+
+
+
+IS : 10047 - 1S£1 
+
+(Reaffirmed 2002) 
+
+
+
+METHODS 01" TESTING 
+RErRACTORY RAMMING MASSES 
+
+
+
+UDG f«6-762'a32'a : 620' t 
+
+
+
+
+INDIAN STANHAnnS INSTITITION 
+
+MANAK HHAVAIN. t TlAHADUR SHAH EAFAR MARO 
+Q^ 3 Septfitiber |9S2 
+
+
+
+IS : 10047 - 1981 
+
+Indian Standard 
+
+METHODS OF TESTING 
+REFRACTORY RAMMING MASSES 
+
+Refractories Sectional Committee, SMDC 18 
+
+Chairman Representing 
+
+Dr D. N. Nandi Kumardhubi Fireclay & Silica Works Ltd, 
+
+Calcutta 
+
+Members 
+
+Shri p. N. Mohanty ( Alternate to 
+Dr D. N. Nandi ) 
+Shri D. N. Banerjee Indian Iron & Steel Co Ltd, Burnpur 
+
+Shrt a. K. Mukherjee ( Alternate ) 
+Shri Vivek N. Bhaskar Ishwar Industries Ltd, New Delhi 
+
+Shri Vidur Bhaskar ( Alternate ) 
+Dr a. K. Bose Associated Cement Companies Ltd, Bombay 
+
+Shri M. R. Vinayaka ( Alternate I ) 
+Dr A. K. Chatterjee ( Alternate II ) 
+Shri S. K. Chatterjee Steel Authority of India Ltd ( Durgapur Steel 
+
+Plant ), Durgapur 
+Shri P. K. Roychowdhury ( Alternate ) 
+Shri B, K. P. Chhibbar Steel Authority of India Ltd ( Bokaro Steel 
+
+Plant ), Bokaro 
+Shri A. S. Khalkho ( Alternate ) 
+Shri M. H. Dalmia Orissa Cement Ltd, Rajgangpur 
+
+Shri K. K. Prasad ( Alternate ) 
+Shri S. K. Das Directorate General of Supplies & Disposals 
+
+( Inspection Wing ), New Delhi 
+Shri R. N. Saha ( Alternate ) 
+Deputy Director ( Met )-I, Ministry of Railways 
+RDSO, Lucknow 
+Chemist & Metallurgist ( SF ) 
+CLW, Chittaranjan ( Alternate ) 
+Shri D. M. Gupta Belpahar Refractories Ltd, Belpahar 
+
+Shri T. K. Ghose ( Alternate ) 
+
+( Continued on page 2 ) 
+
+
+
+(g) Copyright 1982 
+
+INDL\N STANDARDS INSTITUTION 
+
+This publication is protected under the Indian Copyright Act ( XIV of 1957 ) and 
+
+reproduction in whole or in part by any means except with written permission of the 
+
+publisher shall be deemed to be an infrigement of copyright under the said Act. 
+
+
+
+IS : 10047 " 1981 
+
+( Continued from page 1 ) 
+
+Members 
+Shri R. K. Gupta 
+
+Shri Ramesh Chand ( Alternate ) 
+Shri A. V. Hingorani 
+
+Shri S. K. Jhunjhunwala 
+
+Shri M. M. Sahu ( Alternate ) 
+Shri S. R. Khanna 
+
+Shri R. Sachdev ( Alternate ) 
+Shri I. C. Modi 
+
+Shri R. K. Sanghi ( Alternate ) 
+Shri S. K. Mohanty 
+Shri N. C. Mukherjee 
+
+Shri V. S. Bhuta ( Alternate ) 
+Shri J. R. K. Murthy 
+
+
+
+Shri N. C Saha ( Alternate ) 
+
+Shri R. C. Nandy 
+
+Shri A. K. Ghosh ( Alternate ) 
+Shri P. S. Narayana 
+
+Shri P. S. V. Ananthanarayana 
+( Alternate ) 
+Dr J. D. Panda 
+
+Dr N. Sahoo ( Alternate ) 
+Dr T. V. Prasad 
+Shri B. Ramachandran 
+
+Shri T. B. Singh ( Alternate ) 
+Dr M. R. K. Rao 
+
+Shri P. C. Sen ( Alternate ) 
+Shri A, K. Saha 
+
+Shri D. Kanungo ( Alternate ) 
+Shri O. P. Sandhir 
+
+
+
+Representing 
+
+All India Glass Manufacturers* 
+New Delhi 
+
+
+
+Federation, 
+
+
+
+Steel Authority of India Ltd. Alloy Steel Plant, 
+
+Durgapur 
+Orissa Industries Ltd, Rourkeia 
+
+Directorate General of Technical Development, 
+New Delhi 
+
+Steel Authority of India Ltd ( Rourkeia Steel 
+Plant ), Rourkeia 
+
+Ministry of Defence ( DGOF ) 
+
+India Firebricks & Insulation Co Ltd, Marar 
+
+Harry Refractory & Ceramic Works Pvt Ltd, 
+Calcutta; and Indian Refractory Makers Asso- 
+ciation. Calcutta 
+
+Harry Refractory & Ceramic Works Pvt Ltd, 
+Calcutta 
+
+M. N. Dastur & Co ( P ) Ltd, Calcutta 
+
+Engineering & Mineral Industrial Research 
+Laboratory, Bangalore 
+
+
+
+Dalmia Institute of Scientific and Industrial 
+Research, Rajgangpur 
+
+Engineers India Ltd, New Delhi 
+Metallurgical & Engineering Consultants ( India ) 
+Ltd, Ranchi 
+
+National Metallurgical Laboratory ( CSIR ), 
+Jamshedpur 
+
+National Test House, Calcutta 
+
+
+
+Steel Authority of India Ltd, Research & Develop- 
+ment Wing, New Delhi 
+Shri K. C. Chatter jee ( Alternate ) 
+Shri R. Sankaran Bharat Heavy Electricals Ltd, Tiruchchirappalh 
+
+Shri C. S. R. Adhithyan ( Alternate ) 
+Shri K. C. Sinha Directorate of Production and Inspection ( Navy ), 
+
+Ministry of Defence ( DGI ) 
+Shri J. M. Wasdev ( Alternate ) 
+Dr N, R. Sircar Central Glass & Ceramic Research Institute 
+
+( CSIR ), Calcutta 
+Shri K. Ramesam ( Alternate ) 
+
+
+
+( Continued on page 12 ) 
+
+
+
+IS : 10047 - 1981 
+
+Indian Standard 
+
+METHODS OF TESTING 
+REFRACTORY RAMMING MASSES 
+
+0, FOREWORD 
+
+0.1 This Indian Standard was adopted by the Indian Standards Institution 
+on 30 December 1981, after the draft finalized by the Refractories Sectional 
+Committee had been approved by the Structural and Metals Division Council. 
+
+0.2 This standard is intended to be used for assessment of the quality of 
+refractory ramming masses as well as for checking their conformity to the 
+specifications. 
+
+0.3 In reporting the result of a test or analysis made in accordance with this 
+standard, if the final value, observed or calculated, is to be rounded off, it 
+shall be done in accordance with IS : 2-1960*. 
+
+
+
+1. SCOPE 
+
+1.1 This standard prescribes the methods of sampling and test for refractory 
+ramming masses. 
+
+2. TERMINOLOGY 
+
+2.0 For the purpose of this standard, the following definitions and those 
+given in IS : 4041-I967t shall apply. 
+
+2.1 Ramming Mass — Mixtures of graded refractory aggregate with or 
+without air/heat-setting additive and with or without moisture. It is usually 
+supplied at a consistency which requires mechanical method of application. 
+A plasticizing agent may also be incorporated in the ramming masses. 
+
+2.2 Lot — In any consignment, all the containers containing refractory 
+ramming mass of the same type ( to be used under the same service condi- 
+tions ) and grade, manufactured by the same firm under similar condition 
+of production shall be grouped together to constitute a lot. The maximum 
+mass of any lot, however, shall be limited to 25 tonnes. 
+
+
+
+*Rules for roucding off numerical values ( revised ). 
+tGlossary of terms relating to refractory materials. 
+
+
+
+IS : 10047 - 1981 
+
+3. SAMPLING AND TEST PIECE PREPARATION 
+
+3.1 For the complete series of tests, a minimum sample of about 50 kg is 
+required. Consignments of these materials are usually supplied in 50 kg 
+containers and the number of containers, as sample, shall be selected at 
+random on the following basis: 
+
+Lot Weight No. of 50 kg Containers to be 
+
+Selected as Sample 
+Up to 1 tonne 1 
+
+Over 1 tonne up to and including 2 
+
+4 tonnes 
+Over 4 tonnes up to and including 5 
+
+25 tonnes 
+
+3.1.1 Where the material to be supplied includes a liquid component, 
+supplied separately, the sample of liquid shall be selected on the following 
+basis: 
+
+Lot Size of Ramming Sample Size of Liquid 
+
+Mass Component 
+
+Up to 4 tonnes 2 kg from one container 
+
+Over 4 tonnes up to 10 tonnes Total 5 kg from two containers 
+
+Over 10 up to 25 tonnes Total 10 kg from four containers 
+
+3.2 The selected containers shall be emptied on a suitable surface and the 
+material be thoroughly mixed and divided by the process of coning and 
+quartering method. The sample shall be reduced to 50 kg in the case of lot 
+sizes up to 10 tonnes and 75 kg in the case of lot sizes over 10 tonnes. This 
+final sample shall be divided equally into eight test samples by successive 
+coning and quartering method. These test samples shall be used for 
+various physical tests for moisture determination, sieve analysis, bulk 
+density, firing shrinkage, pyrometric cone equivalent, modulus of rupture, 
+cold crushing strength, thermal conductivity and also chemical analysis. 
+It may be noted that the same test sample may be used for more than one 
+test if permitted by respective test methods. 
+
+3.3 Preparation of Test Pieces — The method of preparing test pieces of the 
+material has a marked effect on their properties and it is necessary to use a 
+standard procedure. 
+
+3.3.1 Apparatus — The apparatus consists of a modified sand rammer ( see 
+Fig. 1 ). It comprises a means for supporting the weight, so that the load 
+may be removed from the vertical shaft and the provision of graduated steel 
+rule is attached to the rammer to indicate the position of the end of the shaft 
+and consequently the uniformity in the compaction for a batch of test 
+prisms. 
+
+
+
+
+DROP WEIGHT 
+Ukg 
+
+
+
+
+B 
+
+
+
+FRONT VIEW SIDE VlEW 
+
+Fig. 1 Equipment for Compacting Specimens 
+
+
+
+00 
+
+
+
+IS ; 10047 - 1981 
+
+3.3.2 Test Pieces — The test pieces used for all the tests, excepting thermal 
+conductivity, shall be in the shape of prisms 40 x 40 x 160 mm, when the 
+grog size does not exceed 10 mm, and 230 x 1 13 x 65 mm when the grog 
+size exceeds 10 mm. The modified sand rammer shall be used for preparing 
+the test pieces by controlling the number of strokes of the plunger, to attain 
+maximum compaction. In the case of larger specimens, only pneumatic ramm- 
+ing shall be used, also to obtain maximum compaction. ( The consistency 
+of the material, for the test pieces, shall be as per the instructions given by 
+the manufacturer.) The mould used for preparing the specimens shall be in 
+accordance with IS : 4031-1968*. 
+
+All the prisms, prepared as test pieces, shall be dried in air for 24 hours 
+and for a further period of 24 hours at a temperature of 105-1 10°C. 
+
+4. DETERMINATION OF MOISTURE CONTENT 
+
+4.1 Out of one part of the sample, selected in accordance with 3.2, weigh 
+out 500 g for moisture determination, chemical analysis and pyrometric cone 
+equivalent ( PCE ) determination. After thorough mixing, 100 g of the 
+sample shall be taken for moisture determination. 
+
+4.2 Weigh accurately about 100 g of the sample in a tared weighing dish. 
+Dry it in a uniformly heated oven for about 12 hours at 1 05-11 O^C till the 
+mass is constant. 
+
+4.2.1 Calculate the percentage moisture by the following formula: 
+Moisture, percent = AjB x 100 
+where 
+
+A = loss of mass of the sample in g on heating, and 
+B = mass in g of the sample taken. 
+
+5. SIEVE ANALYSIS 
+
+5.1 Wet sieve analysis for ramming masses, which has been just mixed, 
+shall be carried out in accordance with IS : 1528 ( Part XIV )-I974t. The 
+sieve analysis sample shall be drawn as soon as possible, before the ramming 
+mass stiffens. 
+
+5.1.1 Wet Analysis — Weigh out 250 g of dried sample from the material 
+intended for sieve analysis after thorough mixing and coning and quartering. 
+The test sample shall be placed in a container of about one litre capacity. 
+Sufficient water shall be added to it to form a slurry. The slurry is to be 
+
+
+
+♦Methods of physical tests for hydraulic cement. 
+
+tMethods of sampling and physical tests for refractory materials: Part XIV Determi- 
+nation of sieve analysis ( first revision ). 
+
+
+
+IS : 10047 - 1981 
+
+transferred without loss to the finest sieve to be used in the analysis and 
+shall then be washed by means of a small jet of water from a 6 mm rubber 
+hose until the water passing through the sieves contains only traces of sample. 
+It may be required to break up lumpy material by gentle rubbing between 
+the fingers. The washed residue in the sieve shall be dried to constant mass 
+at 1 10 'C. The dried residue shall then be transferred to the top of coarsest 
+sieve of the sieves to be used. 
+
+The wet sieve analysis shall be calculated for the test sample on the dry 
+mass basis and the results reported to the nearest 01 percent of material 
+retained on each sieve. The percentage passing the finest sieve shall be 
+reported as the difference between 100 percent and the sum of the percent- 
+ages retained on the various sieves. 
+
+6. CHEMICAL ANALYSIS 
+
+6.1 For high silica ramming masses, the chemical analysis shall be carried 
+out in accordance with IS : 1527-1972*. For other type of ramming masses, 
+the method of analysis shall be as agreed to between the manufacturer and 
+the purchaser, 
+
+6.1.1 It is not necessary to analyse separately the wet and dry components 
+of the ramming masses. In the case of two-component ramming masses, the 
+analysis shall be preferably carried out on rammed and hardened sample, 
+which has been hardened by drying at 110°C. 
+
+7. DETERMINATION OF BULK DENSITY 
+
+7.1 Test Specimens — 40 x 160 mm cast specimen, prepared in accordance 
+with 3.3.2 or fired specimens shall be used. 
+
+7.2 Test Method — Bulk density shall be determined in accordance with 
+IS : 1528 ( Part XII )- 19741% <^^ three test specimens. 
+
+8. DETERMINATION OF LINEAR CHANGE AFTER FIRING 
+
+8.1 Test Specimens — The same three specimens, as that used for deter- 
+mining bulk density, shall be used. 
+
+8.2 Test Method — The prisms are set in the furnace and fired in oxidizing 
+atmosphere to the test temperature. The furnace shall be heated up to 500 °C 
+in one hour, and thereafter at a rate not exceeding 300°C/hour up to the 
+
+
+
+* Methods for chemical analysis of high silica refractory materials (first revision ). 
+fMethod of sampling and physical tests for refractory materials; Part XH Determina- 
+tion of bulk density (first revision ). 
+
+
+
+IS : 10047 - 1981 
+
+appropriate test temperature. The maximum temperature shall be maintained 
+within ±10°C for three hours and the furnace then allowed to cool natur- 
+ally. After coohng to the room temperature, the final linear measurements 
+shall be taken. The shrinkage or expansion shall be calculated with respect 
+to the original dimensions. 
+
+9. DETERMINATION OF MODULUS OF RUPTURE ( MOR ) 
+
+9.1 Test Specimens — 40x40x160 mm specimens prepared in accordance 
+with 3.3.2 shall be used for determining the modulus of rupture after con- 
+ducting the test for determination of linear change after firing. 
+
+9.2 Test Method — Any suitable central loading apparatus which is capable 
+of the specified rate of loading and of accurate measurement in the required 
+range may be used ( see Fig. 2 ). The test specimens measuring 40x40 x 
+160 mm shall be placed in the apparatus at room temperature so that the 
+single bearing edge is applied to the top face. The span shall be 100 mm 
+and the load shall be applied in the middle. Apply the load at a rate of 
+50:irl0 N/s until the fracture occurs and note the maximum load. The 
+MOR is calculated using the formula: 
+
+R=3 Wljlbd^ 
+
+where 
+
+i?=moduius of rupture in N/mm^ 
+
+PT—load in Newton at which the specimen fails, 
+
+/-=^ distance between the centre lines of the lower bearing edges 
+in mm, 
+
+6= width of the specimens in mm, and 
+
+i= depth of the specimen in mm. 
+
+The test shall be carried out on 3 prisms. 
+
+9.2.1 Modulus of rupture test may be carried out by the above method 
+on test prisms, which have been cooled after having been pre-fired at any 
+test temperature, as agreed to between the manufacturer and the purchaser. 
+
+10, DETERMINATION OF COLD CRUSHING STRENGTH ( CCS ) 
+
+10,1 Test Specimen — The half-prisms, obtained in the 'modulus of rupture' 
+tests shall be used for determining the cold crushing strength. The test 
+shall be carried out on all the six half prisms obtained after the modulus of 
+rupture test. 
+
+8 
+
+
+
+IS : 10047 - 1981 
+
+
+
+SIDE SUPPORTING 
+PLATE t 
+
+
+
+
+FRONT VIEW 
+
+
+
+R, R2SCREWED ROLLER 
+
+SUPPORT 
+R3 ROLLER FOR LOADING 
+
+SIDE VIEW 
+
+
+
+L 
+
+
+d 
+
+
+d^ 
+
+
+s 
+
+
+t 
+
+
+a 
+
+
+^ 
+
+
+h 
+
+
+220 
+
+
+10 
+
+
+6 
+
+
+100 
+
+
+8 
+
+
+4 
+
+
+50 
+
+
+■ 
+40 
+
+
+
+Ail dimensions in miliimetrcs. 
+Fig. 2 Steel Jig for Modulus of Rupture Test 
+
+10.2 Test Method — A mechanical or hydraulic crushing strength testing 
+machine ( see Fig. 3 ), shall be used for the determination of crushing 
+strength. Each half prism shall be tested for compressive strength on its 
+side faces, of which an area 40 x40 mm shall be placed between two hard 
+metal plates. This shall be at least 10 mm thick, 40 ±01 mm wide, more 
+than 40 mm long and their surfaces shall be plane to within 002 mm. The 
+plates shall preferably be of tungsten carbide or a steel with Vickers hard- 
+ness index of at least 600. During the test, the plate shall be guided without 
+any friction in such a way that the upper is maintained vertically above the 
+lower. One of the plates may be slightly inclined to permit perfect contact 
+between it and the face of the test specimen. The plate, test specimen and 
+suitable guides shall be placed in a compression machine, the upper plate 
+of which shall be mounted on a freely moving ball, seating centrally on the 
+axis of compression. The side or diameter of this platten shall not be 
+larger than 10 cm on account of the sample size of the test specimens. 
+
+
+
+IS : 10047 - 1981 
+
+
+
+
+STEEL 
+BLOCK 
+
+
+
+SOLID STEEL 
+BLOCK 
+
+
+
+
+TEST 
+SPECIMEN 
+
+
+
+All dimensions in millimetres. 
+
+Fig. 3 Loading Arrangement for CCS on Broken Prisms After 
+
+MoR Test 
+
+
+
+10 
+
+
+
+IS ; 10047 - 1981 
+
+The machine shall have an accuracy of ±1*5 percent for the smallest loads 
+used in the test. The load shall be increased at the rate of 100 N/cm^ up 
+to about half the expected crushing load and continued till the specimen 
+breaks. The load shall be applied uniformly. The CCS shall be calculated 
+in the following way: 
+
+CCS- W/A 
+where 
+
+W = total maximum load in Newtons; and 
+A ^ area of the specimen, in cm^. 
+
+10.2.1 The average value of the 6 half prisms shall be reported. The 
+above method shall be applied for all test specimens at different temperatures 
+as agreed to by the manufacturer and purchaser. 
+
+11. DETERMINATION OF PYROMETRIC CONE EQUIVALENT ( PCE ) 
+
+11.0 The object of this test is to determine the softening point of the 
+ramming masses by comparison of the test cones, prepared from the test 
+material with the standard cones. 
+
+11.1 Test Method — The test shall be carried out in accordance with 
+IS: 1528 (Part I)- 1 980*. 
+
+12. DETERMINATION OF THERMAL CONDUCTIVITY 
+
+12.1 Principle — The quantity of heat flowing at equilibrium through a 
+test panel under specified conditions is measured. The test is carried out 
+on a pre-fired sample. The test pieces are fired to specified temperature, at 
+which the tests are to be conducted, and the thermal conductivity deter- 
+mined at hot-face temperature not exceeding the pre-firing temperature. 
+The test may also be carried out after progressively higher pre-firing 
+temperatures. 
+
+12.2 Test Specimens — The test sample shall be of the size 230 x 
+1 14 X 76 mm. All the samples remaining after other tests shall be mixed 
+together and after thorough mixing a representative sample shall be taken 
+and the requisite quantity of water or any other liquid binder as needed 
+shall be added and rammed in a mould ( of size 230 X 114x76mm) 
+with a steel tamping tool. After completion of the moulding, the test 
+sample shall be air dried for 24 hours and dried at llO^C for another 
+24 hours. It is advisable to pre-fire the sample at SOO^C or at any other 
+temperature for 5 hours and cooled before carrying out the thermal 
+conductivity test. 
+
+12.3 Test Method — The thermal conductivity test shall be carried out by 
+any suitable method as agreed to between the supplier and the purchaser. 
+
+
+
+*Methods of sampling and physical tests for refractory materials: Part I Determina- 
+tion of pyrometric cone equivalent { PCE ) or softening point ( second revision ). 
+
+11 
+
+
+
+IS : 10047 - 1981 
+
+( Continued from page 2 ) 
+
+Members Representing 
+
+Shri K. Swaminathan Tata Iron & Steel Co Ltd, Jamshedpur 
+
+Shri B. N, Ghosh ( Alternate ) 
+Shri B. S. Venkataramiah Steel Authority of India Ltd. Bhilai Steel Plant, 
+
+Bhilai 
+Shri V. K, Nityanandan ( Alternate ) 
+Shri C. R. Rama Rao, Director General, ISI ( Ex-officio Member ) 
+
+Director ( Struc & Met ) 
+
+Secretary 
+
+Shri B. Mukherji 
+
+Deputy Director ( Met ), IS! 
+
+Panel for Monolithic Refractories and High Alumina Cements, 
+SMDC 18/P-7 
+
+Convener 
+Shri M. R. Vinayaka Associated Cement Companies Ltd, Bombay 
+
+Members 
+Shri S. K. Biswas ( Alternate to 
+Shri M. R. Vinayaka ) 
+Shri Amrik Singh Refractory Specialities ( India ) Ltd, New Delhi 
+
+Shri R. K. Kar ( Alternate ) 
+Shri Vivek N. Bhaskar Ishwar Industries Ltd, New Delhi 
+
+Shri H. V. Bhaskar Rao ( Alternate ) 
+Shri B. K. P. Chhibbar Steel Authority of India Ltd ( Bokaro Steel Ltd ), 
+
+Bokaro 
+Shri H. G. Upadhyay {Alternate ) 
+Shri T. K, Ghose Belpahar Refractories Ltd, Belpahar 
+
+Shri P. Bhattacharya ( Alternate ) 
+Shri I. C. Modi Steel Authority of India Ltd ( Rourkela Steel 
+
+Plant ), Rourkela 
+Shri R. K. Singh ( Alternate ) 
+Dr D, N. Nandy Kumardhubi Fireclay & Silica Works Ltd, Calcutta 
+
+Shri P. N. Mohanty ( Alternate ) 
+Shri K. K. Prasad Orissa Cement Ltd, Rajgangpur 
+
+Dr S. L. Kolhatkar ( Alternate ) 
+Dr T. V. Prasad Engineers India Ltd, New Delhi 
+
+Dr M. R. K. Rao National Metallurgical Laboratory ( CSIR ). 
+
+Jamshedpur 
+Shri M. C. Kundra ( Alternate ) 
+Shri M. V. Rangarao Cement Research Institute of India, New Delhi 
+
+Shri V. K. Arora ( Alternate ) 
+Shri R. Sankaran Bharat Heavy Electricals Ltd, Tiruchchirappalli 
+
+Shri C. S. R. Adhithyan ( Alternate ) 
+Dr N. R. Sircar Central Glass & Ceramic Research Institute 
+
+( CSIR ), Calcutta 
+Shri K. Ramesam ( Alternate ) 
+
+
+
+12 
+
+
+

@@ -1,0 +1,876 @@
+**************** 
+
+
+
+-k t^^ 
+
+
+
+
+Disclosure to Promote the Right To Information 
+
+Whereas the Parliament of India has set out to provide a practical regime of right to 
+information for citizens to secure access to information under the control of public authorities, 
+in order to promote transparency and accountability in the working of every public authority, 
+and whereas the attached publication of the Bureau of Indian Standards is of particular interest 
+to the public, particularly disadvantaged communities and those engaged in the pursuit of 
+education and knowledge, the attached public safety standard is made available to promote the 
+timely dissemination of this information in an accurate manner to the public. 
+
+
+
+
+Mazdoor Kisan Shakti Sangathan 
+"The Right to Information, The Right to Live'' 
+
+
+
+IS 10033 (1992) : Zircon and Graphite based core and mould 
+washes [MTD 14: Foundry] 
+
+
+
+
+Jawaharlal Nehru 
+'Step Out From the Old to the New" 
+
+
+
+aj^&vi iJii^s:y>K^ isb^^ni^seg 
+
+
+
+:<>5&i| mT'5K^5?::5:^>^i»l 
+
+
+
+K^^^iXSVCd^ 
+
+
+
+Satyanarayan Gangaram Pitroda 
+Invent a New India Using Knowledge 
+
+
+
+Bhartrhari — Nitisatakam 
+''Knowledge is such a treasure which cannot be stolen" 
+
+
+
+
+^'^^^r 
+
+
+
+k 
+
+
+
+
+BLANK PAGE 
+
+
+
+^*-^^^ 
+
+
+
+
+
+PROTECTED BY COPYRIGHT 
+
+
+
+IS 10033 : 1992 
+
+(Reaffirmed 2003) 
+
+Indian Standard 
+
+ZIRCON AND GRAPHITE BASED CORE AND 
+MOULD WASHES — SPECIFICATION 
+
+( First Revision ) 
+
+UDC 621-744-527-7 : 666-762-55 
+
+
+
+® BIS 1992 
+
+BUREAU OF INDIAN STANDARDS 
+
+MANAK BHAVAN. 9 BAHADUR SHAH ZAFAR MARG 
+NEW DELHI 1 10002 
+
+February 1992 Price Group 2 
+
+
+
+Foundry Sectional Committee, MTD 14 
+
+
+
+FOREWORD 
+
+This Indian Standard ( First Revision ) was adopted by the Bureau of Indian Standards, after the draft 
+finalized by the Foundry Sectional Committee had been approved by the Metallurgical Engineering 
+Division Council. 
+
+This Standard was first published in 1981. On the basis of experience gained during these years it has 
+been decided to revise this standard incorporating a table giving 12 grades of washes depending on the 
+physical form, carrier and the base refractory material. 
+
+The use of a refractory wash or coating on moulds and cores is done to achieve better surface finish. 
+The surface finish is mainly achieved by the refractoriness of the coating and its ability to form an 
+impervious layer on the mould or core surface. The wash coating or layer helps avoiding metal penetra- 
+tion and metal mould reaction. The wash may be either a water or an alcohol base as the carrier. The 
+coating strength is developed either by baking or by igniting the sample depending on the type of 
+carrier. 
+
+Zircon washes may be used for both steel and iron castings whereas the use of graphite wash is limited 
+mainly to iron castings. Depending on the mode of use the wash may be termed as Dipping or Brushing 
+variety. 
+
+For the purpose of deciding whether a particular requirement of this standard is complied with, the 
+final value, observed ot calculated, expressing the result of a test or analysis, shall be rounded off in 
+accordance with IS 2 : 1960 *Rules for rounding off numerical values {revised)\ The number of 
+significant places retained in the rounded off value should be the same as that of the specified value in 
+this standard. 
+
+
+
+IS 10033 : 1992 
+
+
+
+Indian Standard 
+
+
+
+ZIRCON AND GRAPHITE BASED CORE AND 
+MOULD WASHES — SPECIFICATION 
+
+( First Revision ) 
+
+
+
+IS No. 
+
+
+75 : 1973 
+
+
+1387 
+
+
+: 1967 
+
+
+3018 
+
+
+: 1977 
+
+
+4269 
+
+
+: 1981 
+
+
+
+1 SCOPE 
+
+This standard covers the requirements for 
+zircon and graphite based core and mould 
+washes used in foundries. 
+
+2 REFERENCES 
+
+The Indian Standards given below are necessary 
+adjuncts to this standard: 
+
+Title 
+
+Linseed oil, raw and refined 
+( second revision ) 
+
+General requirements for the 
+supply of metallurgical materials 
+{first revision ) 
+
+Standard silica sand for raw 
+material testing in foundries 
+
+Dextrin for use in foundries ( first 
+revision ) 
+
+10085 : 1982 Methods for chemical analysis of 
+zircon flour or sand 
+
+12446 : 1988 Bentonite for use in foundries 
+
+3 SUPPLY OF MATERIAL 
+
+General requirements relating to the supply of 
+material shall be as laid down in IS 1387 : 1967. 
+
+4 GRADES 
+
+There shall be M grades of washes depending on 
+the physical form as given in Table 1, 
+
+NOTE — Alcohol base wash should not contain 
+more than 5 percent methanol. 
+
+5 CONDITION OF THE MATERIAL 
+
+The material shall be of uniform nature free 
+from lumps whether in powder, paste or in 
+ready to use form. 
+
+6 CHEMICAL COMPOSITION 
+
+6.1 Zircon Wash 
+
+When tested in accordance with IS 10085 : 1982 
+the ZrOg content of ZW and ZA grade wash shall 
+not be less than 60 percent. 
+
+NOTES 
+
+1 For a minimum of 40 percent ZrOa content the 
+percentage of zircon flour in^he wash shall be mini- 
+mum 62*5 percent. 
+
+
+
+2 For certain specific applications higher ZrO* 
+content may be required which will be as per the 
+agreement between the customer and supplier. 
+
+Table 1 Grades of Washes 
+
+( Clause 4 ) 
+
+
+
+Name of the Wash 
+
+(1) 
+
+Water Base Zircon Wash 
+Powder 
+
+Water Base Zircon Wash Paste 
+
+Water Base Zircon Wash 
+Ready to Use 
+
+Water Base Graphite Wash 
+Powder 
+
+Water Base Graphite Wash 
+Paste 
+
+Water Base Graphite Wash 
+Ready to Use 
+
+Alcohol Base Zircon Wash 
+Powder 
+
+Alcohol Base Zircon Wash 
+Paste 
+
+Alcohol Base Zircon Wash 
+Ready to Use 
+
+Alcohol Base Graphite Wash 
+Powder 
+
+Alcohol Base Graphite Wash 
+
+Paste 
+
+Alcohol Base Graphite Wash 
+Ready to Use 
+
+
+
+Grades 
+
+(2) 
+ZW — Powder wash 
+
+
+
+ZW- 
+ZW- 
+
+GW- 
+
+GW- 
+
+GW* 
+
+ZA- 
+
+ZA- 
+
+ZA- 
+
+GA- 
+
+GA- 
+
+GA- 
+
+
+
+- Paste was 
+
+- Ready to use 
+
+-Powder wash 
+
+- Paste wash 
+
+- Ready to use 
+wash 
+
+Powder wash 
+
+- Paste wash 
+
+- Ready to use 
+
+- Powder wash 
+
+- Paste wash 
+
+- Ready to use 
+
+
+
+7 TEST REQUIREMENTS 
+
+7.1 Method of test for washes, shall be as given 
+in Annex A. 
+
+7.2 Settling Tendency 
+
+Grade GA and GW shall not settle at all 
+when left undistrubed for 1 h after adjustment 
+of the specified baume. Grades ZW and ZA may 
+settle to some extent but shall be such that it is 
+possible to remix by minor stirring only. The 
+settled material shall not form hard mass. After 
+standing for 24 h undisturbed condition the 
+clear liquid separation at the top shall be 
+3 percent maximum for ZA and ZW. 
+
+
+
+1 
+
+
+
+IS 10033 : 1992 
+
+7.3 Coating Quality 
+
+Wash when prepared and applied as per the 
+recoi^sieiidation of supplier shall be of the 
+following quality: . 
+
+a) The wash shall give an uniform coating - 
+free of cracks before and after baking. 
+
+b) The dried coating shall be hard enpugh ; 
+so that by scratching with finger nail, ^ 
+coating does not peel off and by gentle 
+rubbing material is not transferred to the 
+finger. 
+
+c) Alcohol base wash coated surface after 
+ignition shall be free from wet patches on 
+the surface. ' 
+
+7.4 Rheological Properties 
+
+The wash recommended for coating by dipping 
+and spraying shall be free from dripping. 
+
+7.4.1 In the case of water based wash 
+recommended for brush and swabing applica- 
+tion a certain amount of flow is desirable. 
+
+7.5 Bench Life 
+
+Mixed water based wash shall not decompose 
+within 76 hours of storage in open condition. 
+
+7.6 Thermal Stability 
+
+The painted surface of the specimen ( 50 mm x 
+50 mm ) shall be free from any crack for water 
+base zircon washes. For graphite wash ( water 
+
+
+
+base ) isolated hair line cracks are allowed on 
+the surface but the coating shall not spall out 
+and leave the core surface as long as the 
+specimen is hot. 
+
+8 SAMPLING 
+
+Sampling for testing shall be in accordance with 
+Annex B. 
+
+9 STORAGE QUALITY 
+
+The user shall store the material as stipulated 
+by the manufacturer. The period for which a 
+wash may be stored without deterioration shall 
+be indicated by the manufacturer. Within the 
+shelf life period if the material does not meet 
+the requirements given in 7, it shall be declared 
+as not complying with the standard even 
+though the lot might have been accepted after 
+testing on its arrival. 
+
+10 PACKING 
+
+The packing shall be as agreed between the 
+purchaser and the manufacturer. 
+
+11 MARKING 
+
+11.1 The bags or the containers shall be marked 
+with manufacturer's name, production batch 
+No., date of manufacture and date of expiry. 
+
+11.2 The material may also be marked with the 
+Standard Mark. 
+
+
+
+ANNEX A 
+( Clause 7.1 ) 
+
+TESTING PROCEDURE FOR THE WASHES 
+
+
+
+A-1 RAW MATERIALS REQUIRED SHALL 
+MEET THE FOLLOWING REQUIREMENTS 
+
+A-1.1 Sand 
+
+Silica sand as specified in IS 3018 : 1977. 
+
+A-L2 Bentonite 
+
+Bentonite conforming to IS 12446 : 1988. 
+
+A-1. 3 Yellow Dextrin 
+
+Dextrin conforming to Grade 1 of IS 4269 : 
+1981. 
+
+A.l*4 Fireclay 
+
+Plastic. 
+
+A-L5 Linseed Oil 
+
+Raw linseed oil conforming to Grade 1 of 
+IS 75 : 1973. 
+
+
+
+A.1.6 Wash 
+
+Wash under test either in paste or powder form. 
+A-L7 Carrier 
+
+Water or the specified solvent for the wash. 
+A-2 APPARATUS 
+
+A-2.1 Roller type laboratory sand mill of 2 to 
+5 kg capacity. 
+
+A-2.2 Polythene beaker of 2 litre capacity. 
+
+A-2,3 Electrical stirrer. 
+
+A-2.4 Laboratory core baking oven with air 
+circulation and temperature control, 
+
+A-2.5 Muffle furnace capable of maintaining 
+1 OOO^C ± 5°C. 
+
+A=2.6 Standard sand testing equipments. 
+A-IJ pK meter. 
+
+
+
+IS 10032 ta991 
+
+
+
+A-3 COMPOSITION OF SAND AND ITS 
+PHYSICAL PROPERTIES FOR TESTING 
+WATER BASE ZIRCON WASHES 
+
+
+
+A-3.1 Composition 
+
+Sand 
+Bentonite 
+
+
+
+100 parts 
+
+6-8 percent of sand by 
+mass 
+
+Pireclay ( Optional ) 2 percent of sand by 
+
+mass 
+
+Y, Dextrin 0*5- 1 percent of sand by 
+
+mass 
+
+Water Desired quantity 
+
+^OTE — ^ This sand composition is mainly used so 
+that during test it does not interfere in theevaiuation 
+of wash quahty. 
+
+Physical Properties: 
+
+Moisture, percent 5*2 to 6-0 
+
+Permeability 100 to 150 
+
+Green Crushing Strength 0*04 to 0-06 
+
+(MPa) 
+
+A-3,2 Preparation of the Wash 
+
+Wash shall be prepared from the sample drawn 
+as in 8 and mixed in the mechanical stirrer with 
+the specified carrier in a beaker of 2-Htres 
+capacity. The volume shall not be less than 
+1-5 litre. For water base zircbn washes during 
+initial mixing the Baume' shall be adjusted to 
+84**, Min. Mixing time shall not be Icssthan 
+25 minutes. Water base washes shall be kept 
+overnight in sealed condition before adjustment 
+of the final Baume' for test ( 82^=* Be for ZW). 
+
+For all other grades of washes the Baume', during 
+initial mixing shall be kept 10 points above the 
+specified Baume' for application. Before measur- 
+ing the Baume' the air bubble on the surface 
+shall be broken by gentle tapping on the 
+container. 
+
+A-3.3 Coating Procedure ( Water Base Zircon 
+Washes ) 
+
+Five numbers of 50 mm x 50 mm standard sand 
+samples shall be prepared from the sand mix 
+( see A-3.1 ). Four samples are required for 
+dipping, drying and firing and the other shall 
+be fired after baking without wash coating as a 
+l^lank sample. 
+
+For brushing variety the samples shall be dipped 
+in the wash soaked for 7-10 seconds, taken out 
+vertically and quickly kept inverted on the 
+plate. 
+
+Tor dipping variety, after inverting the speci- 
+men as above, a little extra wash shall be given 
+on the top of the coated specimen with the help 
+of a spoon/spatula and by rocking, it shall be 
+
+distributed even on the top surface. Care shall 
+
+
+
+be taken so tbaltl^e:e?(tt^ Wash does hot trickle 
+to the sides. ; 
+
+A-3.4 IJripping Test 
+
+The sample after soaking for 7-10 seconds, shall 
+be taken out and lightly shaken thrice to drain 
+out the extra wash. Observation shall be made 
+after inverting the sample for dripping. 
+
+A-3.4 Drying and Firing 
+
+Samples shall be air dried for 15 minutes before 
+coating and 3Q minutes after coating. Coated 
+samples' shall then be dried at 220''C for 2 hours, 
+cooled to room temperature and .fired at 
+1 OOO^C ± 5X for 5 to 10 minutes. Two 
+samples for each soaking time shall be fired and 
+observation shall be made for cracking of the 
+top disc. 
+
+A-3.6 pK Determination 
+
+10 gms of wash ( dry powder ) shall be mixed 
+with 100 ml distilled water and^H shall be 
+determined by any standard equipment. The 
+wash after mixing shall be kept for 30 minutes 
+before it is tested. 
+
+A-3.7 Settling Tendency 
+
+The prepared wash at specified Baume' shall be 
+kept undisturbed for Ih. Settling sliall be chec- 
+ked by dipping a glass rod slowly up to the 
+bottom. 
+
+A-3.8 Bench Xife 
+
+200 ml of wash after preparation shall be kept 
+in a clean beaker. The top shall be properly 
+closed by a polythene paper to avoid evapora- 
+tion. Bad smell and foaming on stirring shall 
+indicate fermentation. 
+
+A-3.9 Coating and Testing Procedure for Water 
+Base Graphite Wash 
+
+Clauses A-3.4, A-3.6, A-3.7 and A-3.8 shall apply 
+except the samples to be used for coating. Any 
+oil sand tensile specimen having tensile strength 
+more than 2-413 MPa in properly baked condi- 
+tion shall be used. Drying time after coating 
+shall be 1/2 hour at 220°C. 
+
+A-4 THERMAL STABILITY 
+
+A-4.1 Baked tensile specimen as mentioned 
+in A-3,9 shall be dipped and soaked for 7 to 10 
+seconds ( at specified Baume' ) and shall be kept 
+inverted after taking out from wash. Dryed in 
+the oven for 1/2 hour at 220''C. Cooled to room 
+temperature in desiccator and fired for 
+3 minutes at 1 OOO^C ± S'^C. The specimens 
+shall be visually examined after taking out from 
+the furnace. There should be no crack or 
+flaking of the paint. 
+
+
+
+IS 10033 : 1992 
+
+
+
+A-5 COATING AND TESTING PROCEDURE 
+FOR ALCOHOL BASE WASHES 
+
+A-5,1 Specimens for coating shall be same as 
+mentioned in A-3.9. 
+
+
+
+A-5.2 The specimen shall be dipped at 55 ± 2* 
+Baume' and soaked for 1 to 2 seconds and taken 
+out. It shall be then ignited. 
+
+A-5.3 Observations as given in 7.3 ( a, b, c > 
+shall be made after the flame is extinguished. 
+
+
+
+ANNEX B 
+( Item 8 ) 
+
+SAMPLING AND CRITERIA TOR CONFORMITY OF WASHES 
+
+
+
+B-1 LOT 
+
+B-l*l In any consignment, all the containers/ 
+bags containing the same grade of material and 
+manufactured under similar conditions shall be 
+grouped together to constitute a lot, 
+
+B-1.1.1 Samples shall be taken and tested from 
+each lot for ascertaining the conformity. 
+
+B-2 SCALE OF SAMPLING 
+
+The number of containers/bags, to be selected, 
+shall be according to col 1 and 2 of Table 2. 
+
+B-2.2 The containers/bags shall be selected at 
+random. For this purpose, the provisions given 
+in IS 4905 : 1968 shall be used. 
+
+B-3 NUMBER OF TESTS AND CRITERIA 
+FOR CONFORMITY 
+
+B-3*l From each of the selected container/bags 
+specified in col 1 and 2 of Table 2, adequate 
+quantity of material shall be taken and mixed 
+thoroughly to form a composite sample. 
+
+
+
+Table 2 Scale of Sampling 
+
+( Clause B-2 ) 
+
+
+
+No. of Containers/Bags 
+in the lot 
+
+
+No. of Containers/Bags 
+to be Selected 
+
+
+(1) 
+
+
+(2) 
+
+
+Up to 50 
+51 to 100 
+
+
+5 
+8 
+
+
+101 to 300 
+
+
+13 
+
+
+301 to 500 
+
+
+20 
+
+
+501 and above 
+
+
+32 
+
+
+
+B-3.1.1 The sample prepared as specified 
+in B-3.1 shall be used to test chemical composi- 
+tion settling tendency, coating quality,, 
+rheological properties, bench life. 
+
+B-3.2 The lot shall be considered as conforming 
+to the specification, if the sample tested for 
+various tests ( see B-3.1.1 ) conform to the 
+corresponding requirements. 
+
+
+
+Standard Mark 
+
+The use of the Standard Mark is governed by the provisions of the Bureau of Indian 
+Standards Act, 1986 and the Rules and Regulations made thereunder. The Standard Mark on 
+products covered by an Indian Standard conveys the assurance that they have been 
+produced to comply with the requirements of that standard under a well defined system of 
+inspection, tosting and quality control which is devised and supervised by BIS and operated 
+by the producer. Standard marked products are also continuously checked by BIS for con- 
+formity to that standard as a further safeguard. Details of conditions under which a licence 
+for the use oft he Standard Mark may be granted to manufacturers or producers may be 
+obtained from the Bureau of Indian Standards. 
+
+
+
+Bureau of Indian Standards 
+
+BIS is a statutory institution established under the Bureau of Indian Standards Act, 1986 to promott 
+harmonious development of the activities of standardization, marking and quality certification of goods 
+and attending to connected matters in the country. 
+
+^Copyright 
+
+■ BIS has the copyright of all its publications. No part of these publications may be reproduced in any 
+form without the prior permission in writing of BIS. This does not preclude the free use, in the course of 
+implementing the standard, of necessary details, such as symbols and sizes, type or grade designations. 
+Enquiries relating to copyright be addressed to the Director ( Publications ), BIS. 
+
+Revision of Indian Standards 
+
+Indian Standards are reviewed periodically and revised, when necessary and amendments, if any, are 
+issued from time to time. Users of Indian Standards should ascertain that they are in possession of the 
+latest amendments or edition. Comments on this Indian Standard may be sent to BIS giving the 
+following reference: 
+
+Doc: No. MTD 14 ( 3540) 
+
+
+
+Amendments Issued Since Publication 
+
+Amend No. Date of Issue Text Afifected 
+
+
+
+BUREAU OF INDIAN STANDARDS 
+
+Headquarters : 
+
+Manak Bhavan, 9 Bahadur Shah Zafar Marg, New Delhi 110002 Telegrams : Manaksanstha 
+
+Telephones : 331 01 31, 331 13 15 ( Common to all Offices ) 
+
+Regional Offices : Telephone 
+
+Central : Manan Bhavan, 9 Bhadur Shah Zafar Marg 1331 qj 3^ 
+
+NEW DELHI 110002 )331 13 75 
+
+Eastern : 1/14 C. I. T. Scheme VII M, V. L P. Road, Maniktola 87 86 62 
+
+CALCUTTA 700054 
+
+Northern : SCO 445-446, Sector 35-C, CHANDIGARH 160036 53 38 43 
+
+Southern : C. L T. Campus, IV Cross Road, MADRAS 600113 235 02 16 
+
+Western : Manakalaya, E9 MIDC, Marol, Andheri ( East ) 632 92 95 
+
+BOMBAY 400093 
+
+Branches : AHMADABAD. BANGALORE. BHOPAL. BHUBANESHWAR. 
+
+COIMBATORE. FARIDABAD. GHAZIABAD. GUWAHATI. HYDERABAD. 
+JAIPUR. KANPUR. LUCKNOW. PATNA. THIRUVANANTHAPURAM. 
+
+
+
+Pripted at New India Frintintf Ptew. Khuria, India 
+
+
+

@@ -1,0 +1,770 @@
+**************** 
+
+
+-k  t^^ 
+
+
+Disclosure  to  Promote  the  Right  To  Information 
+
+Whereas  the  Parliament  of  India  has  set  out  to  provide  a  practical  regime  of  right  to 
+information  for  citizens  to  secure  access  to  information  under  the  control  of  public  authorities, 
+in  order  to  promote  transparency  and  accountability  in  the  working  of  every  public  authority, 
+and  whereas  the  attached  publication  of  the  Bureau  of  Indian  Standards  is  of  particular  interest 
+to  the  public,  particularly  disadvantaged  communities  and  those  engaged  in  the  pursuit  of 
+education  and  knowledge,  the  attached  public  safety  standard  is  made  available  to  promote  the 
+timely  dissemination  of  this  information  in  an  accurate  manner  to  the  public. 
+
+
+Mazdoor  Kisan  Shakti  Sangathan 
+"The  Right  to  Information,  The  Right  to  Live'' 
+
+
+^^^Eii^^^^^tt^i  iil%k^K>S:^^^T<:^^ 
+
+
+IS  10008  (1992) :  Beater  addition  jointings 
+[MED  30:  Gaskets  and  Packing] 
+
+
+Jawaharlal  Nehru 
+'Step  Out  From  the  Old  to  the  New" 
+
+
+Specification 
+
+
+aj^&vi  iJii^s:y>K^  isb^^ni^seg 
+
+
+:<>5&i|  mT'5K^5?::5:^>^i»l 
+
+
+K^^^iXSVCd^ 
+
+
+Satyanarayan  Gangaram  Pitroda 
+Invent  a  New  India  Using  Knowledge 
+
+
+Bhartrhari — Nitisatakam 
+''Knowledge  is  such  a  treasure  which  cannot  be  stolen" 
+
+
+^'^^^r 
+
+
+k 
+
+
+BLANK  PAGE 
+
+
+^*-^^^ 
+
+
+PROTECTED  BY  COPYRIGHT 
+
+
+IS  10008 :  1992 
+
+(  Reafflrmed  2003 ) 
+
+Edition  2.1 
+
+(1994-06) 
+
+
+Indian  Standard 
+
+BEATER  ADDITION  JOINTINGS  — 
+SPECIFICATION 
+
+(  First  Revision  ) 
+
+(Incorporating  Amendment  No   1) 
+UDC  621-762  642  4 
+
+
+©  BIS  2003 
+
+BUREAU    OF    INDIAN    STANDARDS 
+
+MANAK  BHAVAN,  9  BAHADUR  SHAH  ZAFAR  MARG 
+NEW  DELHI  110002 
+
+
+Price  Group  2 
+
+
+Gaaketa  and  Packings  Sectional  Committee,  LM  19 
+
+
+FOREWORD 
+
+Thia  Indian  Standard  (First  Revision)  was  adopted  by  the  Bureau  of  Indian  Standards,  afler  the 
+
+draft  finalized  by  the  Gaskets  and  Packings  Sectional  Committee  had  been  approved  by  the  Light 
+
+Mechanical  Engineering  Division  Council. 
+
+This  Indian  Standard  originally  published  in   1981  has  be*^n  revised  to  modify  the  various 
+
+requirements   so    as   to   align    them    with    the   accepted   practice?.   Also,   in   this   revision,    the 
+
+requirementB  and  teats  for  moisture  content,  loss  on  ignition  and  water  absorption  have  been 
+
+deleted  and  instead  the  requirements  for  resistance  to  Oil  No,  3  and  Fuel  B  conformmg  to 
+
+IS  2712  .  1979  have  been  included 
+
+This  edition  2  1  incorporates  Amendment  No   1  (May  1994).  Side  bar  indicates  modification  of  the 
+
+text  as  the  result  of  incorporation  of  the  amendment. 
+
+
+IS  10008  :  1992 
+
+
+Indian  Standard 
+
+
+BEATER  ADDITION  JOINTINGS  — 
+SPECIFICATION 
+
+
+(  First  Revision  ) 
+
+
+1  SCOPE 
+
+Covers  the  requirements  far  ashes tas  fibre 
+jomtiBg  sheet  manufactured  by  a  heater 
+prot'G&s. 
+
+2  REFERENCES 
+
+TS  2712  .  197*3  'Compressed  asbestos  fibre 
+jointings  ( second  revimon  V  is  a  necessar^^ 
+adjunct  to  this  standard, 
+
+3  FINISH 
+
+The  surface  shall  be  reasonably  smooth  and 
+free  from  lumps  and  indentations 
+
+4  DIMENSIONS 
+
+4.1  Sixe 
+
+The  length  and  the  width  of  the  sheet  shall  be 
+as  agreed  upon  between  the  manufacturer  and 
+the  purchaser 
+
+4.2  Thickness 
+
+The  sheets  shall  have  permissible  variation  of 
+nominal  thickness  as  mentioned  below. 
+
+
+Nominal 
+Thickness 
+
+mm 
+
+
+Permissible 
+
+Variation 
+
+Thickness 
+
+Mm 
+
+
+Maximum 
+
+Permissible 
+
+Thickness 
+
+mm 
+
+
+0  40 
+0,50 
+0,60 
+0.70 
+0.75 
+0  80 
+1,00 
+1,20 
+150 
+
+
+0.35 
+0  45 
+0  54 
+0  63 
+0  67 
+0.72 
+0.90 
+108 
+1.37 
+
+
+0  45 
+0  55 
+
+0  66 
+
+0.77 
+
+o»a 
+
+0,88 
+
+1  10 
+132 
+l,fi3 
+
+
+NOTE  -  -  The  above  thickness  tolerances  are 
+permiasibLe  variations  applicable  bo  a.  given  lot  of  sheets 
+or  gaskets,  Whijre  other  thickayas  of  sheets  ure 
+necessary  due  to  application,  the  tolerance  on  the 
+individual  ahtaet  shall  be  aa  dgreeti  to  betwiien  the 
+purchas&r  and  the  supplier 
+
+4*2,1  The  thickness  of  the  unconditioned 
+specimens  shall  be  measured  with  a  suitable 
+measuring  instrument  with  an  accuracy  of 
+0.01  mm  with  a  contact  gauge  diameter  of 
+e.3  mm. 
+
+
+5  CONDmONING  OF  TEST  PIECE 
+
+Conditioning"  of  the  specimens  shall  be  carried 
+out  prior  to  all  tests  as  laid  down  in  Annex  A. 
+
+6  DENSITY 
+
+The  range  of  density  of  the  jointing  shall  be 
+between  0  8  g/cm  to  1  3  g/cm  ,  Higher  value  of 
+density  can  be  specified  if  agreed  to  between 
+the  purchaser  and  supplier 
+
+7  TENSILE  STRENGTH 
+
+The  minimum  tensile  strength  when  tested  in 
+accordance  with  Annex  B  a  hall  be  4  MPa 
+
+8  COMPRESSIBILITY 
+
+When  tested  in  accordance  with  Annex  C,  the 
+compression  values  shall  comply  with  the 
+following: 
+
+Min  --  15%     Max  —  50% 
+
+9  RECOVERY 
+
+Atter  a  period  of  1  min,  the  specinneTis  tested 
+under  6  (compressibihtyj  shall  be  tested  for 
+recovery  in  accordance  with  Annex  C  and  the 
+imnimum  value  expressed  as  the  average  shall 
+be  20  percent 
+
+10  RESISTANCE  TO  OIL  NO.  3  AND 
+FUELB 
+
+The  requirements  shall  be  as  agreed  to  between 
+the  purchaser  and  the  supplier.  The  method  of 
+test  shall  be  as  per  Annex  E  of  JS  2712  .  1979 
+
+11  SAMPLING 
+
+The  sample  size  shall  be  as  specified  in 
+Annex  D. 
+
+13  MARKING 
+
+Each  sheet  shall  be  as  identified  by  the 
+following  information  on  a  label  pasted  in  one 
+corner; 
+
+a)  Indication  of  the  source  of  manufacture, 
+
+b)  Grade,  and 
+
+c)  Thickness. 
+
+13  PACKING 
+
+Beater  addition  jointings  may  be  supplied  in 
+sheet  or  in  rolls  and  shall  be  suitably  packed  to 
+prevent  damage  in  transit. 
+
+
+IS  10008 :  1992 
+
+
+ANNEXA 
+
+(  Clause  5  ) 
+METHOD  OF  CONDITIONING 
+
+
+A-1  Clean  cut  test  pieces  are  conditioned  by 
+placing  them  in  an  oven  at  a  temperature  of 
+100  ±  2°C  for  1  h 
+
+A-2  The  test  piece/pieces  shall  then  be  allowed 
+to  cool  to  room  temperature  for  at  least  1  h 
+
+
+before  the  tests  are  carried  out 
+
+A-3  Cooling  shall  be  carried  out  in  a  desiccator 
+containing  anhydrous  calcium  chloride 
+
+A-4  Sulphuric  acid  shall  never  be  used  in  the 
+desiccator  for  beater  addition  jointings. 
+
+
+ANNEXE 
+
+(  Clause  7  ) 
+TEST  FOR  TENSILE  STRENGTH 
+
+
+B-1  The  test  shall  be  carried  out  on  six  test 
+pieces. 
+
+B-2  Each  test  piece  shall  be  230  mm  long  and 
+25  mm  wide.  The  test  pieces  shall  be  cut  from 
+the  sheet,  preferably  with  a  die  punch,  in  such 
+a  manner  that  the  longest  axis  is  at  right 
+angles  to  the  grain  direction. 
+
+B-3  The  test  pieces  shall  have  clean  and 
+uniform  edges.  Samples  with  dents,  uneven  cut 
+or  any  other  deformity  shall  be  discarded. 
+
+B-4  Immediately  on  removal  from  the 
+desiccator,  the  thickness  of  each  Lest  piece  shall 
+be  measured  with  a  micrometer  at  about  four 
+places  within  50  mm  on  both  sides  of  the 
+centre.  The  smallest  dimensions  shall  be  taken 
+as  the  thickness. 
+
+B-5  After  measurement,  each  test  piece  shall 
+be  gripped  between  the  jaws  of  a  suitable 
+tensile  testing  machine,  the  distance  between 
+the  jaws  beitig  approximately  100  mm. 
+
+B-6  The  rate  of  traverse  of  the  moving  jaw  of 
+the  machine  shall  be  230  mm/mi n 
+
+B-7  In  case  the  test  piece  breaks  at  the  jaw,  the 
+reading  should  not  be  taken  into  consideration. 
+
+B-8  The  tensile  strength  shall  be  determined 
+
+as: 
+
+Breaking  load 
+
+Cross-section  area  of  the  test  piece 
+
+
+B-9  About  4  readings  shall  be  available  to 
+obtain  the  average  tensile  strength 
+
+B-10  ACCEPTABILITY  CRITERIA 
+
+B-lO.l  The  average  of  the  six  readings  obtained 
+on  the  specimens  as  described  above  shall  meet 
+the  minimum  requirement  of  the  specified 
+value  of  tensile  strength  given  in  the 
+specification  for  every  BTA  jointing  material. 
+The  maximum  permissible  number  of 
+individual  readings  not  meeting  the  minimum 
+requirement  of  the  specified  value  shall  be  3. 
+
+B-10.2  When  the  sheets  for  testing  tensile 
+strength  are  drawn  on  the  basis  of  lot  sizes 
+given  in  Annex  D  the  permissible  number  of 
+sheets  faihng  to  meet  the  minimum 
+requirement  of  the  specified  value  is  given 
+below. 
+
+
+Lot  Size  Croup 
+
+Rejection  No,  {  R  ) 
+
+A 
+
+0 
+
+B 
+
+1 
+
+C 
+
+1 
+
+D 
+
+2 
+
+If  the  total  number  of  non- conforming  sheets  is 
+greater  than  the  corresponding  rejection 
+number  R  given  in  the  above  table,  the  lot  shall 
+be  rejected. 
+
+
+IS  10008 :  1992 
+
+
+ANNEX  C 
+
+(  Clauses  8  and  9  ) 
+TEST  FOR  COMPRESSIBILITY  AND  RECOVERY 
+
+
+C-1  The  test  shall  be  earned  out  on  four  test 
+pieces  to  obtain  the  average  result. 
+
+C-2  The  size  of  the  test  piece  shall 
+be  50  X  50  mm  and  thickness  1-6  mm- 
+
+C-3  APPARATUS 
+
+C-3,1  Anvil 
+
+A  hardened  and  ground  surface  of  a  minimum 
+diameter  of  32  mm 
+
+C-3.2  Penetrator 
+
+A  steel  cylinder  with  the  end  hardened  and 
+^ound  and  of  6  3  +  0  025  mm  diameter  The 
+penetrator  is  guided  m  its  descent  so  that  the 
+surface  remains  parallel  to  the  anvil 
+
+C-3.3  Dial 
+
+A  micrometer  indicator  dial  reading  to 
+0.01  mm. 
+
+C-3A  Pre-load 
+
+A  pre-load  of  2.25  kg- which  includes  the  weight 
+of  the  penetrator  to  an  accuracy  of  ±1  percent 
+
+C-3.5  Loading  Device 
+
+A  device  for  applying  a  major  load  of  1 10  0  kg  to 
+an  accuracy  of  ±  1  percent  which  is  addition  to 
+the  pre-load. 
+
+C-4  TEST  METHOD 
+
+C -4*1  Each  Lest  specimea  or  set  of  plied  test 
+specimens  i.s  centred  on  the  anvil  and  the 
+pre-load  is  apphed  gently  and  held  for  15  s, 
+when  the  thickness  of  the  specimen  under 
+pre-load  i.s  reail  to  the  nearest  0.002  mm  and 
+recorded  (  P  ) 
+
+C-4.2  The  major  load  is  then  apphed  in  a  slow 
+uniform  manner,  so  that  the  total  load  is 
+applied  within  10  s  The  total  load  is 
+maintained  for  60  s,  when  the  compressed 
+thickness  of  the  specimen  is  read  to  the  nearest 
+0  002  mm  and  recorded  (  M  ). 
+
+
+C-4.3  The  major  load  is  then  immediately 
+removed,  leaving  the  pre-load,  and  after  a 
+period  of  60  s  the  recovered  thickness  of  the 
+specimen  under  the  original  pre-load  is  read  to 
+the  nearest  0.002  mm  and  recorded  {  R). 
+
+C-5  CALCULATION 
+
+
+C-5.1  Compressibility,  percent  ~ 
+
+
+P-M 
+
+
+X  100 
+
+
+C-5,2  Recovery^  percent  = 
+
+
+R-M 
+P-M 
+
+
+100 
+
+
+C-6  ACCEPTABILITY  CRITERIA 
+
+C-6.1  The  average  of  four  readings  obtained  on 
+the  specimens  as  described  above  shall  meet 
+the  minimum  requirements  of  the  specified 
+values  of  compressibility  and  recovery  given  in 
+the  specifications  for  every  BTA  jointing 
+material  The  individual  value  of 
+compressibility  obtained  shalJ  not  go  beyond  -4 
+percent  of  the  minimum  value  and  +4  percent 
+of  the  maximum  value  The  individual  value  of 
+recovery  obtained  shall  not  go  beyond  -5 
+percent  of  the  minimum  value 
+
+C -6 ,2  When  the  number  of  sheets  for  testing 
+conipressibihty  are  drawn  on  the  basis  of  Jot 
+sizes  given  in  Annex  D  the  permissible  number 
+of  sheets  failing  to  meet  the  minimum 
+requirement  of  the  specified  value  is  given 
+below 
+
+
+Size  Group 
+
+Rejection  No  {  R  ) 
+
+A 
+
+0 
+
+B 
+
+1 
+
+C 
+
+1 
+
+D 
+
+2 
+
+If  the  total  number  of  tion -conforming  sheets  is 
+greater  than  the  corresponding  rejection 
+number  ii  given  in  the  above  table,  the  lot  shall 
+be  rejected. 
+
+
+IS  10008  1 1992 
+
+
+ANNEXD 
+
+(  Clause  11  } 
+
+SAMPLING 
+
+
+SI  No. 
+
+Test 
+
+Group  A 
+
+Lot  Size 
+
+Up  to 
+
+250  kg 
+
+Sample 
+
+Size 
+
+Group  B 
+Lot  Size 
+
+251- 
+500  kg 
+
+Group  C 
+Lot  Size 
+
+501- 
+1  000  kg 
+
+Croup  D 
+Lot  Size 
+
+Over 
+1  000  kg 
+
+i) 
+
+Thickness 
+
+1 
+
+2 
+
+4 
+
+5 
+
+lij 
+
+Density 
+
+1 
+
+2 
+
+3 
+
+4 
+
+lii) 
+
+Tensile  strength 
+
+2 
+
+3 
+
+5 
+
+6 
+
+IV ) 
+
+Compressi 
+
+bility 
+
+1 
+
+2 
+
+ii 
+
+4 
+
+v) 
+
+Recovery 
+
+1 
+
+2 
+
+3 
+
+4 
+
+vi) 
+
+Thickness  changes 
+
+-Oil 
+KiieJ 
+
+1 
+1 
+
+1 
+1 
+
+2 
+2 
+
+3 
+3 
+
+Standard  Mark 
+
+The  use  of  the  Standard  Mark  is  governed  by  the  provigions  of  the  Bureau  of  Indian 
+Standards  Act,  1986  and  the  Rules  and  Regulations  made  thereunder.  The  Standard  Mark  on 
+products  covered  by  an  Indian  Standard  conveys  the  assurance  that  they  have  been  produced 
+to  comply  with  the  requirements  of  that  standard  under  a  well  defined  system  of  inspection ^ 
+testing  and  quality  control  which  is  devised  and  supervised  by  BIS  and  operated  by  the 
+producer.  Standard  marked  products  are  also  continuously  checked  by  BIS  for  conformity  to 
+that  standard  as  a  iurther  safegnard.  Details  of  conditions  under  which  a  licence  for  the  use  of 
+the  Standard  Mark  may  be  granted  to  manufacturers  or  producers  may  be  obtained  from  the 
+Bureau  of  Indian  Standards. 
+
+
+Bureau  of  Indian  Standards 
+
+BIS  IS  a  statutory  institution  established  under  the  Bureau,  of  Indian  Standnrda  Acty  1986  to  promote 
+harmonious  development  of  the  activities  of  standardization,  marking  and  quality  certification  f>f  goods  and 
+attending  to  connected  matters  in.  the  country 
+
+BIS  has  the  copyright  of  all  its  publications  No  part  of  these  piibli cations  may  be  reproduced  in  any  fortii 
+without  the  prior  permission  m  writing  of  BIS  This  does  not  preclude  the  free  use,  in  the  course  of 
+implementing  the  standard,  of  necessary  details,  such  as  symbols  and  sizes,  type  or  grade  designations 
+Enquiries  relating  to  copyright  be  addressed  to  the  Director  (Publications),  BTS 
+
+Review  of  Indian  Standards 
+
+Amendments  are  issued  to  standards  as  the  need  anses  on  the  basis  of  comments  Standards  are  alao 
+reviewed  periodically,  a  standard  alang  with  amendments  is  reaffirmed  when  such  review  mdicates  that  no 
+changes  are  needed,  if  the  review  indicates  that  changes  are  needed,  it  is  taken  up  for  revision  Users  of 
+Indian  Standards  should  ascertain  that  they  are  in  possession  of  the  latest  amendments  or  edition  by 
+refernng  to  the  latest  issue  of 'BIS  Catalogue'  and  'Standards    Monthly  Additions' 
+
+This  Indian  Standard  has  been  developed  from  Doc    No  LMD  19  (OOrtftl 
+
+Am  end  men  tK  tHHued  Since  Publication 
+
+
+Amend  No.  Uat^  of  Issue 
+
+
+Amd  No   1  May  1994 
+
+
+BUREAU  OF  INDIAN  STANDARDS 
+
+Headquarters 
+
+Manak  Bhavan,  9  Bahadur  Shah  Zafar  Marg,  New  Delhi  110002  Telegrams  Manaksanstha 
+
+Teiephones   323  01  31,  323  33  75,  ri2:i  94  02  (Common  to  all  offices) 
+
+Regional  Offices  Telephone 
+
+Central        Manak  Bhavan,  9  Baliadur  Shah  Zafar  Marg  1  323  76  17 
+
+NEW  DELHI  110002  1  323  38  41 
+
+Eastern        1/14  C  1  T  Scheme  VII  M,  V  I   P  Road,  Kankur^achj  I  337  84  99,  337  85  61 
+
+KOLKATA  700054  1  337  86  26,  337  91  20 
+
+Northern    SCO  335-336,  Sector  34-A,  CHANDIGARH  160022  I  60  38  43 
+
+1 60  20  25 
+
+Southern    C  I  T  Campus,  IV  Cross  Road,  CHENNAI  600113  I  235  02  16,  235  04  V2 
+
+1  235  15  19,  235  23  15 
+
+Western      Manakalaya,  E9  MIDC,  Marol,  Andhen  (East)  I  832  92  95,  332  78  58 
+
+MUMBAI  400093  {  832  78  91,  832  78  92 
+
+Branches  AHMEDABAD  BANGALORE  BHOPAL  BHUBANESHWAR  COIMBATORE 
+FARIDABAD  GHAZIABAU  GUWAHATI  HYDERABAD  JAIPUR  KANPUR 
+LUCKNOW  NAGPUR  NALAGARH  PATNA  PUNE  RAJKOT  THJRUVANANTHAPURAM 
+VISHAKHAPATNAM 
+
+

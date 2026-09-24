@@ -1,0 +1,1064 @@
+**************** 
+
+
+
+
+Disclosure to Promote the Right To Information 
+
+Whereas the Parliament of India has set out to provide a practical regime of right to 
+information for citizens to secure access to information under the control of public authorities, 
+in order to promote transparency and accountability in the working of every public authority, 
+and whereas the attached publication of the Bureau of Indian Standards is of particular interest 
+to the public, particularly disadvantaged communities and those engaged in the pursuit of 
+education and knowledge, the attached public safety standard is made available to promote the 
+timely dissemination of this information in an accurate manner to the public. 
+
+
+
+
+Mazdoor Kisan Shakti Sangathan 
+"The Right to Information, The Right to Live'' 
+
+
+
+IS 1008 (2004): Sugar Boiled Confectionery [FAD 16: 
+Foodgrains, Starches and Ready to Eat Foods] 
+
+
+
+
+Jawaharlal Nehru 
+'Step Out From the Old to the New" 
+
+
+
+aj^&vi iJii^s:y>K^ isb^^ni^seg 
+
+
+
+:<>5&i| mT'5K^5?::5:^>^i»l 
+
+
+
+K^^^iXSVCd^ 
+
+
+
+Satyanarayan Gangaram Pitroda 
+Invent a New India Using Knowledge 
+
+
+
+Bhartrhari — Nitisatakam 
+''Knowledge is such a treasure which cannot be stolen" 
+
+
+
+
+^'^^^r 
+
+
+
+k 
+
+
+
+
+BLANK PAGE 
+
+
+
+^*-^^^ 
+
+
+
+
+
+PROTECTED BY COPYRIGHT 
+
+
+
+mr^w^jcf^ 
+
+
+
+IS 1008:2004 
+
+Reaffirmed 2009 
+
+
+
+Indian Standard 
+
+SUGAR BOILED CONFECTIONERY — 
+SPECIFICATION 
+
+( Second Revision ) 
+
+
+
+ICS 67.060 
+
+
+
+© BIS 2004 
+
+BUREAU OF INDIAN STANDARDS 
+
+MANAK BHAVAN. 9 BAHADUR SHAH ZAFAR MARG 
+NEW DELHI 110002 
+
+
+
+October 2004 
+
+
+
+Price Group 2 
+
+
+
+AMENDMENT NO. 1 FEBRUARY 2006 
+
+TO 
+
+IS 1008 : 2004 SUGAR BOILED CONFECTIONERY — 
+
+SPECIFICATION 
+
+( Second Revision ) 
+
+( First cover, second cover and page 1 ) — Substitute 'Third Revision' ybr 
+'Second Revision' and wherever it appears. 
+
+
+
+(FAD 16) 
+
+
+
+Reprography Unit, BIS, New Delhi, India 
+
+
+
+Foodgrains, Starches and Ready-to-Eat Foods Sectional Committee, FAD 16 
+
+
+
+FOREWORD 
+
+This Indian Standard (Second Revision) was adopted by the Bureau of Indian Standards, after the draft finalized 
+
+by the Foodgrains, Starches and Ready-to-Eal Foods Sectional Committee had been approved by the Fot)d and 
+
+Agricuhure Division Council. 
+
+Earlier, the requirements of this standard were covered in three standards, namely IS 1008 : 1981 'Specification 
+
+for hard boiled sugar confectionery MS 1667: 1981 'Specification for toffees', and IS 8806: 1978 'Specification 
+
+for pan goods confectionery'. While reviewing these standards, the Committee decided to amalgamate and 
+
+update these standards into a singe comprehensive user-friendly standard as the basic requirements are common 
+
+for the.se three products. This revision therefore also incorporates the requirements of IS 1667 and IS 8806, 
+
+respectively, which are consequently being withdrawn. 
+
+Sugar boiled confectionery sold as hard boiled sugar confectionery, pan good confectionery and toffee is a 
+
+processed composite food article made from sugar with or without doctoring agents, such as liquid glucose 
+
+and/or cream of tartar by a process of boiling whether panned or not with or without the addition of colour, 
+
+flavour, fillings (in the form of liquid, .semi-solid or solid) with or without coating of sugar or chocolate or both 
+
+and other edible materials and made into any desired shape and size. 
+
+Hard boiled sugar confectionery means a supercooled solution of a combination of sucrose and liquid gluco.se 
+
+or sucrose treated with an acid doctor, such as cream of tartar (potassium acid tartarate) with or without the 
+
+addition of optional ingredients given under 3.2. 
+
+Pan goods or dragees are confections made by the panning process in revolving pans/drums by using either hot 
+
+coating or cold coating and this process is assisted by blowing air. The goods may also be provided with a thin 
+
+separating and glazing layer. These have a centre (filling) which may be in the form of liquid, semi-solid or 
+
+solid and a smooth or pearled covering (coating) of sugar and chocolate or both. The centre (filling) may also 
+
+be in the form of chocolate beans. 
+
+The dragees may have any of the following types of fillings: 
+
+a) Natural fillings are of good quality clean nuts and seeds, such as almonds, peanuts, peas, aniseeds, 
+mustard, coriander, puffed rice, raisins; 
+
+b) High boilings, such as hard boiled sweets often made on drop roller machines or forming machines; 
+
+c) Soft boiled masses, such as caramels, toffees, chewy candies and jellies; 
+
+d) Compressed gotxis; and 
+
+e) Chocolate products. 
+
+The covering of the dragees may be of the following types: 
+
+a) Pre-coating known as gumming; 
+
+b) Sugar solution and sugar solution with binder or adhesive, used for boiling up; 
+
+c) Sugar gluco.sc syrups; 
+
+d) Milk mas.ses, like condensed milk; 
+
+e) Chcx:olale masses; and 
+
+Glazing masses, such as food grade beeswax, camuba wax, dextrins, emulsions of oils and waxes and 
+shellac. 
+Toffees are boiled sugar confectioneries made out of sugar, edible fat, water and other ingredients. The 
+consistency of the toffee depends upon the relative percentages of several ingredients used and may vary from 
+hard and chewy to soft and grainy. Toffees may also contain centre filling (which may be solid, semi-solid or 
+liquid), with solid toffee jacket around. 
+
+In the preparation of this standard, due consideration has been given to the Prevention of Food Adulteration 
+Act, 1954 and the Rules framed thereunder. Due consideration has also been given to the Standards of Weights 
+& Measures (Packaged Commodities) Rules, 1977. However, this standard is subject to restrictions imposed 
+under these, wherever applicable. 
+
+For the purpose of deciding whether a particular requirement of this standard is complied with, the final value, 
+observed or calculated, expressing the result of a test or analysis, shall be rounded off in accordance with 
+IS 2 : I960 'Rules for rounding off numerical values (revised)'. The number of significant places retained in 
+the rounded off value should be the same as that of the specified value in this standard. 
+
+
+
+IS 1008 : 2004 
+
+
+
+Indian Standard 
+
+SUGAR BOILED CONFECTIONERY 
+SPECIFICATION 
+
+
+
+( Second Revision ) 
+
+
+
+SCOPE 
+
+
+
+This standard prescribes the requirements and the 
+method of sampling and test for hard boiled sugar 
+confectionery, pan goods confectionery (dragees) and 
+toffees. The requirements stipulated in this standard 
+do not cover silver dragees and chewing gum dragees. 
+
+2 REFERENCES 
+
+The standards listed in Annex A contain provisions 
+which through reference in this text, constitute 
+provisions of this standard. At the time of publication, 
+the editions indicated were valid. All standards are 
+subject to revision and parties to agreements based on 
+this standard arc encouraged to investigate the 
+possibility of applying the most recent editions of the 
+standards indicated in Annex A. 
+
+3 INGREDIENTS 
+
+3.1 F^ssential Ingredients 
+
+a) Sugar (.st't- IS 5982 or IS 1151), and 
+
+b) Water (AT<^ IS 4251). 
+
+3.2 Optional Ingredients 
+
+In addition to the essential ingredient specified in 3.1 
+the product may also contain any of the following 
+optional ingredients singly or in combination: 
+
+i) Sweetening agents such as cane jaggery (see 
+IS 12923), palmjaggeryCvtv IS 13952), palm 
+sugar (see IS 1 4400), raw sugar (see IS 5975), 
+khandsari {see IS 13953), invert sugar, 
+honey {see IS 4941), sorbitol, liquid glucose 
+{see IS 873), lactose, dextrose {see IS 874), 
+and icing sugar {see IS 1 152); 
+
+ii) Edible oils and fats; 
+
+iii) Edible flours and starches; 
+
+iv) Edible oilseeds flours and protein isolates; 
+
+v) Edible molasses {see IS 1 162); 
+
+vi) Malt and malt extracts; 
+vi i) Edible common salt {see IS 253 and IS 7224); 
+viii) Vitamins and minerals; 
+
+ix) Enzymes; 
+
+x) Acidulants, food grade, such as citric acid 
+{see IS 13186), malic acid {see IS 14124), 
+tartaric acid {see IS 14125) and lactic acid 
+(sw IS 9971); 
+
+
+
+xi) 
+
+
+
+xii) 
+
+
+
+xiii) 
+xiv) 
+
+XV) 
+
+xvi) 
+
+xvii) 
+
+xviii) 
+
+xix) 
+
+xx) 
+
+xxi) 
+
+xxii) 
+
+
+
+Jellifying agents, such as gelatin (food 
+grade) {see IS 5719), agar (food grade) {see 
+IS 5707), sodium carboxymethyl cellulose; 
+Lubricants such as calcium, magnesium or 
+sodium salts of stearic acid, talc (not exceed- 
+ing 0.2%), icing sugar or food grade mineral 
+oil {see IS 10563) (not exceeding 0.2% by 
+weight), glycerine (food grade), stearic acid; 
+Permitted stabilizing agents, such as sodium 
+alignate {see IS 5191), acacia gum {see 
+IS 6795) and other edible gums; 
+Edible glazes and polishes such as Shellac 
+(food grade) (not exceeding 0.4 percent by mass); 
+Bee wax (food grade), camauba wax (food 
+grade) and other food grade wax and any 
+combination thereof; 
+
+Sodium and/or calcium bicarbonate, calcium 
+carbonate and baking powder; 
+Permitted anti-oxidanls; 
+Permitted preservatives; 
+Permitted colouring matter; 
+Permitted flavouring agents; 
+Milk and milk products; 
+Chocolate {see IS 1 163), cocoa powder {see 
+IS 1164), cocoa butter (.vt'f IS 1263), cocoa 
+solids, coffee {see IS 2791) and lea {see 
+IS 3633); 
+
+Fruits — fresh or dried and fruit products; 
+Nuts and nut products; 
+Candied peels and/or candied fruits; 
+Edible food grains and edible seeds; 
+Puffed rice; 
+
+Spices, condiments and their extracts; 
+Edible desiccated ccKonut {see IS 966); 
+Gulkand, gulbanafsha, mulathi; 
+China grass; 
+
+Eucalyptus oil, camphor, menthol oil 
+crystals, pepper mint oil; and 
+Thymol. 
+
+
+
+xxiii) 
+
+xxiv) 
+
+xxv) 
+
+xxvi) 
+xxvii) 
+xxviii) 
+
+xxix) 
+
+xxx) 
+
+xxxi) 
+xxxii) 
+
+xxxiii) 
+4 TYPES 
+4.1 Hard Boiled Sugar Confectionery 
+
+It shall be of the following types: 
+a) Plain confection 
+
+The confection shall be clear pr pulled to 
+
+
+
+IS 1008 : 2004 
+
+
+
+incoqjorate air to cause opaqueness and 
+shine, or the composition adjusted so as to 
+grain in a desired length of time, 
+b) Modified confection 
+
+The confection meeting the criteria as 
+described in 4.1(a), shall be of the centre 
+filled variety with a solid jacket around. 
+
+4.2 Pan Goods Confectionery (Dragees) 
+
+It shall be of the following types: 
+
+a) Hard dragees (Pan goods) 
+
+It shall be made by coating with sugar 
+solution or sugar solution with binder or 
+adhesive, such as gelatin, gum arable, gum 
+tragacanth and glucose syrup. The water in 
+the coating shall be evaporated. 
+
+b) Soft dragees (Pan goods) 
+
+It is also called as cold dragees, where the 
+moisture in the coating is not removed by 
+evaporation, but is bound by addition of solid 
+substances, the coating being sugar and 
+glucose syrup. 
+
+c) Chocolate dragees 
+
+It shall be made by using chocolate as 
+coating. In this case, there is no moisture 
+evaporation or binding of the solids with 
+powder involved, but a temperature control 
+for the process is necessary. 
+
+d) Pearled dragees 
+
+It shall be made by coating with a continuous 
+stream of sugar syrup by means of a pearling 
+cone and a warm blast of air. 
+
+4.3 Toffees 
+
+Toffees shall be of following four types: 
+
+a) Plain toffees 
+
+They shall be made out of sugar and edible 
+fat and in addition, any of the materials men- 
+tioned from (i) to (xx) in 3.2 may also be used 
+in its manufacture. 
+
+b) Milk toffees 
+
+They shall be made out of sugar, edible fat, 
+and milk/or milk products in any form and in 
+addition may contain one or more of the 
+materials used in the making of plain toffees. 
+
+c) Modified toffees 
+
+They shall be made from the ingredients used 
+for plain toffees as listed in 4.3(a) or milk 
+toffees as listed in 4.3(b) In addition, it may 
+contain ingredients listed from (xxi) to 
+(xxxiii) in 3.2, 
+
+
+
+d) Centre filled toffee 
+
+These shall be similar to milk or modified 
+toffee, with centre filling inside, having solid 
+jacket around. In addition to the optional 
+ingredients used for making of plain toffee as 
+listed in 4.3(a), the centre filling may also 
+contain ingredients listed from (xxi) to 
+(xxxiii) in 3.2. 
+
+5 REQUIREMENTS 
+
+5.1 Description 
+
+The product shall be in any desired shape, size and 
+colour. It shall have an attractive appearance and 
+pleasant taste, colour and flavour. It shall be free from 
+dirt, adulterants and harmful ingredients and injurious 
+foreign matter. The units shall not stick to wrappers. 
+Where nuts are used, these should be clean and of 
+reasonably uniform size, undamaged by insects, 
+fungus and should be free from rancidity. 
+
+The pan goods confectionery (dragees) shall be hard 
+or soft, rough or smooth, depending on the type. 
+
+Toffees may be cut, formed or cast. It shall have a bite 
+ranging from hard and chewy to soft eating. 
+
+5.1.1 The product may contain only such additives 
+such as emulsifying agents and stabilizing agents, 
+antioxidants, preservatives, flavours and colours 
+which are permitted in the Rules laid under the 
+Prevention of Food Adulteration Act, 1954. The tola! 
+quantity of colour added shall not exceed 100 mg/kg 
+of the finished product. 
+
+5.2 Hygienic Conditions 
+
+The product shall be processed, packed, stored and 
+distributed under hygienic conditions {see IS 2491). 
+
+5.3 Hard boiled and pan goods sugar confectionery 
+shall also comply with the requirements given in 
+Table 1. Toffees shall also comply with the 
+requirements given in Table 2, 
+
+6 PACKING AND MARKING 
+
+6.1 Packing 
+
+In the case of printed packaging material, the printing 
+ink shall be non-toxic and shall not come in direct 
+contact with the product. The wrapped or unwrapped 
+material shall be bulk packed or further packed in 
+clean, reasonably air-tight and sound containers. Such 
+containers shall be made of tin-plate, glass, plastics, 
+thermoplastic material, moisture-proof paper, 
+cellulose or any other suitable flexible packaging 
+material. PCRC sheets may be used for bulk pack of 
+wrapped product. 
+
+
+
+IS 1008 : 2004 
+
+
+
+Table 1 Requirements for Hard Boiled and Pan 
+Goods Sugar Confectionery 
+
+{Clause 5.3) 
+
+
+
+SI 
+
+
+Characteristic 
+
+
+Requirement 
+
+
+Method of 
+
+
+No. 
+
+
+
+
+
+
+Test,Rerto 
+CI No. of 
+IS 6287 
+
+
+(1) 
+
+
+(2) 
+
+
+(3) 
+
+
+(4) 
+
+
+
+i) Ash sulphated, percent by 
+
+mass, A/ojc 1 5 5 
+ti) Acid insoluble ash, percent by 
+
+mass. Max 2 6 
+
+III) Sulphur dioxide, mg/kg, A/ox 350 II 
+
+IV) Arsenic, rng/ kg. yVfojc 10 12 
+V) Lead, mg/kg, A/ot 2 13 
+
+VI) Copper, mg/kg. A/our 5 14 
+
+vij) Zinc, mg/kg, Mar 5 15 
+
+viii) Tin. mg/kg. Max 5 16 
+
+Table 2 Requirements for Toffees 
+
+(Clause 5.3) 
+
+
+
+SI 
+No. 
+
+
+
+(I) 
+
+
+
+Characteristic 
+
+
+
+(2) 
+
+
+
+Requirement Metliod of 
+
+Test Reflo 
+
+CI No. of 
+
+
+
+IS 6287 
+
+
+
+(3) 
+80 
+
+
+
+n) 
+
+
+
+Moisture, percent by mass. 
+
+Max 
+
+Ash sulphated. percent by 
+
+mass. Max 
+
+III) Acid insoluble ash, percent by 
+mass. Max 
+
+IV) Sulphur dioxide, mg/kg. Max 
+v) Reducing sugar (calculated 
+
+as dextrose), percent by mass, 
+
+Mm 
+VI) Sucrose, percent by mass. Max 60 
+vii ) Kai, percent by mass (on dry 4 in case of 
+
+basis). Mm 
+
+Pioiein, percent by mass 
+
+(on dry basis), M/;j 
+
+Lactose, peicent by mass 
+
+(on dry basis), M/;j 
+
+
+
+IS 1479 
+(Part 2) 
+
+(5) 
+
+
+
+Vlll) 
+
+
+
+IX) 
+
+
+
+2 5 
+
+
+
+02 
+
+
+
+350 
+10 
+
+
+
+milk toffees 
+3 in case of 
+milk toffees 
+3 5m case of 
+milk toffees 
+
+
+
+5 — 
+
+
+
+9 
+10 
+
+
+
+6.2 Marking 
+
+The tollowing particulars shall be marked oi labelled 
+legibly and indelibly on each container: 
+
+a) Name and trade name or description of the 
+material; 
+
+b) Name and address of manufacturer; 
+
+c) Batch or code number; 
+
+
+
+d) Net mass, in grams or kilograms (indicating 
+average net mass); 
+
+e) List of ingredients in descending order of 
+their composition by mass; 
+
+f) The statement 'Permitted colours, an- 
+tioxidants, preservatives or vitamins used', 
+when used; 
+
+g) Month and year of manufacture; 
+
+h) The words *Best before month and 
+
+year' to be indicated; 
+
+j) Any other information as specified under the 
+Prevention of Food Adulteration Act, 1 954 
+and Rules framed thereunder and Standards 
+of Weights and Measures (Packaged Com- 
+modities) Rules, 1911. 
+
+6.3 BIS Certification Marking 
+
+The product may also be marked with the Standard 
+Mark. 
+
+6.3.1 The use of the Standard Mark is governed 
+by the provisions of the Bureau of Indian Standards 
+Act, 1986 and the Rules and Regulations made 
+thereunder. The details of conditions under which the 
+licence for the use of Standard Mark may be granted 
+to manufacturers or producers may be obtained from 
+the Bureau of Indian Standards. 
+
+7 SAMPLING 
+
+7.1 Representative samples of the material shall be 
+drawn as prescribed in 3 of IS 6287. 
+
+7.2 All the characteristics given in the specification 
+shall be tested on the composite sample. 
+
+7.3 The lot shall be declared as conforming to the 
+requirements of the specification if all the test results 
+on the composite sample meet the relevant 
+specific Aon requirements. 
+
+8 TESTS 
+
+Tests shall be carried out as prescribed in the 
+appropriate clauses specified in col 4 of Table 1 
+
+9 Quality of Reagents 
+
+Unless specified otherwise, pure chemicals and 
+reagent grade water (see IS 1070) shall be employed 
+in the tests. 
+
+NOTE — 'Pure chemicals' shall mean chemicals that do not 
+contain impunties which affect the process of analysis 
+
+
+
+IS 1008 : 2004 
+
+
+
+ANNEX A 
+
+{Clause 2) 
+LIST OF REFERRED INDIAN STANDARDS 
+
+
+
+IS No. 
+
+
+Title 
+
+
+253 : 1985 
+
+
+Edible common salt {third 
+revision) 
+
+
+498 : 1985 
+
+
+Grading for vacuum pan sugar 
+(plantation white) {fourth revision) 
+
+
+873 : 1974 
+
+
+Liquid glucose {first revision) 
+
+
+874: 1975 
+
+
+Dextrose monohydrate {second 
+revision) 
+
+
+966: 1999 
+
+
+Desiccated coconut {second 
+revision) 
+
+
+1070: 1992 
+
+
+Reagent grade water — Specifica- 
+tion (first revision) 
+
+
+1151 ;2003 
+
+
+Refined sugar — Specification 
+(second revision) 
+
+
+1152:2003 
+
+
+Icing sugar — Specification 
+(second revision) 
+
+
+1162: 1958 
+
+
+Cane molasses 
+
+
+1163: 1992 
+
+
+Chocolates (second revision) 
+
+
+1164: 1986 
+
+
+Cocoa powder (third revision) 
+
+
+1263: 1986 
+
+
+Cocoa butter (third revision) 
+
+
+1479 (Pan 2): 
+1961 
+
+
+Method of test for dairy industry: 
+Part 2 Chemical analysis of milk 
+
+
+2491 : 1998 
+
+
+Food hygiene — General princi- 
+ples — Code of practice (second 
+revision) 
+
+
+2791 : 1992 
+
+
+Soluble coffee powder (third 
+revision) 
+
+
+
+IS No. Title 
+
+3633 : 197 1 Tea (first revision) 
+
+4251 : 1967 Quality tolerances for water for 
+
+processed food industry 
+4941 ; 1994 Extracted honey (second revision) 
+
+5191 : 1993 Sodium alginate, food grade (first 
+
+revision) 
+
+5707 : 1996 Agar, food grade (first revision) 
+
+57 19 : 1970 Gelatin, food grade 
+
+5975 : 1970 Raw sugar — Specification (first 
+
+revision) 
+5982 : 2003 Plantation white sugar — 
+
+Specification (first revision) 
+6287 : 1985 Methods for sampling and analysis 
+
+for sugar confectionery (first 
+
+revision) 
+
+6795 : 1972 Acacia (arabic gum), food grade 
+
+7224 : 1985 Iodized salt (first revision) 
+
+9971 : 1981 Lactic acid, food grade 
+
+10563 : 1983 Mineral oil, food grade 
+
+12923:1990 Cane ^>wr (jaggery) 
+
+13186 : 1991 Citric acid, food grade 
+
+13952 : 1994 Palm jaggery (gur) 
+
+13953 : 1994 Khandsari 
+
+14124 : 1994 Malic acid, food grade 
+
+14125 : 1994 DL-Tartaric acid, food grade 
+14400:1996 Palm sugar 
+
+
+
+Bureau of Indian Standards 
+
+BIS is a statutory institution established under the Bureau of Indian Standards Act, 1986 to promote 
+harmonious development of the activities of standardization, marking and quality certification of goods and 
+attending to connected matters in the country. 
+
+Copyright 
+
+BIS has the copyright of all its publications. No part of these publications may be reproduced in any form 
+without the prior permission in writing of BIS. This does not preclude the free use, in the course of implementing 
+the standard, of necessary details, such as symbols and sizes, type or grade designations. Enquiries relating to 
+copyright be addressed to the Director (Publications), BIS. 
+
+Review of Indian Standards 
+
+Amendments are issued to standards as the need arises on the basis of comments. Standards are also reviewed 
+periodically; a standard along with amendments is reaffirmed when such review indicates that no changes are 
+needed; if the review indicates that changes are needed, it is taken up for revision. Users of Indian Standards 
+should ascertain that they are in possession of the latest amendments or edition by referring to the latest issue of 
+'BIS Catalogue' and 'Standards: Monthly Additions'. 
+
+This Indian Standard has been developed from Doc: No. FAD 16(1367). 
+
+Amendments Issued Since Publication 
+
+Amend No. Date of Issue Text Affected 
+
+
+
+BUREAU OF INDIAN STANDARDS 
+
+Headquarters: 
+
+Manak Bhavan, 9 Bahadur Shah Zafar Marg, New Delhi 1 10002 
+
+Telephones: 2323 0131, 2323 3375, 2323 9402 website : www.bis.org.in 
+
+Regional Offices: Telephones 
+
+Central : Manak Bhavan, 9 Bahadur Shah Zafar Marg / 2323 7617 
+
+NEW DELHI 110002 12323 3841 
+
+Eastern : 1/14 C.I.T. Scheme VII M. V.I.P. Road, Kankurgachi r2337 8499, 2337 8561 
+
+KOLKATA 700054 12337 8626, 2337 9120 
+
+Northern : SCO 335-336, Sector 34-A, CHANDIGARH 160022 r 260 3843 
+
+L 260 9285 
+
+Southern : C.I.T. Campus, IV Cross Road, CHENNAI 6001 13 r2254 1216, 2254 1442 
+
+12254 2519,2254 2315 
+
+Western : Manakalaya, E9 MIDC, Marol, Andheri (East) r2832 9295, 2832 7858 
+
+MUMBAI 400093 12832 7891, 2832 7892 
+
+Branches : AHMEDABAD. BANGALORE. BHOPAL. BHUBANESHWAR. COIMBATORE. FARIDABAD. 
+GHAZIABAD. GUWAHATI. HYDERABAD. JAIPUR. KANPUR. LUCKNOW. NAGPUR. 
+NALAGARH. PATNA. PUNE. RAJKOT. THIRUVANANTHAPURAM. VISAKHAPATNAM. 
+
+
+
+Printed at Simco Printing Press, Delhi 
+
+
+

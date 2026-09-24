@@ -67,7 +67,7 @@ export function SearchBar({
           <input
             value={value}
             onChange={(event) => setValue(event.target.value)}
-            placeholder="Search 197 Indian Standards — by product, material or IS code"
+            placeholder="Search 1,000 Indian Standards — by product, material or IS code"
             aria-label="Search Indian Standards"
             autoComplete="off"
             className={cn(

@@ -1,0 +1,1399 @@
+**************** 
+
+
+
+^ tOTH: 
+
+
+
+
+Disclosure to Promote the Right To Information 
+
+Whereas the Parliament of India has set out to provide a practical regime of right to 
+information for citizens to secure access to information under the control of public authorities, 
+in order to promote transparency and accountability in the working of every public authority, 
+and whereas the attached publication of the Bureau of Indian Standards is of particular interest 
+to the public, particularly disadvantaged communities and those engaged in the pursuit of 
+education and knowledge, the attached public safety standard is made available to promote the 
+timely dissemination of this information in an accurate manner to the public. 
+
+
+
+Mazdoor Kisan Shakti Sangathan 
+"The Right to Information, The Right to Live" 
+
+
+
+Jawaharlal Nehru 
+"Step Out From the Old to the New" ' 
+
+
+
+IS 10060 (1981) : Code of Practice for Subsurface 
+Investigation for Power House Sites [WRD 5: Gelogical 
+Investigation and Subsurface Exploration] 
+
+
+
+Satyanarayan Gangaram Pitroda 
+Invent a New India Using Knowledge 
+
+
+
+
+Bhartrhari — Nitisatakam 
+"Knowledge is such a treasure which cannot be stolen" 
+
+
+
+
+
+BLANK PAGE 
+
+
+
+
+^*-:gv 
+
+
+
+
+^^35^* 
+
+
+
+PROTECTED BY COPYRIGHT 
+
+
+
+IS:I0M0.|98I 
+
+Indian Standard 
+
+CODE OF PRACTICE FOR SUBSURFACE 
+INVESTIGATION FOR POWER HOUSE SITES 
+
+
+
+UDC 624-131 -31; 621 311:00676 
+
+
+
+
+© Copyright 1982 
+
+INDIAN STANDARDS INSTITUTION 
+
+MANAK BHAVAN, 9 BAHADUR SHAH ZAFAR MARCT 
+NEW DELHI 110002 
+
+Gr 4 Se^tmktT 1962 
+
+
+
+IS : 10060 - 1961 
+
+Indian Standard 
+
+CODE OF PRACTICE FOR SUBSURFACE 
+INVESTIGATION FOR POWER HOUSE SITES 
+
+
+
+Subsurface Exploration Sectional Committee, BDC 49 
+
+Ckatrmaii 
+
+Shri V, S. Kkishnaswamy 
+622, Sarakki Layout, I Phase 14th Cross, Bangalore 
+
+Members Representing 
+
+Shri P A. Bakshi The Cementation Co Ltd, Bombay 
+
+Shri D. J. Ketkar ( Alternate ) 
+Shri R. K. Bhandari Central Building Research Institute ( CSIR ), 
+
+Roorkee 
+Shri V. S. Agcarwal { Alternate ) 
+Shri S. R. Budetwal Irrigation Department, Government of Punjab, 
+
+Chandigarh 
+Shri V. K. Aggarwal ( Alternate ) 
+Chief Engineer ( Irrigation ) Irrigation & Power Department, Government of 
+
+Rajasthan, Jaipur 
+Shri K R. Datye In personal capacity ( Rehem Mansion No. 2, 44, S. 
+
+Bhttgat Singh Road, Colaba, Bombay 400039 ) 
+Director Irrigation Research Institute, Roorkee 
+
+Director ( CSMRS ) Central Water Commission, New Delhi 
+
+Superintending Engineer, 
+Chenab Investigation Circle, 
+Janunu ( Alternate ) 
+Shri V. L Goriami Larsen & Toubro Ltd, Bombay 
+
+Shri V. Gupta ( Alternate ) 
+Shr] a. D Narain Roads Wmg, Ministry of Transport 
+
+Dr a N. Jangle ( Alternate ) 
+Shri A. M. Narurkar Asia Foundation and Construction ( P ) Ltd, Bombay 
+
+Dr P S. Nigam Irrigation Department, Government of Uttar Pradesh, 
+
+Lucknow 
+Shri G Pant Geological Survey of India, Calcutta 
+
+Shri B. K. Panthakv Hindustan Construction Co Ltd, Bombay 
+
+Shri S. K Fotedar ( Alternate ) 
+Shri N. K. Pillai Voltas Ltd, Bombay 
+
+Shri A N Indurkah ( Alternate ) 
+
+( Continued on page 2 ) 
+
+
+
+© Copyngkt 1982 
+
+INDIAN STANDARDS INSTITUTION 
+
+This publication is protected under the Indian Copyright Act ( XIV of 1957 ) and 
+
+reproduction in vifhole or m part by any means except with written permMsion of the 
+
+pubtilher shall be deemed to be an infringement of copyright under the said Act. 
+
+
+
+IS : 10060 - 1981 
+
+
+
+( Conhnutd from pagt 1 ) 
+
+Memhers 
+Research Officer, MERI 
+
+ShRI S. SATAPATHr 
+
+Shbj K R Saxena 
+Senior GeOlooist 
+
+Superintending Enoinjer, CDO 
+
+SuPERlMTENDiNQ E^f&lNEtR 
+
+( Geology } ( Alternate ) 
+Skri G. Raman, 
+
+Director ( Civ Engg ) 
+
+
+
+Representing 
+
+Irrigation Department, Government of Maharashtra, 
+
+Bombay 
+Irrigation and Power Department, Government of 
+
+Orissa, Bhubaneswar 
+Engineering Research Laboratories, Hyderabad 
+Irrigation DqDartment, Government of Kamataka, 
+
+Bangalore 
+Irrigation Department, GDvemment of Gujarat, 
+
+Gandhinagar 
+
+Director General, ISI ( Ex-o^to Mimbtr ) 
+
+
+
+Secretary 
+
+Shri K K Sharma 
+Deputy Director [ Civ Engg ), ISI 
+
+
+
+AMENDMENT NO. I AUGUST 1998 
+
+TO 
+
+IS 10060 : 1981 CODE OF PRACTICE FOR 
+
+SUBSURFACE INVESTIGATION FOR POWER 
+
+HOUSE SITES 
+
+[ Page 5, clause 2 J.l(a) ] — Substitute 'exists' for 'exit'. 
+
+[Page 6, clause 2J.2{e), line 2 ] — Substitute 'fluvioglacial' for 
+'fluioglaciat'. 
+
+[ Page 8, clause 3.13(a) ] — Substitute 'Penna frost' for 'Pennofrost'. 
+
+[ Page 9, clause 3.2.1(d) j — Insert 'oC between 'depth' and 'water'. 
+
+[ Page 10, clause 333(b), line 5] — Substitute 'electrical' for 'electric'. 
+
+[ Page 11, clause 4.13.2, line 2 ] — Suhsiitute 'cavity' for 'cavyit'. 
+
+[ Page 13, clause 43J, line 6 ) — Substitute 'Poisson's' for 'Poission's'. 
+
+
+
+(RVD05) 
+
+
+
+Reprography Uni;, BIS, New Detlii. lulia 
+
+
+
+IS ! 10060 - 1981 
+
+Indian Standard 
+
+CODE OF PRACTICE FOR SUBSURFACE 
+INVESTIGATION FOR POWER HOUSE SITES 
+
+
+
+0. FOREWORD 
+
+0.1 This Indian Standard was adopted by the Indian Standards Institution 
+on 31 December 1981, after the draft finalized by the Subsurface Exploration 
+Sectional Committee had been approved by the Civil Engineering Division 
+Council. 
+
+0.2 With the increasing demand for power in the country, an increasingly,^ 
+large number of power houses ( hydroelectric, thermal, and nuclear ) are 
+being built. One of the major requirements m planning, design and con- 
+struction of these power houses is proper and adequate subsurface investi- 
+gation. The object of subsurface and related site investigation is to provide 
+the engineer with as much information as possible about the existing condi- 
+tions, for example, the thickness of overburden and other geological features 
+of the area. This code has been prepared to serve as a guide in such investi- 
+gations. 
+
+0.2.1 The methods of subsurface investigation enable vertical sections 
+of the strata to be drawn based on tn-silu tests, samples tested for determining 
+characteristics such as shear strength parameters, bearing capacity of the 
+soil, permeability, water table, and soil or rock type classification. This 
+information together with the normal topographical survey provides the 
+engineer with complete details of the site and enables him to prepare 
+economical designs for the power house structures. 
+
+0.3 In the formulation of this standard, due weightage has been given to 
+co-ordination among the standards and practices prevailing in different 
+countries in addition to relating it to the practices in the field m this country. 
+
+0.4 For the purpose of deciding whether a particular requirement of this 
+standard is complied with, the final value, observed or calculated, expressing 
+the result of a test, shall be rounded off in accordance with IS . 2-1960*. 
+The number of significant places retained in the rounded oflT value should 
+be the same as that of the specified value m this standard. 
+
+
+
+*Ruie3 for loiinding off numerical values ( remsed ) 
+
+3 
+
+
+
+IS ! 10060 . 1981 
+
+1. SCOPE 
+
+1.1 This standard gives guidance on the type, extent and details of sub- 
+surface exploration needed in connection with power houses of the following 
+types: 
+
+a) Hydroelectric power houses : 
+
+i) Surface power houses, and 
+ii) Underground power houses ; 
+
+b) Thermal power houses, and 
+
+c) Nuclear power houses. 
+
+1.1.1 This standard provides guidelines for planning the exploratory 
+work, through various stages of the project development. These recommenda- 
+tions may have to be modified for individual projects, depending upon the 
+site conditions and other conditions peculiar to each project, such as height 
+and importance of the power house and the heterogeneity of foundation for- 
+mulations. 
+
+1.2 The term subsurface exploration, as used herein, covers all types of 
+exploration connected with determination of the nature and extent of soil 
+at or near the power house site. 
+
+1.3 This code does not, however, cover the types and methods of exploration 
+for materials of construction for power houses such as soil and rock and 
+material for riprap. 
+
+2. GENERAL 
+
+2.1 In the design of some components of power house structure foundations, 
+special attention is given to the effect of vibrations and sensitivity to settle- 
+ments. Hence, the results of subsurface exploration should provide enough 
+data for the study of these features and exploration should be very detailed 
+and thorough Faults, shear zones, weathered horizon and joints found 
+in the rock mass constituting the foundation shall be demarcated. All 
+changes in rock type and formation contacts shall be studied in detail. 
+
+2.2 The type and extent of exploration shall be commensurate with the 
+size and importance of the project and will depend upon the size of the 
+power house and the type of foundation. 
+
+23 Subsurface explorations in connection with a power house shall cover 
+a specified area around the power house site and shall be carried out to a 
+
+
+
+IS : 10060 . 1981 
+
+specified depth. Depending upon the type oi' power house, investigation 
+shall be required for the following areas of the power house complex : 
+
+a) Forebay, 
+
+b) Penstocks, 
+
+c) Locations of turbine and generators, 
+
+d) Afterbay, 
+
+e) Switch and transformer yards, 
+
+f ) Foundations of high stacks ( chimneys ) , 
+
+g) Area of boilers, 
+
+h) Nuclear reactors and ancillaries, and 
+j ) Other power house components. 
+
+2.3.1 A complete programme of exploration shall be able to give infor- 
+mation regarding the following pomts: 
+
+a) Types of different soil and rock masses that exit in the foundation 
+and abutments; 
+
+b) The location, sequence, thickness and aerial extent of eaclw» 
+soil/rock stratum, including a description and classification of 
+the soils, their mineral and chemical constituents and their 
+structure, stratification in the undisturbed state, sigmficant 
+geological or other structural features, such as buried channels, 
+seams, joints and fissures, 
+
+c) The depth and type of bedrock as well as the location, sequence, 
+thickness, arcal extent, altitude, depth of weathering, soundness, 
+and description of rock in each rock stratum within the depth 
+of exploration; 
+
+d) The characteristics of the ground water, including whether the 
+water table is perched or normal, influent or affluent, direction 
+of flow of ground water, depth of and pressure in artesian zones 
+and chemical quality of ground water; and 
+
+e) Engineering properties of the overburden and rocks. 
+
+2.3.2 Exploration shall also be needed for study of the following problems : 
+
+a) Determination of stability of slope adjacent to plant excavation; 
+
+b) Determination of the stability and erosion characteristics of the 
+tail race channel ( to know if lining is required ) , 
+
+c) In the case of thermal stations, if water is to be obtained from 
+wells, subsurface studies directed to location of wells and their 
+design, and the effects of suction and depletion of subsoil water 
+level in the power house structure foundations ( see Note ) ; 
+
+
+
+IS : 10060 - 1981 
+
+Note — Possibility of sulphuric acid and sulphates formed by the percolat]L.n 
+of water through ash dumps of thermal plants using coal reaching the foundations 
+and their impact, such as attack on concrete/steel or leaching of certam saJts 
+causing foundation settlement may also be examined 
+
+d) In hydroelectric power houses the effect of seepage water on 
+subsurface material; 
+
+e) Landslides, Rockfalls and Avalanches — The stability of glacial and 
+fluroglacial material with thin soil cap, creep of soil covered hill 
+slopes, etc, shall be studied In the case of power houses placed 
+at the foot of a hill or on a steep hillside, the hill slope shall be 
+examined for existing or potential landslides or rockfalls. The 
+location of power houses in high altitude areas shall take into 
+account the possibility of avalanches affecting the stability of 
+the power houses; and 
+
+f ) In the case of nuclear power houses located on seashore, shoreline 
+stability may be assessed. 
+
+».4 For soils, test in accordance with 18:2131-1963* and 4.3, 4.4 
+and 12.2 of IS 6955-1973t may be conducted at the required locations. 
+
+2.4.1 Wherever drilhng in rock is resorted to, NX or larger size would 
+be preferably used as large diameter cores would be useful for studying 
+jomt patterns and fracturing {see IS : 6926-1973J ). As loads are heavy, 
+shear tests on rock samples may be necessary. 
+
+2.5 For general principles and procedures to be followed for investigation 
+and sampling, reference may be made to IS ■ 1892-]979§. For exploration 
+by pits, trenches, boring, drifts and shafts, references may be made 
+to 7 to II of IS : 6955-19731- 
+
+2.6 The extent of foundation exploration required for power houses of 
+given size varies from site to site, depending on the subsurface conditions, 
+and cannot be adequately visualized in advance The exploration generally 
+proceeds in stages, the details of each stage growing out of the one before 
+It normal!/ follows a learn-as-you-go procedure in which characteristics 
+of the subsurlkce soils and conditions are developed m progressively greater 
+detail as the exploration proceeds. 
+
+
+
+•Method for standard penetration test for soils 
+
+fCode of practice for subsurface exploration for earth and rockfill dams 
+
+JCode of practice for diamond core drilling for site investigation for river valley projects 
+
+SCode of practice for subsurface investigations for foundations (first reoiswn) 
+
+
+
+IS : 10060 ■ 1981 
+
+2.7 The subsurface exploration required for a power house are grouped 
+under the following stages: 
+
+a) Reconnaissance stage investigations ; 
+
+b) Preliminary stage investigations; 
+
+c) Detailed or pre-design stage investigations ; and 
+
+d) Construction stage investigation 
+
+2.7.1 The type of investigations required for the last 3 stages will be the 
+same ; only difference being m the details of information gathered, quanta- 
+tively. Therefore, after describing the reconnaissance stage investigations, 
+the type of information required for the last 3 stages are described together 
+and then the quantitative detail of information for all the 3 stages. If it is 
+found that the properties of foundation material vary too much, then, in 
+each bay, information shall be gathered at least at 3 points. 
+
+2.8 Type of Information Required 
+
+2.8.1 Settlement 
+
+2.8.1.1 For finding out the safety of the power house, in so far as 
+uniform and equal settlement are concerned, the following investigations 
+shall be carried out: 
+
+a) A chart showing tlie strata below final foundation level up to 
+one-and-a-half times the width of the substructure of the 
+power house housing the main generating equipment shall be 
+prepared. Investigations shall be earned out to find out if 
+there are compressible clay or other objectionable layers 
+within this depth. In rock with adequate bearing characteristics 
+the bore holes need to penetrate only about 8 m. For the 
+purpose of investigation, unless otherwise known, it may be 
+assumed that the foundation of hydroelectric plants generally 
+are 9 to 12 m beiow the original ground surface. 
+
+b) The safe bearing pressure at the foundation level of the power 
+station shall be found out in (i) dry, (li) normal, and (in) sub- 
+merged soil conditions 
+
+2.8.1.2 In order to predict any settlement, modulus of the foundation 
+soil, that IS, intensity of soil pressure divided by the settlement shall be 
+found for ail different malerials met with in the substrata up to depths 
+indicated in 2.8.1.1. This modulus shall be found for dry, normal and 
+submerged conditions of the strata 
+
+2.8.2 Sliding — For the stability of the power house it is important to 
+see that the horizontal forces acting above any plane and tending to slide 
+the structure along that plane are not greater than the resisting forces of 
+friction or the shear strength of the materials of foundations forming the 
+plane. 
+
+
+
+IS : 10060 - 1981 
+
+2.8.3 Ground Water Conditions — In order to find the extent of submergence 
+of the soil, high and low spring levels at the site of the power house shall 
+be recorded 
+
+2.8.4 DynamK Stability — For the determination of dynamic stability, 
+dynamic properties of the soil shall be determined in accordance with 
+IS : 5249-1977* and also to the requirements of IS : 1893-I975t. 
+
+2.8.5 Any other characteristics required by the field or design engineer 
+for a particular locality shall also t>e determined. 
+
+3. HYDROELECTRIC SURFACE POWER HOUSES 
+
+3.1 Reconnaissance Stage Investigations 
+
+3.1.1 The scope of investigation during this stage is confined to the 
+investigation of the suitability of constructing a surface hydel power house 
+m the area where the required drop is available to create head for generation 
+of electricity The investigation with the general reconnaissance of the 
+area shall be done on 1 • 50 000 scale topo-maps having contour interval 
+of. 20 m, so as to establish broad topographical and geological features 
+df the foundation material. 
+
+3.1.2 In case the site is near hilly slopes, stability of the hill slopes shall 
+be investigated. In sites subject to avalanches, the direction of avalanche 
+routes and the magnitude of avalanches shall be studied. 
+
+3.1.3 In case of sites at high altitude, investigation shall clearly bear out 
+the suitability of foundation material with particular reference to the 
+following conditions: 
+
+a) Permofrost, and 
+
+b) Stability of glacial and diluroglacial material with a thin soil 
+cap. 
+
+3.1.4 The presence and extent of artesian pressures below the foundation 
+material shall be investigated to determine whether the site is suitable 
+for power house location or not. 
+
+3.2 Preliminary Stage Investigations 
+
+3.2.1 Objectives and Types and Methods of Exploration — During this stage 
+data for formulation of the project are collected. The coverage of exploration 
+
+
+
+*Method of test for determinalion of dynamic properties of soil [first remston) 
+fCritena for earthquake resistant design of structures ( third revuton ) 
+
+
+
+IS : 10060 . 1981 
+
+shall be adequate for examination of the feasibility which includes estimation 
+of the cost and evaluation of the benefits. This stage also includes studies 
+for preliminary choice of the alignment as well as the height of the power 
+house. This stage of exploration includes the following. 
+
+a) Exploration by test pits, trenches, drifts and shafts; 
+
+b) Exploration by geophysical methods, 
+
+c) Exploration by drilling using coring and non-coring methods 
+or by other boring methods, 
+
+d) Determination of the depth water table and evaluation of field 
+p)ermeability; observation of temperature, pressure and dis- 
+charge of springs not at the surface or in exploratory borings, 
+trenches, etc; 
+
+e) Field penetration and field density test in overburden; and 
+
+f) Laboratory tests on representative samples and undisturbed 
+samples for the determination of engineering properties of 
+the overburden material. 
+
+3.2.2 In order to fix the preliminary dimensions of the power station 
+and its general lay-out it will be necessary to give the information required 
+in 3.4 
+
+3.2.3 After locating the most suitable site from the results of reconnais- 
+sance stage investigation, information specified in 2.8 shall be found out 
+for one point only situated at the middle of possible power house layout. 
+
+3.2.4 In case of location in alluvium soil, investigation shall bring out 
+presence, if any, of layers of silt, peat, quick sand or a high content of clay 
+which might cause foundation problems. 
+
+3.3 Detailed ( Pre-constmction ) Invesdgatioii Stage 
+
+3.3.1 These investigations are required for obtaining data required for 
+detailed design of all structures related to the power house. These investi- 
+gations shall be conducted at the final location of the power house and 
+appurtenant works fixed from preliminary stage investigations. 
+
+3.3.2 In this stage of investigation, all data required for detailed design 
+and preparation of construction drawings shall be collected. Close co- 
+ordination IS essential between the work of the orgamzations for exploration, 
+geological work and design. 
+
+
+
+IS : 10060 • 1981 
+
+3.3.3 Investigations at this stage shall comprise the following: 
+
+a) Intensive exploration by additional drilling and pitting ( tren- 
+ches and shafts v^rhere found necessary ) of the foundation to 
+determine spatial distribution and characteristics of different 
+types of foundation materials in relation to specific design 
+features ; 
+
+b) Use of geophysical methods to define in greater detail the 
+subsurface conditions, such as the depth to bed rock or depth 
+to water table in specific sections of the power house base. 
+During this stage, use of borehole geophysical methods, such 
+as electric logging, as and when required, may be found 
+advantageous to define particular characteristics of overburden 
+and bed rock, 
+
+c) Defining of geohydrological characteristics of the foundations 
+and their environments through pumping in or pumping out 
+tests as dictated by site conditions; 
+
+d) Ascertaining the groutability of foundations through trial 
+grouting of specified reaches; and 
+
+e) Special field tests like blasting tests { to determine whether 
+the materia] is liable to liquefy under seismic disturbance ) 
+and field shear tests wherever found necessary 
+
+3.3.4 Information specified in 3.4 may be obtained for at least one point 
+situated at the middle of the unit bay, erection bay and control bay. More 
+boreholes may be required, depending upon the geological conditions. 
+
+3.4 Construction Stage — Construction stage exploration shall aim at 
+making available data generally for the evaluation of specific foundation 
+preparation and treatment. In case, after actual excavation, it is found 
+that the proi)erties of foundation material vary too much, then, in each 
+bay, information shall be gathered at least at 3 pomts. A complete record 
+of the foundation features shall be maintained at this stage. This is essential 
+for the solution of post construction problems, if any. 
+
+4. HYDROELECTRIC UNDERGROUND POWER HOUSES 
+
+4.1 Reconnaissance Stage Investigations 
+
+4.1.1 The scope of investigations during this stage is confined to the 
+selection of the most suitable sites from the geological considerations, 
+besides satisfying the engineering requirements The investigation shall 
+
+10 
+
+
+
+IS : 10060 - 1981 
+
+proceed with the general reconnaissance of the area on I : 50 000 scale 
+topo-maps having contour of 20 m to establish broad geomorophological 
+features. Lithological characters and altitude of the host rock and its major 
+jointing, shear zone and pattern, and the major structural and tectonic 
+features, such as folds, faults and thrusts, shall be recorded and their signi- 
+ficance in terms of the seismicity of the area shall be evaluated After 
+eliminating obviously unsatisfactory sites, reconnaissance stage explorations 
+shall be done to establish the nature and extent of overburden cover and 
+major active or potential slide features along the slope. Preferably, thmly 
+bedded fissile and highly fractured rocks shall be avoided and slope con- 
+figuration shall be studied with reference to stability and availability of 
+sound rock cover over the cavitv A programme of surface and subsurface 
+investigations shall be chalked out for the selected site to establish the 
+depth of open and slump joints or potential slide mass as well as depth 
+to sound rock over the proposed cavity. The reconnaissance stage investi- 
+gations shall include those indicated in 4.1.2, 4.1.3 and 4.1.4. 
+
+4.1.2 Surveys 
+
+4.1.2.1 Topographic survey on 1 : 1 000 scale shall be carried out, 
+extending from the head race tunnel end to the tail race tunnel end and 
+covering the hill slope for 150 m on either side of the proposed sites of the 
+power house structure and penstocks. This shall be used as a base map 
+for detailed geological mapping in the preliminary stage of investigation 
+to demarcate significant geological and structural features of the area 
+
+4.1.2.2 Topographic sections shall be taken on 1 : 1 000 scale at 
+approximately 30 m interval covering the entire area noted in 4.1.2.1. 
+The geology of the area shall be plotted along these sections and projected 
+to the power house grade to develop forecast sections for further geotechnical 
+evaluation. 
+
+4.1.3 Subsurface Exploration 
+
+4.1.3.1 Drifts — A minimum of one drift for each alternative shall 
+be excavated normal to general trend of contours towards the power house 
+location to explore the extent of rehef or slump jointing and depth to sound 
+rock, nature and spacing of prominent joints, fractures and shear zones, 
+at and around the power house cavity. This drift will also help in providing 
+data on ground water conditions. The drift shall preferably be 2-2 m x 1 -5 m 
+in sections and wherever possible it shall be located near the proposed 
+haunch elevation of the power house cavity. A few cross cuts may also 
+become necessary for exploration of specific features. 
+
+4.1.3.2 Diamond core drilling — Selected drilling, wherever feasible, 
+for one or 2 holes may be required to demarcate rock cover over the cavyit 
+and lithologic contmuity of the rock units harbouring the power house 
+
+11 
+
+
+
+IS I 10060 ■ 1981 
+
+cavity and to explore the existence of solution cavities, if any. Each hole 
+shall be drilled down to the base of the proposed power house unit and 
+water permeability tests shall be performed in its entire length in stages 
+which shall normally be restricted to 3 m [ see IS : 5529 ( Part I )-1969* 
+and IS : 5529 ( Part II )-I973t j- Water bearing conditions shall also 
+be observed in the entire section of the hole. 
+
+4.2 Preliminary Stage Investigations 
+
+4.2.1 Here the object of mvestigations is to select the most suitable site 
+foT a power house based on the interpretations o{ surface and subsurface 
+exploration data, comparative and subsurface exploration data, and compa- 
+rative evaluation of the various alternatives. Detailed geological mapping 
+shall be carried out concurrently with the recommended subsurface explora- 
+tioris and at least the following features shall be recorded: 
+
+a) Surface geological mapping shall establish: 
+
+i) Various hthological units present in the area, their altitudes 
+
+^ ^ and continuity, susceptibility to weathering, geometry of 
+
+•I the structural weak planes such as joints, nature of filling 
+
+of the planes of discontinuity, slip planes, shear zones, folds 
+
+and faults; 
+
+ii) Demarcation of covered area with remarks on the nature 
+of the material, creep and slide features; 
+
+in) Ground water conditions; 
+
+iv) Existence and nature of springs - hot or cold ; and 
+
+v) Pressure of any oil or gas shows. 
+
+b) The observations m the exploratory tunnel should include: 
+
+\) Litbologic characters of the various rock units; 
+11) Their amenability to tunnelling, 
+in) Limit of slump joints or glide cracks, 
+iv) Depth to sound rock; 
+
+v) NaturCj spacing and continuity of prominent joints, slip 
+
+planes, minor and major shear zones; and 
+vi) Study of stress field. 
+
+c) Collection of core samples of various rock types for determination 
+of elastic and engineering properties in the laboratory. 
+
+
+
+*Gode of practice for tji'Situ permeability tests ; Part I Tests m overburden. 
+tCode of practice for m-s^iu permeability test Part II Tests in bedrock 
+
+
+
+12 
+
+
+
+IS : 10060 - 1981 
+
+4.2.2 Based on the results of subsurface explorations, suitable recom- 
+mendations regarding the location and orientation of the power house 
+cavity shall be made. A programme of subsurface exploration by drift 
+extending up to the tentative power house location shall be made in order 
+to have a detailed assessment of the geological discontinuities present at 
+the power house site. The drift shall preferably run along the long axis 
+of the power house having at least 3 cross cuts on either side of the power 
+house axis and extendmg up to the power house walls. The drifts may 
+preferably be kept at haunch level of the roof arch. If these studies indicate 
+the presence of adverse geological discontinuities with reference to the 
+long axis of the power house, the orientation of the cavity shall be suitably 
+modified. In general, it is undesirable to have prominent geological dis- 
+continuities parallel or nearly parallel to the long axis of the power house 
+or along high walls and rock cuts. 
+
+4.3 Detailed and Pre-design Stage Investigations 
+
+4.3.1 The object of the investigation is to provide a fairly clear picture 
+of the existing geological conditions likely to be present at the power house 
+cavity for design of the cavity and outline ol the excavation programme 
+and treatment. 
+
+4.3.2 Critical geological observations shall be made in the exploratory 
+tunnels made m the cavity area and the driJJ holes driiJed earlier. Rock 
+mechanics studies regarding geological discontinuities shall be correlated 
+with surface observations and drill hole data. Suitable number of tests 
+shall be performed for the determination of in-situ modulus of elasticity, 
+Poission's ratio and determination of stress field in various directions, 
+(see IS ; 7292-1974* and IS : 7317-1974t ) and also the properties of 
+imjjortant shear zone materials and joint fillings. 
+
+4.3 J Investigations shall cover an area around the cavity of 3 to 5 times 
+its larger dimension, depending upon the geological complexities deciphered 
+in the preliminary investigation stage 
+
+4.4 Construction Stage Investigations 
+
+4.4.1 The object of construction stage investigation is to explore and 
+systematically record in 3 dimensions the geological features and related 
+problems met with which are not revealed during the pre-design stage 
+explorations or were revealed during the pre-design stage and their ex- 
+plorations were deferred for the construction stage, Such explorations shall 
+be done according to the day-to-day requirements of the projects. A com- 
+plete record of the foundation features shall be maintained at this stage 
+This is essential for the solution of post-construction problems, if any. 
+
+
+
+*Code of practice for tn-situ determination of rock properties by Hat jatk. 
+■fCode of practice for uniaxial jacking test for deformation modulus of rock 
+
+13 
+
+
+
+IS ! 10060 ■ 1981 
+
+5. THERMAL POWER STATIONS 
+
+5.1 Investigations for thermal power houses shall generally be on the lines 
+suggested for hydroelectric surface power houses { see 3) and shall cover 
+points appropriate to this type [ see slso 2.3.2(c) [. For general principles 
+and procedures to be followed for investigation and sampling, reference 
+may be made to IS : 1892-1979*. 
+
+6. NUCLEAR POWER HOUSES 
+
+6.1 Reconnaissance Stage 
+
+6.1.1 In this stage, the most suitable sites are reconnoitered from geologi- 
+cal, engineering and environmental considerations. Prior to field visits 
+it is preferable to study the area with the help of aerial photographs, in 
+the scale of either 1 . 60 000 or 1 . 25 000, to mark out the lithological 
+units, geomophological features, like old slide debris, and tectonic features 
+including lineament trends of the area. The last mentioned study shall 
+be done with an objective of obtaining evidences for and against recent 
+activity along faults. These studies shall also be directed towards geohydro- 
+]<mical characteristics of the area. Limited ground checks are called for 
+afler a. detailed photogeological assessment of the area. At this stage itself, 
+to select alternative sites for further surveys and exploration, data on the 
+seismic status of the area within a radius of 100 km of the site shall be 
+collected and analysed. Wherever study of existing 1 : 2 000 000 tectonic 
+maps indicate the existence of scismogcnic features, the area of photo 
+coverage may be extended to a radius of 300 km. A mobile seismic instru- 
+mentation unit to record micro-earthquake may be required in case seismo- 
+genic features are suspected within the area studied as above. 
+
+6.1.2 Topographic survey maps in 1 : 25 000 or 1:15 000 scale shall 
+be used as base maps for geological mapping during the reconnaissance 
+stage. Spring levels and general ground water table conditions existing in 
+the area shall also be assessed. 
+
+6.2 Preliminary Stage 
+
+6.2.1 Surveji — The object of the investigation is to carry out detailed 
+geological mapping in 1 1 000 scale with a view to portraying the features 
+of the promising alternative sites. This geological mapping shall aim to 
+establish the following: 
+
+a) The various lithological units present in the area, their altitude 
+and continuity with a view to establish bands of sufficient width 
+of hard and homogeneous material suitable for founding the 
+heavy units of the power house. 
+
+
+
+"Code of practice for subsurface investigations for foundations {fast Tevisjon 
+
+14 
+
+
+
+IS : 10060 - 19B1 
+
+b) The validity of the faults interpreted from photogeologic studies, 
+and if proved, their status of activity on field evidences shall be 
+collected and plotted. In addition similar studies of faults, inter- 
+preted from field mapping which were not picked up by photo- 
+geological studies, shall also be carried out. 
+
+6.2.2 Subsurface ExpUration — In areas covered by debris or terrace 
+gravels, geophysical surveys can be considered for evaluating depth and 
+nature of bedrock along with level of ground water table. A few diamond 
+drill holes, preferably of NX or larger size, shall be drilled for establishing 
+bedrock and for obtaining the cores for determining physical properties 
+like compressive strength and modulus of elasticity by laboratory tests 
+both under dry and wet conditions ( after 72 hours of soaking in water ) . 
+In such drill holes, the water table if encountered, shall be carefully, 
+recorded and, in addition, cyclic water percolation tests shall be performed 
+for determining the permeability of the foundation material It is essential 
+that drilling be done for a depth of 10 m into fresh rock and during drilling 
+double core barrel utilising bottom discharge bits shall be used. In case 
+of alluvial formations, wash borings, auger holes, penetration tests, etc, 
+shall be done to assess the nature of the sub-soil material and also to obtain 
+undisturbed samples for the determination of .soil properties. 
+
+6,2.2.1 In case of sandy alluvial foundation strata, geophysical blast 
+test shall be done to determine whether the material is liable to liquefy 
+under seismic disturbances. 
+
+
+
+6.2.3 Geohydrologual Surveys — Date-wise data on the occurrence of springs 
+and water table in dug wells or tube wells of the area shall be collected. 
+The repeat measurements of these shall be done before and after the mon- 
+soon season and water table maps prepared. Data on aquifer characteristics 
+shall be collected and depth to water table maps prepared. The chemical 
+quality of the ground water shall also be determined. 
+
+6.3 Pre-constructioii State — Layout of the structure vts-a-vu the geology 
+having been generally fixed, further exploration shall be carried out by 
+coring holes drilled at the comers and grade, for determimng the nature 
+of the actual foundation materia] and its physical characteristics, including 
+tn-sttu permeability. The site of the lighter structures shall also be investi- 
+gated by a few drill holes or trial pits. In addition, in-sttu load bearing 
+tests may be conducted in overburden, alluvial and soft rock foundation 
+to evaluate precisely the deformation characteristics. From these data, 
+detailed geological sections for use in the final design of the structure shall 
+be prepared. 
+
+15 
+
+
+
+IS 1 10060 - 1981 
+
+6.4 Construction Stage 
+
+6.4.1 Depending upon the design and engineering requirements of 
+day-to-day work, explorations and recording of geological features and 
+related problems, revealed during the pre-construction or construction 
+stage shall be carried out to guide the treatment of weak zones encountered 
+during excavation of the foundation. A complete record of the foundation 
+features shall be maintained at this stage. This is essential for the solution 
+of the post-construction problems, if any The foundation grade geotechnical 
+maps shall be prepared in 1 : 100 scale, giving details of the major/minor 
+rock structures, lithological variations, nature and abundance of the planes 
+of discontinuities with their spatial distribution and nature of infilling 
+material, if any, and water table conditions. 
+
+
+
+16 
+
+
+
+INTERNATIONAL SYSTEM OF UNITS (SI UNITS) 
+Bm« Units 
+
+
+
+Quantity 
+
+
+Unit 
+
+
+Symbol 
+
+
+
+
+Length 
+
+
+metre 
+
+
+m 
+
+
+
+
+Mjwi 
+
+
+kilogram 
+
+
+kg 
+
+
+
+
+Time 
+
+
+second 
+
+
+s 
+
+
+
+
+Electric current 
+
+
+ampere 
+
+
+A 
+
+
+
+
+Thermodynamic 
+
+
+kelvin 
+
+
+K 
+
+
+
+
+temperature 
+
+
+
+
+
+
+
+
+Luminous intensity 
+
+
+candela 
+
+
+cd 
+
+
+
+
+Amount of substance 
+
+
+mole 
+
+
+moi 
+
+
+
+
+Supplementary Units 
+
+
+
+
+
+
+
+
+Quantity 
+
+
+Untt 
+
+
+Symbol 
+
+
+
+
+Plane angle 
+
+
+radian 
+
+
+rad 
+
+
+
+
+Solid angle 
+
+
+steradian 
+
+
+sr 
+
+
+
+
+Derived Units 
+
+
+
+
+
+
+
+
+Quontity 
+
+
+Unit 
+
+
+SymboJ 
+
+
+Definition 
+
+
+Force 
+
+
+newton 
+
+
+N 
+
+
+IN =1 Icg.m/s* 
+
+
+Energy 
+
+
+joule 
+
+
+J 
+
+
+1 J = 1 N.m 
+
+
+Power 
+
+
+watt 
+
+
+W 
+
+
+1 W = 1 J/s 
+
+
+Tlux 
+
+
+weber 
+
+
+Wb 
+
+
+I Wb = I V-s 
+
+
+Flux density 
+
+
+testa 
+
+
+T 
+
+
+IT =1 Wb/m» 
+1 Hz =1 c/s (s-') 
+
+
+Frequency 
+
+
+hertz 
+
+
+Hz 
+
+
+Electric conducunce 
+
+
+Siemens 
+
+
+S 
+
+
+IS = i A/V 
+
+
+Electromotive force 
+
+
+volt 
+
+
+V 
+
+
+IV =1 W/A 
+
+
+^,^rgsure, stress 
+
+
+pascal 
+
+
+Pa 
+
+
+1 Pa =1 N/m' 
+
+
+
+INDiAN STANDARDS INSTITUTION 
+
+Manak Bhavan. 9 Bahadur Shah Zafar Marg. NEW DELHI 1 10002 
+
+
+
+Telepiiones : 26 60 21, 27 01 31 
+
+Regional Offices- 
+
+Western : Novelty Chambers, Grant Road 
+Eastern ; S Chowringhee Approach 
+Southern r C. I. T. Campus 
+Northern : B69, Phase VII 
+
+
+
+flronch Offices: 
+'Pushpak', Nurmohamed Shaikh Marg, Khanpur 
+'F' Block, Jnlcy BIdg, Narasimharaja Square 
+Gangotrl Complex, Bhadbhada Road, T. T. Nagar 
+22E Kalpana Area 
+S-8-S6C L. N. Gupta Marg 
+R 14 Yudhlster Marg, C Scheme 
+1I7/4IBB Sarvodaya Nagar 
+PatlJputra Industrial Estate 
+Hantex SIdg {Jnd Floor). RIy Station Road 
+
+
+
+Telegrams t Manaksanstlia 
+
+
+
+
+
+Telephone 
+
+
+BOMBAY 400007 
+
+
+37 97 29 
+
+
+CALCUTTA 700072 
+
+
+27 SO 90 
+
+
+MADRAS 600113 
+
+
+tl 24 42 
+
+
+S. A. S. NAGAR 
+
+
+._ 
+
+
+(MOHALl) 160051 
+
+
+
+
+AHMADABAD 380001 
+
+
+2 03 91 
+
+
+BANGALORE 560002 
+
+
+22 48 05 
+
+
+r BHOPAL 462003 
+
+
+6 27 16 
+
+
+BHUBANESHWAR 7SI0I4 
+
+
+5 36 27 
+
+
+HYDERABAD 500001 
+
+
+22 10 83 
+
+
+JAIPUR 302005 
+
+
+6 98 32 
+
+
+KANPUR 208005 
+
+
+4 72 92 
+
+
+PATNA 800013 
+
+
+6 28 08 
+
+
+TRIVANDRUM 695001 
+
+
+32 27 
+
+
+
+Printsd u Minipil Pew*r Prim, hhnipil, India 
+
+
+

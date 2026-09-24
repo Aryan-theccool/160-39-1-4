@@ -1,0 +1,510 @@
+**************** 
+
+
+
+^ tOTH: 
+
+
+
+
+Disclosure to Promote the Right To Information 
+
+Whereas the Parliament of India has set out to provide a practical regime of right to 
+information for citizens to secure access to information under the control of public authorities, 
+in order to promote transparency and accountability in the working of every public authority, 
+and whereas the attached publication of the Bureau of Indian Standards is of particular interest 
+to the public, particularly disadvantaged communities and those engaged in the pursuit of 
+education and knowledge, the attached public safety standard is made available to promote the 
+timely dissemination of this information in an accurate manner to the public. 
+
+
+
+Mazdoor Kisan Shakti Sangathan 
+"The Right to Information, The Right to Live" 
+
+
+
+Jawaharlal Nehru 
+"Step Out From the Old to the New" ' 
+
+
+
+IS 101-7-2 (1990) : Methods of sampling and test for paints, 
+varnishes and related products, Part 7: Environmental tests 
+on paint films. Section 2: Resistance to liquids [CHD 20: 
+Paints, Varnishes and Related Products] 
+
+
+
+Satyanarayan Gangaram Pitroda 
+Invent a New India Using Knowledge 
+
+
+
+
+Bhartrhari — Nitisatakam 
+"Knowledge is such a treasure which cannot be stolen" 
+
+
+
+
+
+BLANK PAGE 
+
+
+
+
+^*-:gv 
+
+
+
+
+^^35^* 
+
+
+
+PROTECTED BY COPYRIGHT 
+
+
+
+IS 101 (Part7/Sec2):1S89 
+
+(Reaffirmed 2005) 
+
+
+
+Indian Standard 
+
+METHODS OF SAMPLING AND TEST FOR 
+
+PAINTS, VARNISHES AND RELATED 
+
+PRODUCTS 
+
+PART 7 ENVIRONMENTAL TESTS ON PAINT FILMS 
+Section 2 Resistance to Liquids 
+
+( Third Revision) 
+
+Third Reprint DECEMBER 2008 
+(Including Amendment No. I) 
+
+UDC 667.613 3: 620.193.2 
+
+
+
+© BIS 1990 
+
+BUREAU OF INDIAN STANDARDS 
+
+MANAK BHAVAN, 9 BAHADUR SHAH ZAFAR MARG 
+NEW DELHI 110002 
+
+
+
+AMENDMENT NO. 1 JUNE 1997 
+
+TO 
+
+IS 101 (Part 7/Sec 2) : 1988 METHODS OF SAMPLING 
+
+AND TEST FOR PAINTS, VARNISHES AND RELATED 
+
+PRODUCTS 
+
+PART 7 ENVIRONMENTAL TESTS ON PAINT FILMS 
+
+Section 2 Resistance to Liquids 
+
+( Third Revision ) 
+
+( Page 2, clause 4.4.4, line 8 ) — Substitute ' after a recovery period of one 
+hour or unless otherwise specified' for 'immediately'. 
+
+( Page 2, clause 4.5.5, line 5 ) — Substitute 'after a recovery period of one 
+hour or unless otherwise specified' for 'iimnediately'. 
+
+( Page 3, clause 6.3.2 ) — Substitute the following for the existing clause: 
+
+'6.3.2 Leave the panel undisturbed for the specific time with a suitable means of 
+covering. The test area shall be used to prevent evaporation.' 
+
+
+
+(CHD020) 
+
+
+
+iittasftis/'^^-a 
+
+
+
+Paints and Allied Products Sectional Committee, CHD 20 
+
+
+
+FOREWORD 
+
+This Indian Standard ( Part 7/Sec 2 ) ( Third Revision ) was adopted by the Bureau of Indian Standards 
+on 29 January 1 990, after the draft finalized by the Paints and Allied Products Sectional Committee 
+had been approved by the Chemical Division Council. 
+
+This standard ( Part 7/Sec 2 ) is one of a series dealing with sampling and testing of paints, varnishes 
+and related products. 
+
+In the preparation of this standard, considerable assistance has been derived from ISO 2812 - 1974 
+'Paints and varnishes — Determination of resistance to liquids', published by the International Organisa- 
+tion for Standardization ( ISO )'. 
+
+This standard supersedes clause 19,20 and 21 of IS 101 : 1964 'Methods of test for ready mixed 
+paints and enamels'. 
+
+
+
+IS 101 ( Part 7/Sec 2 ) : 1990 
+
+
+
+Indian Standard 
+
+
+
+METHODS OF SAMPLING AND TEST FOR 
+PAINTS, VARNISHES AND RELATED 
+
+PRODUCTS 
+
+PART 7 ENVIRONMENTAL TESTS ON PAINT FILMS 
+Section 2 Resistance to Liquids 
+
+( Third Revision J 
+
+
+
+1 SCOPE 
+
+1.1 This standard ( Part 7/Sec 2 ) prescribes gene- 
+ral methods for determining the resistance of 
+single-coat paint films, paint systems or allied 
+products to the action of liquids. 
+
+1.1.1 Three methods of test are specified and the 
+method to be used depends on the particular 
+requirements of the test material. Method 1 is 
+intended for more resistant coatings, requiring 
+longer periods of exposure than those which may 
+be tested by Method 2 or 3. 
+
+2 SAMPLING 
+
+2.1 A representative sample of the product to be 
+tested shall be taken as prescribed in IS 101 
+( Part 1/Sec 1 ) : 1986 'Methods of sampling and 
+test of paints, varnishes and related products : 
+Part 1 Tests on liquid paints ( general and physi- 
+cal ), Sec 1 Sampling ( third revision )'. 
+
+3 TEST PANELS 
+
+3.1 The test panels shall be of the specified mate- 
+rial and where steel, tinplatc, aluminium or glass 
+is specified, they shall comply with the require- 
+ments of IS 101 ( Part 1/Sec 3 ) : 1986 'Methods 
+of sampling and test for paints, varnishes and 
+related products : Part I Tests on liquid paints 
+( general and physical ), Sec 3 preparation of 
+panels ( third revision )'. Unless otherwise speci- 
+fied, the test panels shall be 150 mm x 100 mm x 
+1-25 mm. 
+
+3.1.1 For Method 1, the use of rods is preferred 
+to eliminate edge effects. One end of each rod 
+shall be rounded to approximately the radius of 
+the rod itself. Unless otherwise specified, the rods 
+shall be of steel or aluminium. Suitable dimen- 
+sions for the rods are 150 mmx 15 mm diameter. 
+It shall be coated by the specified method with 
+the product. 
+
+3.2 For Method 1, it is normally preferable to 
+
+
+
+paint both faces of the panel and to protect the 
+edges. It will be necessary to specify whether the 
+back of the panel is to be coated with a suitable 
+protective paint or whether both sides of the 
+panel are to be coated with the product or system 
+under test. The edges of the test panel, after 
+coating with the product under test, shall be 
+sealed by suitable means. 
+
+3.3 The coated test pieces shall be dried ( or 
+stoved and aged ) for the specified time and unless 
+otherwise agreed, shall be conditioned at a tem- 
+perature of 27 ±2°C and a relative humidity of 
+65 ±5 percent for a minimum of 16 hours. The 
+appropriate test procedure shall then be carried 
+out as soon as possible. 
+
+3.4 Thickness of Coating 
+
+The thickness, in micrometres, of dry coating 
+shall be determined by the method prescribed in 
+IS 101 { Part 3/Sec 2 ) : 1989 'Method of sampling 
+and test for paints, varnishes and related pro- 
+ducts : Part 3 Tests on paint film formation. 
+Section 2 Film thickness ( third revision )'. 
+
+4 TEST PROCEDl RE — METHOD 1 
+{ IMMERSION METHOD ) 
+
+4.1 Reagents 
+
+Test liquid as specified. 
+
+4.2 The test shall be carried out at a temperature 
+
+of 27±2'C unless otherwise specified. 
+
+4.3 It is preferable to immerse the test pieces 
+individually in the test liquid, particularly when 
+using liquids of high electrical conductivity in 
+which electrolytic eflfects could be of some impor- 
+tance. In certain cases however, it may be more 
+convenient to immerse several test pieces in a 
+single tank; in these cases, the nature of the test 
+pieces shall be identical and every precaution 
+shall be taken to ensure that the test liquid is 
+unaffected by the test pieces. 
+
+
+
+AfegsB'sicg- 
+
+
+
+1 
+
+
+
+IS 101 { Part 7/Sec 2 ) : 1990 
+
+
+
+4.3.1 The test pieces shall be at least 30 mm from 
+the sides of the tank and if several pieces are 
+immersed in the same tank, they shall be at least 
+30 mm apart. The test pieces shall be electrically 
+insulated from their supports. 
+
+4.4 Procedure A ( Using a Single-Phase Liquid ) 
+
+4.4.1 Place sufficient amount of liquid in a suitable 
+vessel to completely or partially immerse the test 
+pieces ( rod or panel ). Immerse the test piece in 
+an approximately vertical position using suitable 
+supports, if necessary, 
+
+4.4.2 Cover the container for the duration of the 
+test to minimize the loss of liquid by evaporation 
+or splashing. 
+
+4.4.3 If specified, aerate, agitate or circulate the 
+liquid. Aeration shall be carried out by means of 
+a slow stream of air free from oil and grease. 
+Make good any liquid losses by the addition of 
+the test liquid or distilled water at suitable inter- 
+vals in order to maintain the original volume or 
+concentration. 
+
+4.4.4 At the end of the specified immersion 
+period, wash the test piece throughly in running 
+water if an aqueous test solution has been used or 
+with a solvent known to be non-injurious to the 
+coating if a non-aqueous test liquid has been used- 
+Remove any residual liquid from the surface by 
+dabbing with a suitable absorbent paper or cloth 
+and examine the test piece immediately for any 
+sign of deterioration of the coating, and if neces- 
+sary, comparing with an identically prepared but 
+utiimmersed test piece. Examination and compa- 
+rison shall be repeated after a recovery period if 
+so specified. 
+
+4.5 Procedarc B ( Using a Two-Pbase Liquid ) 
+
+4.5.1 Insert the coated test piece into a suitable 
+vessel so that it rests by means of suitable 
+supports in an approximately vertical position 
+and in the case of panels, with the 100 mm side 
+horizontal. 
+
+4.5.2 Prepare each of the test liquids by saturating 
+it, with the other liquid immediately before use. 
+
+4.5.3 Carefully pour the liquid of higher density 
+down the side of the vessel until the test piece 
+( rod or panel ) is immersed to a depth of 75 mm 
+unless otherwise specified. 
+
+MOTE — Care must be taken not to contaminate the 
+test piece above this leveU 
+
+4.5.4 Add the second liquid in the same manner 
+until the test piece is immersed to a further depth 
+of 75 mm unless otherwise specified. Cover the 
+vessel and allow to stand without agitation. 
+
+
+
+4.S.5 At the end of the specified immersion period, 
+remove the test piece from the test liquids, remove 
+any test liquid from the surface by dabbing with 
+a suitable absorbent paper or cloth and examine 
+the test piece immediately for any sign of dete- 
+rioration of coating in contact with each liquid 
+phase, and comparing it, if necessary with an 
+identically prepared but unimmersed test piece. 
+Examination and comparison shall be repeated 
+after a recovery period if so specified. 
+
+NOTE — Specimens must not be removed for inter- 
+mediate examination without subsequent cleaning 
+and repetition of the immersion procedure ( see 
+4.5.1, 4.5.2 and 4.5.3 ). 
+
+5 TEST PROCEDURE - METHOD 2 ( USING 
+AN ABSORBENT MEDIUM ) 
+
+5.1 Discs of Absorbent Materia], not affected by 
+the test liquid approximately 25 mm in diameter. 
+For most purposes, compressed paper board 
+1'2S mm thick shall be suitable. 
+
+5.2 Test Liquid, as specified. 
+
+S3 Watdi Glasses, of suitaUe size. 
+
+5.4 The test shall be carried out at a temperature 
+of 27 ± 2°C unless otherwise spectfiied. 
+
+5.5 Procedure 
+
+5.5.1 Dip the appropriate number of absorbent 
+discs in the test liquid and allow the excess liquid 
+to drain. Place the discs on the test panel, ensur- 
+ing that they are evenly distributed and at least 
+12 mm from the edge of the panel. Cover the discs 
+individually with watch glasses of approximately 
+40 mm diameter and of such a curvature that 
+they do not touch the discs. Leave the panel 
+undistributed in an atmosphere free from draughts 
+for the period of test ( this period shall not exceed 
+7 days for this test ) except that in the case of 
+volatile liquids, it may be necessary to replace 
+the discs with further saturated ones ( if so, this 
+shall be recorded in the test report ). 
+
+5.5.2 After the specified period, remove the discs 
+and wash the panel thoroughly and proceed as 
+in 4.4.4. 
+
+6 TEST PROCEDURE — METHOD 3 
+( SPOTTING METHOD ) 
+
+6.1 Reagents 
+
+Test Hqutd, as specified. 
+
+6.2 The test shall be carried out at a temperature 
+of 27 ± 2''C, unless otherwise specified. 
+
+
+
+IS 101 (Part7/Sec2):1990 
+
+6.3 Procedure 6.3.2 Leave the panel undisturbed for the speci- 
+fied time with free access to air, at a temperature 
+
+6.3.1 Place the test panel in a horizontal position of 27±2''C unless otherwise stated. If specified, 
+
+and apply to the coating, an appropriate number a suitable means of covering the test area shall 
+
+of drops of the test liquid, each approximately be used to prevent excessive evaporation. 
+O'l ml in volume. The centres of the drops shall 
+
+be at least 20 mm apart and at least 12 mm from 6.3.3 At the end of the specified period, wash the 
+
+the edge of the panel. panel thoroughly and proceed as in 4.4.4. 
+
+
+
+Bareao of lodiaii Standards 
+
+BIS is a statutory msthution estabb'slied usd^- die Bureau afln£an Siandards Act, 19S6 to promote harmoiiloiis 
+development of the activities of staEidaniizatioit, maridng and quality certification of goods and attending to 
+connected mattras in the cotmtiy. 
+
+Copyright 
+
+BrS has die copyri^ of all its publications. No part of these publications may be r^roduced in any form 
+without tiie prior pennission in writing of BIS. This does not preclude the free use, in course of implementing 
+die standard, of necessary details, such as S]m!iboIs and sizes, type or grade designations. Enquiries relating to 
+copyright be addressed to the Director (Pubiications), BIS. 
+
+Review of Indian Standards 
+
+Amendments are issued to standards as the need arises on the basis of comments. Standards are a]»> reviewed 
+periodically; a standard along with amendments is reaffirmed when such review indicates that no changies are 
+needed; if the review indicates diat changes are needed, it is taken up for revision. Users of Indian Standards 
+should ascertain that they are in possession of die latest amendments or edition by referring to the iate^ issue of 
+'BIS Catalogue' and 'Standards: Monthty Additions'. 
+
+This Indian Standard has been developed fincMn Doc : No. CHD 20 (9603). 
+
+Ameadmenfs Issued Since PebSlcsslioEt 
+
+
+
+Amendment No. Date of Issue Text Affected 
+
+
+
+BUREAU OF INDIAN STANDARDS 
+
+Manak Bhavan, 9 Bahadur Shah Zafar Marg, New Delhi 1 iO 002 
+Telephones: 2323 013 1, 2323 3375, 2323 9402 M^ebsite: www.bis.org.in 
+
+Regional Offices: Telephones 
+
+Central: Manak Bhavan, 9 Bahadur Shah Zafar Marg r 2323 7617 
+
+NEW DELHI 1 1 002 \ 2323 384 ! 
+
+Eastern: i/14, C.I.T. Scheme VH M, V.I.P. Road, Kankurgachi | 2337 8499,2337 8561 
+
+KOLKATA 700 054 t 2337 8626,2337 9120 
+
+Northern : SCO 335-336, Sector 34-A, CHANDIGARH 160 022 f 260 3843 
+
+2609285 
+
+Southern : C.I.T. Campus, IV Cross Road, CHENNAl 600 1 13 f 2254 1216, 2254 1442 
+
+2254 2519,2254 2315 
+
+Western : Manakaiaya, E9 MIDC, Marol, Andheri (East) | 2832 9295, 2832 7858 
+
+MUMBA1400 093 ( 2832 7891,2832 7892 
+
+Branches: AHMEDABAD. BANGALORE. BHOPAL. BHUBANESHWAR. COIMBATORE. FARIDABAD. 
+GHAZIABAD. GUWAHATI. HYDERABAD. JAIPUR. KANPUR. LUCKNOW. NAGPUR. 
+PARWANOO. PATNA. PUNE. RAJKOT. THIRUVANANTHAPURAM. VISAKHAPATNAM 
+
+
+
+MGIPRRND-^6gBIS/08— 200 Copies. 
+
+
+

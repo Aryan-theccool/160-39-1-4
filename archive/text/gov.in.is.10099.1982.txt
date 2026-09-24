@@ -1,0 +1,1688 @@
+**************** 
+
+
+
+-k is^ 
+
+
+
+
+
+Disclosure to Promote the Right To Information 
+
+Whereas the Parliament of India has set out to provide a practical regime of right to 
+information for citizens to secure access to information under the control of public authorities, 
+in order to promote transparency and accountability in the working of every public authority, 
+and whereas the attached publication of the Bureau of Indian Standards is of particular interest 
+to the public, particularly disadvantaged communities and those engaged in the pursuit of 
+education and knowledge, the attached public safety standard is made available to promote the 
+timely dissemination of this information in an accurate manner to the public. 
+
+"^^ ^ ^ ^ % ?R^" 
+
+Jawaharlal Nehru 
+
+Step Out From the Old to the New 
+
+
+
+^\i»>js«'5!S^^^5*9*:: 
+
+
+
+
+•^■•■^^^■r 
+
+
+
+
+li^ i/ir w w w w w WW ^ ^ ^ tIt w w w 
+
+
+
+BLANK PAGE 
+
+
+
+^<ii^ 
+
+
+
+
+
+UI> 
+
+
+
+PROTECTED BY COPYRIGHT 
+
+
+
+Indian Standard 
+
+
+
+IS : 10099- 1982 
+
+(Reaffirmed 2004) 
+
+
+
+METHODS FOR PREPARATION, 
+MARKING AND MEASURING OF FABRIC 
+SPECIMENS AND GARMENTS IN TESTS FOR 
+DETERMINATION OF DIMENSIONAL CHANGE 
+
+
+
+UDC 677064 : 687 1 : 677 017035 
+
+
+
+
+^ Capyrighi 1982 
+
+INDIAN STANDARDS INSTITUTION 
+
+MAWAK. BHAV.\N, 9 nAnnVDUR SHAH ZAFAR MARC 
+
+NEW DELHI 110002 
+
+
+
+Gr 5 
+
+
+
+Oti^bef 19B2 
+
+
+
+IS : 10099 - 1982 
+
+Indian Standard 
+
+METHODS FOR PREPARATION, 
+
+MARKING AND MEASURING OF FABRIC 
+
+SPECIMENS AND GARMENTS IN TESTS FOR 
+
+DETERMINATION OF DIMENSIONAL CHANGE 
+
+Chemical Methods of Test Sectional Committee, TDC 5 
+
+Chairman Representing 
+
+Dr ( KuMABi ) M. D. Bhavsab The Silk & Art Silk Mills' Research Association, 
+
+Bombay 
+
+Members 
+
+Shei Jamshed D. Adbiantala The Tata Mills Limited, Bombay 
+Dk V. G, Aonihotki National Peroxide Limited, Bombay 
+
+Shbi a. K. Bandopadhyay Ministry of Defence ( DGI ) 
+
+KuMARi L. C, Patel ( Alternate ) 
+Shbi P. T. BaNERJi Punjab State Hosiery & Knitwear Development 
+
+Corporation Limited, Chandigarh 
+Shbi P. K., BaSTT Directorate General of Supplies & Disposals ( Inspec- 
+
+tion Wing ), New Delhi 
+Shri a. K. Saigal ( Alternate ) 
+Shbi M. L. Behrani Ministry of Defence ( R&D ) 
+
+Shbi A. K. SmoH ( Alternate ) 
+Sebi B. V. Bhatt Ahmedabad Manufacturing & Calico Printing Co 
+
+Ltd, Ahmadabad 
+
+Shri K. G. Shah ( Alternate ) 
+Shbi C. Bhattacharya Indian Petrochemicals Corporation Limited, 
+
+Vadodara 
+Shri D. K. Chattopadhyay ( Alternate ) 
+Dr D. K. Das National Test House, Calcutta 
+
+Shbi M. D. Dixit The Bombay Textile Research Association, Bombay 
+
+Dk a. S. Dutt Indian Jute Industries' Research Association, 
+
+Calcutta 
+Shbi S. B. Habdas Wool Research Association, Bombay 
+
+Da B. R. Manjunatha Textiles Committee, Bombay 
+
+Dr ( Shrimati ) G. R. 
+PHAI.G0MAKI ( Alternate ) 
+Shri Sunil S. Mbhta Silk & Art Silk Mills' Association, Bombay 
+
+Dk S. N. Pandey Cotton Technological Research Laboratory 
+
+( ICAR ), Bombay 
+KuMABi I. G. Bhatt ( Alternate ) 
+
+{ Continued on page 2 ) 
+
+
+
+© Copyright 1982 
+
+INDIAN STANDARDS INSTITUTION 
+
+This publication is protected under the Indian Copyright Act ( XIV of 1957 ) and 
+
+reproduction in whole or in part by any means except with written permission of the 
+
+publisher shall be deemed to be an infringement of copyright under the said Act. 
+
+
+
+IS : 10099 - 1982 
+
+( Continued from page 1 ) 
+
+Members Representing 
+
+Shri C. K, Phadke Office of the Textile Commissioner, Bombay 
+
+Shei K. S. Desikan ( Alternate ) 
+Shri R. S. Psavao All India Handloom Board, Bombay 
+
+Shri N. S. Saraiya The Bombay Textile Research Association, Bombay 
+
+Shri S. R. Anakthakrishna Binny Limited, Madras 
+
+Setty 
+
+Dr M. G. Modak ( Alternate ) 
+Shri Jamnadas K. Shah The Arvind Mills Limited, Ahmadabad 
+
+Shri Kajiubhai M, Shah The Bombay Millowners' Association, Bombay 
+
+Shri R. C. Shah Ahmedabad Textile Industry's Research Association, 
+
+Ahmadabad 
+Shri K. S. SRiinvASAiT Crescent Dyes & Chemicals Limtited, Calcutta 
+
+Shbi R. S. Bajekal ( Alternate ) 
+Shri S. S. Trivedi Ahmedabad Textile Industry's Research Association, 
+
+Ahmadabad 
+Shbi S. M. Chakrabobty, Director General, ISI { Ex-qfficio Member ) 
+
+
+
+Director ( Tex ) 
+
+
+
+Secretary 
+
+Shbi G. S. Abhyankar 
+
+Deputy Director ( Tex ), ISI 
+
+
+
+Physico- Chemical Test Methods Subcommittee, TDC 5:15 
+
+Convener 
+
+Shbi M. D. Dixit The Bombay Textile Research Association, Bombay 
+
+Members 
+
+Db V. G. Aa:sriHOTEi National Peroxide Limited, Bombay 
+
+Shbi S. P. Chakrabosty Ministry of Defence ( DGI ) 
+
+Shri G. C. Shtjkla ( Alternate ) 
+Shri A. V. Chiniwalla The Bombay Dyeing & Manufacturing Go Ltd, 
+
+Bombay 
+Shri C. A. Desai Kamla Mills Limited, Bombay 
+
+DiBECTOE ( Labobatobv ) Textiles Committee, Bombay 
+
+Dr ( Shbimati ) G. R. 
+Phalgumaki ( Alternate ) 
+Shri S. B. H i.BDAS Wool Research Association, Bombay 
+
+Shbi M. R. Pabanjape The Silk & Art Silk Mills Research Association, 
+
+Bombay 
+Dr N. D. Ray Shri Dinesh Mills Ltd, Vadodara 
+
+Shbi Kanubhai M. Shah The Bombay Millowners' Association, Bombay 
+
+Shri D. R. Shabma The Century Spg & Mfg Go Ltd, Bombay 
+
+Shbi Mahesh Sharma ( Alternate ) 
+Shri N. C. Som Indian Jute Industries' Research Association, 
+
+Calcutta 
+Shbi K. S. Sexnivasan Crescent Dyes & Chemical* Limited, Calcutta 
+
+Shbi R. S. BaJEKaL ( Alternate ) 
+Shbi A. Subramaniaii Madura Coats Ltd, Madurai 
+
+Shbi A. Chellasaj ( Alternate ) 
+
+
+
+IS : 10099 - 1982 
+
+Indian Standard 
+
+METHODS FOR PREPARATION, 
+
+MARKING AND MEASURING OF FABRIC 
+
+SPECIMENS AND GARMENTS IN TESTS FOR 
+
+DETERMINATION OF DIMENSIONAL CHANGE 
+
+0. FOREWORD 
+
+0.1 This Indian Standard was adopted by the Indian Standards 
+Institution en 30 April 1£82, after the draft finalized by the Chemical 
+Methods of Test Sectional Committee had been approved by the Textile 
+Division Council. 
+
+0.2 Dimensional stability of fabrics and garments is an important 
+characteristic. Therefore, the measurement of dimensional change due 
+to various treatments like washing, dry cleaning, soaking in water, 
+steaming, etc, is very necessary. Preparation, marking and measuring 
+of fabric specimens and garments before and after treatment is as 
+important as the testing procedures for accurate and reliable results; 
+this standard has been prepared to avoid discrepancies in this area. 
+
+0.3 This standard is mainly based on ISO 3759-1976 Texiles— 'pre- 
+paration, marking and measuring of fabric specimens and garments in 
+tests for determination of dimensional change ', and the compatible 
+additions have been made in this standard. 
+
+0.4 Standards of Weights and Measures Act, 1976 stipulates the use of 
+International System of Units in the country; in order to familiarize the 
+industry with this system, the recommended SI Units for use in the 
+textile industry are given in Appendix A. 
+
+0.5 In reporting the result of a test or analysis made in accordance with 
+this standard, if the final value, observed or calculated, is to be rounded 
+off, it shall be done in accordance with IS : 2-1960*. 
+
+
+
+1. SCOPE 
+
+1.1 This standard prescribes methods for the preparation, marking 
+and measuring of fabric specimens ( except textile floor coverings ) 
+
+•Rules for rounding ofiF numerical values ( revised ) . 
+
+3 
+
+
+
+IS : 10099 - 1982 
+
+and garments for use in tests for determining dimensional change 
+( for example, dimensional change on washing, dry cleaning, soaking 
+in water, or steaming ). 
+
+2. PRINCIPLE 
+
+2.1 Specimens are selected so as to be as representative as possible of the 
+sample. Pairs of reference marks are placed on the fabric specimen or 
+garment and the distance between the two marks of each pair of 
+reference marks is measured before and after specified treatment. 
+
+3. TERMINOLOGY 
+
+3.0 For the purpose of this standard, the following definition shall apply. 
+
+3.1 Dimensional Change Percent — The decrease or increase in 
+dimensions ( that is, in length or width or both ) after subjecting the 
+fabric to the prescribed test, expressed as a percentage of the corres- 
+ponding dimensions before such test. 
+
+4. APPARATUS 
+
+4.1 Rule — not less than 750 mm length, preferably with an engraved, 
+bevelled edge, marked in millimetres, for measuring fabric specimens. 
+
+4.2 Flexible Steel Rule or Fibre-Glass Tape — marked in milli- 
+metres, for measuring garments. 
+
+4.3 Suitable Means of Marking Reference Points — such as: 
+
+a) Indelible ink; 
+
+h) Fine threads, of colour contrasting with the fabric; 
+
+c) Heated wire, with which small holes may be made ( for thermo- 
+plastic fabrics only ); and 
+
+d) Staples, with the measurements made from the point of entry of 
+the staple into the cloth. Indicate on the cloth which end of the 
+staple is used for measurement. 
+
+4.4 Flat Table of dimensions such that the complete article being 
+tested can be laid flat for measurement. 
+
+5. ATMOSPHERIC CONDITIONS FOR CONDITIONING AND 
+TESTING 
+
+5,1 The test specimens shall be conditioned ( after pre-conditioning ) to 
+moisture equilibrium in standard atmosphere at 65 ± 2 percent RH and 
+27 ± 2°G temperature as given in IS : 6359-1971*, before making 
+measurements. 
+
+
+
+♦Method for conditioning of textiles. 
+
+
+
+IS : 10099 - 1982 
+
+6. FABRIC SPECIMENS 
+
+6.1 Selection and Number 
+
+6.1.1 Selected specimens should be as representative as possible of the 
+sample. Take sufficient specimens to cover the width of the fabric, but 
+do not cut specimens from within 1 m ( preferably not within 3 m ) of 
+either end of a piece or where possible, within 75 mm of either selvedge. 
+
+6.2 Dimensions 
+
+6.2.1 Gut uncreased specimens, each measuring not less than 500 X 
+500 mm with edges parallel to the length and width of the fabric. In 
+the case of fabrics less than 650 mm in width, full-width specimens may 
+be used and measurements made by agreement between the interested 
+parties. 
+
+Note— If there is a possibility of the fabric unravelling during the test procedure, 
+overlock the edges of the specimen with dimensionally stable thread. Specimens 
+treated in this way shall be cut slightly larger than the specified dimensions. 
+Specimens of weftknitted fabrics shall be of double-thickness and the edges shall be 
+overstitched loosely using dimensionally stable thread. 
+
+6.3 MARKING 
+
+6.4.1 Place the specimen on the measuring table and make not fewer 
+than three pairs of marks on it in both the length and width directions, 
+using a suitable means ( see 4.3 ). The distance between the two marks 
+in each pair shall be not less than 350 mm and no mark shall be less 
+than 50 mm from the edges of the specimen. The pairs of marks 
+shall be displaced from each other in such a manner as to yield a 
+representative measure of the whole specimen ( see Fig. 1 ). 
+
+6.4 Pre-conditioning and Conditioning 
+
+6.4.1 Expose the specimen to the pre-conditioning atmosphere specified 
+in IS : 6359-1971* and then expose the specimen to the standard atmos- 
+phere for testing textiles, as specified {see 5) until it reaches equilibrium 
+and until it is brought to approximately constant mass. 
+
+6.5 Method of Measuring Before Treatment 
+
+6.5.1 Conduct all measurements in the standard atmosphere { see 5 ) 
+proceeding as follows for the measurement of each specimen. 
+
+6.5.2 Lay the specimen flat on the measuring table and remove 
+wrinkles gently by hand without stretching the specimen. Lower the 
+measuring rule vertically on to the specimen to ensure that it is flat. 
+Measure the distance, to the nearest 1 mm, between the two marks of 
+each pair of reference marks. 
+
+'Method for conditioning of textiles. 
+
+
+
+IS : 10099 - 1982 
+
+
+
+SO 
+
+
+
+SfO 
+
+
+
+so 
+
+
+
+too- 
+
+
+
+so 
+
+
+
+•4 so 
+
+
+
+BOO 
+
+
+
+MARKING OP SPECIMEN FOR FABRIC OF 
+WIDTH SSOmm OR GREATER 
+
+
+
+•ISO- 
+
+
+
+SO 
+
+
+
+r — ^ 
+
+
+
+50 
+
+
+
+MARKING OF SPECIMEN FOR FABRIC OF 
+WIDTH LESS THAN SSOmm 
+
+Dimensions given are minimal, expressed in millimetres. 
+
+Fig. 1 Marking of Fabric Specimens 
+
+
+
+6.6 Treatment of Specimen 
+
+6.6.1 Subject the specimen to the required test method ( according to 
+the conditions specified in the appropriate Indian Standards or by 
+agreement between the interested parties ). 
+
+6.7 Method of Measuring After Treatment 
+6.7.1 Proceed as indicated in 6.4 and 6.5. 
+
+
+
+IS : 10099 - 1982 
+
+7. GARMENTS 
+
+7.1 General 
+
+7.1.1 The measurements listed are comprehensive. Not aj] rray be 
+necessary as their selection will c epend on the type and style of garment. 
+In all cases the exact sites measured when testing garments shall be 
+specified in the test report. 
+
+7.1.2 Unless otherwise arranged by agreement, make measurements as 
+specified in the relevant clause. If, for example, it is required to relate 
+changes in dimensions to changes in the maiked sizes of a garment, it 
+may be necessary to make more measurements than those specified in this 
+standard. Such additional measurements shall be trade, by a^^reeirent, 
+at the specific parts of the garment which customarily denote the size of 
+the garment. Examples of this application are: 
+
+a) the sizing of shirts by the collar size, that is, the length between 
+the outer edge of the button hole and the centre of the button; 
+
+b) the sizing of brassieres by the circumference of ihe boc'y of the 
+level of the diaphragm plus various tolerances dependent on cup 
+size, which are of the order of 125 mm. 
+
+Any modification of this type shall be noted when reporting the 
+results. 
+
+7.1.3 When it is required to determine the dimensional change of the 
+cloth of a garment as distinct from the dimensional change at seams and 
+hems which may change more or less than the cloth, additional measure- 
+ments shall be taken in the direction of the warp ( wales ) and of weft 
+( courses ) between maiks located as far as is practicable from seams and 
+hems [ set Fig. 2 (a) to 2 (c) ]. 
+
+7.2 Instructions Relating to all Garments 
+
+7.2.1 Make length and width measurements between specific points, 
+preferably at seams or between points where seams meet. The positions 
+on the garment at which the measurements are to be made shall be 
+marked by one of the methods described in 4.3. It the garment design 
+is complicated, it may be helpful to provide a diagram showing the 
+measuring points. 
+
+7.2.2 Where linings are present which are considered to be of impor- 
+tance to the function of the garment, measure thes^e in positions corres- 
+ponding to those at which the garment was measured. 
+
+7.2.3 First-precondition and then condition the garment as given in 
+<».4. 
+
+
+
+IS : 10099 - 1982 
+
+
+
+
+Fig. 2(a) Marking of Garment when Measuring Dimensional 
+Change of the Cloth 
+
+
+
+
+*% 
+
+
+
+
+V' 
+
+
+
+
+/ 
+
+
+1 
+
+1 
+
+il 
+
+
+
+Fig. 2(b) Marking of Vest when Measuring Dimensional 
+Changes of the Cloth 
+
+8 
+
+
+
+IS : 10099 - 1982 
+
+
+
+
+Fig. 
+
+
+
+MARKING ON 
+BACK SIOE 
+
+
+
+2(c) Marking of Brief when Measuring Dimensional 
+Change of the Cloth 
+
+
+
+7.2.4 Place the garment flat on the table for measuring ( see 4.4 ). 
+
+7.2.5 Measure the distance between the two marks of each pair of 
+marked positions without stretching or tensioning the garment in any way, 
+using the flexible steel rule or fibre-glass type ( see 4.2 ) and measuring to 
+an accuracy of at least 5 mm, and where practicable, to an accuracy 
+of I mm. 
+
+7.2.6 Measure the width or circumference with the garment closed and 
+ensure that the buttons of buttoned garments are fully home in the 
+buttonholes. 
+
+7.2.7 Measure elasticated garments or portions of garments in the 
+relaxed state. 
+
+7.3 Specific Positions for Measurements — The following measur- 
+ing positions are recommended but not all positions are necessarily rele- 
+vant to all garments of a particular type. Corresponding measurements 
+shall be made on both halves of the garment under examination, for 
+example, both sleeves. 
+
+7.3.1 Jacket-Like Garments {for Example, Dresses, Coats, Pullovers, Pyjamas, 
+Shirts, Vests ) — The measuring positions are the following: 
+
+7.3.1.1 Length of neck-band. 
+
+7.3.1.2 Vertical length from lowest point of armhole to bottom of 
+garment. 
+
+
+
+IS : 10099 - 1982 
+
+7.3.1.3 Vertical length of front ficm junction of shoulder seam and 
+neck seam to bottom of garment. 
+
+7.3.1.4 Vertical length of centre back from neck to bottom of 
+garment. 
+
+7.3.1.5 Length of underarm seam(s) from armhole to bottom of 
+sleeve. 
+
+There may be two such seams if the sleeve is made ficm upper and 
+lower sleeve sections: both shall be measured. 
+
+7.3.1.6 Length of shoulder seam from sleeve seam to neck. 
+
+7.3.1.7 Where applicable, the garment shall be folded as shown in 
+Fig. 3 with the widest part of the bust section, along the fold. Measure 
+the fold between side seams, or between sleeve seams, or between panels,, 
+depending on the construction of the garment. 
+
+
+
+
+Fio. 3 Method of FotDiNG Garment 
+
+
+
+7.3.1.8 Width across back between sleeve seams measured at a dist- 
+ance halfway between centre-back neck and lowest point of aimhole, or 
+width of yoke from sleeve seam to sleeve seam. 
+
+7.3.1.9 Width or circumference of garment at not more than three 
+places at stated distances from the centre-back neck. 
+
+7.3.1.10 Width or circumference of sleeve from junction of side and 
+sleeve seams at right angles to sleeve length. 
+
+7^.1.11 Width from front sleeve seam junction with the body to the 
+back sleeve seam junction with the body, as shown in Fig. 4. 
+
+7.3.1.12 Width or circumference or sleeve halfway between lowest 
+point of armhole and bottom of sleeve. 
+
+7.3.1.13 Width or circumference at cuff or bottom of sleeve. 
+
+10 
+
+
+
+IS : 10099 - 1982 
+
+
+
+Fig, 4 Measurement Described in 7.3.1.11 
+
+T 3.2 Trousers {for example. Briefs , Pants, Swim, Trunks) — The 
+measuring positions are the following. 
+
+7.3.2.1 Length from top to junction of leg seams at front. 
+
+7.3.2.2 Length from top to junction of leg seams at back. If seams 
+are curved, measure round the curves. If there is more than one seam 
+measure all seams. 
+
+7.3.2.3 Inside leg from crotch to bottom of legs. If leg length is 
+short, measure from the bottom of one leg to the bottom of the other leg 
+via the crotch. 
+
+7.3.2.4 Width at, or circumference of, waist. 
+
+7.3.2.5 Maximum width or circumference between top and crotch. 
+
+7.3.2.6 Width or circumference of bottom of leg. 
+
+7.3.2.7 Width or circumference of leg halfway between crotch and 
+bottom ( omit if leg length is short ). 
+
+7.3.2.8 Width or circumference of top of leg. 
+
+7.3.3 Boiler Suits ( Jump Suits ), Coveralls, Bib-and-Brace Overalls, 
+Combinations, One-Piece Swim Suits. 
+
+7.3.3.1 These can be accommodated by combining the categories 
+jacket-like garments ( 7.3.1 ) and trousers ( 7.3.2 ) but where applicable: 
+
+a) replacing 7.3.1.3 with "by length from centre-front neck to crotch 
+seam or end of opening", and 
+
+b) replacing 7.3.1.4 with "by length from centre-back neck to 
+crotch seam". 
+
+11 
+
+
+
+IS : 10099 - 1982 
+
+7.3.4 Girdles — The measuring positions are the following: 
+
+7.3.4.1 Length at a minimum of three places. 
+
+7.3.4.2 Width or circumference at top. 
+
+7.3.4.3 Width or circumference at bottom. 
+
+7.3.4.4 Width or circumference halfway down garment. 
+
+7.3.5 Pantie-girdle Categories 
+
+7.3.5.1 These can be accommodated by combining the categories 
+trousers ( 7.3.2 ) and girdles ( 7.3.4 ). 
+
+7.3.6 Brassiers — These include the appropriate portions of foundation 
+garments, dresses, nightgowns, vests or slips, swim suits, with or without 
+padded or pre-shaped bra sections. If adjustable shoulder straps are 
+fitted, preferably adjust the sliders to give the longest possible strap or 
+mark the position of the sliders. The measuring positions are the 
+following. 
+
+7.3.6.1 Circumference of bottom of bra or 'bra section'. 
+
+7.3.6.2 Total length of top edge of bra or bra section. It may be 
+necessary to include the strap length in this measurement for certain types 
+of garment. Examples of types which require measurement round the 
+top to include the strap length on the side nearer the neck occur when the 
+straps are: 
+
+a) not adjustable, but incorporate elastic sections as shown in Fig. 
+5 and 6. 
+
+
+
+
+Fig. 5 Bra with Non-adjustable Strap 
+
+
+
+
+Fig. 6 Bra with Non-adjustable Strap 
+12 
+
+
+
+IS : 10099 - 1982 
+
+b) adjustable but made from a continuous piece of fabric which may- 
+or may not be elastic, as shown in Fig. 7. 
+
+
+
+
+Fig. 7 Bra with Adjustable Strap made from a Continuous Fabric 
+
+With garments of these types of construction, the circumference of the 
+armhole, including the strap length on the side nearer the arm, should 
+also be measured. 
+
+7.3.6.3 Length at centre back. 
+
+7.3.6.4 Length at centre front. 
+
+7.3.6.5 Depth at armhole seam or at seams adjacent to the armhole, 
+
+7.3.6.6 Distance between the tops of cups while the garment lies on 
+the table. This is suitable for padded or pre- shaped types. 
+
+7.3.6.7 Length of each cup seam. 
+
+7.3.6.8 Length round curve of cup when folded garment is flat on 
+table. This is suitable for garments without padding or pre-shaped 
+sections. 
+
+7.3.6.9 Length of shoulder straps. 
+
+7.3.7 Skirts — The measuring positions are the following. 
+
+7.3.7.1 Length from waist to bottom, including waistband if one is 
+present, taken at seams and midway between seams. 
+
+7.3.7.2 Width at or circumference of waistband. 
+
+13 
+
+
+
+IS : 10099 - 1982 
+
+7.3.7.3 Width or circumference at not less than three places at slated 
+distances from top ec'ge or from bottom edge of waistband if present. For 
+flared and bias-cut skirts ( see Fig. 8 ), four additional measuiements are 
+required, preferably on each panel. 
+
+7.3.7.4 Length from waist to bottom, including waistband if one is 
+present, taken at seams and midway between seams. 
+
+7.3.7.5 Length from waist to bottom, including waistband if one is 
+present, taken at seams and midway between seams, marked length 
+parallel to the warp direction. 
+
+7.3.7.6 Length from waist to bottom, including waistband if one is 
+present, taken at seams and midway between seams, marked length 
+parallel to the weft direction, 
+
+7.3.7.7 Length from waist to bottom, including waistband if one is- 
+present, taken at seams and midway between seams, marked length at 45* 
+to the warp direction ( MANDATORY MEASUREMENT ). 
+
+
+
+
+Fig. 8 Flared and Bias-Cut Skirts 
+
+7.3.8 Hosiery ( Socks Stockings ) — The measurement of hosiery and 
+especially of tights is diflBcult and the procedure should be agreed bet- 
+ween the interested parties. It is suggested that for socks and stockings- 
+the following measurements should be made as indicated in Fig. 9, 
+
+14 
+
+
+
+IS ! 10099 - 1982 
+
+cr ^ — ^ 
+
+Fig. 9 Measurement of Socks 
+
+7.3.8.1 Length of leg from top of heel. 
+
+7.3.8.2 Length of foot from heel to toe. 
+
+7.3.8.3 Width of leg midway between top and heel. 
+
+7.3.8.4 Width of foot midway between heel and toe. 
+
+7.3.9 Hats and Caps — The measuring positions are the following. 
+
+7.3.9.1 Length of band. 
+
+7.3.9.2 Length of seams. 
+
+7.3.9.3 Width of band. 
+
+7.3.9.4 Overall diameter ( inside dimension ). 
+
+7.3.10 Gloves 
+
+7.3.10.1 Overall length. 
+
+7.3.10.2 Length of thumb seam(s). 
+
+7.3.10.3 Length along centre line of middle finger. 
+
+7.3.10.4 Width of palm, above the thumb joint. 
+
+7.3.10.5 Width across wrist at hem. 
+
+It may be found helpful to use a template. 
+
+7.4 Treatment of Garment 
+
+7.4.1 Subject the garment to the required test method, repeat the pro- 
+cedure described in 7.2.3 to 7.2.8 making the same series of measurement 
+as conducted unier 7.3. 
+
+8. EXPRESSION OF RESULTS 
+
+8.1 The changes in dimensions shall be recorded separately as percentages 
+of the original value. The changes in the recorded measurements may 
+be reported as well as, or instead of, the changes in dimensions. A plus 
+sign { ■{- ) shall be used to indicate elongation and a minus ( — ) to 
+indicate shrinkage. 
+
+15 
+
+
+
+IS : 10099 - 1982 
+
+
+
+AP PENDIX A 
+
+( Clause 0.4 ) 
+RECOMMENDED SI UNITS FOR TEXTILES 
+
+
+
+Si. 
+
+No. 
+
+
+Characteristic 
+
+
+SI 
+
+
+Unit(s) 
+
+
+AfPllCATlON 
+
+
+
+
+t*^ — ■ 
+
+
+
+
+
+
+
+
+
+
+Unit(s) 
+
+
+Abbreviation(s) 
+
+
+
+
+(1) 
+
+
+(2) 
+
+
+(3) 
+
+
+(4) 
+
+
+(5) 
+
+
+I) 
+
+
+Length 
+
+
+Millimetre 
+
+
+mm 
+
+
+Fibres 
+
+
+
+
+
+
+Millimetre, 
+
+
+mm, cm 
+
+
+Samples, test specimens 
+
+
+
+
+
+
+centimetre 
+
+
+
+
+( as appropriate ) 
+
+
+
+
+
+
+Metre 
+
+
+m 
+
+
+Yarns, ropes, cordage, 
+fabrics 
+
+
+2) 
+
+
+Width 
+
+
+Millimetre 
+
+
+mm 
+
+
+Narrow fabrics 
+
+
+
+
+
+
+Centimetre 
+
+
+cm 
+
+
+Other fabrics 
+
+
+
+
+
+
+Millimetre, 
+
+
+mm, cm 
+
+
+Samples, test specimens 
+
+
+
+
+
+
+centimetre 
+
+
+
+
+( as appropriate ) 
+
+
+
+
+
+
+Centimetre, metre cm, m 
+
+
+Carpets, druggets, DURRIK 
+
+
+
+
+
+
+
+
+
+
+( as appropriate ) 
+
+
+3) 
+
+
+Thickness 
+
+
+Micrometre 
+( micron ) 
+
+
+ttm 
+
+
+Delicate fabrics 
+
+
+
+
+
+
+Millimetre 
+
+
+mm 
+
+
+Other fabrics, carpets, felts 
+
+
+4) 
+
+
+Linear density 
+
+
+Tex 
+
+
+tex 
+
+
+Yarns 
+
+
+
+
+
+
+Millitex 
+
+
+mtex 
+
+
+Fibres 
+
+
+
+
+
+
+Decitex 
+
+
+dtex 
+
+
+Filaments,' filament yarns. 
+
+
+
+
+
+
+Kilotex 
+
+
+ktex 
+
+
+Slivers, ropes, cordage 
+
+
+5) 
+
+
+Diameter 
+
+
+Micrometre 
+( micron ) 
+
+
+!tm 
+
+
+Fibres 
+
+
+
+
+
+
+Millimetre 
+
+
+mm 
+
+
+Yarns, ropes, cordage 
+
+
+6) 
+
+
+Circumference 
+
+
+Millimetre 
+
+
+mm 
+
+
+Ropes, cordage 
+
+
+7) 
+
+
+Threads in fabric: 
+
+
+
+
+
+
+Woven fabrics ( as- 
+appropriate ) 
+
+
+
+
+a) Lengthwise 
+
+
+Number per 
+centimetre 
+
+Number per 
+decimetre 
+
+
+ends/cm 
+ends/dm 
+
+
+
+
+
+
+b) Widthwise 
+
+
+Number per 
+centimetre 
+
+Number per 
+decimetre 
+
+
+picks/cm 
+picks/dm 
+
+
+
+
+8) 
+
+
+Warp threads in 
+loom 
+
+
+Number per 
+centimetre 
+
+
+endsfcm 
+
+
+Reeds 
+
+
+9) 
+
+
+Stitches in knitted 
+fabric: 
+
+
+
+
+
+
+Knitted fabrics ( as. 
+appropriate ) 
+
+
+
+
+a) Lengthwise 
+
+
+Courses per 
+centimetre 
+
+Courses per 
+decimetre 
+
+
+courses/cm 
+courses/dm 
+
+
+I 
+
+
+
+
+b) Widthwise 
+
+
+Wales per 
+centimetre 
+
+Wales per 
+decimetre 
+
+
+wales/cm 
+wales/dm 
+
+
+
+
+
+16 
+
+
+
+IS : 10099 - 1982 
+
+
+
+No. 
+
+
+Chabactebistic 
+
+
+SI Unit(s) 
+
+A 
+
+
+
+
+Application 
+
+
+Unit(s) Abbreviation(s 
+
+
+r 
+
+
+
+
+(1) 
+
+
+(2) 
+
+
+(3) 
+
+
+(4) 
+
+
+
+
+(5) 
+
+
+10) 
+
+
+Stitch length 
+
+
+Millimetre 
+
+
+mm 
+
+
+
+
+Knitted fabrics, made-up 
+items 
+
+
+11) 
+
+
+Mass per unit area 
+
+
+Grams per square 
+metre 
+
+
+g/m^ 
+
+
+
+
+Fabrics 
+
+
+12) 
+
+
+Mass per unit length 
+
+
+Grams per metre 
+
+
+g/m 
+
+
+
+
+Fabrics 
+
+
+13) 
+
+
+Twist 
+
+
+Turns per centi- 
+metre 
+Turns per metre 
+
+
+turns/cm 
+
+turns/ m 
+
+
+1 
+
+J 
+
+
+Yarns, ropes, cordage ( as 
+appropriate ) 
+
+
+14) 
+
+
+Test or gauge length 
+
+
+Millimetre, centi- 
+metre 
+
+
+mm, cm 
+
+
+
+
+Fibres, yarns and fabric 
+specimens ( as appro- 
+priate ) 
+
+
+15) 
+
+
+Breaking load 
+
+
+Millinewton 
+Newton 
+
+
+mN 
+
+N 
+
+
+
+
+Fibres, delicate yarns 
+( individual or skeins ) 
+
+Strong yarns ( individual 
+or skeins ), ropes, 
+cordage, fabrics 
+
+
+16) 
+
+
+Breaking length 
+
+
+Kilometre 
+
+
+km 
+
+
+
+
+Yarns 
+
+
+17) 
+
+
+Tenacity 
+
+
+Millinewton per 
+tex 
+
+
+mN/tex 
+
+
+
+
+Fibres yarn ( individual 
+
+or skeins ) 
+
+
+18) 
+
+
+Twist factor or twist 
+multiplier 
+
+
+Turns per centi- 
+metre X square 
+
+
+. turns/cm 
+X i/tex 
+
+
+
+19) Bursting strength 
+
+
+
+20) Tear strength 
+
+
+
+21) 
+22) 
+
+
+
+Pile height 
+Pile density 
+
+
+
+23) Elastic modulus 
+
+
+
+root of tex 
+
+Turns per metre turns/m_ ^ 
+
+X square root X V'tex 1 
+
+of tex J 
+
+Newton per N/cm^ 
+square centi- 
+metre 
+
+Millinewton, mN 
+
+Newton N 
+
+Millimetre , mm 
+
+Mass of pile yarn g/m*/mm 
+
+in grams per pile 
+
+square metre height 
+
+per millimetre 
+
+pile height 
+
+Millinewton per mN/tex/ 
+tex per unit unit 
+deformation deform- 
+
+ation 
+
+
+
+J. Yarns ( as appropriate ) 
+
+
+
+Fabrics 
+
+
+
+Fabrics ( as appropriate ) 
+
+
+
+Carpets 
+Pile carpets 
+
+
+
+Fibres, yarns, strands 
+
+
+
+17 
+
+
+

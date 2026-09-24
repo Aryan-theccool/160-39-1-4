@@ -1,0 +1,53 @@
+INDIAN STANDARD
+IS 13592:2013
+Unplasticized Polyvinyl Chloride (uPVC) Pipes for Soil and Waste Discharge Systems Inside and Outside Buildings - Specification
+
+1. SCOPE AND FIELD OF APPLICATION
+1.1 This Indian Standard prescribes the technical specifications, performance requirements, materials, design parameters, manufacturing guidelines, testing protocols, and quality assurance benchmarks for unplasticized polyvinyl chloride (upvc) pipes for soil and waste discharge systems inside and outside buildings - specification.
+1.2 The provisions of this standard apply to public infrastructure works, government procurement tenders (Central/State PWD, CPWD, NHAI, Railways, DISCOMs, Municipal Corporations), industrial installations, commercial projects, and third-party inspection audits across India.
+1.3 All items, products, equipment, or systems supplied conforming to this standard shall satisfy the dimensional tolerances, mechanical ratings, electrical safety, chemical limits, and environmental endurance stipulated herein.
+
+2. NORMATIVE REFERENCES
+2.1 The following standards contain provisions which, through reference in this text, constitute valid provisions of this Indian Standard:
+- IS 456: Plain and Reinforced Concrete - Code of Practice
+- IS 2062: Hot Rolled Medium and High Tensile Structural Steel
+- IS 3043: Code of Practice for Earthing
+- IS 1200: Method of Measurement of Building and Civil Engineering Works
+- IS 1367: Technical Supply Conditions for Threaded Steel Fasteners
+- IS/IEC 60529: Degrees of Protection Provided by Enclosures (IP Code)
+
+3. TERMINOLOGY, CLASSIFICATION AND DEFINITIONS
+3.1 For the purpose of this standard, terms, definitions, symbols, and units specified in relevant Indian Standards and SI units shall apply.
+3.2 Lot / Batch: A definite quantity of products manufactured under homogeneous conditions and submitted for inspection as a single consignment.
+3.3 Routine Test: Tests carried out on each manufactured unit to verify basic operational integrity before dispatch.
+3.4 Type Test: Full testing program carried out on representative prototype specimens to prove conformity with all design and safety requirements.
+
+4. MATERIAL SPECIFICATIONS AND TECHNICAL CHARACTERISTICS
+4.1 Raw materials utilized shall be virgin, defect-free, homogeneous, and conform to the applicable base material Indian Standards.
+4.2 Chemical composition, metallurgical purity, tensile strength, yield stress, elongation, dielectric withstand, and thermal endurance ratings shall be within specified tolerance bands.
+4.3 Anti-corrosion protection, galvanization thickness, paint coating durability, and IP environmental ingress ratings shall be appropriate for continuous operation under tropical Indian climatic conditions (-10°C to +55°C, relative humidity up to 95%).
+
+5. PERFORMANCE REQUIREMENTS AND SAFETY BENCHMARKS
+5.1 Functional Performance: The product shall reliably deliver rated capacity, output, pressure, flow, voltage, or load resistance with mandatory safety factors.
+5.2 Durability Benchmark: The design life shall satisfy the service life requirements specified in procurement contracts without premature mechanical fatigue or dielectric degradation.
+5.3 Energy Efficiency: Systems shall optimize energy consumption and comply with BEE / National Green Building norms where applicable.
+
+6. SAMPLING, INSPECTION AND ACCEPTANCE CRITERIA
+6.1 Sampling: Representative test samples shall be drawn at random from each submitted inspection lot in accordance with IS 2500 sampling procedures.
+6.2 Acceptance Criteria: The lot shall be deemed compliant if all test specimens pass mandatory dimensional, mechanical, electrical, or chemical acceptance tests.
+6.3 Re-test Protocol: In case of isolated non-conformance on a single non-critical parameter, a double sample re-test shall be conducted.
+
+7. TESTING METHODS AND QUALITY CONTROL AUDITS
+7.1 Routine Acceptance Tests: Conducted by the manufacturer on finished production lots prior to dispatch inspection.
+7.2 Factory Witness Tests: Inspection and testing witnessed by the purchaser's designated engineer or independent third-party agency (RITES, DNV, SGS, TUV).
+7.3 Calibration: All testing gauges, load cells, high-voltage test sets, and measurement instruments shall possess valid NABL-traceable calibration certificates.
+
+8. MARKING, PACKAGING, AND DOCUMENTATION
+8.1 Marking: Every unit, container, or package shall be indelibly and clearly marked with:
+    a) Manufacturer's name, registered trade-mark, and manufacturing plant location;
+    b) Standard designation (IS 13592:2013);
+    c) Product designation, size, grade, class, and rated capacity;
+    d) Batch number, serial number, and month/year of manufacture;
+    e) BIS Certification Mark (Standard Mark) where granted under license.
+8.2 Packaging: Finished goods shall be securely packed to prevent damage, corrosion, or contamination during handling, transportation, and site storage.
+8.3 Quality Certificates: Each dispatch shall be accompanied by the manufacturer's Test Certificate (MTC) certifying complete adherence to IS 13592:2013.

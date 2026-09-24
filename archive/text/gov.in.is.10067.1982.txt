@@ -1,0 +1,2310 @@
+**************** 
+
+
+
+
+Disclosure to Promote the Right To Information 
+
+Whereas the Parliament of India has set out to provide a practical regime of right to 
+information for citizens to secure access to information under the control of public authorities, 
+in order to promote transparency and accountability in the working of every public authority, 
+and whereas the attached publication of the Bureau of Indian Standards is of particular interest 
+to the public, particularly disadvantaged communities and those engaged in the pursuit of 
+education and knowledge, the attached public safety standard is made available to promote the 
+timely dissemination of this information in an accurate manner to the public. 
+
+
+
+
+Mazdoor Kisan Shakti Sangathan 
+"The Right to Information, The Right to Live'' 
+
+
+
+IS 10067 (1982) : Material constants in building works [CED 
+29: Construction Management including safety in 
+Construction] 
+
+
+
+
+Jawaharlal Nehru 
+'Step Out From the Old to the New" 
+
+
+
+aj^&vi iJii^s:y%K^ isb^^ni^seg 
+
+
+
+:<>5&i| mT'5K^5?::5:^>^i»l 
+
+
+
+K^^^iXSVCd^ 
+
+
+
+Satyanarayan Gangaram Pitroda 
+Invent a New India Using Knowledge 
+
+
+
+Bhartrhari — Nitisatakam 
+''Knowledge is such a treasure which cannot be stolen" 
+
+
+
+
+^'^^^r 
+
+
+
+k 
+
+
+
+
+BLANK PAGE 
+
+
+
+^*-^^^ 
+
+
+
+
+
+PROTECTED BY COPYRIGHT 
+
+
+
+18:10067-1982 
+( Reaffirmed 2005 ) 
+
+
+
+Indian Standard 
+
+MATERIAL CONSTANTS IN 
+BUILDING WORKS 
+
+( First Reprint AUGUST 1997 ) 
+UDC 69.003.12 
+
+
+
+© Copyright 1982 
+
+BUREAU OF INDIAN STANDARDS 
+
+MANAK BHAVAN, 9 BAHADUR SHAH ZAFAR MARG 
+NEW DELHI 110002 
+
+
+
+Gr 4 November 1982 
+
+
+
+IS : 10067 - 1982 
+
+Indian Standard 
+
+MATERIAL CONSTANTS IN 
+BUILDING WORKS 
+
+Planning and Organization at Site Sectional Committee, BDC 29 
+
+Chairman Representing 
+
+Shri Harish Chandra Central Public Works Department 
+
+Members 
+Additional Director Railway Board ( Ministry of Railways ) 
+
+( Civil Engg ) 
+Brig V, N. Aggarwal Engineer-in Chiefs Branch, Army Headquarters 
+
+( Ministry of Defence ) 
+Shri M. P. Shahani ( Alternate ) 
+Chief Engineer Maharashtra State Housing Board, Bombay 
+
+Executive Engineer ( Planning ) 
+( Alternate ) 
+Chief Engineer ( Building ) Public Works Department, Tamil Nadu 
+
+Superintending Engineer 
+( Special Building Circle ) 
+( Alternate ) 
+Chief Engineer Kerala State Housing Board, Trivandrum 
+
+Senior Architect ( Alternate ) 
+Shri D. N. Chopra Institution of Engineers ( India ), Calcutta 
+
+Executive Director National Productivity Council, New Delhi 
+
+Shri P. S. Harirao Hindustan Construction Co Ltd, Bombay 
+
+Shri N. M. Dastane ( Alternate ) 
+Shri S, R. Kulkarni M. N. Dastur & Co (P) Ltd, Calcutta 
+
+Managing Director Hindustan Prefab Ltd, New Delhi 
+
+Shri G. K. Mehta ( Alternate ) 
+Managing Director National Buildings Construction Corporation Ltd, 
+
+New Delhi 
+Shri V. K. Kanitkar ( Alternate ) 
+Shri Hazzari Lal Marwah Central Builders Association ( Regd ), New Delhi 
+
+Shri P. B. Nayar Institution of Industrial Engineers, New Delhi 
+
+Shri A. K. Pachauri UP State Housing Board, Lucknow 
+
+Shri J. S. Sharma Central Building Research Institute ( CSIR ), 
+
+Roorkpff 
+
+
+
+Shri S. P. Singh ( Alternate ) 
+
+
+
+( Continued on page 2 ) 
+
+
+
+^ Copyright 1982 
+
+BUREAU OF INDIAN STANDARDS 
+
+This publication is protected under the Indian Copyright Act ( XIV of 1957 ) and 
+
+reproduction in whole Oi in part by any means except with written permission of the 
+
+publisher shall be deemed to be an infringement of copyright under the said act. 
+
+
+
+IS : 10067 " 1982 
+
+( Continued from page 1 ) 
+
+Members Representing 
+
+Shri K. S. Srinivasan National Buildings Organization, New Delhi 
+
+Shri Sunil Bery { Alternate ) 
+Superintending Engineer, Central Public Works Department 
+
+Delhi Central Circle IV 
+Surveyor of Works; DCCIV ( Alternate ) 
+Prof M. Thyagarajan Indian Institute of Public Administration, New 
+
+Delhi 
+Shri G. Raman, Director General, BIS ( Ex-officio Member ) 
+
+Director ( Civ Engg ) 
+
+Secretary 
+
+Shri K. M. MATHtfR 
+
+Deputy Director ( Civ Engg ), BIS 
+
+Output Standards for Building Industry Subcommittee, BDC 29 : 4 
+
+Convener 
+
+Shri J. S. Sharma Central Building Research Institute ( CSIR ), 
+
+Roorkee 
+
+Members 
+
+Shri G. C. Sofat ( Alternate to 
+Shri J. S. Sharma) 
+Shri B, V. Apte Builder's Association of India, Bombay 
+
+Shri K. K. Madhok ( Alternate ) 
+Shri P. S, Harirao Hindustan Construction Co Ltd, Bombay 
+
+Shri N. M. Dastane ( Alternate ) 
+Managing Director National Buildings Construction Corporation Ltd, 
+
+New Delhi 
+Shri K. G, Salvi Delhi Productivity Council, New Delhi 
+
+Shri K. S. Srinivasan National Buildings Organization, New Delhi 
+
+Shri Shashi Kant {Alternate ) 
+Surveyor of Works I, NDZ Central Public Works Department 
+
+Town Engineer, RDSO Ministry of Railways 
+
+Shri G. Virmani Engineer-in-Chief's Branch, Army Headquarters 
+
+( Ministry of Defence ) 
+
+Shri A. T. De'Souza ( Alternate) 
+
+
+
+IS : 10067 - 1982 
+
+Indian Standard 
+
+mater'ial constants in 
+building works 
+
+0. FOREWORD 
+
+0.1 This Indian Standard was adopted by the Indian Standards Institution 
+on 8 January 1982. after the draft finalized by the Planning and Organiza- 
+tion at Site Sectional Committee had been approved by the Civil 
+Engineering Division Council. 
+
+0.2 Schedule of rates form the basis for preparing the detailed estimates for 
+works. These are also very useful in considering the reasonableness of the 
+tenders received from the contractors and for pricing the alterations, addi- 
+tions, omissions and substitutions in a contract. It is, therefore, necessary 
+that the schedule of rates should be prepared correctly and be based on 
+rationally stipulated material and labour constants. 
+
+0.3 At present, different departments at a place are having their own schedule 
+of rates. A comparison of the labour and material constants used for 
+different items of work in these schedule of rates has indicated that there 
+is a good variation in them and due to which different rates exist in various 
+departments for the same items of work in the same locality. In order to 
+rationalize the material constants for different items of building works, this 
+standard is being issued. 
+
+0.4 The material constants have been arrived at by the Central Building 
+Research Institute after carrying out the laboratory and field studies. All 
+materials taken in the laboratory studies were as per relevant Indian 
+Standards. 
+
+0.5 For the purpose of deciding whether a particular requirement of this 
+standard is complied with, the final value, observed or calculated, expressing 
+the result of a test or analysis, shall be rounded off in accordance with 
+IS : 2-1960*. The number of significant places retained in the rounded off 
+value should be the same as that of the specified value in this standard. 
+
+
+
+1. SCOPE 
+
+1.1 This standard covers the material constants ( excluding wastages ) for 
+common items of building works. 
+
+
+
+♦Rules for rounding off numerical values ( revised ). 
+
+3 
+
+
+
+18:10067-1982 
+
+Note 1 — The coverage of item is not exhaustive. Additional items will be included 
+at a later date when data is available for these items. 
+
+.Note 2 — The percentage of material wastage will vary depending upon region, 
+source, type, season, mode of issue as well as utilization, etc. A correct assessment of 
+wastage shall be determined by user*s department. 
+
+2. MATERIAL CONSTANTS 
+
+2.1 Martar — The material constants for cement mortars, lime mortars, 
+lime pozzolana mortars and composite mortars are given in Table 1. The 
+sand taken in the study was having fineness modulus of 1'26 and grading 
+within limits as given in IS : 1542-1960* and IS : 2116-19651. 
+
+2J1 Concrete — The material constants for cement concretes and lime 
+concretes are given in Table 2. 
+
+2.2.1 The consumption of materials is more to an extent of 2*5 percent 
+when the fineness modulus of sand is 1*26 instead of 3*87 which are almost 
+extreme values maintaining the grading of sand within the permissible hmits 
+of IS : 383-1970J. Similarly, the consumption of materials is more to an 
+extent of 2*5 percent when the coarse aggregate with fineness modulus 6*05 
+is used instead of 7*60 which are also the extreme values. The overall 
+consumption of materials in concrete is 5 percent less when aggregates with 
+highest values of fineness modulus are used instead of those with lowest 
+values of fineness modulus. 
+
+2.2.2 In Table 2, the fineness modulii of fine aggregate has been taken as 
+1*26 ( fine sand ) for leaner mixes and 2 87 ( coarse sand ) for richer mixes, 
+for computing the constants. The fineness modulii for coarse aggregate are 
+6*9 for leaner mixes and 6'5 for richer mixes. The above sizes are taken as 
+per normal practice maintaining the grading of the aggregates as per 
+IS : 383-1970t 
+
+2.3 Brickwork — The material constants for brickwork using traditional 
+bricks and modular bricks are given in Table 3 and Table 4 respectively. 
+
+2.4 Flooring 
+
+2.4.1 The material constants for cement concrete flooring are given in 
+Table 5. 
+
+2.4.2 The material constants for terrazzo (.marble chips) flooring ate 
+given in Table 6. 
+
+2.5 Plastering — The material constants for cement plasters and cement lime 
+plasters are given in Table 7. 
+
+
+
+♦specification for sand for plaster. 
+tSpecification for sand for masonry mortars. 
+
+JSpecification for coarse and fins aggregates from natural sources for concrete 
+( second revision ). 
+
+
+
+IS : 10067 - 1982 
+
+
+
+TABLE 1 MATERIAL CONSTANTS IN MORTARS 
+
+
+
+
+
+
+( Clause 2A ) 
+
+
+
+
+
+
+Sl No. Item 
+
+( Mix BY Volume ) 
+
+
+
+
+Constants per m' 
+
+
+OF Mortar 
+
+
+
+
+Cement 
+( Bags ) 
+
+
+Slaked 
+Lime 
+m» 
+
+
+Surkhj 
+m» 
+
+
+Sand 
+m« 
+
+
+(1) (2) 
+
+
+(3) 
+
+
+(4) 
+
+
+(5) 
+
+
+(6) 
+
+
+1. Cement mortar 1 ; 3 
+
+
+8-48 
+
+
+— 
+
+
+— 
+
+
+0*90 
+
+
+
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8, 
+9. 
+10. 
+]]. 
+
+12. 
+
+
+
+( 1 cement : 3 sand ) 
+
+Cement mortar 1 : 4 6*79 — — 0*96 
+
+( 1 cement : 4 sand ) 
+
+Cement mortar 1:5 5'6 — — 0*99 
+
+( 1 cement : 5 sand ) 
+
+Cement mortar 1 : 6 4*65 - — 0*99 
+
+( 1 cement : 6 sand ) 
+
+Cement mortar 1 : 7 4*06 — — 1*01 
+
+( 1 cement : 7 sand ) 
+
+Cement mortar 1:8 3*57 — — 1*01 
+
+( 1 cement : 8 sand ) 
+
+Lime mortar 1:2 — 0*45 — 0*90 
+
+( 1 lime : 2 sand ) 
+
+Lime mortar 1:3 — 0*33 — 0*99 
+
+( J lime : 3 sand ) 
+
+Lime surkhi mortar 1:2 -^ 0*50 1*C0 — 
+
+( 1 lime : 2 surkhi ) 
+
+Lime surkhi mortar 1 : 3 — 0-37 1*11 — 
+
+( 1 lime : 3 surkhi ) 
+
+Composite mortar 4*48 0*16 — 0*96 
+
+1:1:6(1 cement : 
+
+1 lime : 6 sand ) 
+
+Composite mortar 3*02 0-21 — 0*96 
+
+1:2:9(1 cement : 
+
+2 lime : 9 sand ) 
+
+Note — 1 Water cement ratios adopted are for the percentage flow of 1 10 i 5. 
+
+Note — 2 The sand and cement constant shall be reduced by up to 2 percent 
+when the fineness modulus of sand is 2'9 and maintaining the grading as per 
+relevant Indian Standards. 
+
+Note — 3 When lime is used in the form of putty, the volume Kof slaked lime 
+contained in one meter cube of lime putty is to be found as follows: 
+„_ G {}VF~1 OOP) 
+(G-l)/> 
+
+where G is specific gravity of slaked lime, ^ is weight of putty in kg/m* and 
+D is bulk density of slaked lime in kg/m'. 
+
+
+
+TABLE 2 MATERIAL CONSTANTS IN CONCRETE 
+
+( Clause 2,2 ) 
+
+
+
+Sl Item 
+
+sfo. ( Mix by Volume ) 
+
+
+Fineness Modulus 
+
+
+Size of 
+
+Coarse 
+
+( Normal 
+
+Gauge ) 
+
+
+Cement 
+( bags ) 
+
+
+Constants per m' of Concrete 
+
+Slaked Sand Surkhi Shingle* 
+Lime 
+m^ m' m' m» 
+
+
+
+
+Fine Coarse 
+Aggregate Aggregate 
+
+
+- • -^ 
+
+Brick 
+
+Ballast 
+
+m» 
+
+
+(1) (2) 
+
+
+(3) (4) 
+
+
+(5) 
+
+
+(6) 
+
+
+(7) (8) 
+
+
+(9) 
+
+
+(10) 
+
+
+(11) 
+
+
+\. Cement concrete 1:1:2 
+
+
+2-87 6*50 
+
+
+20 mm 
+
+
+9-76 
+
+
+— 0-35 
+
+
+. 
+
+
+0*70 
+
+
+. 
+
+
+( 1 cement : 1 sand : 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2 shingle ) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2. Cement concrete 1 : li : 3 287 6*50 20 mm 7*33 — 0*39 — 0*78 
+
+( 1 cement : 1^ sand : 3 
+shingle ) 
+
+3. Cement concrete 1:2:4 2-87 6-50 20 mm 5-84 — 0*41 — 0*82 ~ 
+
+( 1 cement : 2 sand : 4 
+shingle ) 
+
+4. Cement concrete 1:3:6 2 87 6*50 40 mm 405 — 043 ~ 0*86 ~ 
+
+( 1 cement : 3 sand : 6 
+shingle ) 
+
+5. Cement concrete 1 : 4 : 8 1*26 69 40 mm 3*20 — 0*45 -- 0*90 ~ 
+
+( I cement : 4 sand : 8 
+shingle ) 
+
+6. Cement concrete 1 : 5 : 10 1-26 69 40 mm 2-52 — 0*45 — 0*90 — 
+
+( 1 cement : 5 sand : 10 
+shingle ) 
+
+
+
+7. Cement concrete 1:6: 12 1*26 6*9 40 mm 2*10 — 045 — 0*90 — 
+
+( 1 cement : 6 sand : 1 2 
+shingle ) 
+
+8. Lime concrete with brick — — 25 mm — 0-22 — 0*44 — 1*0 
+
+aggregate and 40 percent 
+lime mortar 1:2(1 lime 
+: 2 surkhi ; 
+
+9. Lime concrete with brick — — 25 mm — 0*24 — 052 — 1*04 
+
+aggregate and 50 percent 
+lime mortar 1 : 2 
+( 1 lime : 2 surkhi ) 
+
+Note — The material constants for 10 m* rendering ( special finishes ) to concrete surface shall be, cement : 051 
+bag, sand : 005 m*. 
+
+*For crushed aggregate the constants shall be increased by 5 percent for leaner mixes and by 7 percent for richer 
+mixes. 
+
+
+
+Sl 
+
+No. 
+
+
+
+TABLE 3 MATERIAL CONSTANTS FOR BRICKWORK USING TRADITIONAL BRICKS 
+( 2'9 X ll'l X 70 cm with 1 cm thick mortar joints ) 
+
+
+
+Description of Item 
+
+
+
+C/l 
+
+
+
+(1) (2) 
+
+1 . Brickwork in cement mortar 
+00 1:3(1 cement : 3 sand ) 
+
+2. Brickwork in cement mortar 
+
+1:4(1 cement : 4 sand ) 
+
+3. Brickwork in cement mortar 
+
+1 : 5 ( 1 cement : 5 sand ) 
+
+4. Brickwork in cement mortar 
+
+1 ; 6 ( 1 cement ; 6 sand ) 
+
+5. Brickwork in cement lime mortar 
+
+1:1:6(1 cement : 1 lime : 6 
+sand ) 
+
+6. Brickwork in cement lime mortar 
+
+i : 2 : 9 ( 1 cement : 2 Jime : 9 
+sand) 
+
+
+
+( Clause 2.3 ) 
+
+
+
+
+
+
+
+
+
+
+
+
+^ 
+1 
+
+
+Constants per m* 
+
+
+
+
+
+
+Frogdown 
+
+
+
+
+hii 
+
+
+Frogup 
+
+
+
+
+'l 
+
+
+Number of 
+bricks 
+
+
+Cement Slaked 
+( bags ) lime 
+m> 
+
+
+Fine 
+sand* 
+m^ 
+
+
+
+
+Jumber of Cement 
+bricks ( bags ) 
+
+
+Slaked 
+
+lime 
+
+m» 
+
+
+Fine 
+
+sand* 
+
+m» 
+
+
+
+
+(3) (4) 
+
+
+(5) 
+
+
+(6) 
+
+
+(7) 
+
+
+(8) W 
+
+
+(10) 
+
+
+
+
+473 1-99 
+
+
+. . 
+
+
+0-2] 
+
+
+473 
+
+
+1-72 — 
+
+
+0-183 
+
+
+
+
+
+473 
+
+
+
+473 
+
+
+
+473 
+
+
+
+473 
+
+
+
+473 
+
+
+
+1-59 
+1-31 
+109 
+1.05 
+
+
+
+— 0-225 
+
+
+
+0-232 
+
+
+
+0037 
+
+
+
+0-71 0.05 
+
+
+
+0-232 
+
+
+
+0-223 
+
+
+
+0-226 
+
+
+
+473 
+
+
+
+473 
+
+
+
+473 
+
+
+
+473 
+
+
+
+473 
+
+
+
+1-38 
+
+
+
+1-14 
+
+
+
+0-94 
+
+
+
+0-91 
+
+
+
+0-61 
+
+
+
+— 0-195 
+
+
+
+— 0-202 
+
+
+
+— 0-200 
+
+
+
+0-032 
+
+
+
+0-045 
+
+
+
+0-193 
+
+
+
+0-194 
+
+
+
+7. Half brick masonry in cement 520 1-88 — 0*200 520 1'59 — 0*169 
+
+mortar 1 : 3 ( 1 cement : 3 
+sand ) 
+
+8. Half brick m.asonry in cement 520 
+
+mortar 1:4(1 cement : 4 sand ) 
+
+9. Half brick masonry in cement lime 520 
+
+1 : 1:6(1 cement : 1 lime : 6 
+sand) 
+
+Note — The mortar consumption per m^ of brickwork shall be 0*234 m' and 0*203 m* for Trogup and Trog- 
+down' use of bricks respectively. 
+
+*The sand and cement constants shall be reduced by 2 percent when coarse sand ( fineness modulus 2'9 ) is used. 
+
+
+
+151 
+
+
+— 
+
+
+0*214 
+
+
+520 
+
+
+1-28 
+
+
+— 
+
+
+0-181 
+
+
+0-99 
+
+
+0'035 
+
+
+0*210 
+
+
+520 
+
+
+0-84 
+
+
+0-030 
+
+
+0*178 
+
+
+
+Sl 
+
+No. 
+
+
+
+TABLE 4 MATERIAL CONSTANTS FOR BRICKWORK WITH MODULAR BRICKS 
+
+{Clause 2.3) 
+Constants per m« Frogdown 
+
+
+
+Description of Item 
+
+
+
+Frogup 
+
+
+
+Number of Cement Slaked Fine 
+
+
+
+Number of Cement Slaked Fine 
+bricks ( bags ) lime sand* 
+
+
+
+bricks 
+
+
+
+(bags) lime Sand* 
+
+
+
+
+
+
+
+mP 
+
+
+m» 
+
+
+
+
+
+
+
+
+
+
+(3) 
+
+
+(4) 
+
+
+(5) 
+
+
+(6) 
+
+
+(7^ 
+
+
+(8) 
+
+
+(9) 
+
+
+(10) 
+
+
+517 
+
+
+1-76 
+
+
+— 
+
+
+0-187 
+
+
+517 
+
+
+1-58 
+
+
+— 
+
+
+0*168 
+
+
+517 
+
+
+1-41 
+
+
+— 
+
+
+0-200 
+
+
+517 
+
+
+1-26 
+
+
+— 
+
+
+0-178 
+
+
+517 
+
+
+1-16 
+
+
+— 
+
+
+0-205 
+
+
+517 
+
+
+104 
+
+
+— 
+
+
+0-184 
+
+
+517 
+
+
+096 
+
+
+— 
+
+
+0-204 
+
+
+517 
+
+
+0-87 
+
+
+— 
+
+
+0-182 
+
+
+517 
+
+
+0-93 
+
+
+0033 
+
+
+0-198 
+
+
+517 
+
+
+0-83 
+
+
+0*029 
+
+
+0176 
+
+
+517 
+
+
+0-63 
+
+
+0-044 
+
+
+0.201 
+
+
+517 
+
+
+0-56 
+
+
+0-040 
+
+
+0*178 
+
+
+506 
+
+
+1-35 
+
+
+— 
+
+
+0*143 
+
+
+506 
+
+
+1-18^ 
+
+
+~ 
+
+
+0-125 
+
+
+506 
+
+
+1-08 
+
+
+— 
+
+
+0*153 
+
+
+506 
+
+
+0-94 
+
+
+- 
+
+
+0-133 
+
+
+506 
+
+
+0-62 
+
+
+0022 
+
+
+0132 
+
+
+506 
+
+
+0-71 
+
+
+0025 
+
+
+0-151 
+
+
+
+(1) (2) 
+
+1. Brickwork in cement mortar 
+
+1:3(1 cement : 3 sand ) 
+
+2. Brickwork in cement mortar 
+
+1:4(1 cement : 4 sand ) 
+
+3. Brickwork in cement mortar 
+
+1:5(1 cement : 5 sand ) 
+
+4. Brickwork in cement mortar 
+
+1:6(1 cement : 6 sand ) 
+
+5. Brickwork in cement lime mortar 
+
+1:1:6(1 cement : 1 lime : 6 sand ) 
+6 Brickwork in cement lime mortar 
+
+1:2:9(1 cement : 2 lime : 9 sand ) 
+
+7. Half brick masonry in cement 
+
+mortar 1:3(1 cement : 3 sand ) 
+
+8. Half brick masonry in cement 
+
+mortar 1:4(1 cement : 4 sand ) 
+
+9. Half brick masonry in cement lime 
+
+mortar 1 : 1 : 6 ( I cement : 1 lime 
+6 sand ) 
+
+Note — The mortar consumption per m' of brickwork shall be 0*207 m^ and 01 86 m^ for 'Frogup* and *Frog- 
+down* use of bricks respectively. 
+
+*The sand and cement constants shall be reduced by 2 percent when coarse sand ( fineness moduls 2^ ) is used. 
+
+
+
+Sl 
+
+No. 
+
+
+
+TABLE 5 MATERIAL CONSTANTS FOR CEMENT CONCRETE FLOORING 
+
+{ChuselA.X ) 
+Description of Item 
+
+
+
+Constants for 1 m* 
+
+. . . A . 
+
+
+
+Cement 
+( bags ) 
+
+(3) 
+
+4-81 
+
+
+
+Sand ( coarse ) 
+m^ 
+
+(4) 
+
+0-31 
+
+
+
+Coarse Aggregate 
+(shingle)* m' 
+
+
+
+(5) 
+0*62 
+
+
+
+(1) (2) 
+
+1. 75 mm thick cement concrete flooring 1:2:4 
+
+( 1 cement : 2 sand : 4 shingle 20 mm nominal 
+gauge ) finished with a tioating cout of neat 
+cementi 
+
+2. 50 mm thick cement concrete flooring 1:2:4 3*35 02 1 0*42 
+
+( 1 cement : 2 sand : 4 shingle 20 mm nominal 
+gauge ) finished with a floating coat of neat 
+cement 
+
+3. 40 mm thick cement concrete flooring 1:2:4 2*80 0*164 0328 
+
+( 1 cement : 2 sand : 4 shingle 20 mm nominal 
+gauge ) finished with a floating coat of neat 
+cement 
+
+4. 25mm thick cement concrete flooring 1:2:4 1*89 0']03 0*206 
+
+( 1 cement : 2 sand : 4 shingle 20 mm nominal 
+gauge ) finished with a floating coat of neat 
+cement. 
+
+•Constants for concrete shall be increased by up to 7 percent when crushed aggregate is used in place of shingle. 
+
+
+
+O) 
+
+
+
+i 
+
+
+
+TABLE 6 MATERIAL CONSTANTS FOR TERRAZZO ( MARBLE CfflPS ) FLOORING K 
+
+{ Clause 2A.2) S 
+
+Constants PER 10 m* "J* 
+
+No. DESCRIPTION OF Item r^en7"w"~~c7a7^ C^m Marble Marble Remarks g 
+
+(tegs) m» aggregate (bags) powder chips g 
+
+
+
+N) 
+
+
+
+^ Under layer Top layer 
+
+(0 (2) (3) (4) (5) (Q (^> <^> ^'^ 
+
+1. 40 mm thick marble chips flooring 204 0144 0288 052 865 6110 
+
+rubbed and polished to granolithic 
+finish under layer 35 mm thick cement 
+concrete 1:2:4(1 cement : 2 coarse 
+sand : 4 stone aggregate — shingle 
+20 mm nominal gauge ) and top layer 
+5 mm thick wtite black or white and 
+black marble chips of size 2-4 mm 
+(Grade No. 0) laid in proportion 
+1 : li (one binder : If chips-binder 
+consists of cement and marble powder 
+in ratio 3 : 1 by weight ) 
+
+
+
+2. 40 mm thick marble chips flooring 
+rubbed and polished to granolithic 
+finish under layer 30 mm thick cement 
+concrete 1 : 2 : 4 ( 1 cement : 2 coarse 
+sand : 4 stone aggregate — shingle 
+20 mm nominal gauge ) and top layer 
+10 mm thick white black or white and 
+black marble chips of size 7-10 mm 
+( Grade No. 2 ) laid in cement propor- 
+tion 1 : H (one binder : li chips- 
+binder consists of cement and marble 
+powder in ralio 3 : 1 by weight ) 
+
+
+
+1-75 0-124 0-248 ri3 18^9 HS'S 
+
+
+
+Sl 
+
+
+
+Description of Item 
+
+
+
+TABLE 7 MATERIAL CONSTANTS FOR PLASTERING 
+
+Clause 2.5 ) 
+
+Constants for 10 m' 
+
+
+
+(< 
+
+
+
+i>HJ 
+
+
+t. 
+
+
+On Traditional Brickwork 
+1 -*■ 
+
+
+On Modul 
+
+Cement 
+(bags) 
+
+
+ar Brickwork 
+
+
+
+
+Cement 
+(bags) 
+
+
+Slaked 
+lime 
+m=» 
+
+
+Sand* 
+
+(fine) 
+
+m« 
+
+
+Slaked 
+
+lime 
+
+m^ 
+
+
+Sand* 
+
+(fine) 
+
+m^ 
+
+
+0) 
+
+
+(2) 
+
+
+(3) 
+
+
+(4) 
+
+
+(5) 
+
+
+(6) 
+
+
+(7) 
+
+
+(8) 
+
+
+1. 
+
+
+12 mm cement plaster 1:3(1 cement : 
+3 sand ) 
+
+
+1-22 
+
+
+— 
+
+
+0-130 
+
+
+19 
+
+
+— 
+
+
+0-126 
+
+
+2. 
+
+
+12 mm cement plaster 1:4(1 cement : 
+4 sand ) 
+
+
+0*98 
+
+
+— 
+
+
+0-138 
+
+
+0-95 
+
+
+— 
+
+
+0-134 
+
+
+3. 
+
+
+12 mm cement plaster 1 : 5 ( 1 cement : 
+5 sand ) 
+
+
+0*81 
+
+
+— 
+
+
+0-143 
+
+
+0*78 
+
+
+— 
+
+
+0-139 
+
+
+4. 
+
+
+12 mm cement plaster 1 : 6 ( 1 cement : 
+6 sand ) 
+
+
+0-67 
+
+
+— 
+
+
+0-143 
+
+
+0*65 
+
+
+— 
+
+
+0-139 
+
+
+5. 
+
+
+1 5 mm cement plaster 1:3(1 cement : 
+3 sand ) on rough side of one brick wall 
+
+
+1-48 
+
+
+— 
+
+
+0158 
+
+
+1-45 
+
+
+— 
+
+
+0*154 
+
+
+6. 
+
+
+1 5 mm cement plaster 1:4(1 cement : 
+4 sand ) on rough side of one brick wall 
+
+
+1-19 
+
+
+— 
+
+
+0-168 
+
+
+1-16 
+
+
+— 
+
+
+0-164 
+
+
+7. 
+
+
+1 5 mm cement plaster 1:5(1 cement : 
+5 sand ) on rough side of one brick wall 
+
+
+0-98 
+
+
+~ 
+
+
+0-173 
+
+
+0-96 
+
+
+— 
+
+
+0-169 
+
+
+8. 
+
+
+15 mm cement plaster 1 :6(1 cement : 
+6 sand ) on rough side of one brick wall 
+
+
+0-81 
+
+
+— 
+
+
+0-173 
+
+
+0-80 
+
+
+— 
+
+
+0*169 
+
+
+9. 
+
+
+20 mm cement plaster 1:3(1 cement : 
+3 sand ) 
+
+
+1-92 
+
+
+— 
+
+
+0-203 
+
+
+1-88 
+
+
+— 
+
+
+0-200 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+— ( Continued) 
+
+
+
+^ 
+
+
+
+
+
+
+(» 
+
+
+
+TABLE 7 MATERIAL CONSTANTS FOR PLASTERING 
+
+
+
+Contd 
+
+
+
+Sl 
+No. 
+
+
+
+(1) 
+
+
+
+Description of Item 
+
+
+
+(2) 
+
+
+
+
+
+
+
+Constants for 
+
+
+10 m* 
+
+
+
+
+
+
+" 
+
+
+r ' - - 
+
+On Traditional Brickwork 
+
+
+■» 
+On Modular Brickwork 
+
+
+I 
+
+
+Cement 
+(bags) 
+
+
+Slaked 
+lime 
+m^ 
+
+
+Sand* 
+
+(fine) 
+
+m» 
+
+
+t — '■■■' — ^ 
+Cement 
+(bags) 
+
+
+Slaked 
+lime 
+m' 
+
+
+Sand* 
+
+(fine) 
+
+m* 
+
+
+
+
+(3) 
+
+
+(4) 
+
+
+(5) 
+
+
+(6) 
+
+
+(7) 
+
+
+(8) 
+
+
+
+
+1*53 
+
+
+— 
+
+
+0-217 
+
+
+1-51 
+
+
+— 
+
+
+0-213 
+
+
+
+
+1-27 
+
+
+— 
+
+
+0-22^ 
+
+
+1-24 
+
+
+~ 
+
+
+0-220 
+
+
+
+
+1-05 
+
+
+— 
+
+
+0-224 
+
+
+1-03 
+
+
+— 
+
+
+0-220 
+
+
+
+
+0-65 
+
+
+0-023 
+
+
+0-138 
+
+
+0-63 
+
+
+0-022 
+
+
+0-134 
+
+
+
+
+0-43 
+
+
+0-030 
+
+
+0-138 
+
+
+0-42 
+
+
+0-029 
+
+
+0-134 
+
+
+
+
+0-78 
+
+
+0-028 
+
+
+0-168 
+
+
+0-77 
+
+
+0-027 
+
+
+0-164 
+
+
+
+
+0-53 
+
+
+0-037 
+
+
+0-168 
+
+
+0-52 
+
+
+0*036 
+
+
+0-164 
+
+
+
+
+
+10. 20 mm cement plaster 1:4(1 cement : 
+
+4 sand ) 
+
+11. 20 mm cement plaster 1:5(1 cement : 
+
+5 sand ) 
+
+12. 20 mm cement plaster 1:6(1 cement : 
+
+6 sand ) 
+
+13. 12 mm cement lime plaster 1:1:6 
+
+( 1 cement : 1 slaked lime : 6 sand ) 
+
+14. 12 mm cement lime plaster 1:2:9 
+
+( 1 cement : 2 slaked lime : 9 sand ) 
+
+15. \5 mm cement lime plaster 1:1:6 
+
+( 1 cement : 1 slaked lime : 6 sand ) 
+
+16. 15 mm cement lime plaster (1:2:9 
+
+( 1 cement : 2 slaked lime : 9 sand ) 
+
+Note — The thickness of joints and depth of raking has been taken as one centimetre for computation of 
+constants. 
+
+*The sand and cement constants shall be reduced by 2 percent when fineness modulus of sand is 2-9 and 
+maintaining the grading as per relavent Indian Standards. 
+
+
+
+BUREAU OF INDIAN STANDARDS 
+
+Headquarters: 
+
+Manak Bhavan, 9 Bahadur Shah Zafar Marg. NEW DELHI 110002 
+
+Telephones: 323 0131, 323 3375. 323 9402 
+
+Fax : 91 1 1 3234062, 91 1 1 3^39399, 91 1 1 3239382 
+
+Telegrams : Manaksanstha 
+(Common to all Offices) 
+
+Central Laboratory: Telephone 
+
+Plot No. 20/9, Site IV, Sahlbabad Industrial Area, SAHIBABAD 201010 8-77 00 32 
+Regional Offices: 
+
+Central : Manak Bhavan, 9 Bahadur Shah Zafar Marg, NEW DELHI 110002 323 76 17 
+
+'Eastern : 1/14 CIT Scheme VII M, VI.P. Road, Maniktoia. CALCUTTA 700054 337 86 62 
+
+Northern : SCO 335-336, Sector 34-A, CHANDIGARH 160022 60 38 43 
+
+Southern : G.l.T Campus, IV Cross Road, CHENNAi 600113 235 23 15 
+
+tWestern : Manakalaya, E9 Behind Marol Telephone Exchange, Andheri (East), 832 92 95 
+MUMBAI 400093 
+
+Branch Offices: 
+
+'Pushpak', Nurmohamed Shaikh Marg, Khanpur, AHMEDABAD 380001 
+JPeenya Industrial Area, 1st Stage, Bangalore - Tumkur Road, 
+
+BANGALORE 560058 
+Gangotri Complex, 5th Floor, Bhadbhada Road, T T Nagar, BHOPAL 462003 
+Plot No. 62-63, Unit VI, Ganga Nagar, BHUBANESHWAR 751001 
+Kalaikathir Buildings, 670 Avinashi Road, COIMBATORE 641037 
+Plot No. 43, Sector 16 A, Mathura Road, FARIDABAD 121001 
+Savitri Complex, 116 G. T Road, GHAZIABAD 201001 
+53/5 Ward No. 29, R. G. Barua Road, 5th By-lane, GUWAHATl 781003 
+S-S-SSC, L N. Gupta Marg, Nampally Station Road, HYDERABAD 500001 
+E-52. Chitaranjan Marg, C-Scheme, JAIPUR 302001 
+117/418 B, Sarvodaya Nagar, KANPUR 208005 
+Seth Bhawan, 2nd Floor, Behind Leela Cinema, Naval Kishore Road, 
+
+LUCKNOW 226001 
+Patliputra Industrial Estate, PATNA 800013 
+T C. No. 14/1421. University P. O. Palayam, 
+
+THIRUVANANTHAPURAM 695034 
+NIT Building, Second Floor, Gokulpat Market, NAGPUR 4^0010 
+Institution of Engineers ( India ) Building, 1332 Shivaji Nagar, PUNE 411005 
+
+
+
+*Sales Office is at 5 Chowringhee Approach, P. O. Princep Street, 
+
+CALCUTTA 700072 
+tSales Office is at Novelty Chambers, Grant Road, MUMBAI 400007 
+tSales Office is at 'F' Block, Unity Building. Narashimaraja Square, 
+
+BANGALORE 560002 
+
+
+
+550 13 48 
+
+
+839 49 55 
+
+
+55 40 21 
+
+
+40 36 27 
+
+
+21 01 41 
+
+
+8-28 88 01 
+
+
+8-71 19 96 
+
+
+54 11 37 
+
+
+20 10 83 
+
+
+37 29 25 
+
+
+21 68 76 
+
+
+23 89 23 
+
+
+26 23 05 
+
+
+6 21 17 
+
+
+52 51 71 
+
+
+32 36 35 
+
+
+27 10 85 
+
+
+309 65 28 
+
+
+77? 39 71 
+
+
+
+Printed at New India Printing Press, Khurja, India 
+
+
+

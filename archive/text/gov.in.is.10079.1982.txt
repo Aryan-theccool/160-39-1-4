@@ -1,0 +1,654 @@
+**************** 
+
+
+
+
+Disclosure to Promote the Right To Information 
+
+Whereas the Parliament of India has set out to provide a practical regime of right to 
+information for citizens to secure access to information under the control of public authorities, 
+in order to promote transparency and accountability in the working of every public authority, 
+and whereas the attached publication of the Bureau of Indian Standards is of particular interest 
+to the public, particularly disadvantaged communities and those engaged in the pursuit of 
+education and knowledge, the attached public safety standard is made available to promote the 
+timely dissemination of this information in an accurate manner to the public. 
+
+
+
+
+Mazdoor Kisan Shakti Sangathan 
+"The Right to Information, The Right to Live'' 
+
+
+
+IS 10079 (1982) : Specification for cylindrical metal 
+measures for use in tests of aggregates and concrete [CED 
+2: Cement and Concrete] 
+
+
+
+
+Jawaharlal Nehru 
+'Step Out From the Old to the New" 
+
+
+
+aj^&vi iJii^s:y%K^ isb^^ni^seg 
+
+
+
+:<>5&i| mT'5K^5?::5:^>^i»l 
+
+
+
+K^^^iXSVCd^ 
+
+
+
+Satyanarayan Gangaram Pitroda 
+Invent a New India Using Knowledge 
+
+
+
+Bhartrhari — Nitisatakam 
+''Knowledge is such a treasure which cannot be stolen" 
+
+
+
+
+^'^^^r 
+
+
+
+k 
+
+
+
+
+BLANK PAGE 
+
+
+
+^*-^^^ 
+
+
+
+
+
+PROTECTED BY COPYRIGHT 
+
+
+
+IS : 1DQ79- 1992 
+
+
+
+Indian Stanaara (Reaffirmed 2004 ) 
+
+SPECiriCATlON FOR 
+
+CYLINDRICAL METAL MEASURES 
+
+FOR USE IN TESTS OF AGGREGATES 
+
+ANJD CONCRETE 
+
+
+
+UDC 666'')72 : 3S0I : [669] : 620 1 
+
+
+
+
+® Copyright 1982 
+
+INDTAN STANDAWnS INSTITUTION 
+
+MANAK BHAVAN. ^ BAHAnlia SHAH ZAFAft MARG 
+NbW DELHI 110002 
+
+U^ 2 Scptt-'mber \^^2 
+
+
+
+IS : 10079 - 1982 
+
+Indian Standard 
+
+SPECIFICATION FOR 
+
+CYLINDRICAL METAL MEASURES 
+
+FOR USE IN TESTS OF AGGREGATES 
+
+AND CONCRETE 
+
+Cement and Concrete Sectional Committee, BDC 2 
+
+Chairman Representing 
+
+Dr H. C. Vjsvesvaraya Cement Research Institute of India, New Delhi 
+
+Members 
+
+Additional Director, Standards Research, Designs & Standards Organization 
+( B & S ) ( Ministry of Railways ), Lucknow 
+
+Deputy Director, Standards 
+( B & S ) ( Alternate ) 
+Shri K. p. Banerjee Larsen & Toubro Ltd, Bombay 
+
+Shri Harish N. Malani ( Alternate ) 
+Shri S. K, Banerjee National Test House. Calcutta 
+
+Shri R. N. Bansal Beas Designs Organization, Nangal Township 
+
+Shri T. C. Garg ( Alternate ) 
+Shri R, V. Chalapathi Rao Geological Survey of India, Calcutta 
+
+Shri S. Roy ( Alternate ) 
+Chief Engineer ( Designs ) Central Public Works Department, New Delhi 
+
+Executive Engineer ( Designs ) III 
+( Alternate ) 
+Chief Engineer ( Projects ) Irrigation Department, Government of Punjab, 
+
+Chandigarh 
+Director, IPRI ( Alternate ) 
+Director ( CSMRS ) Central Soil and Materials Research Station, 
+
+New Delhi 
+Deputy Director ( CSMRS ) ( Alternate ) 
+Shri T. A. E, D'Sa The Concrete Association of India, Bombay 
+
+Shri N. C. Duggal ( Alternate ) 
+Shri A. K. Gupta Hyderabad Asbestos Cement Products Ltd, 
+
+Hyderabad 
+Shri V. K. Gupta Engineer-in-Chief's Branch, Army Headquarters, 
+
+New Delhi 
+Shri S. N. Pande ( Alternate ) 
+
+( Continued on page 2 ) 
+
+
+
+@ Copyright 1982 
+INDL\N STANDARDS INSTITUTION 
+
+This publication is protected under the Indian Copyright Act ( XIV of 1957 ) and 
+reproduction in whole or in part by any means except with written permission of the 
+publisher shall be deemed to be an infrigement of copyright under the said Act. 
+
+
+
+IS : 10079 - 1982 
+
+( Continued from page 1 ) 
+
+Members 
+
+Dr R. R. Hattiangadi 
+
+Shri p. J. Jagus ( Alternate ) 
+
+Dr Iqbal Ali 
+
+Shri S. R, Kulkarni 
+
+Shri S. K. Laha 
+
+Shri B. T. Unwalla ( Alternate ) 
+
+Dr Mohan Rat 
+
+Dr S. S, Rehsi ( Alternate ) 
+Shri K. K. Nambiar 
+
+
+
+Shri H. S. Pasricha 
+
+Shri C. S. Mishra ( Alternate ) 
+Shri Y. R. Phull 
+
+
+
+Representing 
+The Associated Cement Companies Ltd, Bombay 
+
+Engineering Research Laboratories, Hyderabad 
+
+M. N. Dastur & Co Pvt Ltd, Calcutta 
+
+The Institution of Engineers ( India ), Calcutta 
+
+Central Building Research Institute ( CSIR ), 
+Roorkee 
+
+In personal capacity ( *Ramanalaya^ \ \ First 
+Crescent Park Road, Gandhinagar^ Adyar, 
+Madras ) 
+Hindustan Prefab Ltd, New Delhi 
+
+
+
+Central Road Research 
+New Delhi 
+Shri M. R. Chatter jee ( Alternate I ) 
+Shri K. L. Sethi ( Alternate II ) 
+Dr M. Ramaiah 
+
+
+
+Institute ( CSIR ), 
+
+
+
+Dr N. S. Bhal ( Alternate ) 
+Shri G. Ramdas 
+
+
+
+Structural Engineering Research Centre ( CSIR ), 
+Roorkee 
+
+Directorate General of Supplies and Disposals, 
+
+New Delhi 
+National Buildings Organization, New Delhi 
+
+
+
+Gammon India Ltd, Bombay 
+
+Indian Roads Congress, New Delhi 
+
+Cement Corporation of India Ltd, New Delhi 
+
+
+
+Dr a. V. R. Rao 
+
+Shri J. Sen Gupta ( Alternate ) 
+Shri T. N. S, Rao 
+
+Shri S. R. Pinheiro ( Alternate ) 
+Representative 
+Shri Arjun Ruhsinghani 
+
+Shri K. Vithal Rao ( Alternate ) 
+Secretarv Central Board of Irrigation and Power, New^Delhi 
+
+Deputy Secretary ( I ) ( Alternate ) 
+Shri N. Sivaguru Roads Wing, Ministry of Shipping and Transport, 
+
+New Delhi 
+
+Shri R. L. Kapoor ( Alternate ) 
+Shri K. A. Subramaniam The India Cements Ltd, Madras 
+
+Shri P, S. Ramachandran ( Alternate ) 
+Superintending Engineer Public Works Department, Government of 
+
+( Designs ) Tamil Nadu, Madras 
+
+Executive Engineer ( SM & R 
+
+
+
+Division ) ( Alternate ) 
+Shri L. Swaroop 
+
+Shri A. V. Ramana ( Alternate ) 
+Shri G. Raman, 
+Director ( Civ Engg ) 
+
+
+
+Dalmia Cement ( Bharat ) Ltd, New Delhi 
+Director General, ISI ( Ex-officio Member ) 
+
+
+
+Secretary 
+Shri M. N. Neelakandhan 
+Assistant Director ( Civ Engg ), ISI 
+
+
+
+( Continued on page 11) 
+
+
+
+IS ; 10079 - 1982 
+
+Indian Standard 
+
+SPECIFICATION FOR 
+
+CYLINDRICAL METAL MEASURES 
+
+FOR USE IN TESTS OF AGGREGATES 
+
+AND CONCRETE 
+
+0. FOREWORD 
+
+0.1 This Indian Standard was adopted by the Indian Standards Institution 
+on 28 January 1982, after the draft finalized by the Cement and Concrete 
+Sectional Committee had been approved by the Civil Engineering Division 
+Council. 
+
+0.2 The Indian Standards Institution has already published a series of 
+standards on methods of testing cement and concrete. It has been 
+recognized that reproducible and repeatable test results can be obtained 
+only with standard testing^equipment capable of giving the desired level of 
+accuracy. The Sectional Committee has, therefore, decided to bring out a 
+series of specifications covering the requirements of equipment used for 
+testing cement and concrete, to encourage their development and manu- 
+facture in the country. 
+
+0.3 Accordingly, this standard has been prepared to cover requirements of 
+the cylindrical metal measures used in testing aggregates and concrete. The 
+relevant methods of tests wherein use of these measures is called for are 
+covered in IS : 1199-1959* and IS : 2386 ( Part III )-1963t. 
+
+0.4 In the formulation of this standard, due weightage has been given to 
+international co-ordination among the standards and practices prevailing in 
+different countries in addition to relating it to the practices in the field in 
+this country. 
+
+0.5 For the purpose of deciding whether a particular requirement of this 
+standard is complied with, the final value, observed or calculated, expressing 
+the result of a test or analysis, shall be rounded off in accordance with IS: 
+2-1960^. The number of significant places retained in the rounded 
+off value should be the same as that of the specified value in this standard. 
+
+
+
+♦Methods of sampjing and analysis of concrete. 
+
+fMethods of test for aggregates for concrete : Part III Specific gravity, density, 
+voids, absorption and bulking. 
+
+{Rules for rounding off numerical values ( revised ). 
+
+
+
+IS : 10079 - 1982 
+
+1. SCOPE 
+
+1.1 This standard covers the requirements of cyhndrical metal measures 
+used in tests for determining the following: 
+
+a) Bulk density and voids of aggregates for concrete, and 
+
+b) Weight per cubic metre, yield, cement factor and air content 
+( gravimetric ) of freshly mixed concrete. 
+
+2. CYLINDRICAL METAL MEASURES 
+
+2.1 Cylindrical metal measures shall be of capacities 3, 10, 15, 20 and 30 
+litres. 
+
+3. MATERIAL 
+
+3.1 The material of construction of cylindrical metal measures shall be 
+mild steel. 
+
+Note — Use of mild steel conforming to IS : 226-1975* is recommended. 
+
+4. DIMENSIONS 
+
+4.1 Dimensions with tolerances for cylindrical metal measures specified 
+in 2.1 shall be as given in Table 1. Where tolerances are not specifically 
+mentioned, dimensions shall be considered nominal. 
+
+Note — Allowable deviations for nominal dimensions shall be as laid down for 
+coarse class of deviation in IS : 2102-19691. 
+
+
+
+
+
+TABLE 1 DIMENSIONS OF CYLINDRICAL METAL MEASURES 
+
+
+Sl 
+
+No. 
+
+
+Catacity Inside 
+litres Diameter, 
+A* 
+
+
+Inside 
+Height, 
+
+
+THICKNES5 OF 
+
+Metal ( Min ), 
+mm 
+
+
+
+
+
+
+
+
+Wall,C* Bottom, D* 
+
+
+(1) 
+
+
+(2) (3) 
+
+
+(4) 
+
+
+(5) (6) 
+
+
+i) 
+
+
+3±-03 150±l-5 
+
+
+To be 
+
+
+2-5 4-5 
+
+
+
+ii) 10±-10 250i2 adjusted 2*5 4*5 
+
+iii) 15±-15 250iL2 to get 2-5 4*4 
+
+iv) 20±-2O 350±2 the required 2*5 4*5 
+
+V) 30±-30 350±2 capacity 2*5 4"5 
+*The symbols correspond to dimensions indicated in Fig. 1, 
+
+
+
+♦Specification for structural steel ( standard quality ) {fifth revision ). 
+
+t Allowable deviations for dimensions without specified tolerances {first revision ). 
+
+
+
+18:10079-1982 
+
+
+
+5, CONSTRUCTION 
+
+
+
+5.1 Cylindrical metal measures shall be constructed as shown in Fig. 1 and 
+Fig. 2. The measures shall be water-tight, preferably machined to accurate 
+dimensions on the inside and sufficiently rigid to retain their form under 
+rough usage. The 15, 20 and 30 litre capacity measures shall be reinforced 
+around the top with a metal band to provide an overall wall thickness of 
+not less than 5 mm in the upper 40 mm. The measures may be provided 
+with handles. 
+
+
+
+
+Fig, 1 Typical Cylindrical Measure of 3 and 10 Litre Capacity 
+
+
+
+6, ACCESSORIES 
+6,1 Tamping Rod 
+
+6,1.1 The tamping rod shall be 16±0*5 mm in dia and 600±2 mm long 
+with a rounded working end and shall be made of mild steel. 
+
+
+
+IS : 10079 - 1982 
+
+
+
+
+40mm- 
+
+
+
+'m 
+
+
+
+\: 
+
+
+
+T7 
+
+
+
+<* A- 
+
+
+
+«) 
+
+
+
+h— C 
+
+
+
+/ 
+
+
+
+Fig. 2 Typical Cylindrical Measure of 15, 20 and 30 Litre Capacity 
+
+
+
+6.2 Tamping Bar 
+
+6.2.1 The tamping bar shall be of square cross-section with tamping face 
+25±0*5 mm square and 400±2 mm long and weighing 2 kg and shall be 
+made of mild steel and provided with a handle. 
+
+7. MARKING 
+
+7.1 The following information shall be clearly and indelibly marked on 
+each of the cylindrical metal measures: 
+
+a) Name of the manufacturer or his registered trade-mark or both, and 
+
+b) Date of manufacture, 
+
+6 
+
+
+
+IS : 10079 - 1982 
+
+7,2 Cyclindrical metal measures may also be marked with the ISI Certifi- 
+cation Mark. 
+
+Note — The use of the ISI Certification Mark is governed by the provisions of the 
+Indian Standards Institution (Certification Marks) Act and the Rules and Regulations 
+made thereunder. The ISI Mark on products covered by an Indian Standard 
+conveys the assurance that they have been produced to comply with the requirements 
+of that standard under a well-defined system of inspection, testing and quality 
+control which is devised and supervised by ISI and operated by the producer. ISI 
+marked products are also continuously checked by !SI for conformity to that 
+standard as a further safeguard. Details of conditions under which a licence for the 
+use of the ISI Certification Mark may be granted to manufacturers or processors, 
+may be obtained from the Indian Standards Institution. 
+
+
+
+IS : 10079 - 1982 
+
+( Continued from page 2 ) 
+
+Instruments for Cement and Concrete Testing Subcommittee, BDC 2 : 10 
+
+Convener Representing 
+
+Dr Iqbal Ali Engineering Research Laboratories, Hyderabad 
+
+Members 
+
+Shri p. D. Agarwal Public Works Department, Government of Uttar 
+
+Pradesh, Lucknow 
+Dr T. N. Chojer ( Alternate ) 
+Prov B. M. Ahuja Indian Institute of Technology, New Delhi 
+
+Shri T. P. Ekambaram Highways Research Station, Madras 
+
+Shri H. K. Guha All India Instruments Manufacturers and Dealers 
+
+Association, Bombay 
+Deputy Secretary ( Alternate ) 
+Shri P. J. Jagus The Associated Cement Companies Ltd, Bombay 
+
+Shri D. A. Wadia ( Alternate ) 
+Shri M« R. Josht Research & Development Organization ( Ministry 
+
+of Defence ), Pune 
+Shri Y. P. Pathak ( Alternate ) 
+Shri E. K. Ramachandran National Test House, Calcutta 
+
+Shri S. K. Banerjee ( Alternate ) 
+Prof C. K. Ramesh Indian Institute of Technology, Bombay 
+
+Dr R. S. Ayyar ( Alternate ) 
+Shri M. V. Ranga Rao Cement Research Institute of India, New Delhi 
+
+Dr K. C. Narang ( Alternate ) 
+Dr S. S. Rehsi Central Building Research Institute ( CSIR ), 
+
+Roorkee 
+Shri J. P. Kaushish ( Alternate ) 
+Shri A. V. S. R. Sastri Associated Instrument Manufacturers ( India ) 
+
+Private Ltd, New Delhi 
+Shri Subhash Sharma ( Alternate ) 
+Shri K. L. Sethi Central Road Research Institute ( CSIR ), 
+
+New Delhi 
+Shri M, L. Bhatia ( Alternate ) 
+
+
+

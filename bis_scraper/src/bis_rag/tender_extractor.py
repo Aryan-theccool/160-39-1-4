@@ -149,8 +149,14 @@ PARAMETER_CANONICAL_MAP: dict[str, tuple[str, str]] = {
     "operating life": ("Life Expectancy", "photometric"),
     "life expectancy": ("Life Expectancy", "photometric"),
     "burning hours": ("Life Expectancy", "photometric"),
-    "operating temperature": ("Operating Temperature", "environmental"),
     "ambient temperature": ("Operating Temperature", "environmental"),
+    "operating temperature": ("Operating Temperature", "environmental"),
+    "temperature": ("Operating Temperature", "environmental"),
+    "working pressure": ("Pressure", "mechanical"),
+    "operating pressure": ("Pressure", "mechanical"),
+    "pressure": ("Pressure", "mechanical"),
+    "efficiency": ("Efficiency", "electrical"),
+    "length": ("Length", "mechanical"),
     "lumen output": ("Luminous Flux", "photometric"),
     "rated power": ("Power", "electrical"),
     "system power": ("Power", "electrical"),
@@ -219,12 +225,26 @@ def classify_clause_type(text: str, title: str = "") -> str:
     return "general"
 
 
+def is_mandatory_requirement(text: str) -> bool:
+    """Determine if requirement language indicates a mandatory obligation ('shall', 'must', 'mandatory', 'required') vs optional ('should', 'may', 'recommended', 'preferred')."""
+    lower = text.lower()
+    mandatory_keywords = ["shall", "must", "mandatory", "required", "compulsory", "minimum", "not less than", "not exceed"]
+    optional_keywords = ["should", "may", "recommended", "preferred", "optional", "desired", "if available"]
+
+    has_mandatory = any(re.search(rf"\b{re.escape(k)}\b", lower) for k in mandatory_keywords)
+    has_optional = any(re.search(rf"\b{re.escape(k)}\b", lower) for k in optional_keywords)
+
+    if has_optional and not any(re.search(rf"\b{k}\b", lower) for k in ["shall", "must", "mandatory", "compulsory"]):
+        return False
+    return has_mandatory or (not has_optional)
+
+
+
 # ---------------------------------------------------------------------------
 # STANDARD REFERENCE DETECTION
 # ---------------------------------------------------------------------------
 _STANDARDS_EXTENDED_RE = re.compile(
-    r"\b((?:IS/IEC|IS/ISO|IS|IEC|ISO|SP)\s*:?\s*\d+(?:\s*[-.\u2013]\s*\d+)*(?:\s*\([^)]+\))?(?:\s*:\s*\d{4})?)",
-    re.IGNORECASE,
+    r"\b((?:IS/IEC|IS/ISO|IS|IEC|ISO|SP)\s*:?\s*\d+(?:\s*[-.\u2013]\s*\d+)*(?:\s*\([^)]+\))?(?:\s*:\s*\d{4})?)"
 )
 
 
@@ -241,9 +261,12 @@ def find_standard_references(text: str) -> list[str]:
         desigs = iscode.find_all(text)
         for d in desigs:
             formatted = d.format()
-            if formatted not in seen:
-                seen.add(formatted)
-                found.append(formatted)
+            # Guard against lowercase English word "is" followed by numbers
+            num_str = str(d.number).split("-")[0]
+            if re.search(rf"\b(?:IS/IEC|IS/ISO|IS|SP)\s*:?\s*{re.escape(num_str)}\b", text):
+                if formatted not in seen:
+                    seen.add(formatted)
+                    found.append(formatted)
     except Exception:
         pass
 
@@ -283,34 +306,44 @@ def parse_value_and_unit(raw_value: str) -> tuple[Optional[float], Optional[floa
     if ik_match:
         return float(ik_match.group(1)), None, "IK", ">=" if any(w in text.lower() for w in ["min", "at least", "not less than", ">="]) else "exact"
 
-    # 3. Check for range: e.g. "4000 K - 5000 K" or "4000 to 5000 K" or "140 V - 270 V"
+    # 3. Check for range: e.g. "4000 K - 5000 K" or "4000 to 5000 K" or "140 V - 270 V" or "10 to 50 deg C"
     range_match = re.search(
-        r"(\d+(?:\.\d+)?)\s*(?:[A-Za-z/%]+)?\s*(?:to|-|\u2013)\s*(\d+(?:\.\d+)?)\s*([A-Za-z/%]+)?",
+        r"(\d+(?:\.\d+)?)\s*(?:[A-Za-z/%°\u2103]+)?\s*(?:to|-|\u2013)\s*(\d+(?:\.\d+)?)\s*([A-Za-z/%°\u2103]+(?:\s*[A-Za-z0-9/%°]+)?)?",
         text,
         re.IGNORECASE,
     )
     if range_match and not re.search(r"^\d{4}-\d{2}-\d{2}", text):  # guard against dates
         v_min = float(range_match.group(1))
         v_max = float(range_match.group(2))
-        unit = range_match.group(3) or ""
-        return v_min, v_max, unit.strip(), "range"
+        unit = (range_match.group(3) or "").strip()
+        if unit.lower() in ("deg c", "degc", "deg_c", "c", "°c"):
+            unit = "°C"
+        elif unit.lower() in ("percent", "pct"):
+            unit = "%"
+        return v_min, v_max, unit, "range"
 
-    # 4. Check for comparison operators: >=, <=, >, <, min, max
+    # 4. Check for comparison operators: >=, <=, >, <, min, max, exact
     op = "exact"
-    if ">=" in text or "≥" in text or re.search(r"\b(min|minimum|at\s+least|not\s+less\s+than)\b", text, re.IGNORECASE):
+    if ">=" in text or "≥" in text or re.search(r"\b(min|minimum|at\s+least|not\s+less\s+than|not\s+be\s+less\s+than)\b", text, re.IGNORECASE):
         op = ">="
-    elif "<=" in text or "≤" in text or re.search(r"\b(max|maximum|at\s+most|not\s+more\s+than|not\s+exceeding)\b", text, re.IGNORECASE):
+    elif "<=" in text or "≤" in text or re.search(r"\b(max|maximum|at\s+most|not\s+more\s+than|not\s+be\s+more\s+than|not\s+exceeding|not\s+exceed)\b", text, re.IGNORECASE):
         op = "<="
-    elif ">" in text:
+    elif ">" in text or re.search(r"\b(exceed|exceeds|greater\s+than|more\s+than)\b", text, re.IGNORECASE):
         op = ">"
-    elif "<" in text:
+    elif "<" in text or re.search(r"\b(less\s+than|below|under)\b", text, re.IGNORECASE):
         op = "<"
+    elif re.search(r"\b(exact|exactly|equal\s+to|equals)\b", text, re.IGNORECASE):
+        op = "=="
 
     # 5. Extract first number and following unit
-    num_match = re.search(r"(\d+(?:\.\d+)?)\s*([A-Za-z/%]+)?", text)
+    num_match = re.search(r"(\d+(?:\.\d+)?)\s*([A-Za-z/%°\u2103]+(?:\s*[A-Za-z0-9/%°]+)?)?", text)
     if num_match:
         val = float(num_match.group(1))
         unit = (num_match.group(2) or "").strip()
+        if unit.lower() in ("deg c", "degc", "deg_c", "c", "°c"):
+            unit = "°C"
+        elif unit.lower() in ("percent", "pct"):
+            unit = "%"
         return val, None, unit, op
 
     return None, None, "", op
@@ -403,12 +436,12 @@ def extract_requirements_from_table(table: DocumentTable, start_req_id: int = 1)
 # ---------------------------------------------------------------------------
 # TEXT / PARAGRAPH REQUIREMENT EXTRACTION
 # ---------------------------------------------------------------------------
-_LINK_PHRASES = r"(?:shall\s+be|shall\s+be\s+minimum|shall\s+not\s+exceed|not\s+less\s+than|minimum\s+of|at\s+least|maximum\s+of|minimum|maximum|of|:|to\s+be|should\s+be)?"
+_LINK_PHRASES = r"(?::\s*)?(?:shall\s+be\s+not\s+less\s+than|shall\s+be\s+not\s+more\s+than|shall\s+not\s+be\s+less\s+than|shall\s+not\s+be\s+more\s+than|shall\s+be\s+minimum|shall\s+not\s+exceed|shall\s+be\s+greater\s+than|shall\s+be\s+less\s+than|shall\s+be\s+equal\s+to|shall\s+be\s+at\s+least|shall\s+be\s+exactly|shall\s+be|shall\s+exceed|shall|not\s+less\s+than|minimum\s+of|at\s+least|maximum\s+of|minimum|maximum|range\s+shall\s+be|of|to\s+be|should\s+be)?(?:\s*(?:minimum|maximum|at\s+least|not\s+less\s+than))?"
 
 _KEY_PARAM_REGEX_PATTERNS: list[tuple[str, str, str, str]] = [
     # (regex_pattern, canonical_param, category, default_unit)
     (
-        rf"(?:power\s+(?:consumption|rating)?|wattage)\s*{_LINK_PHRASES}\s*(?:>=|<=|==|!=|>|<|≤|≥|=)?\s*(\d+(?:\.\d+)?)\s*(W|kW|watts?)\b",
+        rf"(?:(?:rated\s+|system\s+)?power\s*(?:consumption|rating|output)?|wattage)\s*{_LINK_PHRASES}\s*(?:>=|<=|==|!=|>|<|≤|≥|=)?\s*(\d+(?:\.\d+)?)\s*(W|kW|watts?|HP)\b",
         "Power",
         "electrical",
         "W",
@@ -418,6 +451,12 @@ _KEY_PARAM_REGEX_PATTERNS: list[tuple[str, str, str, str]] = [
         "Luminous Efficacy",
         "photometric",
         "lm/W",
+    ),
+    (
+        rf"(?:efficiency)\s*{_LINK_PHRASES}\s*(?:>=|<=|==|!=|>|<|≤|≥|=)?\s*(\d+(?:\.\d+)?)\s*(?:%|percent)",
+        "Efficiency",
+        "electrical",
+        "%",
     ),
     (
         r"(?:cct|correlated\s+color\s+temperature|color\s+temperature)\s*(?:shall\s+be|of|:)?\s*(\d{4})\s*(?:K)?\s*(?:to|-|\u2013)\s*(\d{4})\s*(K)?\b",
@@ -450,13 +489,13 @@ _KEY_PARAM_REGEX_PATTERNS: list[tuple[str, str, str, str]] = [
         "kV",
     ),
     (
-        rf"(?:rated\s+supply\s+voltage|operating\s+voltage|supply\s+voltage|rated\s+voltage)\s*{_LINK_PHRASES}\s*(\d+(?:\.\d+)?)\s*(?:V|volts?)?\s*(?:to|-|\u2013)\s*(\d+(?:\.\d+)?)\s*(V|kV|volts?)\b",
+        rf"(?:(?:rated\s+|supply\s+|operating\s+|input\s+)?voltage)\s*{_LINK_PHRASES}\s*(\d+(?:\.\d+)?)\s*(?:V|volts?)?\s*(?:to|-|\u2013)\s*(\d+(?:\.\d+)?)\s*(V|kV|volts?)\b",
         "Operating Voltage",
         "electrical",
         "V",
     ),
     (
-        rf"(?:rated\s+supply\s+voltage|operating\s+voltage|supply\s+voltage|rated\s+voltage)\s*{_LINK_PHRASES}\s*(\d+(?:\.\d+)?)\s*(V|kV|volts?)(?:\s*(?:AC|DC))?\b",
+        rf"(?:(?:rated\s+|supply\s+|operating\s+|input\s+)?voltage)\s*{_LINK_PHRASES}\s*(\d+(?:\.\d+)?)\s*(V|kV|volts?)(?:\s*(?:AC|DC))?\b",
         "Operating Voltage",
         "electrical",
         "V",
@@ -474,6 +513,18 @@ _KEY_PARAM_REGEX_PATTERNS: list[tuple[str, str, str, str]] = [
         "%",
     ),
     (
+        rf"(?:ambient\s+temperature(?:\s+range)?|operating\s+temperature(?:\s+range)?|temperature(?:\s+range)?)\s*{_LINK_PHRASES}\s*(\d+(?:\.\d+)?)\s*(?:°C|deg\s*C|C)?\s*(?:to|-|\u2013)\s*(\d+(?:\.\d+)?)\s*(°C|deg\s*C|C)\b",
+        "Operating Temperature",
+        "environmental",
+        "°C",
+    ),
+    (
+        rf"(?:ambient\s+temperature|operating\s+temperature|temperature)\s*{_LINK_PHRASES}\s*(?:>=|<=|==|!=|>|<|≤|≥|=)?\s*(\d+(?:\.\d+)?)\s*(°C|deg\s*C|C)\b",
+        "Operating Temperature",
+        "environmental",
+        "°C",
+    ),
+    (
         rf"(?:tensile\s+strength)\s*{_LINK_PHRASES}\s*(?:>=|<=|==|!=|>|<|≤|≥|=)?\s*(\d+(?:\.\d+)?)\s*(?:MPa|N/mm2|n/mm²)",
         "Tensile Strength",
         "materials",
@@ -486,6 +537,24 @@ _KEY_PARAM_REGEX_PATTERNS: list[tuple[str, str, str, str]] = [
         "MPa",
     ),
     (
+        rf"(?:elongation)\s*{_LINK_PHRASES}\s*(?:>=|<=|==|!=|>|<|≤|≥|=)?\s*(\d+(?:\.\d+)?)\s*(%|percent)\b",
+        "Elongation",
+        "materials",
+        "%",
+    ),
+    (
+        rf"(?:length(?:\s+of\s+each\s+[a-z]+)?)\s*{_LINK_PHRASES}\s*(?:>=|<=|==|!=|>|<|≤|≥|=)?\s*(\d+(?:\.\d+)?)\s*(m|meters?|mm|cm)\b",
+        "Length",
+        "mechanical",
+        "m",
+    ),
+    (
+        rf"(?:working\s+pressure|operating\s+pressure|test\s+pressure|pressure)\s*{_LINK_PHRASES}\s*(?:>=|<=|==|!=|>|<|≤|≥|=)?\s*(\d+(?:\.\d+)?)\s*(bar|MPa|kg/cm2|psi)\b",
+        "Pressure",
+        "mechanical",
+        "bar",
+    ),
+    (
         rf"(?:warranty|guarantee)\s*{_LINK_PHRASES}\s*(?:minimum\s+of)?\s*(\d+)\s*(years?|months?)\b",
         "Warranty",
         "commercial",
@@ -496,6 +565,36 @@ _KEY_PARAM_REGEX_PATTERNS: list[tuple[str, str, str, str]] = [
         "Life Expectancy",
         "photometric",
         "hours",
+    ),
+    (
+        rf"(?:compressive\s+strength(?:\s+at\s+\d+\s+days)?)\s*{_LINK_PHRASES}\s*(?:>=|<=|==|!=|>|<|≤|≥|=)?\s*(\d+(?:\.\d+)?)\s*(?:MPa|N/mm2|n/mm²)",
+        "Compressive Strength",
+        "materials",
+        "N/mm2",
+    ),
+    (
+        rf"(?:initial\s+setting\s+time|setting\s+time)\s*{_LINK_PHRASES}\s*(?:>=|<=|==|!=|>|<|≤|≥|=)?\s*(\d+(?:\.\d+)?)\s*(?:minutes?|mins?|hours?|hrs)\b",
+        "Setting Time",
+        "materials",
+        "minutes",
+    ),
+    (
+        rf"(?:soundness(?:\s+by\s+[a-z\-]+(?:\s+method)?)?)\s*{_LINK_PHRASES}\s*(?:>=|<=|==|!=|>|<|≤|≥|=)?\s*(\d+(?:\.\d+)?)\s*(?:mm|millimeters?)\b",
+        "Soundness",
+        "materials",
+        "mm",
+    ),
+    (
+        rf"(?:impact\s+resistance(?:\s+of\s+toe\s+cap)?)\s*{_LINK_PHRASES}\s*(?:>=|<=|==|!=|>|<|≤|≥|=)?\s*(\d+(?:\.\d+)?)\s*(?:Joules?|J)\b",
+        "Impact Resistance",
+        "mechanical",
+        "J",
+    ),
+    (
+        rf"(?:(?:upper\s+leather\s+|coating\s+)?thickness)\s*{_LINK_PHRASES}\s*(?:>=|<=|==|!=|>|<|≤|≥|=)?\s*(\d+(?:\.\d+)?)\s*(?:mm|millimeters?|microns?|µm|gsm)\b",
+        "Thickness / Coating",
+        "materials",
+        "mm",
     ),
     (
         rf"(?:impact\s+resistance|ik\s+rating)\s*{_LINK_PHRASES}\s*(IK\s*0?\d{1,2})\b",
@@ -533,7 +632,7 @@ def extract_requirements_from_text(
             vicinity_text = text[start_window:end_window]
             stds = find_standard_references(vicinity_text)
 
-            is_mandatory = any(k in text.lower() for k in ["shall", "must", "mandatory", "required", "minimum"])
+            is_mandatory = is_mandatory_requirement(text)
 
             req = TenderRequirement(
                 requirement_id=f"REQ-{current_id:03d}",
@@ -584,11 +683,26 @@ def extract_tender_requirements(doc: DocumentContent | str) -> TenderExtractionR
 
     req_id_counter = 1
 
-    # 1. Segment Clauses from Paragraphs
+    # 1. Expand multi-line paragraphs and segment clauses
+    expanded_paragraphs: list[DocumentParagraph] = []
+    for p in doc.paragraphs:
+        if "\n" in p.text:
+            for line in p.text.split("\n"):
+                if line.strip():
+                    expanded_paragraphs.append(
+                        DocumentParagraph(
+                            text=line.strip(),
+                            style=p.style,
+                            paragraph_index=len(expanded_paragraphs),
+                        )
+                    )
+        elif p.text.strip():
+            expanded_paragraphs.append(p)
+
     current_clause_type = "general"
     current_clause_title = "General Tender Terms"
 
-    for idx, p in enumerate(doc.paragraphs):
+    for idx, p in enumerate(expanded_paragraphs):
         p_text = p.text.strip()
         if not p_text:
             continue

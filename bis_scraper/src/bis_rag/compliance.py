@@ -1583,6 +1583,12 @@ class ComplianceChecker:
                     if _yearless_key(candidate.designation) == key:
                         standard = candidate
                         break
+                if standard is None and key:
+                    for candidate in self.data.standards():
+                        cand_key = _yearless_key(candidate.designation)
+                        if cand_key.startswith(key + " ") or cand_key.startswith(key + ":") or cand_key.startswith(key + "("):
+                            standard = candidate
+                            break
 
         entry = self.qco.lookup(text) if self.qco else None
         qco_state = entry.evidence_state if entry else QCOEvidenceState.NOT_FOUND

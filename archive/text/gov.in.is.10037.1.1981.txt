@@ -1,0 +1,590 @@
+**************** 
+
+
+
+
+Disclosure to Promote the Right To Information 
+
+Whereas the Parliament of India has set out to provide a practical regime of right to 
+information for citizens to secure access to information under the control of public authorities, 
+in order to promote transparency and accountability in the working of every public authority, 
+and whereas the attached publication of the Bureau of Indian Standards is of particular interest 
+to the public, particularly disadvantaged communities and those engaged in the pursuit of 
+education and knowledge, the attached public safety standard is made available to promote the 
+timely dissemination of this information in an accurate manner to the public. 
+
+
+
+
+Mazdoor Kisan Shakti Sangathan 
+"The Right to Information, The Right to Live'' 
+
+
+
+IS 10037-1 (1981) : Requirements for sludge dewatering 
+equipment^ Part I: Sludge drying beds-sand, gravel and 
+underdrains [CED 24: Public Health Engineering.] 
+
+
+
+
+Jawaharlal Nehru 
+'Step Out From the Old to the New" 
+
+
+
+aj^&vi iJii^s:y%K^ isb^^ni^seg 
+
+
+
+:<>5&i| mT'5K^5?::5:^>^i»l 
+
+
+
+K^^^iXSVCd^ 
+
+
+
+Satyanarayan Gangaram Pitroda 
+Invent a New India Using Knowledge 
+
+
+
+Bhartrhari — Nitisatakam 
+''Knowledge is such a treasure which cannot be stolen" 
+
+
+
+
+^'^^^r 
+
+
+
+k 
+
+
+
+
+BLANK PAGE 
+
+
+
+^*-^^^ 
+
+
+
+
+
+PROTECTED BY COPYRIGHT 
+
+
+
+IS 1 10037 (Parti) "1981 
+
+( Reaffirmed 2002 ) 
+
+Indian Standard 
+
+REQUTREMENTS FOR 
+SLUDGE DEWATERING EQUIPMENT 
+
+PART I SLUDGE DRYING BEDS— SAND, GRAVEL 
+
+AND UNDERDRAIN5 
+
+
+
+UDC 62a'33Ei'4l 
+
+
+
+
+® Copyrighi 1982 
+
+INDIAN STANDARDS INSTITUTION 
+
+WfANAK BHAVAN, 9 DAHADUR SHAH ZAFAR MARC 
+
+NEW DELH[ 1]0WS 
+
+
+
+M?^ '^ 
+
+
+
+Frtci Ri S*™ ' MoTth 1962 
+
+
+
+IS : 10037 ( Part I ) - 1981 
+
+Indian Standard 
+
+REQUIREMENTS FOR 
+SLUDGE DEWATERING EQUIPMENT 
+
+PART I SLUDGE DRYING BEDS SAND, GRAVEL 
+AND UNDERDRAINS 
+
+
+
+Public Health Engineering Equipment Sectional Cominittee, BDG 40 
+
+Chairman Representing 
+
+Db B. 5^, SuNDAKESAX National Environmental Engineering Research 
+
+Institute ( GSTR ), Nagpur 
+
+Members 
+
+Adviser ( PHE) Ministry of Works & Housing, New Delhi 
+
+Dk S. R. Sttkla ( Alternate ) 
+Shki N. S. Bhaibvan Public Healtli Engineering Department, 
+
+Government of Kerala, Trivandrum 
+Sbbi O. p. Bishnoi U. p. Jal Nigam, Lucknow 
+
+SiiBi_S._S. SmvASTAVA ( Alternate) ^ 
+
+Shri K. U. i\ Ghaxjdhaby lingineers India Limited, New ijelhi 
+
+Chief EjstginBBK Department of Health, Government of West 
+
+i^engal, Calcutta 
+. Shbi T. N. GhattEkjEh: ( AUernaie ) 
+Chief Ekoineer ( Water ) Municipal Corp oration^ of Delhi 
+
+Shbi Jai Narain ( Alternate ) 
+Shut D. K. Gkottdhttky Geo=Miller & Go, Calcutta 
+
+Shri D. R. Mall ( Alternate) 
+Shbi S. K. Dasqupta Calcutta Metropolitan Development Authority, 
+
+Calcutta 
+Shbi S.J. Dtttta {Alternate ) 
+Deputy Municipal Municipal Corporation of Greater Bombay 
+
+Commissioner 
+Hydraulic Engineer 
+Chief Engineer ( SbWeragb , 
+Sh&i B. R. N, Gupta ' Engineer-in-Chief's Branchs Army Headquarters, 
+
+New Delhi 
+Shri K. V, Kbishnamukthy ( Alternate ) 
+
+
+
+. } (Alternate) 
+
+
+
+( Continued on page 2 ) 
+
+
+
+© Copyright 1982 
+
+INDIAN STANDARDS INSTITUTION 
+
+This publication is protected under the Indian Copyright Act ( XIV of 1957 ) and 
+
+reproduction in whole or in part by any means except with written permission of the 
+
+publisher shall be deemed to be an infringement of copyright under the said Act. 
+
+
+
+IS : 10037 ( Part I ) - 19«l 
+
+{ Continued from page 1 ) 
+
+Members Representing 
+
+Shki D. R. Jaga.nx.vth Rao Public Health Engineering Department, 
+
+Government of Madhya Pradesh, Bhopal 
+SjiKi M. G. Vaidya ( Aliernats) 
+Shei R. KjaiSHis A3WAMY Tamil Nadu Water Supply & Drainage Board, 
+
+Madras 
+Shki S, a. Jaodesan ( Alternate ) 
+Shbi M. Y. Madan The Hindustan Construction Co Ltd, Bombay 
+
+Shri C. E. S. Rao ( Alternate ) 
+Shri S. R. Majumdkr Paterson Engineering Co ( India ) Ltd, Calcutta 
+
+Shri L. S. Mkhta Indian Chemical Manufacturers Association, 
+
+Bombay 
+Shbi R. K. Shtjkla ( Alternate) 
+Membbr-Seohetary Central Board for Prevention and Control q£ 
+
+Water Pollution ( Ministry of Works & 
+Housing ) 
+Dii K. R. Rangaxatjlian ( Alternate ) 
+Shki A. R. Mm Public Health Engineering Department, 
+
+Goverment of Jdmmu & Kashmir, Srinagar 
+Shri G. M. Kanth ( Alternate ) 
+Shei D. V. S. Murthy M. P. State Prevention and Control of Water 
+
+Pollution Boardj Bhopal 
+Shri V. S. Bansat. {Alternate) 
+Shri S. S. Naik Hydraulic & General Engineers Pvt Ltd, Bombay 
+
+Shri D. R. Kenkrb ( Alternate) 
+Shbi R. Natarajan Hindustan Dorr Oliver Ltd, Bombay 
+
+Shbi B. M. Rahul ( Alternate) 
+Shbi S. K. Neogi Institution of Public Health Engineers India, 
+
+Calcutta 
+Shri D. K. Ghosh ( Alternate ) 
+Shri M. M. Patel Indian Water Works Association, Bombay 
+
+Shri V. Ramaw National Environmental Engineering Research 
+
+Institute ( CSIR ), Nagpur 
+Shbi Y. K. Rangakaju The Fertilizer Corporation of India Ltd, Nqw 
+
+Delhi 
+Shbi A. Narayanan { Alternate ) 
+Reprksentative Public Health Engineering Department, 
+
+Government of Punjabj Chandigarh 
+Representative Directorate General of Technical Development, 
+
+New Delhi 
+Representative Public Health Engineering Department, 
+
+Government ofHaryana 
+Shbi K, K. Gandhi ( Alternate ) 
+Shri P. V. Somasekhar Public Works & Electric Department, 
+
+Government of Karnataka, Bangalore 
+Prof S. Sttbha RaO All In^Un Institute of Hygiene & Public Health, 
+
+Calcutta 
+Shki A. V. Rao ( Alternate) 
+Shbi S. A. Swamy The Institution of Engineers ( India), Calcutta 
+
+Shri P. S. Tkndolkau Gaudy Filters ( India) Ltd, Bombay 
+
+
+
+Shbi C. L. Sastri ( Alternate ) 
+
+
+
+{ Continued on pag$ 7 ) 
+
+
+
+IS : 10037 ( Part I ) - 1981 
+
+Indian Standard 
+
+REQUIREMENTS FOR 
+SLUDGE DEWATERING EQUIPMENT 
+
+PART I SLUDGE DRYING BEDS — SAND, GRAVEL 
+AND UNDERDRAINS 
+
+
+
+0. F(^ REWORD 
+
+0.1 This Indian Standard ( Part I ) was adopted by the Indian Standards 
+Institution on 24 December 1981, after the draft finalized by the Public 
+Health Engineering Equipment Sectional Committee had been approved 
+by the Civil Engineering Division Council, 
+
+0,2 A series of Indian Standards are being formulated to cover different 
+types of equipment used for dewatering of treated waste water, such as 
+vacuum filtration equipment, pressure filtration equipment and centrifugal 
+equipment. 
+
+0,3 Sand and gravel are often employed as dewatering media in sludge 
+drying beds, either open to sunlight or covered. This standard provides 
+the necessary guidelines for selecting the appropriate type of sand, gravel 
+and underdrains for the bed. Other media that may be used are not 
+covered under this standard. Typical details of cross-section of sludge 
+drying beds are shown in Fig. 1. 
+
+SLUDGE 
+CHANNEL 
+
+
+
+
+SLOPE 
+Fig. 1 Typical Details of Sludge Drying Bed 
+
+0.4 In the formulation of this standard, due weightage has been given to 
+international coordination among the standards and practices prevailing 
+in different countries in addition to relating it to the practices in the field 
+in India. 
+
+
+
+IS : 10037 ( Part I ) - 1981 
+
+0.5 For the purpose of deciding whether a particular requirement of this 
+standard is complied with, the final value, observed or calculated, 
+expressing the result of a test or analysis, shall be rounded off in 
+accordance with IS : 2-1960*, The number of significant places retained 
+in the rounded off value should be the same as that of the specified value 
+in this standard. 
+
+
+
+1. SCOPE 
+
+1.1 This standard (Parti) lays down the requirement for sand, gravel 
+and underdrains used in sludge drying beds. 
+
+2. TERMINOLOGY 
+
+2*0 For the purpose of this standard, the following definitions shall apply. 
+
+2.1 Effective Size (ES) — Particle diameter corresponding to 10 percent 
+fine on the grain size curve determined according to IS : 2720 ( Part IV )- 
+1975t. 
+
+2.2 Uniformity Coefficient — The ratio w~^,-a, where D 60 is the particle 
+
+diameter corresponding to 60 percent fines on the grain size curve and 
+D 10 is the particle diameter corresponding to 10 percent fines on the 
+grain size curve. 
+
+3. SAND OR STONE DUST 
+
+3.1 Q^iality Requirement 
+
+3.1.1 Sand used for drying beds shall consist of hard, durable grains 
+of silica and shall have a specific gravity of not less than 2*5. The 
+minimum silica content in sand as determined by the method given in 7 
+of IS : 2000-1 962t shall be 90 percent. 
+
+3.1.2 Any sample of sand shall not contain more than 10 percent by 
+volume of impurities, such as clay, loam, silt, etc, in one hour of settlement 
+after shaking in water in accordance with the procedure described in 
+Appendix A of IS : 8419 ( Part I )-1977§. 
+
+3.1.3 The sand shall not contain more than 10 percent of acid soluble 
+matter as determined by the solubility test described in Appendix B 
+ofiS: 8419 (Part I )-1977§. 
+
+
+
+♦Rules for rounding ofFnuinerical values ( revised). 
+
+fMethods of test for soils : Part IV Grain size analysis {first revision )* 
+
+^Methods of chemical analysis of bauxite. 
+
+§Rtquirements for filtration equipment : Part I Filtration media — sand and gravel. 
+
+
+
+IS : 10037 ( Part I ) - 1981 
+
+3.2 Grain Shape and Size Variation 
+
+3.2.1 The shape of sand grains is important from the hydraulic and 
+suspended solids removal performance point of view. The nearer the 
+sand grains approach a sphere (rounded) the better is the performance. 
+
+3.2.2 Size variation shall meet the requirement of effective size and 
+uniformity coefficient. The value of ES in the range 0-5 — 0*75 mm and 
+the uniformity coefficient not greater than 4*0 are recommeded. 
+
+3.3 Depth of Sand — The minimum depth of sand shall be 150 mm. 
+
+4. GRAVEL 
+
+4.1 Quality Requirements 
+
+4.1.1 Gravel used in drying beds shall consist of hard, perferably 
+rounded stones with an average specific gravity of not less than 2*5 and 
+shall be free from clay, sand, loam and organic impurities of any kind. 
+
+4.1.2 The gravel shall not contain more than 2 percent by volume of 
+thin, flat or elongated pieces ( in which the larger dimension exceeds 
+three times the smallest dimension ) determined by hand packing. 
+
+4.1.3 Gravel shall be free from excessive amounts of limestone or 
+shells and acid solubility determined in accordance with the procedure 
+given in Appendix B of IS : 84rl9 ( Part I )-1977* shall not exceed the 
+following limits : 
+
+a) For sizes smaller than 10 mm 5% solubility 
+
+b) For sizes of 10 mm or larger 10% solubility 
+
+4.2 Grain Size and Shape 
+
+4.2.1 Gravel grains shall have a shape as near to sphere as possible. 
+
+4.2.2 The size variation of gravel used in the bed shall not be less than 
+25 mm and not more than 50 mm. 
+
+4.3 Depth of Gravel — The minimum depth of gravel which is placed 
+above the top of the underdrains shall be 150 mm. At least 80 mm of 
+the top layer shall consist of gravel of 3 to 6 mm size. 
+
+
+
+♦Requirements for filtration equipment: Part I Filtration media — sand and gravel, 
+
+5 
+
+
+
+IS : 10037 ( Part I ) - 1981 
+
+5. UNDERDRAINS 
+
+5.1 Underdrains consist of open jointed laterals and main, non-pressure 
+drains laid on the floor of the drying beds. The laterals are placed at a 
+spacing of 3 to 6 m. 
+
+5.2 The underdrains shall be made from asbestos cement pipes ( see 
+IS : 6908-1975* ), concrete pipes { see IS: 4350-i967t ), vitrified clay pipes 
+or tiles. The underdrains can also be made by using burnt clay bricks 
+with brick on-edge position. 
+
+5.3 The minimum diameter of pipes shall not be less than 100 mm. 
+
+6. SIDE WALLS 
+
+6.1 Side wails should be of pucca brick or stone masonry extended 
+40-45 cm above and at teast 15 cm below the surface. Outer walls 
+should be kerbed to prevent washing of sand on beds. 
+
+7. BED DIMENSIONS 
+
+7.1 Bed widths are commonly 6 to 8 m. Bed lengths are commonly 
+30 to 45 m, preferably 30 m, for single point wet sludge discharge and 
+there is no limit for dimensions for multiple discharge points. A 
+minimum of two beds are necessary for sludge removal. 
+
+
+
+♦Specification for asbestos cement pipes and fittings for sewerage and drainage. 
+fSpecification for concrete porous pipes for under drainage. 
+
+
+
+IS : 10037 ( Part I ) - 1981 
+
+( Continued from page 2 ) 
+
+Members Representing 
+
+Shju V. Varadakajan Madras Metropolitan Water Supply and Sewerage 
+
+Board, Madras 
+Shhi S. Daivamani ( Alternate ) 
+Shri G. Raman, Director General, ISI ( Ex-qfficio Member) 
+
+Director ( Civ Engg ) 
+
+Secretary 
+
+Shb.1 a. K. Avasthy 
+Assistant Director ( Civ Engg ), ISI 
+
+Waste Water Treatment Equipment Subcommitte, BDC 40 : 2 
+
+Convener 
+Dr B. R, Sundarksan National Environmental Engineering Research 
+
+Institute, Nagpur 
+
+Mtrribers 
+
+Sniii S. K. Gabkabi {AlttYnate to 
+Dr B. li. Sundaresan ) 
+Shhi R, R. Bagri Institution of Public Health Engineers India, 
+
+Calcutta 
+Shki S. K. NisoGi ( Alternate ) 
+Shri N. S. Bkatuavan Public Health Engineering Department, 
+
+Government of Kerala, Trivandrum 
+Shri S. V.James ( Alternate) 
+Shri S. Bhootalinoam Kerala State Board Tor Prevention and Control of 
+
+Water Pollution, Trivandrum 
+Shhi J. D. Joysingii ( Alternate ) 
+Shki O. P. Bishnot Uttar Pradesh Jal Nigam, Lucknovv 
+
+Shri S. S. Srivastava ( Alternate) 
+Chairman Haryana State Board for Prevention and Control 
+
+of Water Pollution, Chandigarh 
+Member-Secretary ( Alternate ) 
+Chief Engineer (Sewerage) Municipal Coiporation of Greater Bombay 
+
+Depitty Chief Engineer 
+(Sewerage) ( Alternate ) 
+Shri M. M. Datta Central Public Health and Environmental 
+
+Engineering Organization, New Delhi 
+Dr I. RadhAkrisiinan ( Alternate ) 
+Shki M. Y. Madan The Hindustan Construction Co Ltd, Bombay 
+
+Shri C. E. S. Rao ( Alternate ) 
+Prof B. L. Mahabai, Victoria Jubliee Technical Institute, Bombay 
+
+Shri R. V. S. Murthy ( Alternate ) 
+Shri U. C. Mankad M/s Geo-Miller & Co Pvt Ltd, New Delhi 
+
+Shhi D. K. Ghoudhury ( Alternate ) 
+Mrmber-Secketauy Central Board for the Prevention and Control of 
+
+Water Pollution, New Delhi 
+Dr K. R. Ranoanathan ( Alternate ) 
+
+( Continued on page 8 ) 
+
+
+
+IS : 10037 ( Part I ) • 1981 
+
+( Continued from page 1 ) 
+
+Members Representing 
+
+Shri D. V. S. MuKTHY M. P. State Prevention and Control of Water 
+
+Pollution Board, Bhopal 
+Shbi S. S. Naik Hydraulic & General Engineers Pvt Ltd, Bombay 
+
+Shbi D. R. Kenkre ( Alternate ) 
+Shbi R. Natarajan Hindustan Dorr-Oliver Ltd, Bombay 
+
+Shbi B. M. Rahul ( Alternate ) 
+Dr N. Rajasekharan Pennwalt India Limited, Bombay 
+
+Dr K. Rudrappa Engineers India Limited, New Delhi 
+
+Shbi R. N. Tiwari {Alternate ) 
+Shri V. Satyamttrthi M/s EIMCO-KCP Ltd, Madras 
+
+Shbi T. Subrahmanyam { Alternate ) 
+Shbi G. L. Sastri Candy Filtres (India) Ltd, Bombay 
+
+Shri D. B. Pabmar ( Alternate ) 
+Prop S. Subha Rao All India Institute of Hygiene &. Public Health, 
+
+Calcutta 
+
+Shhi a. V. Rao ( Alternate ) 
+
+
+

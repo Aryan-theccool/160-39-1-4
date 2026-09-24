@@ -1,0 +1,668 @@
+**************** 
+
+
+
+
+Disclosure to Promote the Right To Information 
+
+Whereas the Parliament of India has set out to provide a practical regime of right to 
+information for citizens to secure access to information under the control of public authorities, 
+in order to promote transparency and accountability in the working of every public authority, 
+and whereas the attached publication of the Bureau of Indian Standards is of particular interest 
+to the public, particularly disadvantaged communities and those engaged in the pursuit of 
+education and knowledge, the attached public safety standard is made available to promote the 
+timely dissemination of this information in an accurate manner to the public. 
+
+
+
+
+Mazdoor Kisan Shakti Sangathan 
+"The Right to Information, The Right to Live'' 
+
+
+
+IS 10016-4 (1984) : Methods of Test for Polybutadiene 
+Rubbers^ Part 4: Determination of CIS, Trans and Vinyl 
+Structure [PCD 13: Rubber and Rubber Products] 
+
+
+
+
+Jawaharlal Nehru 
+'Step Out From the Old to the New" 
+
+
+
+aj^&vi iJii^s:y%K^ isb^^ni^seg 
+
+
+
+:<>5&i| mT'5K^5?::5:^>^i»l 
+
+
+
+K^^^iXSVCd^ 
+
+
+
+Satyanarayan Gangaram Pitroda 
+Invent a New India Using Knowledge 
+
+
+
+Bhartrhari — Nitisatakam 
+''Knowledge is such a treasure which cannot be stolen" 
+
+
+
+
+^'^^^r 
+
+
+
+k 
+
+
+
+
+BLANK PAGE 
+
+
+
+^*-^^^ 
+
+
+
+
+
+PROTECTED BY COPYRIGHT 
+
+
+
+IS:10016(l>art4)*fg84 
+
+F J - #-T ^ t I ( Reaffirmed 2002 ) 
+
+Indian Standard 
+
+METHODS OF TEST FOR 
+
+POLYBUTADIENE RUBBERS 
+
+PART 4 DETERMINATION OF Crs, TRANS AND 
+VINYL STRUCTURE 
+
+
+
+UDG 67S'7e2-2:5l3"871 
+
+
+
+
+® Copyright 1984 
+
+INDIAN STANDARDS INSTITUTION 
+
+MA^VAK 1! HA VAN, 9 BAHADUR SHAH ZAFAR MARG 
+
+F«T£W DELHI 110002 
+
+*^ ^ Deemtter 19S4 
+
+
+
+IS: 10016 ( Part 4 ). 1984 
+
+Indian Standard 
+
+METHODS OF TEST FOR 
+POLYBUTADIENE RUBBERS 
+
+PART 4 DETERMINATION OF CIS, TRANS AND 
+VINYL STRUCTURE 
+
+Rubber Sectional Committee, PCDG 14 
+
+Chairman Representing 
+
+Shri Lalit Mohan Jamkad as Cosmos India Rubber Works Pvt Ltd, Bombay 
+
+Vice-Chairman 
+
+Shri S. B. Ganguli Dunlop India Ltd, Calcutta 
+
+Shei K. S. Looanathan ( Alternate ) 
+
+Members 
+
+Shri O. P. Aoakwal Trans Asia Carpets Ltd, Sikandrabad 
+
+Shri J. N. Jha ( Alternate ) 
+Shri A. K. Bandvopadhayay Ministry of Defence ( DGI ) 
+
+Shri V. Bk attach arya ( Alternate ) 
+Dr B. Banerjee Carbon and Chemicals India Ltd, Calcutta 
+
+Dr 0. Bakbrjeb Escon Consultants Pvt Ltd, Calcutta 
+
+Dr p. S. Bhargaya Alkali and Claemicals Corporation of India Ltd, 
+
+Calcutta 
+
+Shri N. C. Samajdar ( Alternate ) 
+Shri J. Chatter jee Andrew Yule & Co Ltd, Calcutta 
+
+Shri A. K. Biswas ( Alternate ) 
+Dr D. K. Das National Test House, Calcutta 
+
+Shri A. Ghosh ( Alternate ) 
+Shri P. B. G. Dastidar Bata India Ltd, Calcutta 
+
+Shri S. Sarkar ( Alternate ) 
+Shri S. L. Gandhi Ministry of Defence (R&D) 
+
+Shri H. C. Perti ( Alternate ) 
+Shri J. M. Gaeg Directorate General of Technical Development 
+
+Shri A, George John Madras Rubber Factory Ltd, Madras 
+
+Shri K.J.Joseph Plantation Corporation of Kerala Ltd, Kottayam 
+
+Shri K. T. VaRGhese ( Alternate ) 
+
+( Continued on page 2 ) 
+
+
+
+© Copyright 1984 
+
+INDIAN STANDARDS INSTITUTION 
+
+This publication is protected under the Indian Copyright Act ( XIV of 1957 ) and 
+
+reproduction in whole or in part by any means except with written permission of the 
+
+publisher shall be deemed to be an infringement of copyright under the said Act. 
+
+
+
+IS : 10016 ( Part 4 ) - 1984 
+
+( Continued from page 1 ) 
+
+Members Representing 
+
+Shri G. R. Kavishvar Indian Rubber Regenerating Co Ltd, Thane 
+
+Shri p. S. Vibani ( Alternate) 
+Shri N. S, Khanna All India Rubber Industries Association, Bombay 
+
+Shri R. R. Pandit ( Alternate ) 
+Shri K. N. Koshy M. M. Rubber Co Ltd, Madras 
+
+Shbi N, Subramanian ( Alternate ) 
+Shri P. K, Madhava Menon Thirumbadi Rubber Go Ltd, Mokkam 
+
+Shri D. W. McCririck Association of Planters of Kerala, Kottayam 
+
+Shri p. K» Mekon ( Alternate ) 
+Shbi P. K. Menon United Planters* Association of Southern India, 
+
+Goonoor 
+
+Shri E. B. Unni ( Alternate ) 
+Dr W. Millns Indian Rubber Manufacturers Research Associa- 
+
+tion, Thane 
+
+Shri N. B. Fegade ( Alternate ) 
+Shbi R. Murleedharan Naib Hindustan Latex Ltd, Bangalore 
+
+Shri R. R. Pandit Bayer ( India ) Ltd, Bombay 
+
+Shri D.J. Bharuoha ( Alternate ) 
+Shri S, A. Pasha London Rubber Co ( India ) Ltd, Madras 
+
+Shri R, Krishnan ( Alternate ) 
+Shri M. G. Paul Arakkunnam Go-operative Rubber Marketing 
+
+Society Ltd, Arakkunnam 
+Shri K, S. Radhakrishnan National Rubber Manufacturers Ltd, Calcutta 
+
+Shri R. P. Mathub ( Alternate ) 
+Dr S. B. Rath Synthetics and Chemicals Ltd, Bombay 
+
+Shri H. G. Chopra ( Alternate ) 
+Dr R. V. Reddy State Trading Corporation of India Ltd, 
+
+New Delhi 
+
+Shri O. P. Arora( Alternate ) 
+Shri S» V» Sarma Travancore Rubber & Tea Go Ltdj Trivandrum 
+
+Shri G. S, Krishnaswamy ( Alternate ) 
+Shri K. G. Sekar Padinjarekara Agencies Ltd, Kottayam 
+
+Shbi P. G. Senoupta Indian Tyre Manufacturers Association, 
+
+New Delhi 
+Shri Sunil I. Shah Indian Petrochemicals Corporation Ltd> Vadodara 
+
+Shri A. K. Mallik ( Alternate ) 
+Shri E, V. Thomas Rubber Research Institute of India, Kottayam; 
+
+and Rubber Board, Kottayam 
+
+Dr M. G. Kumar an ( Alternate ) 
+Shri M, S. Saxena, Director General, ISI ( Ex-officio Member ) 
+
+Director ( P & G ) 
+
+Secretary 
+
+Shri A. Kar 
+Senior Deputy Director ( P & G ), ISI 
+
+
+
+{Continued on page 8 ) 
+
+
+
+IS : 10016 ( Part 4 ) - 1984 
+
+Indian Standard 
+
+METHODS OF TEST FOR 
+POLYBUTADIENE RUBBERS 
+
+PART 4 DETERMINATION OF CIS, TRANS AND 
+VINYL STRUCTURE 
+
+0. FOREWORD 
+
+0.1 This Indian Standard ( Part 4 ) was adopted by the Indian Standards 
+Institution on 10 September 1984, after the draft finalized by the Rubber 
+Sectional Gomraittee had been approved by the Petroleum, Goal and 
+Related Products Division GounciL 
+
+0,2 In this series, methods oF test for polybutadiene rubbers are given. 
+Various other methods of test for polybutadiene rubbers are covered in 
+the following parts: 
+
+Part 1 Method of taking out test portions from sample bales 
+
+Part 2 Determination of ash 
+
+Part 3 Determination of antioxidants 
+
+Part 5 Determination of gel content 
+
+0.3 Test methods for the following characteristics are similar to those for 
+styrene butadiene rubbers and the methods indicated below shall be used 
+in these cases: 
+
+Volatile matter SBR : 1 and SBR : 2 of IS : 4518 ( Part 1 )- 
+1967*; 
+
+Mooney viscosity SBR : 8 of IS 4518 ( Part 1 )-l967*; 
+
+Solvent, extract SBR : 9 of IS : 4518 ( Part 2 )-1971*; 
+
+Oil content SBR : 10 of IS : 4518 ( Part 2 )-1971*. 
+
+
+
+♦Methods of tests for styrene-butadiene rubbers ( SBR ) : 
+
+Part 1 Determination of volatile matter, total ash* organic acid, soap, antioxidants, 
+bound styrene and mooney viscosity ( Reaffirmed 1979 ), 
+Part 2 Determination of solvent extract and oil content. 
+
+
+
+IS J 10016 ( Part 4 ) - 1984 
+
+0.4 For the purpose of deciding whether a particular requirement of this 
+standard is complied with, the final value, observed or calculated, expres- 
+sing the result of a test or analysis, shall be rounded off in accordance 
+with IS : 2-1960*. The number of significant places retained in the roun- 
+ded ofif value should be the same as that of the specified value in this 
+standard. 
+
+h SCOPE 
+
+1,1 This standard ( Part 4 ) prescribes the meihod of determining the 
+relative amounts of various unsaturated forms in polybutadiene rubbers, 
+
+2. QUALITY OF REAGENTS 
+
+2*1 Unless specified otherwise, pure chemicals and distilled water ( see 
+IS : 1070-1977t ) shall be employed in tests. 
+
+Note — 'Pure chemicals' shall mean chemicals that do not contain impurities 
+which affect the results of analysis. 
+
+3. OUTLINE OF METHOD 
+
+3J A film of rubber is cast from dichloromethane or benzene or carbon 
+tetrachloride ( CCI4 ) solution on to a potassium bromide prism and an 
+infrared spectrum obtained from the film in the region from 9 to 16 
+microns ( 1200 to 600 cm-i). The cis, trans and vinyl concentration 
+are calculated from peaks appearing at 13'6 microns to 13-8 microns 
+( 793-6 to 735 cm-*i ) for cis, at 10*35 microns ( 965 cm-i ) for trans and 
+at 10*95 microns ( 910 cm-^ ) for vinyl. 
+
+4. APPARATUS 
+
+4.1 Infrared Spectrophotometer 
+
+4.2 Conical Flask 50 ml 
+
+4.3 Potassium Bromide Prism 
+
+4.4 MecHanical Shaker 
+
+4.5 Analytical Balance 
+
+4.6 Prism Holder 
+
+4.7 Desiccator — Containing suitable drying agent. 
+
+5. REAGENTS 
+
+5.1 Dichloromethane, Benzene or Carbon Tetrachloride — Spectros- 
+copic grade- 
+
+
+
+♦Rules for rounding off numerical values ( revised ). 
+
+fSpecification for water for general laboratory use ( second revision ). 
+
+
+
+IS: 10016 (Part 4) -1984 
+
+6. PROCEDURE 
+
+6.1 Weigh accurately about 2*5 g of dry finished rubber taken in accor- 
+dance with 2 of IS : 10016 (Part 1 )-l981*. Cut the rubber into small 
+cubes of about 0*3 mm size. Place the rubber in the conical flask; add 
+28 ml of dichloromethane or benzene or carbon tetrachloride. Place the 
+flask on a mechanical shaker for 6 to 8 hours. Flask should be tightly 
+closed to avoid evaporation, 
+
+6*2 Adjust zero and hundred percent transmiltance on the infrared spec- 
+trophotometer. 
+
+6«3 Remove the potassium bromide prism from the dessicator. Add several 
+drops of cement from the conical flask to the centre of the prism. Tilt the 
+prism to 45° angle and let excess cement run off. Let the prism dry for 
+about 10 to 15 minutes at 45°angle. The thickness of the film so formed 
+should be uniform. Carefully place the prism into the aluminium holder 
+with film outward. With the function switch set at stop, manually move 
+the pen carriage slowly past the 13 microns to 14 micron lines on the chart 
+and observe whether the cis peak is recorded between 0*7 to 1*0 in the 
+absorption graph. Move the pen carriage slowly back to approximately 
+the 8 micron line, lower the pen and move the function switch to start. 
+The instrument will now make the desired scan from 8 micron to 16 micron 
+when it will shut itself off. 
+
+6.4 Remove the prism from the holder and carefully remove the rubber 
+film by rubbing gently with tissue paper. Remove the chart paper from the 
+bed and use it for the calculation. 
+
+7. CALCULATION 
+
+7.1 Draw a perpendicular line through the trans peak appearirig at 10*35 
+microns ( 965 cm~i ), another line through vinyl peak 10-95 microns 
+(910 cmr^ ) and a third line through the cis peak appearing at 13*6 mic- 
+rons to 13-8 microns ( 793*6 to 735 cm-i ). 
+
+7.2 The base line for vinyl peak 10*95 microns ( 910 cm~i ) and for cis 
+peak 13*6 microns to 13*8 microns (793*6 to 735 cm-i ) will be the 
+same. 
+
+7.3 With a french curve, carefully draw the curve line which represents 
+the reference base line correction for the trans absorption at about 10*35 
+microns ( 965 cm"i ) and at about 10*95 microns (910 cm"^ ) for vinyl 
+absorption. The point where the curve line crosses the perpendicular line 
+serves as the reference base line for calculating the trans absorption and 
+vinyl absorption. 
+
+
+
+♦Methods of test for polybutadiene rubber ; Part 1 Method of taking out test por- 
+tions from sample bales. 
+
+
+
+IS : 10016 ( Part 4 ). 1984 
+
+
+
+7,3.1 For information a representative curve obtained from the standard 
+infrared spectrophotometer is shown in Fig. 1. 
+
+
+
+100 
+
+
+
+90 
+
+
+
+82 
+
+80 
+
+
+
+70 
+
+63 
+60 
+
+
+
+
+
+
+<50 
+
+
+
+CO 
+
+< ^0 
+
+QC 
+
+
+
+§30 
+
+
+
+20 
+
+
+
+10.1 
+10 
+
+
+
+
+CiS=Log^z0.973Ax1.0 =0.973/; 
+
+^0-1 (PERCENT BY MASS=97.98) 
+
+
+
+TRANS= Log ^ =0.08lS x 0.118 = 0.0096 
+
+^^ (PERCENT BY MASS =0.97) 
+
+
+
+. VINYL^Log 
+
+
+
+= 0.0638 xO. 16^ = 0. 0105 
+(PERCENT BY MASS = 1.05) 
+
+
+
+CIS 735 cm 
+(13.8 MICRONS) 
+
+
+
+-UL 
+
+
+
+_L 
+
+
+
+1000 
+
+
+
+950 
+
+
+
+900 
+
+
+
+850 
+
+
+
+800 
+
+
+
+750 735 700 
+
+
+
+WAVE NUMBERS IN cm' 
+
+
+
+Fio. 1 Representative Curve from Standard Infrared 
+Spectrophotometer 
+
+
+
+IS : 10016 ( Part 4 ) - 1984 
+
+7.4 Calculate the relative concentration of the three components as 
+
+follows: 
+
+Co = 1 X cis peak 
+
+Ct = 0-118 X trans peak 
+
+Cv= 0-164 X vinyl peak 
+
+n- . u ^0 X 100 
+
+Gis percent by mass = ^ — ^--^ — ^ 
+
+^0 + C^t + ^v 
+
+Trans percent by mass = ^ — \ — ^ — j — ^r- 
+
+<^o + ^--t + ^v 
+
+xr- 1 * u <^v X 100 
+
+Vinyl percent by mass = t^ — p-^s — , ^ 
+
+Co -r <^t -r <^v 
+
+Note — Factors 118 and 0*164. These factors are derived from a certified 
+standard of high Gis-Foly butadiene. 
+
+
+
+IS : 10016 ( Part 4 )- 1984 
+
+( Continued from page 2 ) 
+
+Methods of Testing Subcommitteej PGDC 14 : 1 
+
+Convener Representing 
+
+Db S, N. Chakravaktv Modi Rubber Ltd, Modipuram 
+
+Members 
+
+Shri S, K, Mustafi ( AUemate to 
+Dr S. N. Ghakravarty ) 
+Shei p. S. Balasubramaniam L. G. Balakrishaan & Brothers Ltd, Coimbatore 
+
+Shbi J. Chattekjek Andrew Yule & Go Ltd, Calcutta 
+
+Shbi a. K. Biswas ( Alternate ) 
+Snm P. K. Chattebjeb Bayer ( India ) Ltd, Bombay 
+
+Shbi K.J. Janakar ( Alternate ) 
+Dk C. K. Das National Rubber Manufacturers Ltd, Calcutta 
+
+Snui R. P. Mathuh ( Alternate ) 
+ShriJ. M. Garg Directorate General of Technical Development, 
+
+New Delhi 
+Shbi G. R. Kavishvar Indian Rubber Regenerating Co Ltd, Bombay 
+
+Shri P. S. Virani ( Alternate ) 
+Shiu Pulin L. KiJfARiWAi.A The Cosmos India Rubber Works Pvt Ltd, 
+
+Bombay 
+
+Shri S. N. Ghadge ( Alternate ) 
+Shui K, S. Looanathak ' Dunlop India Ltd, Calcutta 
+
+Dr S. Ghattopadhyay ( Alternate ) 
+Shiu p. K. Madhava Menon The Thirumbadi Rubber Co Ltd, Mokkam 
+
+Shri a. K. Mai*lik Indian Petrochemicals Corporation Ltd, Vadodara 
+
+Dr Y. N. Shabma ( Alternate ) 
+Db W, Millks Indian Rubber Manufacturers Research Associ- 
+
+ation, Thane 
+Shui R, Mctralbbdhauak Nair Hindustan Latex Ltd, Trivandrum 
+Shbi P, L. Nao Ministry of Defence ( DGI ) 
+
+Shbi H. L. Sbivastava ( Alternate ) 
+Shbi P. K. Pain National Test House, Calcutta 
+
+Dr S» B. Rath Synthetics & Chemicals Ltd, Bombay 
+
+Shbi H. C. Ghopba ( Alternate ) 
+Shbj S. V, Sarma Travancore Rubber & Tea Go Ltd, Trivandrum 
+
+Shri C, S. Krishnaswamy ( Alternate ) 
+Shbi K. C. Sekab Padjnjarekara Agencies Ltd, Kottayam 
+
+Shbi E. V, Thomas Rubber Board, Kottayam 
+
+Shbi V. G. Tobsekah PolyoJefins Industries Ltd, Bombay 
+
+Shbi V. K. Sud ( Alternate ) 
+
+
+

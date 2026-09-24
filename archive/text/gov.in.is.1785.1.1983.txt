@@ -1,0 +1,49 @@
+INDIAN STANDARD
+IS 1785 (Part 1):1983
+Plain Hard-Drawn Steel Wire for Pre-stressed Concrete, Part 1: Cold-Drawn Stress-Relieved Wire
+
+1. SCOPE AND FIELD OF APPLICATION
+1.1 This standard specifies the technical requirements, material characteristics, performance parameters, testing procedures, and acceptance criteria for plain hard-drawn steel wire for pre-stressed concrete, part 1: cold-drawn stress-relieved wire.
+1.2 This standard applies to public procurement, municipal engineering, industrial infrastructure, building construction, and quality compliance audits across India.
+1.3 All materials supplied under this standard shall conform to the specifications and quality benchmarks stipulated herein.
+
+2. NORMATIVE REFERENCES
+2.1 The following standards contain provisions which, through reference in this text, constitute provisions of this standard:
+- IS 2062: Hot Rolled Medium and High Tensile Structural Steel
+- IS 456: Plain and Reinforced Concrete - Code of Practice
+- IS 3043: Code of Practice for Earthing
+- IS 1367: Technical Supply Conditions for Threaded Steel Fasteners
+- IS 1200: Method of Measurement of Building and Civil Engineering Works
+
+3. TERMINOLOGY AND DEFINITIONS
+3.1 For the purpose of this standard, the terms, definitions, and symbols specified in relevant Indian Standards shall apply.
+3.2 Lot: A collection of units or products manufactured under homogeneous conditions and submitted for inspection at one time.
+3.3 Conformance: Verification that every sample tested meets or exceeds the minimum specified limit values.
+
+4. MATERIAL SPECIFICATIONS AND TECHNICAL REQUIREMENTS
+4.1 The materials used in manufacturing shall be sound, homogeneous, free from structural defects, cracks, laminations, surface blemishes, or detrimental impurities.
+4.2 Chemical composition, physical dimensions, mechanical strength, and electrical insulation properties shall strictly adhere to prescribed tolerance limits.
+4.3 Environmental durability, corrosion resistance, UV stability, and thermal endurance ratings shall satisfy long-term outdoor and indoor operating environments.
+
+5. PERFORMANCE REQUIREMENTS AND QUALITY BENCHMARKS
+5.1 High Reliability Benchmark: The product shall demonstrate reliable continuous operation under rated ambient temperatures (-10°C to +55°C) and relative humidity up to 95%.
+5.2 Factor of Safety: Minimum design factor of safety shall be as mandated for critical public infrastructure applications.
+5.3 Energy Efficiency and Environmental Compliance: The product design shall minimize energy consumption and environmental lifecycle impact.
+
+6. SAMPLING AND ACCEPTANCE CRITERIA
+6.1 Sampling Scheme: Representative samples shall be drawn at random from each submitted inspection lot in accordance with IS 2500 sampling tables.
+6.2 Acceptance Limit: If all test specimens satisfy the mandatory tensile, dielectric, hydrostatic, or dimensional criteria, the entire lot shall be accepted.
+6.3 Re-test Protocol: If any specimen fails on a single parameter, double the initial number of test specimens shall be drawn from the same lot and re-tested.
+
+7. TESTING METHODS AND QUALITY CONTROL AUDIT
+7.1 Routine Tests: Conducted by the manufacturer on 100% of finished products prior to dispatch.
+7.2 Type Tests: Comprehensive laboratory qualification tests to verify design integrity under simulated maximum stress conditions.
+7.3 Acceptance Tests: Witnessed testing performed at manufacturer premises by the purchaser's authorized inspecting engineer before final dispatch approval.
+
+8. MARKING, PACKAGING AND STORAGE
+8.1 Marking: Each standard unit or container shall be legibly and indelibly marked with:
+    a) Manufacturer's name, brand name, and registered trade-mark;
+    b) Standard designation (IS 1785 (Part 1):1983);
+    c) Batch number, lot identification, and date of manufacture;
+    d) Standard BIS Certification Mark (Standard Mark) where applicable.
+8.2 Packaging: Units shall be securely packaged in weather-resistant crates, bags, or reels to prevent transit damage and moisture ingress.

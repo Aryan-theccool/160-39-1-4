@@ -1,0 +1,726 @@
+**************** 
+
+
+
+
+Disclosure to Promote the Right To Information 
+
+Whereas the Parliament of India has set out to provide a practical regime of right to 
+information for citizens to secure access to information under the control of public authorities, 
+in order to promote transparency and accountability in the working of every public authority, 
+and whereas the attached publication of the Bureau of Indian Standards is of particular interest 
+to the public, particularly disadvantaged communities and those engaged in the pursuit of 
+education and knowledge, the attached public safety standard is made available to promote the 
+timely dissemination of this information in an accurate manner to the public. 
+
+
+
+
+Mazdoor Kisan Shakti Sangathan 
+"The Right to Information, The Right to Live'' 
+
+
+
+IS 10013-2 (1981) : water soluble type wood preservatives. 
+Part 2: Copper-chrome-arsenic (CCA) wood preservative [CED 
+9: Timber and Timber Stores] 
+
+
+
+
+Jawaharlal Nehru 
+'Step Out From the Old to the New" 
+
+
+
+aj^&vi iJii^s:y%K^ isb^^ni^seg 
+
+
+
+:<>5&i| mT'5K^5?::5:^>^i»l 
+
+
+
+K^^^iXSVCd^ 
+
+
+
+Satyanarayan Gangaram Pitroda 
+Invent a New India Using Knowledge 
+
+
+
+Bhartrhari — Nitisatakam 
+''Knowledge is such a treasure which cannot be stolen" 
+
+
+
+
+^'^^^r 
+
+
+
+k 
+
+
+
+
+BLANK PAGE 
+
+
+
+^*-^^^ 
+
+
+
+
+
+PROTECTED BY COPYRIGHT 
+
+
+
+IS : 10013 (Part II) ■ 1981 
+
+(Reaffirmed 2004) 
+
+Edition 1.1 
+
+(1999-01) 
+^ ,. ^ , , Reaffirmed 2009 
+
+Indian Standard 
+
+SPECIFICATION FOR 
+
+WATER SOLUBLE TYPE WOOD 
+
+PRESERVATIVES 
+
+PART 1 1 COPPER-CHROME-ARSENIC (CCA) 
+WOOD PRESERVATIVE 
+
+(Incorporating Amendment No 1) 
+
+
+
+UDC 674 048.661 876.256.46 
+
+
+
+© BIS 2004 
+
+BUREAU OF INDIAN STANDARDS 
+
+MANAK BHAVAN, 9 BAHADUR SHAH ZAFAR MARG 
+NEW DELHI 110002 
+
+
+
+Price Group 2 
+
+
+
+IS: 10013 (Part ID- 1981 
+
+Indian Standard 
+
+SPECIFICATION FOR 
+
+WATER SOLUBLE TYPE WOOD 
+
+PRESERVATIVES 
+
+PART II COPPER-CHROME-ARSENIC (CCA) 
+WOOD PRESERVATIVE 
+
+Timber Sectional Committee, BDC 9 
+
+Chairman Representing 
+
+INSPH lOR Cl NF-RAl OF FOHL STS Ministry of Agriculture and Irrigation 
+
+Members 
+
+SllRl S S AbHYANKAR Engineer in Chiefs Branch. Army Hoadquarters 
+
+SiiKiS K GuvxfKiAitvrnate) 
+ADDIIIONAi INSPFCTOR Gi MLRAi Of Ministry of Agriculture and Irrigation 
+FORhSlS 
+
+Shri S K BANFRihr National Test House, Calcutta 
+
+Sf!RI D K K\HUNGQ{ Alternate) 
+
+Cinn C(JNSLRVAJOR OF FORF^Srs Agriailrnre, Forests and Cooperation Depart 
+
+ment. Government of Gujarat, Ahmadabad 
+ADDl nONAL CHIFF CONSFRVAIOR 
+
+or FORhsrs ( Akertiate) 
+
+Djrlcior Indian PJywood Indui>trieii Research Institute, 
+
+Bangalore 
+DlRrciOR. FORfSl RrShARCH AND Forest Departinent. Government of Karnataka, 
+
+UnuMTlON Bangalore 
+
+DiRFCIOR (Track) Railway Board (Ministry of Railways), New Delhi 
+
+JoiNi DiREciOR (Works) ( Akern^ite) 
+
+Cmdi- V P CaRC Naval Headquarters 
+
+Assistant Industrial 
+Ma NAG PR ( AUeniale ) 
+Shri B H Hingorani Forest Department, Government of Uttar Pradesh. 
+
+Lucknovv 
+
+Shri K S LauI y Federation of Indian Plywood and Panel Industry, 
+
+New Delhi 
+ExhcuTiVL DiRECiOR {AKcmate) 
+
+i Cotninucd on page 2 ) 
+
+
+
+© BIS 2004 
+BUREAU OF INDIAN STANDARDS 
+
+This publication is protected under the Indian Copyright Act (XIV of 1957) and 
+reproduction in whole or in part by any mean** except with written permission of the 
+publisher shall be deemed to be an infringement of copyright under the said Act 
+
+
+
+IS: 10013 (Part II) -1981 
+
+
+
+( Continued from page 1 ) 
+
+Xlentbers 
+ShriJ S Maumru 
+
+SHRI P V MEHT^ ( Alternate) 
+DR A N NAVIR 
+
+SHRI J N PANJDEY 
+
+ShTRl B M PR'^SAD ( Altenmie) 
+PRFSIDIINT 
+
+Glneral Spcrltary ( Alternate) 
+dr s k purkayastha 
+
+Dr a Purushotham 
+Dr V Ranganathan 
+
+SHRI G V Rao 
+
+SHRI U B Kanchan {AhernMe) 
+Dr R S Raira 
+
+RhPRESENTATEVF 
+
+SHRIJ K Sym\A{ Alternate } 
+ShrjS N Sanval 
+
+Shrj a C Sekhar 
+
+Shki Sharan Singh 
+
+ShriF C Sharma 
+
+SllRI G RAMAN, 
+Director [Civ Engg) 
+
+
+
+Representing 
+
+Directorate Genera J o^ Technical 
+New Delhi 
+
+
+
+DeveJopm^nt, 
+
+
+
+In personal capacity t C 59, Inderpuri New Delhi } 
+Bihar State Forests Developnient Corporation Ltd. 
+Patna 
+
+Indian Academy of Wood Science, Dehra Dun 
+
+Forest Research Institute & Colleges (Wood 
+
+Anatomy Branch), Dehra Dun 
+Indian Plywood Manufacturing Co Ltd, Bombay 
+In personal capacity {C28 C. N BlocK MaJvija 
+
+NagarExtn Saket, New Delhi 110617) 
+Ministry of Defence tR & D) 
+
+National Buildings Organization, New Delhi 
+Ministry of Defence (DGI) 
+
+Forest Research Institute & Colleges (Tjjnber 
+
+Mechanics Branch), Dehra Dun 
+In personal capacity (26 S B H Colony P O 
+
+Snnagar, I iyderabad 500873 ) 
+Directorate General of Supplies and Disposals, 
+
+New Delhi 
+Directorate General of Civil Aviation (Ministry of 
+
+Tounsm and Civil Aviation). New Delhi 
+Dii cctor General, ISl ( Ev officio Member) 
+
+Secretary 
+
+
+
+Shki J R MbHiA 
+Deputy Director (Civ En^^, ISI 
+
+
+
+Timber Seasoning and Treatment Subcommittee. BDC 9 . 3 
+
+
+
+Comener 
+
+DR A PURUSHOTHAM 
+
+Mernders 
+
+SHRI S R Bhatnagar 
+
+SiiRI R A Savook ( Alternate) 
+CHlLh CUNStRVAIOR OK FUKFSrS 
+
+Forest Officer, Timber treat 
+MEN r PLANT ( Alternate ) 
+Chief Conservator of Forests 
+(Development) 
+Director of Forest Research 
+AND UULiZAnoN {Alternate) 
+
+
+
+Indian Plywood Manufacturing Co Ltd, Bombay 
+
+Castrol Ltd, Bombay 
+
+Forest Department, Government of Assam, Dispur 
+
+
+
+Forest Department, 
+Bangalore 
+
+
+
+Government of Karnat^ka, 
+
+
+
+( Continued on page 7 ) 
+
+
+
+IS: 10013 (Part II) -1981 
+
+Indian Standard 
+
+SPECIFICATION FOR 
+
+WATER SOLUBLE TYPE WOOD 
+
+PRESERVATIVES 
+
+PART II COPPER-CHROME ARSENIC (CCA) 
+WOOD PRESERVATIVE 
+
+0. FOREWORD 
+
+0.1 Thjs Indian Standard (Part II) was adopted by the Indian 
+Standards Institution on 30 November 1981. after the draft finalized 
+by the Timber Sectional Committee had been approved by the Civil 
+Engineering Division Council. 
+
+0.2 With the rapid industrial development of the country, coupled with 
+increased construction activity aJround, the demand for timber for 
+construction purposes has greatly increased In view of the limited 
+availability of naturally durable species, such as teak { Tectona 
+grandis) and sal ( Shorea robusta), it is imperative that supplies of 
+durable timbers are augmented by selected timbers of lesser durability 
+which, when suitably treated, would give mcreased hfe under service 
+conditions Preservative treatment of timber, therefore, forms a very 
+important part of the national effort to conserve the material resources 
+of the country, and to achieve their most economic utilization. 
+
+0.3 IS : 401-1982* covers types of preservative, methods of treatment, 
+and the type and choice of treatment for different species of timber for 
+a number of uses The standard also lists various oil type, organic 
+solvent type, and water soluble (leachable) and water-soluble (fixed) 
+type preservatives The efficiency of preservative treatment depends, 
+besides the proper choice of preservative and the treatment process, on 
+the quality of the preservative to ensure required absorption and 
+penetration of the preservation This standard has been formulated to 
+lay down requirements of copper chrome arsenic (CCA) — a water- 
+soluble (fixed) type preservative 
+
+0.4 In the formulation of this standard due weightage has been given 
+to international co ordination among the standards and practices 
+prevailing in different countries in addition to relating it to the 
+practices in the field in this country 
+
+0.5 This edition l.l incorporates Amendment No 1 (January 1999). Side 
+bar indicates modification of the text as the result of incorporation of the 
+amendment 
+
+
+
+*Code of practice for preservation ot timber ( third rtvision ] 
+
+3 
+
+
+
+IS : 10013 (Part 11) 1981 
+
+0,6 For the purpose of deciding whether a particular requirement of 
+this standard is complied with, the final value, observed or calculated, 
+expressing the result of a test or analysis, shall he rounded off in 
+accordance with 13:2-1960* The number of significant places 
+retamed in the rounded off value should be the same as that of the 
+specified value In this standard 
+
+1. SCOPE 
+
+1.1 This standard (Part II) covers the requirements for copper chrome- 
+arson ic a water-soluble (fixed) type wood preservative specified for 
+treatment of timber and other lignocellulosic materials as given in 
+tS:401 1982t. 
+
+1.2 This standard covers the composition of the preservative, quality of 
+chemicals forming the composition, and samphng procedure for 
+analysis. 
+
+1.3 The analysis procedure for different ingredients have been covered 
+inlS. 2753 (Part I)^l964t 
+
+2. COMPOSITION AND PROPERTIES OF PRESERVATIVE 
+
+2.1 Copper-chrome-arsenic preservative formulation shall consist of 
+the following active ingredients in nominal proportions by weight as 
+shown below 
+
+Arsenic pentoxide AS2O5.2H2O 12.5 
+
+Copper sulphate CaS04 5H^O 37 5 
+
+Sodium dichromate Na2Cr207 2H^0 ) 
+
+or I 50.0 
+
+Potassium dichromate K2Cr207 J 
+
+2.1.1 The percentage of any of the ingredients shall be not less than 
+that shown below 
+
+Arsenic pentoxide AS2O5.2H2O 10.0 
+
+Copper sulphate CUSO4.5H2O 35.0 
+
+Sodium dichromate Na2Cr207 21 (20 1 
+
+or I 47 5 
+
+Potassium dichromate K2Cr207 j 
+
+
+
+*Rui€S for founding off numerical values ( revised) 
+tCode of practice for preset vaUon of timber ( third revision ) 
+
+^Methods for estimation of preservatives in treated timber and in treating solutions 
+Part I Determination uf cupper, drsynit. chrummni, zint. boron, treoiote and fuel oil 
+
+
+
+IS: 10013 (Part II) 1981 
+
+2.2 The preservative may be in a dry solid form, semi-liquid paste or 
+solution 
+
+2.3 In case of dry solid, the preservative shall contain at least 95 
+percent of the active ingredients mentioned under 2.1 
+
+2.3.1 In all cases the percentage of active ingredients, total active 
+compounds and moisture shall be labelled on the contamer as well as 
+descriptive literature of the product 
+
+2.4 Each of the chemicals used for such formulation shall be not less 
+than of 95 percent purity In case arsenic pcntoxide is not available W 
+solid or semi liquid paste but as solution, its strength shall not be le^s 
+than 72 percent Additional quantity may be added to make up the active 
+ingredients to achieve the desired limits mentioned in 2.1 andZ.L.l and 
+minimum 95 percent total active ingredients in the dry formulation as 
+per 2.3 
+
+2.5 Preservative formulation shall produce a clear solution v^hen 
+dissolved in water and shall not contain any turbid or suspended or 
+insoluble matter 
+
+3. SAMPLING 
+
+3.1 Samples shall be taken from requisite number of drums out of the 
+supply made at one particular Lime according to sampling procedure 
+laid down in IS 4905 1968* 
+
+3.2 In case of solution or paste, the same shall be thoroughly mixed 
+with a rod and at least 1 kg sample shall be taken for chemical 
+3ualys\s froTU each drum 
+
+3-3 In rase of dry powder form, a true representative sample of preserve 
+tive not less than 10 percent of the contents shall be taken for analysis. 
+
+3.4 Ai least 1 kg of the preservative slial] be dissolved to obtain 15 
+percent solution of the preservative 
+
+3.5 A small amount of the 15 percent solution may be drawn and 
+diluted exactly to 5 percent for ciiemical analysis. 
+
+4. TESTING 
+
+4.1 The chemical analysis of the solution with respect to its various 
+ingredients shall be earned out according to 3.4 of IS 2753 (Part I ) 
+I964t The proportion of all chemicals shall comply with 2.1 and 2.1.1 
+
+
+
+* Met hod for random sampling 
+
+tMothods for estimation of preservatives in treated timber and in treating solutioiis 
+Part I Determination of copper, arsenic, chromium zinc boron creosote and fuel oil 
+
+
+
+IS: 10013 (Part 11) 1981 
+
+5. MARKING 
+
+5.1 Each container shall be iegibly marked with the following 
+information- 
+
+a) Manufacturer's name, or trade-mark, if any; 
+
+b) Date of manufacture, and 
+
+c) Percentage of dry active ingredients 
+
+5.1.1 The container may also be marked with Standard mark. 
+
+5.1.2 The use of the Standard Mark is governed by the provisions of the 
+Bureau of Indian Standards Act, 1986 and the Rules and Regulations 
+made thereunder The details of conditions under which the licence for 
+the use of Standard Mark may be granted to manufacturers or producers 
+may be obtained from the Bureau of Indian Standards. 
+
+
+
+IS; 10013 (Part II) 1981 
+
+
+
+( Continued irom page 2 ) 
+
+
+
+Members 
+
+CMIH CONSi RVAfOROF FORrSTS 
+
+
+
+Reprpsenting 
+Forest Department, Government of Maharashtra, 
+Bombay 
+
+FOKi M Uni J/AHON Omu r ( Alternate) 
+DlRl'CroR [ndian Plywood Industries Research Institute, 
+
+Bangalore 
+Dr S Anan 1 1 lANARAYANAN ( AHematc ) 
+U\R\ c roR rrRACK) Railway Board (Ministry of KaiJwaysJ, New Delhi 
+
+JOIN! DmniOR (WoRKSj f Altermtte) 
+DiSJHKT Ff)Rt Si Otfichr Forest Department, Government of Andhra 
+
+Pradesh, Hyderabad 
+Smrj J C J AIM Forest Research Institute & Colleges (Forest 
+
+Research Laboratory), Bangalore 
+SiiRi Y K Laui Y The Gurdit Institute Pvt Ltd. Dharwar 
+
+f)R Bwnu S\Ni.\i BAJMS [AftPrnate] 
+
+
+
+SUHJ J S Maimaru 
+
+Shhj P V MrniA ( 4/cernafe) 
+DR R S Raira 
+S>rRI S N SlIARMA 
+
+SURT J K. SlNHA 
+
+SHRl GUIAM Ai AM ( Alternatf) 
+SflRl Shiromani Sh\rma 
+
+SuRi V C SiiVKiA {Alternate) 
+SHRl V R Son 11 
+
+SiiRJ S SJilVAjf ( Alternate) 
+Dr M C rr:wAKi 
+
+
+
+Directorate GeneraJ of Technical Development, 
+New Delhi 
+
+National Buildings Organization, New Delhi 
+Forest Research Institute & Colleges (Wood 
+
+Seasoning Branch), Dehra Dun 
+Ministry of Defence (DGI) 
+
+Development Commi*>5ioner Jor Handicrafts, New 
+Ddhi 
+
+Ascu Hickson Ltd, Calcutta 
+
+Forest Research Institute & CoUeges (Wood 
+Preser^vation Branch), Dehra Dun 
+
+
+
+Bureau of India rt Scandards 
+
+BIS IS a statutory institution established undt^r the Bureau of Indian Standards Act 1986 to promote 
+harmonious deveJopnient of the activitifs of standardization marking and quality certincaiion of 
+goods and attending to connected matten in the rountry 
+
+Copyright 
+
+BIS has the copyright of all its pubUcations No part of these pubhotions may be reproduced in any 
+form without the prior pennission in writing of BIS This does not preclude the free use in the course 
+of implementing the standard of necessary details such as symbols and sizes type or grade 
+dpsignatiana Enquiries relartng to copynght he c^ddressed to the Director (Publications) BIS 
+
+Review of Indian Standards 
+
+Amendmpnts are issued to standards ds the need arises on the basis of comments Standards are also 
+
+reviewed periodicafly d standard along with ampndments is reaffirmed when such review indirates 
+
+that no Lhanges are needed if ih^ review indicates that rhang&s are needed it is taken up for 
+
+revision Users of Indian Standard'^ should ascertain that they are in possession of the latest 
+
+amendments or edition by referring to the latest issue of BIS Catalogue and Standards Monthly 
+
+Additions 
+
+This Indian Standard ha-j been developed by TechnicaJ Committee BDC 9 and amended by CED 9 
+
+Amendments Issued Since Publication 
+
+
+
+Ajnc'nd No 
+
+
+
+Date of Issue 
+
+
+
+Amd No 1 
+
+
+
+January 1<199 
+
+
+
+BUREAU OF INDIAN STANDARDS 
+Headqnaners 
+
+Manak Bhavan 9 Bahadur Shah iafai Marg Ne^^ Delhi 1 lUtXJii 
+Telephones 323 01 31 323 33 75 323 94 02 
+
+Regional OITice-i 
+
+Central Manak Bhavan 9 Bahadur Shah ZafarMarg 
+MEWDF1.HI Il0tlfl2 
+
+Eastern 1/14 C I T Scheme VllM V I P Road Kankurgarhi 
+KOLKATA 700054 
+
+Northern SCO 335 336 Sector 34 A CHANDfGAKH i 60022 
+Southern C I T Campus IV Cross Road CMENNAI 600113 
+
+
+
+Wester/i 
+
+
+
+Branches 
+
+
+
+Manakalaya E9 Ml DC Marol Aiidherj (East) 
+MUMBAI 400093 
+
+
+
+Telegrams Manaksanstha 
+(Common to all offices) 
+
+Telephone 
+
+I 323 ?6 17 
+1 323 38 4 1 
+
+337 84 99 337 85 61 
+J37 86 26 337 91 20 
+
+I 60 38 43 
+1 60 ao 25 
+
+I 235 02 16 235 04 42 
+1235 15 I& 235 23 I5 
+
+832 92 95 832 78 5b 
+832 7B91 832 78 92 
+
+
+
+AHMF.DABAD BANCxALORF. BHOPAL BHUBANESHWAR COIMRATORB, 
+FARIDABAD GHA21ABAD GUWAHATI HYDERABAD JAIPUR KANPUR LUCKNOW 
+NAGPUR NALAGARH PATNA PUNE RAJKOT THIRUVANANTHAPURAM 
+VJSHAKHAPATNAM 
+
+
+

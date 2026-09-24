@@ -9,7 +9,7 @@ from __future__ import annotations
 
 from typing import Any, Optional
 
-from pydantic import BaseModel, ConfigDict, Field, field_validator
+from pydantic import BaseModel, ConfigDict, Field, field_validator, model_validator
 
 __all__ = [
     "RecommendRequest", "SearchRequest", "ComplianceRequest", "FeedbackRequest",
@@ -103,6 +103,16 @@ class TenderAnalyzeTextRequest(BaseModel):
     title: Optional[str] = Field(None, max_length=500, description="Optional tender title or identifier")
     product_description: Optional[str] = Field(None, max_length=2000, description="Target product description")
     sector: Optional[str] = Field(None, description="Procurement sector override")
+
+    @model_validator(mode="before")
+    @classmethod
+    def _remap_aliases(cls, data: Any) -> Any:
+        if isinstance(data, dict):
+            if "text" not in data and "tender_text" in data:
+                data["text"] = data["tender_text"]
+            if "product_description" not in data and "product_type" in data:
+                data["product_description"] = data["product_type"]
+        return data
 
 
 class TenderReportExportRequest(BaseModel):

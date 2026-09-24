@@ -543,7 +543,7 @@ export interface StandardDetail extends StandardSummary {
  * and the dashboard fetch the whole list once and filter in the client --
  * instant typing, no request per keystroke, and no endpoint to add.
  */
-export const STANDARDS_PAGE_LIMIT = 500;
+export const STANDARDS_PAGE_LIMIT = 1000;
 
 export interface StandardsParams {
   q?: string;

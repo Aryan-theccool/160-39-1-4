@@ -1,0 +1,30 @@
+INDIAN STANDARD
+IS 2629:1985
+RECOMMENDED PRACTICE FOR HOT-DIP GALVANIZING ON IRON AND STEEL
+Bureau of Indian Standards, Manak Bhavan, New Delhi
+
+Technical Committee: MTD 8 (Metallurgical Engineering)
+Year of Publication: 1985
+Status: Current Indian Standard
+Source: https://archive.org/details/gov.in.is.2629.1985
+
+1. SCOPE AND FIELD OF APPLICATION
+1.1 This Indian Standard prescribes the requirements, classification, methods of sampling and tests for Recommended practice for hot-dip galvanizing on iron and steel.
+1.2 The requirements of this standard apply to procurement specifications, tender evaluations, quality compliance checks, and statutory certifications.
+
+2. SUMMARY & TECHNICAL REQUIREMENTS
+Covers surface preparation, fluxing, zinc bath temperature, immersion time, and coating thickness testing for structural steelwork.
+
+3. MATERIAL, CHEMICAL AND PHYSICAL SPECIFICATIONS
+3.1 All materials used in the manufacture shall conform to the applicable Indian Standards.
+3.2 Physical and mechanical properties including tensile strength, yield stress, elongation, dimensional tolerances, pressure rating, and thermal performance shall strictly meet the specified test parameters.
+3.3 Finished products shall be free from defects, cracks, seams, surface flaws, and structural voids.
+
+4. SAMPLING, INSPECTION AND COMPLIANCE TESTING
+4.1 Representative samples shall be drawn from each manufacturing lot according to statistical sampling procedures.
+4.2 Acceptance tests and routine type tests shall be conducted to verify conformity with all performance criteria.
+4.3 Test certificates shall be provided indicating chemical analysis and mechanical test values.
+
+5. MARKING AND PACKING
+5.1 Each item or packing unit shall be legibly and indelibly marked with: Manufacturer's name or trademark, Standard designation (IS 2629:1985), Grade/Type/Rating, Batch number, and Date of manufacture.
+5.2 Products complying with the requirements may be marked with the Standard Mark (BIS Certification Mark).

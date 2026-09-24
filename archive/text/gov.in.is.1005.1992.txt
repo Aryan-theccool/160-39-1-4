@@ -1,0 +1,838 @@
+**************** 
+
+
+-k  t^^ 
+
+
+Disclosure  to  Promote  the  Right  To  Information 
+
+Whereas  the  Parliament  of  India  has  set  out  to  provide  a  practical  regime  of  right  to 
+information  for  citizens  to  secure  access  to  information  under  the  control  of  public  authorities, 
+in  order  to  promote  transparency  and  accountability  in  the  working  of  every  public  authority, 
+and  whereas  the  attached  publication  of  the  Bureau  of  Indian  Standards  is  of  particular  interest 
+to  the  public,  particularly  disadvantaged  communities  and  those  engaged  in  the  pursuit  of 
+education  and  knowledge,  the  attached  public  safety  standard  is  made  available  to  promote  the 
+timely  dissemination  of  this  information  in  an  accurate  manner  to  the  public. 
+
+
+Mazdoor  Kisan  Shakti  Sangathan 
+"The  Right  to  Information,  The  Right  to  Live'' 
+
+
+IS  1005  (1992):  Edible  Maize  Starch  (Corn  Flour)  [FAD  16: 
+Foodgrains,  Starches  and  Ready  to  Eat  Foods] 
+
+
+Jawaharlal  Nehru 
+'Step  Out  From  the  Old  to  the  New" 
+
+
+aj^&vi  iJii^s:y>K^  isb^^ni^seg 
+
+
+:<>5&i|  mT'5K^5?::5:^>^i»l 
+
+
+K^^^iXSVCd^ 
+
+
+Satyanarayan  Gangaram  Pitroda 
+Invent  a  New  India  Using  Knowledge 
+
+
+Bhartrhari — Nitisatakam 
+''Knowledge  is  such  a  treasure  which  cannot  be  stolen" 
+
+
+^'^^^r 
+
+
+k 
+
+
+BLANK  PAGE 
+
+
+^*-^^^ 
+
+
+PROTECTED  BY  COPYRIGHT 
+
+
+IS  1005  :  1992 
+
+^nTTtTWI^^P  (Reaffirmed  1997) 
+
+
+2009 
+
+
+5[i-R  ^il^  ^^m  ^\^  ( ^^f^  arr^r )  —  M^f^ 
+
+Indian  Standard 
+
+EDIBLE  MAFZE  STARCH  (  CORN  FLOUR  )  - 
+SPECIFICATION 
+
+f  Third  Revision  J 
+
+UDC    664-258 
+
+
+®  BIS  1992 
+
+BUREAU  OF  INDIAN  STANDARDS 
+
+MANAK   BHAVAN,  9   BAHADUR   SHAH  ZAFAR   MARO 
+NEW  DELHI  110002 
+
+June  1992  Price  Groop  3 
+
+
+AMENDMENT  NO.  1    OCTOBER  1998 
+
+TO 
+
+IS  1005 :  1992    EDIBLE  MAIZE  STARCH  (CORN 
+
+FLOUR)  —  SPECinCATION 
+
+(Third  Revision) 
+
+I  Page  3,  Table  1,  SI  No.  (iv),  co/  4  ]  —  Substitute  *a  9  of  IS  4706  (  P»rt  2 ) : 
+1978' for  *M«  Note*. 
+
+
+(  Page  3,  Table  1,  Note  )  —  Delete. 
+
+
+(FAD  17) 
+
+
+Reprography  Uoil,  BIS.  New  Delhi,  India 
+
+
+Edible  Starches  and  Starch  Products  Sectional  Committee,  FAD  17 
+
+
+FOREWORD 
+
+This  Indian  Standard  (  Third  Revision  )  was  adopted  by  the  Bureau  of  Indian  Standards,  after  the  draft 
+finalized  by  the  Edible  Starches  and  Surch  Products  Sectional  Committee  had  been  approved  by  the 
+Food  and  Agriculture  Division  Council. 
+
+Edible  maize  starch  (  corn  flour  )  is  widely  used  in  the  country  for  the  preparation  of  Indian  sweets  like 
+HALWA,  GULABJAMUM,  PHIRJNI,  etc.  It  serves  as  a  thickner  in  soup  and  gravy.  It  also  finds  its  use  in 
+the  manufacture  of  biscuits,  confectionery,  baking  powder,  cosmetics  and  as  a  binding  and  diluting  agent 
+in  the  manufacture  of  pharmaceutical  products,  such  as  pills  and  tablets. 
+
+This  standard  was  first  published  in  1957.  Its  first  revision  was  issued  in  1969  to  incorporate  additional 
+requirements  for  starch,  protein  content  and  free  acidity,  apart  from  modifications  of  lesser  importance.  In 
+the  second  revision  in  1976,  requirements  for  acid  insoluble  ash  was  modified  in  addition  to  other  changes. 
+In  the  third  revision  limits  have  been  introduced  for  metallic  and  microbiological  impurities  and  the  limits 
+for  total  ash  have  been  reduced. 
+
+In  the  preparation  of  this  standard  due  consideration  has  been  given  to  the  relevant  Rules  prescribed  by 
+the  Government  of  India  under  the  Prevention  of  Food  Adulteration  Acty  1954  and  the  Standards  of  Weighls  arid 
+Measures  (  Packaged  Commodities  )  RuUs,  1977,  However,  this  standard  is  subject  to  the  restrictions  imposed 
+under  these,  wherever  applicable. 
+
+F<Mr  the  purpose  of  deciding  whether  a  particular  requirement  of  this  standard  is  complied  with,  the  final 
+value,  observed  or  calculated,  expressing  the  result  <k  a.  te$t  or  analysis,  shall  be  rounded  off  in  accordance 
+with  IS  2  :  1960  'Rules  for  rounding  off  numerical  values  (  revised  )*.  The  number  of  significant  places 
+retained  in  the  rounded  off  value  should  be  the  same  as  that  of  the  specified  value  in  this  standard. 
+
+
+18  1005  1 1992 
+
+
+Indian  Standard 
+
+
+EDIBLE  MAIZE  STARCH  (  CORN  FLOUR )  - 
+SPECIFICATION 
+
+(  Third  Revision  } 
+
+
+1  SCOPE 
+
+This  standard  prescribes  the  requirements  and 
+the  methods  of  ssunpUng  and  test  for  edible  maize 
+starch  (  corn  flour  ). 
+
+2  REFERENCES 
+
+The  Indian  Standards  listed  in  Annex  A  are 
+necessary  adjuncts  to  this  standard. 
+
+3  TERMINOLOGY 
+
+For  the  purpose  of  this  standard,  edible  maize 
+starch  (  corn  flour  )  shall  mean  starch  obtained 
+from  maize  (  Z^amays  Linn.  )  manufactured  by 
+the  wet  grinding  process,  as  distinct  from  maize 
+(  corn  )  flour  popularly  known  as  MAKAl  KA 
+ATT  A  in  Hindi. 
+
+4  REQ.UIREMENTS 
+
+4*1  Description 
+
+The  material  shall  be  in  the  form  of  a  fine  powder. 
+It  shall  normally  be  white  in  colour,  except  when 
+prepared  from  yellow  maize  in  which  case  it  may 
+be  light  creamy.  It  shall  be  free  from  rancidity; 
+adulterants;  insect  or  fungus  infestation;  and  from 
+fermented,  musty  or  other  objectionable  odours. 
+It  shall  not  contain  added  sweetening,  flavouring, 
+colouring  agents  or  any  foreign  matter. 
+
+4.2  Microscopic  Appearance  and  Granule 
+Size 
+
+When  the  material  is  subjected  to  the  microscopic 
+examination  prescribed  in  IS  4706  (  Part  1  )  : 
+1978,  the  starch  granules  shall  conform  to  the 
+following  description: 
+
+Maize  starch  granules  are  usually  polygonal 
+or  rounded  in  shape  and  appear  to  be  quite 
+uniform  in  size.  The  longest  axis  ranges  from 
+10  to  30  /4m  (  00 1  to  0-03  mm  ).  The  hilum 
+is  fairly  marked  and  is  starred  with  fissures 
+but  no  striae  are  observed;  distinct  polarized 
+crosses  are,  however,  seen. 
+
+NOTE  — To  facilitate  eaay  identification  of  the 
+starch  granule*,  a  photomicrograph  of  maize  ttarch 
+hai  been  provided  in  Fig.  1 . 
+
+4.3  The  material,  when  examined  by  the  method 
+prescribed  in  6  of  IS  4706  (  Part  1  )  :  1978  shall 
+be  free  from  dirt  and  other  suspended  and  extra- 
+neous matter. 
+
+
+4.4  Particle  Size 
+
+When  tested  by  the  method  prescribed  in  3  of 
+IS  4706  (  Part  1  )  :  1978,  not  more  than  2  per- 
+cent  by  mass  of  the  material  shall  be  retained  on 
+75-micron  IS  Sieve  and  not  more  than  05  percent 
+by  mass  shall  be  retained  on  a  1 50-micron  IS 
+Sieve. 
+
+NOTE  —  In  case  75-micron  and  150-micron  IS  Sievei^ 
+(  conforming  to  IS  460  :  1985  )  are  not  available,  BS 
+Test  Seive  200.  ASTM  Sieve  200  and  Tyler  Sieve  200, 
+and  BS  Test  Sieve  100,  ASTM  Sieve  100  and  Tyler 
+Sieve  100  which  have  their  apertures  within  the  limits 
+specified  for  75*microa  and  150>micron  IS  Sieves  res- 
+pectively,  may  be  used. 
+
+4.5  Hygienic  Gonditione 
+
+The  material  shall  be  manufactured  in  premises 
+and  equipment  maintained  under  hygienic  condi- 
+tions  (w#  IS  2491:  1972). 
+
+4.6  The  material  shall  also  comply  with  the^ 
+requirements  given  in  Table  I. 
+
+5  PACKING 
+
+5.1  Unless  otherwise  agreed  to  between  the  pur- 
+chaser and  the  vendor,  the  material  shall  be 
+packed  in  clean,  sound  and  new  high  density 
+polyethylene  (  HDPE  )  woven  bags  or  A-twill  jute 
+bags  (  see  IS  1943  :  1964)  lined  with  polyethylene. 
+The  mouth  of  each  bag  shall  be  either  machine 
+stitched  or  rolled-over  and  hand  stitched. 
+
+5.2  The  material  may  also  be  packed  in  smaller 
+containers  li&ed  with  paper  or  polyethylene  which 
+in  turn  shall  have  an  outer  protective  packing. 
+
+6  MARKING  . 
+
+6.1  Each  container  shall  be  suitably  marked/ 
+printed  with  an  indelible  insoluble  ink  so  as  \o 
+give  the  following  information: 
+
+a)  Name  of  the  material, 
+
+b)  Name  and  address  of  the  manufacturer, 
+
+c)  Batch  or  code  number, 
+
+d)  Date  of  manufacture, 
+
+e)  Net  mass  of  contents,  and 
+
+f)  Any  other  details  required  under  the 
+Standards  of  Weights  and  Measures  (  Pack^ 
+aged  Commodities  )  Rules  I977IPFA  Rules. 
+
+
+J8  KNIS 1 1992 
+
+
+€.1.1  Standard  Marking 
+
+Details  available  with  the  Bureau  of  Indian 
+Standards. 
+
+7  SAMPUNG 
+
+Representative  sample  of  the  material  shall  be 
+drawn  and  conformity  of  the  material  to  the 
+requirements  of  this  specification  shall  be  deter- 
+mined by  the  method  prescribed  in   IS  4662  : 
+
+1977. 
+
+
+8  TESTS 
+
+8*1  The  tests  shall  be  carried  out  as  prescribed 
+in  4.2,  4.3,  4.4  and  in  col  4  of  Table  1. 
+8.2  QjaalityofRemgent* 
+
+Unless  specified  othexwise,  pure  chemicals  shall 
+be  employed  in  tests  and  distilled  water  (  stt 
+IS  1070  :  1977  )  shall  be  used  where  the  use  of 
+water  as  a  reagent  is  intended. 
+
+NOTE  —  'Pure  cbrmicala'  aball  meaa  chemicali  that 
+do  not  ccnuin  iuopuntiea  which  affect  the  retulta  of 
+analytii. 
+
+
+Fio.  1    Photomicrograph  op  Maize  Starch 
+
+
+IS  1005  1 1992 
+
+
+Table  1  Requirements  for  Edible  Maixe  Starch  (  Com  Flour  ) 
+
+[CtauseQA) 
+
+
+81  No. 
+
+Gh»nu9ttTi«tfc 
+
+Method  of  Teat  Rcfto 
+
+(1) 
+
+(2) 
+
+(3) 
+
+(4) 
+
+i) 
+
+Moisture,  percent  by  maM,  Max 
+
+12-5 
+
+CI    4    ' 
+
+H) 
+
+Total  ash   (  on  dry  batii )   percent  by  mau, 
+
+Max 
+
+0-20 
+
+CI    5         of  IS  4706 
+
+►  (  Part  2  )  : 
+1978 
+
+iii) 
+
+Acid  insoluble  aih   (  on  dry  batii  ),  percent 
+by  nia»i,  Max 
+
+0-10 
+
+CI    8 
+
+J 
+
+iv) 
+
+Starch    (  on   dry  basis  ),  percent  by   mass, 
+Min 
+
+980 
+
+iM  Note 
+
+v) 
+vi) 
+
+Protein  (  N  x  6*25  )    (  on  dry  basis  ) ,  percent 
+by  mass,  Max 
+
+pH  of  aqueous  extract 
+
+0-60 
+4-5  to  7-0 
+
+CI  10     ") 
+
+.   of  IS  4706 
+"  (  Part  2  )  : 
+
+CI  13     J          1978 
+
+Vli) 
+
+Alcoholic    acidity     (  expressed   at  H.SOi  ) 
+with  90  percent   alcohol,  percent   by  mass, 
+Max 
+
+0025 
+
+CI  15  of  IS  4706 
+(  Part  2  )  :  1978 
+
+viii) 
+
+E.  coU 
+
+Absent 
+(  in  25  g  ) 
+
+IS  5887  (  Part  2  )  : 
+1976 
+
+ix) 
+
+Salmontlla 
+
+Absent 
+(  in  25  g  ) 
+
+IS  5887  (  Pan  3  )  : 
+1976 
+
+x) 
+
+Arsenic,  mg/kg,  Max 
+
+11 
+
+Cl  12    ' 
+
+xi) 
+
+Lead  mg/kg,  Max 
+
+2-5 
+
+CI  13 
+
+xii) 
+
+Copper,  mg/kg,  Max 
+
+30-0 
+
+n   1A      i.   of  ^S  6287  : 
+^^  ''^      \           1985 
+
+xiii) 
+
+Zinc,  mg/kg.  Max 
+
+500 
+
+Cl  15      1 
+
+j 
+
+xiv) 
+
+Tin,  mg/kg.  Max 
+
+250-0 
+
+Cl   16     J 
+
+XV) 
+
+Mercury,  mg/kg,  Max 
+
+ro 
+
+Appendix    H    of 
+IS  9808 :  1981 
+
+xvi) 
+
+Cadmium,  mg/kg.  Max 
+
+1-5 
+
+Annex  B 
+
+NOTE  —  Starch  percent  =-  100  —  Proteio  percent    {  on  dry    basis )  4-  Fat,    percent 
+percent  (  on  dry  baiit  )  +  Sugar,  percent  (  on  dry  basis  )  +  crude  fibre,  percent  (  on 
+
+(  on  dry  basis  )  +  Total  ash, 
+dry  basis  ). 
+
+ANNEX    A 
+(  Clause  2  ) 
+
+LIST  OF  REFERRED  INDIAN  STANDARDS 
+
+
+IS  No,  Tide 
+
+460  :  1985  Specification  for  test  sieves 
+
+1070  :  1977  Specification     for     water    for 
+
+general  laboratory  use  (  second 
+revision  ) 
+
+1943  :  196*  Specification  for   A-twill    jute 
+
+bags  (  revisid  ) 
+
+2491  :  1972  Code  for   hygienic  conditions 
+
+for  food  processing  units  ( Jirst 
+revision  ) 
+
+-4662  :  1977  Methods  of  sampling  of  star- 
+
+ches and  starch  products  ( first 
+revision  ) 
+
+
+ISM. 
+
+4706 
+(  Part  1  ) 
+
+
+4706 
+(  Part  2  ) 
+
+
+5887 
+(  Part  2  ) 
+
+
+TiUe 
+
+
+Methods    of    test    for    edible 
+1978    starches  and  starch  products  : 
+Part  1   Physical  methods  [Jirst 
+revision  ) 
+
+Methods    of   test    for    edible 
+1978   starches  and  starch  products  : 
+Part  2  Chemical  methods  {Jirst 
+revision  ) 
+
+Methods  for  detection  of  bac- 
+1976  teria  responsible  for  food 
+poisoning :  Part  2  Isolation, 
+identification  and  enumeration 
+of  Escherichia  coli{  Jirst  revision  ) 
+
+
+tS  IOCS  t  1992 
+
+ISM. 
+
+5887 
+(  Part  3  ) 
+
+
+1976 
+
+
+na*  IS  No, 
+
+Methods  for  detection  of  bac-     6287  :  1985 
+
+teria     reiponiible    for     food 
+
+poisoning  :   Pait  3  Isolation, 
+
+and  identification  of  SalmomUa 
+
+and  Shigilla  (first  nvision  )  9808  :  1981 
+
+
+TUtt 
+Methods    for     sampling    and. 
+analysis  for  sugar  .conKCtion*- 
+ery  [first  revision  ) 
+
+Fish  protein  concentrate. 
+
+
+ANNEX  B 
+[  Table  1,  SI  No.  (xvi)  ] 
+
+METHOD  FOR  DETERMINATION  OF  CADMIUM 
+
+
+B4)  Sample  is  digested  with  HNOg,  H,S04,  and 
+H|Oa.  All  reactive  metals  arc  extracted  from  solu- 
+tion, after  adjustment  to  about  ^H  9,  with 
+dithizone-GHCls.  Cadmium  is  removed  by  stripp- 
+ing CHGJj  solution  with  dilute  HGl  and  deter- 
+mined by  Atomic  Absorption  Spectrophotometry 
+at  228-8  nm. 
+
+B-1  REAGENTS 
+
+B-ia  Nitric  Acid 
+
+Low  in  lead  and  cadmium. 
+B-1.2  Hydrogen  Peroxide 
+
+50  percent. 
+
+8-1.3  Citric  Acid 
+
+Monohydrate  fine  crystal. 
+
+B-l.i  Thymol  Blue  Indicator 
+
+Triturate  01  g  indicator  in  agate  mortar  with 
+4  3  ml  0  05  JV  NaOH.  DUute  to  200  ml  with  HjO. 
+
+B-1.5  Dithixone  Sohitioiia 
+
+B*1.5*l  Concentrated  Solution  (  1  mg/ml  ) 
+
+Prepare  200  ml  in  GHG1».  Prepare  fresh  daily. 
+
+B-1 .6  Cadmium  Standard  Solutions 
+
+B-1. 6.1  Stock  Solution  (  i'O  mg/ml  ) 
+
+Dissolve  I  000  g  cadmium  in  165  ml  HGl  in 
+1 -litre  volumetric  flask.  Dilute  to  volume  with 
+H,0. 
+
+B-1. 6*2  Intermediate  Solution  (10  ^g/ml  ) 
+
+Dilute  10  ml  stock  solution  with  2  JV  HGl  to 
+one  litre.  Prepare  just  before  use. 
+
+B-1. 6,3  IVorking  Solution 
+
+Dilute  0,  1»  5,  10  and  20  ml  intermediate  solution 
+to  100  ml  with  2  JVHGl  (  0,  O'l,  0-5,  10,  and  2  0 
+^g  Gd/ml,  respectively  ). 
+
+B-2  APPARATUS 
+
+II-2.I  Atomic  Absorptioa  Spectrophotometer 
+
+
+With  hollow>cathode  cadmium  lamp  and  10  cnk 
+burner  head  for  air-CgHi  flame;  wavelength 
+228-8  nm,  range  0-20  tigjml 
+
+B-2.2  Glaaaware 
+
+Thoroughly  washed  with  80  JVHNOj  and  rinsed 
+with  water.  Beakers  and  watchglasses  should  be 
+covered  during  all  operations. 
+
+B-3  PROCEDURE 
+
+B-3.1  Digestion 
+
+Weigh  50-0  g  sample  into  1*5  1  beaker.  Add  seve- 
+ral boiling  chips  or  beads,  and  cover.  Carefully 
+add  25  ml  HNOg,  cover  and  warm  gently  with 
+flame  to  initiate  reaction.  When  reaction  subsides, 
+add  25  ml  HNOs,  warm  again,  and  continue 
+until  100  ml  HNOg  has  been  added.  (  Alterna- 
+tively, add  100  ml  HNOg  all  at  once,  with  caution, 
+and  let  it  stand  at  room  temperature  overnight.  ) 
+Heat  until  most  nitrous  oxide  fumes  have  evolved; 
+control  excessive  frothing  by  cooling  or  quenching 
+with  H»0  from  wash  bottle.  Only  some  cellulose 
+and  fatty  materials,  if  any,  remain  undissolved. 
+
+To  remove  any  fat  visible  in  hot  solution,  proceed 
+as  follows: 
+
+Cool  beaker  in  ice,  and  decant  clear  aqueous 
+solution  from  coagulated  oils  and  jtolids  through 
+glasswool  pad  into  1-litre  beaker.  Add  100  rai  HsO 
+to  l-5-litre  beaker  with  fat,  heat,  swirl  vigo- 
+rously to  rinse  fat,  chill,  and  Alter  as  before. 
+Wash  funnel  and  glasswool  pad  with  about 
+20  ml  H,0. 
+
+Add  20  ml  HtSO^  to  sample,  dilute  to  about  300 
+ml  with  HgO,  and  evaporate  over  flame  until 
+charring  begins.  When  charring  becomes  exten- 
+sive, cautiously  add  50  percent  HsO,.  1  ml  at  a 
+time.  Let  reaction  subside  before  adding  next 
+portion  of  oxidant,  and  do  not  add  greater  than 
+1  ml  at  a  time.  Continue  additions  of  HgOg  until 
+solution  is  colourless.  Heat  vigorously  to  SO^ 
+fumes,  adding  more  HfO,  as  required  to  remove 
+char.  Heat  vigorously  to  expel  excess  HtO,.  CooV 
+colourless  digest  to  room  temperature. 
+
+Prepare  reasent  blank  of  100  ml  HNOg,  20  ml 
+HtSO^,  and  same  amoimts  of  HfO  as  added  to- 
+
+
+IS  1005  t  1992 
+
+
+sample.  Cautiously  add  same  amounts  of  50  per- 
+cent H|Oa,  as  above,  and  remove  a\l  HNO|  from 
+blank.  Garry  blank  through  same  operations  as 
+sample. 
+
+B-3.2  EztrmctioB 
+
+Add  2  g  citric  add  to  cooled  digest  and  cautiously 
+dilute  to  about  25  ml  with  H,0.  Add  1  ml  thymol 
+blue  indicator  and  adjust  to  about  ^H  8-8  by 
+slowly  adding  NH4OH  while  cooling  in  ice  bath 
+until  solution  changes  from  yellowish  green  to 
+greenish  blue,  Transfer  to  250  ml  separator, 
+using  H^O,  and  dilute  to  about  150  ml. 
+
+Cool  solution,  and  extract  with  two  5-ml  portions 
+concentrated  dithirone  solution,  shaking  for  1  to  2 
+minutes  each  time.  Continue  extraction  with  5  ml 
+portions  dilute  dithizonc  solution  until  last  5  nd 
+portion  of  dithizone  extract  shows  no  change  in 
+colour.  Combine  dithizone  extracts  in  125  ml 
+separator;  wash  with  50  ml  HjO,  and  transfer 
+solvent  to  another  125  ml  separator.  Wash  the 
+water  extract  with  5  ml  CHCU  ^nd  add  this  to 
+dithizone   extracts.   Add   50  ml    0-2  JV  HCI  to 
+
+
+combined  dithizone  extracts,  shake  vigorously  for 
+I  minute,  and  let  layers  separate;  discard  dithizone 
+layer.  Wash  aqueous  solution  with  5  ml  GHCis 
+and  discard  CHGlf  Q}iantitatively  transfer  aque- 
+ous solution  to  400  ml  beaker,  add  boiling  chips, 
+and  evaporate  carefully  to  dryness.  Carefully  rinse 
+down  sides  of  beaker  with  10-20  ml  H|0  and 
+again  evaporate  to  dryness. 
+
+B«3.3  Set  instrument  to  previously  established 
+optimum  conditions,  using  air-C^Ht  oxidizing 
+flame  and  228*8  nm  resonant  wavelength.  Dis- 
+solve dry  residue  in  5  0  ml  2  /i  HGl  and  deter- 
+mine Absorption  of  sample  and  standard  solution 
+against  2  JV  HCl  as  blank.  Flush  burner  with  H^O 
+between  readings.  Use  scale  expansion  controls  to 
+obtain  4-10  x  expansion,  as  convenient.  Determine 
+cadmium  from  curve  of  Absorption  against 
+cadmium  ^g/ml. 
+
+Cadmium  mg/kg  «> 
+
+( fig  Gd/ml  )  X  (  ml  2  JVHCl/g  sample  ) 
+
+For  concentration  >  2*0  /Mg  Cd/ml,  dilute  solu^ 
+tions  with  2^^  HGl. 
+
+
+StaadariMark 
+
+The  use  of  the  Standard  Mark  is  governed  by  the  provisions  of  the  Bureau  of  Indian 
+Standards  Act,  1986  and  the  Rules  and  Regulations  made  thereunder.  The  Standard  Mark  on 
+products  covered  by  an  Indian  Standard  conveys  the  assurance  that  they  have  been 
+produced  to  comply  with  the  requirements  of  that  standard  under  a  well  defined  system  of 
+inspection,  testing  and  quality  control  which  is  devised  and  supervised  by  BIS  and  operated 
+by  the  producer,  standard  marked  products  are  also  continuously  checked  by  BIS  for  con- 
+formity to  that  standard  as  a  further  safeguard.  Details  of  conditions  under  which  a  licence 
+for  the  use  of  the  Standard  Mark  may  be  granted  to  manufacturers  or  producers  may  be 
+obtained  from  the  Bureau  of  Indian  Standards. 
+
+
+Barcta  of  Indian  Stnndnrds 
+
+BIS  is  a  statutory  institution  established  under  the  Bureau  of  Indian  Standards  Act,  1986  to  promote 
+harmonious  development  of  the  activities  of  standardization,  marking  and  quality  certification  of  goods 
+and  attending  to  connected  matters  in  the  country. 
+
+Copyrigiit 
+
+BIS  has  the  copyright  of  all  its  publications.  No  part  of  these  publications  may  be  reproduced  in  any 
+form  without  tne  prior  permission  in  writing  of  BIS.  This  does  not  preclxide  the  free  use,  in  the  course  of 
+implementing  the  standard,  of  necessary  details,  such  as  symbols  and  sizes,  type  or  grade  designations. 
+Enquiries  relating  to  copyright  be  addressed  to  the  Director  (  Publications  ),  BIS. 
+
+Revision  of  Indian  Standardi 
+
+Indian  Standards  are  reviewed  periodically  and  revised,  when  necessary  and  amendments,  if  any,  are 
+issued  from  time  to  time.  Users  of  Indian  Standards  should  ascertain  that  they  are  in  possession  of  the 
+latest  amendments  or  edition.  Comments  on  this  Indian  Standard  may  be  sent  to  BIS  giving  the 
+followiDg  reference: 
+
+Doc  :  No  AFD  33  (  4053  ) 
+
+
+Amendments  Issued  Since  Publication 
+Amend  No.  Date  of  Issue  Text  Affected 
+
+
+BUREAU  OF  INDIAN  STANDARDS 
+
+Headquarters  : 
+
+Manak  Bhavan,  9  Bahadur  Shah  Zafar  Marg,  New  Delhi  110002  Telegrams  :  Manaksanstha 
+
+Telephones  :  331  01  31,  331  13  75  (  Common  to  all  offices  ) 
+
+Regional  Offices  : 
+
+Central  :  Manak  Bhavan,  9  Bahadur  Shah  Zafar  Marg  f  331  01  31 
+
+
+NEW  DELHI  110002  J  331  13  75 
+
+Eastern  :  1/14  C.  I.  T.  Scheme  VII  M,  V.  I.  P.  Road,  Maniktola  87  86  62 
+
+CALCUTTA  700054 
+
+Northern  :  SCO  445-446,  Sector  35-C,  CHANDIGARH  160036  53  38  43 
+
+Southern  :  C.  L  T.  Campus,  IV  Cross  Road,  MADRAS  600113  41  29  16 
+
+Western  :  Manakalaya,  E9  MTDC,  Marol,  Andheri  (  East )  632  92  95 
+
+BOMBAY  400093 
+
+Branches ;  AHMADABAD.  BANGALORE.  BHOPAL.  BHUBANESHWAR. 
+
+COIMBATORE.  FARIDABAD.    GHAZIABAD.    GUWAHATl.    HYDERABAD. 
+JAIPUR.      KANPUR.      LUCKNOW.     PATNA.     THIRUVANANTHAPURAM. 
+
+
+Priotad  tt  M*w  tndi*  PrintiD*  Pnsa.  KburM.  Indi» 
+
+

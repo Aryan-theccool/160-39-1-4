@@ -220,23 +220,37 @@ class TenderComplianceEngine:
             seen_stds.add(std_key)
 
             resolved_std = self.data.resolve_designation(raw_std) if self.data is not None else None
+            if resolved_std is None and self.data is not None:
+                std_k = _yearless_key(raw_std)
+                for s in self.data.standards():
+                    if _yearless_key(s.designation) == std_k or (s.canonical and _yearless_key(s.canonical) == std_k):
+                        resolved_std = s
+                        break
+
             title = resolved_std.title if resolved_std else ""
             desig = resolved_std.designation if resolved_std else raw_std
             is_current = resolved_std.is_current if resolved_std else True
 
             # Check supersession
             superseded_by = None
-            if resolved_std and not is_current and self.data is not None:
-                info = self.data.supersession(resolved_std.canonical)
-                if info and info.replacement_designation:
-                    superseded_by = info.replacement_designation
+            parsed_raw = iscode.parse_designation(raw_std)
+            if resolved_std and self.data is not None:
+                if not is_current:
+                    info = self.data.supersession(resolved_std.canonical)
+                    if info and info.replacement_designation:
+                        superseded_by = info.replacement_designation
+                elif parsed_raw and parsed_raw.year and resolved_std.year and parsed_raw.year < resolved_std.year:
+                    is_current = False
+                    superseded_by = resolved_std.designation
+
+                if superseded_by:
                     matrix.superseded_standards_cited.append({
-                        "cited": desig,
+                        "cited": raw_std,
                         "replacement": superseded_by,
-                        "in_dataset": bool(info.in_dataset),
+                        "in_dataset": True,
                     })
                     matrix.risk_flags.append(
-                        f"Tender cites superseded standard '{desig}'. Upgrade to '{superseded_by}'."
+                        f"Tender cites superseded standard '{raw_std}'. Upgrade to '{superseded_by}'."
                     )
 
             # Check QCO status with explicit evidence state
@@ -355,7 +369,7 @@ class TenderComplianceEngine:
         evaluations: list[TenderRequirementEvaluation] = []
 
         for req in tender.requirements:
-            eval_item = self._evaluate_requirement(req, applicable_stds, evidence_req_map, prod_desc)
+            eval_item = self._evaluate_requirement(req, standards_assessed, evidence_req_map, prod_desc)
             evaluations.append(eval_item)
 
         matrix.evaluations = evaluations
@@ -593,7 +607,43 @@ class TenderComplianceEngine:
                 risk_level=risk,
             )
 
-        # 6. Generic / Other Parameters (Transparent UNKNOWN if not in evidence)
+        # 6. Yield Strength / 0.2% Proof Stress Check (Steel Rebar / Sections)
+        if "yield" in p_name.lower() or "proof stress" in p_name.lower() or p_key in ("yield_strength", "proof_stress"):
+            std_name = "IS 1786 / IS 2062"
+            min_ys = 500.0 if any(k in prod_desc.lower() for k in ["tmt", "fe 500", "reinforcement", "500"]) or "500" in req.specified_value else (415.0 if "415" in prod_desc else 250.0)
+            if req.numeric_value is not None:
+                if req.numeric_value >= min_ys:
+                    status = "PASS"
+                    reason = f"Specified yield strength {req.numeric_value} N/mm2 meets standard requirement (>= {min_ys} N/mm2)."
+                    risk = "LOW"
+                else:
+                    status = "FAIL"
+                    reason = f"Specified yield strength {req.numeric_value} N/mm2 is below standard minimum of {min_ys} N/mm2."
+                    risk = "HIGH"
+            else:
+                status = "UNKNOWN"
+                reason = "Could not parse numeric yield strength value."
+                risk = "MEDIUM"
+
+            return TenderRequirementEvaluation(
+                requirement_id=req.requirement_id,
+                parameter=p_name,
+                specified_value=req.specified_value,
+                numeric_value=req.numeric_value,
+                numeric_max=req.numeric_max,
+                unit=req.unit or "N/mm2",
+                operator=req.operator,
+                standard=std_name,
+                required_standard_value=f">= {min_ys} N/mm2",
+                status=status,
+                evaluation_reason=reason,
+                clause_reference=req.source_location,
+                is_mandatory=req.is_mandatory,
+                category=req.category or "materials",
+                risk_level=risk,
+            )
+
+        # 7. Generic / Other Parameters (Transparent UNKNOWN if not in evidence)
         default_std = applicable_stds[0].designation if applicable_stds else "Applicable Indian Standard"
         return TenderRequirementEvaluation(
             requirement_id=req.requirement_id,
@@ -687,6 +737,9 @@ class TenderComplianceEngine:
             )
         for e in matrix.evaluations:
             if e.status == "FAIL":
+                matrix.risk_flags.append(
+                    f"Technical non-compliance: Parameter '{e.parameter}' value '{e.specified_value}' fails standard threshold '{e.required_standard_value}'."
+                )
                 matrix.recommendations.append(
                     f"Adjust parameter '{e.parameter}': specified value '{e.specified_value}' fails standard threshold '{e.required_standard_value}'."
                 )

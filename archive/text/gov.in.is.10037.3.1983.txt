@@ -1,0 +1,595 @@
+**************** 
+
+
+
+
+Disclosure to Promote the Right To Information 
+
+Whereas the Parliament of India has set out to provide a practical regime of right to 
+information for citizens to secure access to information under the control of public authorities, 
+in order to promote transparency and accountability in the working of every public authority, 
+and whereas the attached publication of the Bureau of Indian Standards is of particular interest 
+to the public, particularly disadvantaged communities and those engaged in the pursuit of 
+education and knowledge, the attached public safety standard is made available to promote the 
+timely dissemination of this information in an accurate manner to the public. 
+
+
+
+
+Mazdoor Kisan Shakti Sangathan 
+"The Right to Information, The Right to Live'' 
+
+
+
+IS 10037-3 (1983) : Requirements for sludge de-watering 
+equipment^ Part 3: Centrifugal equipment (Solid bowl type) 
+[CED 24: Public Health Engineering.] 
+
+
+
+
+Jawaharlal Nehru 
+'Step Out From the Old to the New" 
+
+
+
+aj^&vi iJii^s:y%K^ isb^^ni^seg 
+
+
+
+:<>5&i| mT'5K^5?::5:^>^i»l 
+
+
+
+K^^^iXSVCd^ 
+
+
+
+Satyanarayan Gangaram Pitroda 
+Invent a New India Using Knowledge 
+
+
+
+Bhartrhari — Nitisatakam 
+''Knowledge is such a treasure which cannot be stolen" 
+
+
+
+
+^'^^^r 
+
+
+
+k 
+
+
+
+
+BLANK PAGE 
+
+
+
+^*-^^^ 
+
+
+
+
+
+PROTECTED BY COPYRIGHT 
+
+
+
+JS: 10037 (Part 3 J- 1983 
+
+( Reaffirmed 2001 ) 
+
+Indian Standard 
+
+REQUiREMENlS FOR 
+SLUDGE DEWATERING EQUIPMENT 
+
+PART J C£NTRiFUGAL EQUIPMENT f SOLID 80WL TTPE ] 
+
+
+
+UDC 62333613 
+
+
+
+
+© Copyright I9S3 
+
+INDIAN STANDARDS INSTITUTION 
+
+MANAi; iHIAV.\N, 9 B.\HArpTJR SHAH /-AFAK MARti 
+
+NE^V DEUlt ll«02 
+
+
+
+IS ! 10037 ( Part 3 ) - 1983 
+
+Indian Standard 
+
+REQUIREMENTS FOR 
+SLUDGE DEWATERING EQUIPMENT 
+
+PART 3 CENTRIFUGAL EQUIPMENT ( SOLID BOWL TYPE ) 
+
+Public Health Engineering Equipment Sectional Committee, BDC 40 
+
+Chairman Representing 
+
+Du B- B. SuNDARESAN National Environmental Engineering Research 
+
+Institute ( GSIR ), Nagpur 
+
+Members 
+
+Shri R. Paeamasivam ( Alternate to 
+
+Dk B. B. Sundaresan ) 
+AiiVisKR ( PHE ) Ministry of Works & Housing, New Delhi 
+
+ijvi S. R. Sukla ( Alternate ) 
+Shri S. V. BoPARDiKAB Directorate General of Technical Development, 
+
+New Delhi 
+Shri R. G. I*. Ghaubhary Engineers India Limited, New Delhi 
+
+Chief Engineer Department of Health, Government of West Bengal, 
+
+Calcutta 
+Shri T. N. Ghatterjee ( Alternate) 
+Chief Engineer ( Water ) Municipal Corporation of Delhi, Delhi 
+
+Shri Jai Narain ( Alternate ) 
+Shri D. K. Choudkxjry Geo-Miller & Go, Calcutta 
+
+Shri D. R. Mall ( Alternate ) 
+Shri S. K. Dasgupta Calcutta Metropolitan Development Authority, 
+
+Calcutta 
+Shri S.J. Dutta ( Alternate ) 
+Deputy MctsticiPAL Commissio- Municipal Corporation of Greater Bombay, 
+NEB Bombay 
+
+Hydraulic Engineer ( Alternate I ) 
+Chief EngiKeek ( Sewerage ) ( Alternate II ) 
+Shri B. R. N. Gupta Engineer-in-Ghief's Branch Army Headquarters, 
+
+"New Delhi 
+Shri K. V. KkiSHNAMURTHY ( Alternate ) 
+Shri S, P.James Local Administration & Social Welfare (F) Depart- 
+
+ment, Trivandrum 
+Shri R. Krishnaswamv Tamil Nadu Water Supply & Drainage Board, 
+
+Madras 
+Shri S. A. Jaodesan ( Alternate ) 
+Shri M. Y. Madan The Hindustan Construction Co Ltd, Bombay 
+
+Shri C. E. S. Rao ( Alternate ) 
+
+( Continued on page 2 ) 
+
+
+
+© Copyrtght 1983 
+
+INDIAN STANDARDS INSTITUTION 
+
+This pubhcaiion is protected under the Indian Copyright Act ( XIV oi 1957 ) And 
+
+rf^production m whole or in parr by Any means except with written permission of the 
+
+publisher shall be deemed to be an infringement of copyright under the aaid Act- 
+
+
+
+IS : 10037 ( Part 3 ) - 19B3 
+
+( Continued from page 1 ) 
+
+Members Representing 
+
+Shri S. R. Majumdar Paterson Engineering Co ( India ) Ltd, Calcutta 
+
+Shhi a. R. Mir Public Health Engineering Department, Govern- 
+
+ment of Jammu & Kashmir, Srinagar 
+Shri G. M. Kanth ( Alternate ) 
+Shri S. S. Naik Hydraulic & General Engineers Pvt Ltd, Bombay 
+
+Shri D. R. Kenkre ( Alternate ) 
+i>HRi R. Natarajan Hindustan Dorr-Oliver Ltd, Bombay 
+
+Shri B. M. Rahul ( Alternate ) 
+Shri M. M. Patel Indian Water Works Association, Bombay 
+
+Rkpresentative Public Health Engineering Department, Govern- 
+
+ment of Punjab, Chandigarh 
+Representative Public Health Engineering Department, 
+
+Government of Haryana, Chandigarh 
+Shri K. K. Gakdhi ( Alternate ) 
+Prof S. SuBHA Rao All India Institute of Hygiene & Public Health, 
+
+Calcutta 
+Shri A. V. Rao ( Alternate ) 
+Shri T. P. Sharma M. P. State Prevention and Control of Water 
+
+Pollution Board, Bhopal 
+Dr G. K. Khare ( Alterpaie ) 
+Shri S. S. Sbivastava Uttar Pradesh Jal Nigam, Lucknow 
+
+Shri S. A. Swamy The Institution of Engineers ( India ), Calcutta 
+
+Shri P. S. Tendolkab Candy Filters ( India ) Ltd, Bombay 
+
+Shri C. L, Sastri ( Alternate ) 
+Shri M. G, Vaidya Public Health Engineering Department, Govern- 
+
+ment of Madhya Pradesh, Bhopal 
+Shri V. Vardarajan Madras Metropolitan Water Supply and Sewerage 
+
+Board, Madras 
+Shri S. Daivamani ( Alternate ) 
+Shri G. Raman, Director General, ISI ( Ex-officio Member ) 
+
+Director ( Civ Engg ) 
+
+Secretary 
+
+Shri A. K. Avasthy 
+Assistant Director ( Civ Engg ), ISI 
+
+Waste Water Treatment Equipment Subcommittee, BDC 40 : 2 
+
+Convener 
+
+Prof V.Raman National Environmental Engineering Research 
+
+Institute ( CSIR ), Nagpur 
+
+Members 
+
+Shri S. K. Gadkari ( Alternate to 
+Prof V. Raman ) 
+Shri R. R. Baori Clear Water Ltd, New Delhi 
+
+Chibf Engineer ( Design ) U. P. Jal Nigam, Lucknow 
+
+Shri S. S. Srivastava ( Alternate ) 
+Chief Engineer ( Sewerage ) Municipal Corporation of Greater Bombay 
+Deputy Chief Engineer 
+( Sewerage ) ( Alternate ) 
+
+( Continued on page 8 ) 
+
+
+
+IS : 10037 ( Part 3 ) - 1983 
+
+Indian Standard 
+
+REQUIREMENTS FOR 
+SLUDGE DEWATERING EQUIPiMENT 
+
+PART 3 CENTRIFUGAL EQUIPMENT ( SOLID BOWL TYPE ) 
+
+
+
+0. F CJ REWORD 
+
+0,1 This Indian Standard ( Part 3 ) was adopted by the Indian Standards 
+Institution on 22 June 1983, after the draft finalized by the Public Health 
+Engineering Equipment Sectional Committee had been approved by the 
+Civil Eiigineering Division Council, 
+
+0.2 The process of high speed centrifuging has been found useful to 
+reduce the moisture in sludge to around 60 percent. Centrifuges can 
+normally accept feed slurries up to 20 percent. Most industrial sludges 
+respond to centrifugal dewatering. The performance of the centrifuge 
+varies according to the type and condition of the sludge. However, it 
+is generally possible to handle the cake having a "crumb like" texture, 
+suitable for trucking to landfill or direct feed to incenerator. 
+
+0,3 Use of polyelectrolytes as conditioning agents has widened the scope 
+of employing centrifuges for dewatering all types of waste sludges. In the 
+case of sludges having a fair amount of fibrous or mineral material the 
+centrifuges give acceptable recovery without addition of any flocculating 
+
+agent. 
+
+0.4 Line diagram of centrifugation system is given in Fig. 1. 
+
+
+
+SLUOCf tN 
+
+
+
+
+POLVMER 
+UNLOADING 
+\ STORAGE 
+
+
+
+
+
+CENTRATE 
+
+
+
+CAKfc 
+
+
+
+Fig. 1 Centrifugation System 
+3 
+
+
+
+IS : 10037 ( Part 3 ) - 1983 
+
+0.5 This standard is being published in three parts. Part 1 relates to 
+sludge drying beds — sand, gravel and underdrains and Part 2 relates to 
+vacuum filtration equipment. 
+
+0.6 In the formulation of this standard due weightage has been given to 
+international co-ordination among the standards and practices prevailing 
+in different countries in addition to relating it to the practices in the field 
+in this country. 
+
+0.7 For the purpose of deciding whether a particular requirement of this 
+standard is complied with, the final value, observed or calculated, ex- 
+pressing the result of a test or analysis, shall be rounded off in accordance 
+with 18:2-1960*. The number of significant places retained in the 
+rounded off value should be the same as that of the specified value in 
+this standard. 
+
+
+
+1. SCOPE 
+
+1.1 This standard (Part 3) lays down the requirements for horizontal 
+solid bowl scroll discharge centrifuge, commonly known as decanters for 
+sludge dewatering. 
+
+2. MATERIAL OF CONSTRUCTION 
+
+2.1 All the parts of decanter which come in contact with sludge intended 
+for sludge dewatering shall be made of stainless steel conforming to 
+IS : 6911-1972t. 
+
+2.2 The bowl shell and conveyor hub shall be fabricated from centrifugal 
+stainless steel casting. 
+
+3. PROCESS CONSIDERATIONS 
+
+3.1 Major process considerations for centrifugation are feed rate, sludge 
+solids characteristics, feed consistency temperature and chemical 
+additives. 
+
+4. CRITERIA FOR SELECTION 
+
+4.1 Centrifuges should preferably be selected on the basis of pilot tests 
+with smaller geometrically similar machine. Proper scale up for predict- 
+able results should consider and provide for the following: 
+
+a) Physical nature of solids being handled, 
+
+b) Stability of centrifuge feed. 
+
+
+
+*Rules for rounding off numerical values ( revised ). 
+•f Specification for stainless steel plate sheet and strip. 
+
+
+
+IS : 10037 ( Part 3 ) - 1983 
+
+c) Solid dewatering timCj 
+
+d) Chemical flocculent dosages, 
+
+e) Present solid recovery, 
+
+f) Resistance to abrasion, and 
+
+g) Wet cake discharge rate. 
+
+5. OPERATION 
+
+5.1 The centrifuges have a solid bowl rotating at speeds to generate 
+centrifugal force of about 2 000 times the gravity force and above. The 
+sludge to be dewatered is introduced into the revolving bowl through a 
+stationary feed tube at the centre of rotation. It is then acted upon by 
+the centrifugal separation force ranging to well beyond 2 000 times the 
+force of gravity. The solids are throvv'n against the Vv'all of the bov/l. 
+The liquid, being of lesser density, forms a concentric inner layer in the 
+bowl. Solids are continuously removed by screw conveyor action. The 
+helical screw conveyor, located inside the revolving bowl, rotates in the 
+same direction but at slightly lower speed than that of the bowl. Solids, 
+deposited against the wall of the bowl, are moved by the conveyor to 
+one end of the bowl where they are "plowed" up the beach and out of 
+the liquid layer. The solids are then discharged from the bowl through 
+suitably located ports into covers which lead them to the desired con- 
+tainer. The liquid that separates out is continuously removed as it 
+overflows adjustable weirs at the liquid discharge end of the bowl. 
+Again, a suitable discharge cover leads the liquids away and keeps it 
+separated from the solids. 
+
+5.2 Typical sketch of centrifuges is shown in Fig. 2. 
+
+6. MAINTENANCE 
+
+€-1 The centrifuge shall be opened up once a year or so for inspection 
+and service. 
+
+7. DESIGN CONSIDERATIONS 
+
+7.1 There are a number of variables that affect the performance of the 
+centrifuge and these variables can be broadly classified as under: 
+
+a) Mechanical variables, and 
+
+b) Operational variables. 
+
+7,1.1 The following mechanical parameters affect the performances 
+of the centrifuge: 
+
+a) Bowl diameter, 
+
+b) Bowl length, 
+
+
+
+Q» 
+
+
+
+Ci 
+
+
+
+soup DISCHARGE 
+
+CASING 
+
+
+
+DRIVE 
+
+PULLEY- 
+
+
+
+FEED 
+TUBE 
+
+
+
+"X 
+
+
+
+itURRY IN 
+
+
+
+SOLID 
+DISCHARGE 
+
+
+
+-DISCHARGE NOZZLE 
+
+
+
+
+-LIQUID 
+DISCHARGE 
+
+
+
+LIQUID 
+DISCHARGE 
+
+
+
+CO 
+
+
+
+
+
+
+
+
+
+Fig, 2 Typical Details of Centrifuge 
+
+
+
+IS : 10037 ( Part 3 ) - 1983 
+
+c) Bowl rotating speed, 
+
+d) Beach angle, 
+
+e) Beach length, 
+
+f) Pond depth, 
+
+g) Scroll differential speed, 
+h) Scroll design, and 
+
+j) Feed point of sludge. 
+
+1AJ2 The following operational variables affect the performance of a 
+centrifuge; 
+
+a) Pond depth and feed rate, and 
+
+b) Sludge characteristics. 
+
+7.2 By carefully selecting and optimising the above parameters, the 
+sludge can be dewatered by centrifuge to give optimum results, for 
+example, maximum solid capture, minimum cake moisture and 
+maximum clarity of liquid. 
+
+
+
+IS 5 10037 ( Part 3 ) - 1983 
+
+( Continued from page 2 ) 
+
+Members Representing 
+
+Shbi L. M. Choxjdhaby Haryana State Board for Prevention and Control of 
+
+Water PoIIutiorij Chandigarh 
+
+Shri M. L. Peabhakar ( Alternate ) 
+Shbi M. Y. Madan The Hindustan Construction Co Ltd, Bombay 
+
+Shei G. E. S. Rao ( Alternate ) 
+Shri U. C. Mankad Geo- Millar & Co Pvt Ltd, New Delhi 
+
+Shbi D. K. Choudhtjby ( Alternate ) 
+Shbi S. S. Naik Hydraulic & General Engineers Pvt Ltd, Bombay 
+
+Shei D. R. Kenkbe ( Alternate ) 
+Shbi Si K. Neogi Institution of Public Health Engineers India, 
+
+Calcutta 
+Shei R. Natabajan Hindustan Dorr-Oliver India Ltd, Bombay 
+
+Shbi B. M. Rahul ( Alternate ) 
+Shbi P. N, Pastakia IPennweilt India Ltd, Bombay 
+
+Shbi V. P. Thakgamuthu ( Alternate ) 
+Shei T. p. Shaema M,P, State Prevention & Control of Water 
+
+Pollution Board, Bhonal 
+
+Dr G. K. Khaee ( Alternate ) 
+Prof S. SxTBBA Rao All India Institute of Hygiene and Public Health,, 
+
+Calcutta 
+
+Shbi a. V. Rao ( Alternate ) 
+Shei R. Su^^dakam Kerala State Pollution Control Board, Trivandrum 
+
+Shei J. VenugopalaN Naib ( Alternate ) 
+Shei J. M. Ttjli Engineers India Limited, New Delhi 
+
+Shei K. Mohan (Alternate ) 
+
+
+

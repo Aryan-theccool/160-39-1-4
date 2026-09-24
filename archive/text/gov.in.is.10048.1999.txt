@@ -1,0 +1,842 @@
+**************** 
+
+
+-k  is^ 
+
+
+Disclosure  to  Promote  the  Right  To  Information 
+
+Whereas  the  Parliament  of  India  has  set  out  to  provide  a  practical  regime  of  right  to 
+information  for  citizens  to  secure  access  to  information  under  the  control  of  public  authorities, 
+in  order  to  promote  transparency  and  accountability  in  the  working  of  every  public  authority, 
+and  whereas  the  attached  publication  of  the  Bureau  of  Indian  Standards  is  of  particular  interest 
+to  the  public,  particularly  disadvantaged  communities  and  those  engaged  in  the  pursuit  of 
+education  and  knowledge,  the  attached  public  safety  standard  is  made  available  to  promote  the 
+timely  dissemination  of  this  information  in  an  accurate  manner  to  the  public. 
+
+"^^  ^  ^  ^  %  ?R^" 
+
+Jawaharlal  Nehru 
+
+Step  Out  From  the  Old  to  the  New 
+
+
+^^iiT'jsiS'SfS^^^^*?*:: 
+
+
+•^■•■^^^■r 
+
+
+li^  i/ir  w  w  w  w  w  WW  ^  ^  ^  tIt  w  w  w 
+
+
+BLANK  PAGE 
+
+
+^<ii^ 
+
+
+UI> 
+
+
+PROTECTED  BY  COPYRIGHT 
+
+
+1810048:1999 
+
+■c||c|el  ^^^  —  fctflrfe 
+
+Indian  Standard 
+RICE  GRADER  —  SPECIFICATION 
+
+(  Second  Revision  ) 
+
+ICS  67.060;  53.100 
+
+
+©  BIS  1999 
+
+BUREAU     OF     INDIAN     STANDARDS 
+
+MANAK  BHAVAN,  9  BAHADUR  SHAH  ZAFAR  MARG 
+NEW  DELHI  110002 
+
+January  1999  Price  Group  3 
+
+
+Agricultural  Prcxiuce  Processing  and  Milling  Machinery  Sectional  Committee,  FADC  5 1 
+
+
+FOREWORD 
+
+This  Indian  Standard  was  adopted  by  the  Bureau  of  Indian  Standards  after  the  draft  finalized  by  the  Agricultural  Produce 
+Processing  and  Milling  Machinery  Sectional  Committee  had  been  approved  by  the  Food  and  Agriculture  Division 
+Q)uncil. 
+
+With  the  modernization  of  rice  milling  industry  in  the  oountty,  rice  graders  are  being  increasingly  used  and  manu&ctured. 
+In  order  to  maintain  and  evaluate  the  quality  ofthe  grader,  this  standard  was  first  published  in  1981and  revised  in  1987. 
+In  order  to  include  various  safety  parameters,  moisture  content  of  test  material  for  performance  requirement  and  updating 
+of  referred  standards,  a  need  was  felt  to  revise  it  again. 
+
+For  the  purpose  of  deciding  whether  a  particular  requirement  of  this  standard  is  complied  with  the  final  value,  observed 
+or  calculated,  expressing  the  result  of  a  test  or  analysis,  shall  be  rounded  off  in  accordance  with  IS  2  :  1960  'Rules  for 
+rounding  off  numerical  values  ( revised)'.  The  number  of  significant  places  retained  in  the  rounded  off  value  should  be 
+the  same  as  that  of  the  specified  value  in  this  standard. 
+
+
+IS  10048  :  1999 
+
+
+Indian  Standard 
+
+RICE  GRADER  —  SPECIFICATION 
+
+(  Second  Revision  ) 
+
+
+1  SCOPE 
+
+1.1  This  standard  specifies  material,  constructional 
+performance  and  other  requirements  of  rice  grader. 
+
+2  REFERENCES 
+
+The  following  standards  contain  provisions  which 
+through  reference  in  this  text,  constitute  provision  of 
+this  standard.  At  the  time  of  publication,  the  editions 
+indicated  were  valid.  All  standards  are  subject  to  revision 
+and  parties  to  agreements  based  on  this  standard  are 
+encouraged  to  investigate  the  possibility  of  applying 
+the  most  recent  editions  of  the  standards  indicated 
+below: 
+
+
+IS  No. 
+
+Title 
+
+210:1993 
+
+Grey  iron  castings  (fourth  revision ) 
+
+277:1992 
+
+Galvanized  steel  sheet  (plain  and 
+
+corrugated  )  {fifth  revision  ) 
+
+399:1%3 
+
+Classification  of  commercial  timbers 
+
+and  their  zonal  distribution 
+
+815: 1%9 
+
+Code  of  practice  for  use  of  metal  arc 
+
+welding  for  general  construction  in 
+
+mild  steel  (first  revision ) 
+
+2062:1992 
+
+Steel  for  general  structural  purposes 
+
+(fourth  revision  ) 
+
+2266:1989 
+
+Steel    wire     ropes    for    general 
+
+engineering       purposes        ( third 
+
+revision  ) 
+
+2405  Industrial  sieves  :  Part  1  Wire  cloth 
+
+( Part  1 ) :  1980    sieves  (first  revision  ) 
+
+2405  Industrial  sieves  :  Part  2  Perforated 
+
+{ Part  2 ) ;  1980   plates  (first  revision ) 
+
+4333  Methods  of  analysis  for  foodgrains : 
+
+( Part  2 ) :  1 977   Part  2  Moisture 
+
+7283 :  1992  Hot  rolled  bars  for  production  of 
+
+bright  bars  and  machined  parts  for 
+engineering  applications  ( first 
+revision  ) 
+
+3  TERMINOLOGY 
+
+3.0  For  the  purpose  of  this  standard,  the  following 
+definitions  shall  apply. 
+
+
+3.1  Bran 
+
+The  powdered  material  obtain^  from  the  outermost  part 
+of  the  brown  rice  ( see  3.3 ). 
+
+3.2  Broken  Rice 
+
+Rice  kernels  which  are  broken  and  whose  length  is  less 
+than  3/4  of  the  original  length. 
+
+3.2.1  Large/Big  Brokens 
+
+Rice  kernels  of  less  than  3/4  of  the  size  of  whole  grain  in 
+length  but  bigger  than  medium  broken. 
+
+3.2.2  Medium  Brokens 
+
+Rice  kernels  of  less  than  1/2  of  the  size  of  whole  grain  in 
+length  but  bigger  than  small/fme  broken. 
+
+3.2.3  Small/Fine  Brokens 
+
+Rice  kernels  of  less  than  1/4  and  bigger  than  1/8  of  the 
+size  of  whole  grain  in  length. 
+
+3.2.4  Total  Brokens 
+
+The  sum  total  of  the  small,  medium  and  large  brokens. 
+
+3  J  Brown  Rice  (  Dehusked  Rice ) 
+
+Paddy  from  which  husk  only  has  been  removed. 
+
+3.4  Feed  Mechanism 
+
+The  mechanism  which  feeds  the  rice  into  the  rice  grader 
+and  regulates  feed  rate. 
+
+3.5  Gyrosifter 
+
+A  grader  in  which  head  rice  and  brokens  are  separated 
+by  screening  after  passing  them  over  a  set  of  gyrating 
+screens.  Rotary  flat  sieve  could  also  be  used  for  grading. 
+
+3.6  Head  Rice 
+
+Rice  grains  of  size  3/4  and  above  in  length,  of  a  whole 
+rice  grain. 
+
+3.7  Indented  Disc  Grader 
+
+A  grader  in  which  head  rice  is  separated  from  brokens 
+which  are  picked  up  in  the  indents  provided  on  a  set  of 
+revolving  discs. 
+
+3JS  Indented  Drum  Grader 
+
+A  grader  in  which  indents  are  formed  in  a  cylindrical 
+1 
+
+
+IS  10048  :  1999 
+
+
+drum  which  revolves  slowly  and  picks  up  brokens  and 
+thus  separates  them  from  rice  mass.  It  is  also  known  as 
+trieur  cylinder. 
+
+3.9  Polished  Rice/Milled  Rice 
+
+The  rice  from  which  the  bran  layers  have  been  fully/ 
+partially  removed  by  polishing. 
+
+3.10  Rice  Grader 
+
+A  machine  which  is  used  for  grading  polished  rice  into 
+head  rice  and  broken  rice. 
+
+3.11  Screen 
+
+Perforated  sheet  with  round  or  slotted  holes,  or  wire 
+mesh  used  for  separating  brokens  from  rice  mass. 
+
+3.12  Sieve  Aspirator 
+
+A  rice  grader  which  separates  brokens  from  rice  mass 
+by  means  of  vibrating  screens  in  conjunction  with  air 
+stream.  The  traces  of  bran  adhering  to  head  rice  and 
+brokens  are  separated  by  anaspirator. 
+
+4  TYPES 
+
+4.1  The  rice  grader  shall  be  of  following  types: 
+
+a)  Indented  Type 
+
+i)  Indented  disc  type  ( see  Fig.  1 ), 
+ii)  Indented  drum  type  (  see  Fig.  2 ). 
+
+b)  Sieve  Type 
+
+i)  Sieve  aspirator  type  ( see  Fig.  3 ), 
+ii)  Gyrosifler  type  ( see  Fig.  4  ). 
+
+
+■IND€NTE0  RCVOLVmG  DISC 
+-HOPPER 
+
+
+OUTLET  FOR 
+HEAD  RICE 
+
+
+SUPPORTING 
+LEGS 
+
+-CUT  PORTION  OF  COVER 
+SHOWING  INDENTS  ON 
+THE  DISC 
+
+
+Fig.  1  Indented  Disc  Type  Grader 
+
+
+5  MATERIAL 
+
+5,1  The  material  of  construction  of  main  components  of 
+the  different  types  of  graders  shall  be  declared  by  the 
+manufacturer  in  the  operator's  manual.  The  material 
+maybe  selected  from  following  depending  upon  usage: 
+
+a)  Cast  iron  (5ee  IS  2 10) 
+
+b)  Mildsteel(.?^eIS2062) 
+
+c)  Wood  (.see  IS  399) 
+
+d)  Galvanized  steel  sheet  ( see  277 ) 
+
+e)  Wire  mesh  [  see  IS  2405  (  Part  1 )] 
+
+f)  Steel  wire  rope  ( *ee  I S  2266 ) 
+
+g)  Carbon  steel  ( see  IS  7283 ) 
+
+6  PERFORMANCE  REQUIREMENTS 
+
+6.1  When  tested  in  accordance  with  the  method  given 
+in  Annex  A,  the  separators  shall  conform  to  the  following 
+requirements: 
+
+a)  The  grader  shall  meet  the  requirement  given 
+inA-3.1. 
+
+b)  The  input  capacity  of  the  rice  per  kWh  energy 
+used  shall  be  not  less  than  1  250  kg.  The 
+capacity  shall  be  declared  by  the  manufacturer 
+
+{seeA-4.4). 
+
+c)  The  grader  shall  withstand  the  test  given 
+inA-5.1. 
+
+7  CONSTRUCTIONAL  REQUIREMENTS 
+
+7.1  Frame  shall  be  made  of  suitable  size  mild  steel  angle 
+section  or  wood  and  shall  be  provided  with  proper 
+bracings. 
+
+7.2  Hopper  shall  be  provided  with  a  feed  regulating 
+device  capable  of  distributing  the  feed  evenly  to  the 
+grader. 
+
+7.3  One  or  two  oscillating  and/or  rotary  screens, 
+depending  on  the  size  of  the  grader,  shall  be  used. 
+
+7.4  Blower  shall  be  provided  with  a  control  to  regulate 
+airflow  rate. 
+
+7.5  Suitable  system  for  transmitting  the  power  shall  be 
+provided.  It  may  consist  of  V-belt  and  pulley,  gears  or 
+sprocket  and  chain. 
+
+7.5.1  Transmission  guards  shall  be  provided  to  prevent 
+accidental  contact  of  persons  or  parts  of  clothing  being 
+caught  in  the  transmission  system,  unless  the  system  is 
+so  constructed  or  placed  as  to  be  safe  without  guards. 
+
+7.5.2  The  guards  shall  be  so  designed  as  not  to  hinder 
+
+
+IS  10048 :  1999 
+
+
+■INLET  HOPPER 
+
+-SCREW  CONVEYOR 
+
+
+OUTLEt 
+TOR  HEAD 
+RICE 
+
+
+SUPPORTING 
+LEGS 
+
+
+-OUTLET  roR 
+FINE    BROKENS 
+
+■OUTLET  fOR  HEAD 
+RICE  AND  BIGGER 
+BROKEN  MIXTURE 
+
+
+OUTLET  FOR  BIGGER 
+6R0KENS 
+
+
+Fig.  2  Indented  Drum  Type  Grader 
+
+
+ECCENTRIC 
+
+
+-HEAD  RICE  OUTLET 
+
+
+Fig.  3  Sieve  Aspirator 
+
+
+in  easy  adjustment,  servicing  and  operation  of  grader. 
+
+7.5.3  It  is  preferable  that  all  guards  shall  be  either 
+permanently  attached  or  firmly  secured  to  prevent  their 
+removal  without  the  aid  of  tools.  The  servicing  and 
+adjustments  should  be  possible  without  complete 
+removal  of  the  guards. 
+
+7.5.4  The  guards  shall  have  sufficient  strength  to 
+support  Load  of  1  200  N  applied  at  any  point  over  an 
+area  of  0. 1  m^  without  permanent  set. 
+
+NOTE  —  Depending  upon  space  available,  the  area  and 
+load  may  be  correspondingly  increased  or  decreased  for 
+testing  purposes. 
+
+
+SIEVt 
+
+
+SUSPENSION 
+CABLES 
+
+
+OUTLET  TOR 
+SHALL  BROKENS 
+
+
+SUPPORTING  LEGS 
+
+
+OUTLET  FDR  HEAD 
+RICE  WITH  BIG 
+BROKENS 
+
+
+OUTLET  FOR 
+MEOUH  BROKENS 
+
+
+Fig.  4  Gyrosifter 
+
+7.6  The  shafts  and  eccentrics  shall  be  supported  on 
+ball  or  roller  bearings  at  both  the  ends. 
+
+8  OTHER  REQUIREMENTS 
+
+8.1  The  axle  shaft  shall  be  finished  to  close  tolerances 
+at  the  bearings  and  shall  be  properly  aligned. 
+
+8.2  Provisions  shall  be  made  for  lubrication  of  bearing 
+and  these  shall  be  dust  proof 
+
+8.3  Various  controls  shall  be  easily  accessible  and 
+capable  of  being  locked  at  selected  position. 
+
+8.4  Operational  and  maintenance  manual  along  with 
+safety  instructions  shall  be  supplied  by  the  manufacturer. 
+
+8.5  In  case  of  belt  drive,  provision  for  belt  tighting  shall 
+be  made. 
+
+8.6  Provision  for  cleaning  the  screen  and  to  avoid 
+clogging  shall  be  provided. 
+
+
+IS  10048  :  1999 
+
+9  WORKMANSHIP  AND  FINISH 
+
+9.1  The  components  of  the  graders  shall  be  free  from 
+cracks,  pits,  holes  and  other  visual  defects  which  may 
+be  detrimental  for  their  use. 
+
+9.2  The  welding,  if  done,  shall  not  be  porous  and  shall 
+be  smooth  ( see  IS  816 ). 
+
+9.3  A  protective  coating  against  rusting  shall  be  applied 
+on  the  steel  components. 
+
+10  MARKING  AND  PACKING 
+
+10.1  Marking 
+
+Each  grader  shall  be  marked  with  the  following 
+particulars: 
+
+a)  Manufacturer's    name,    address    and    his 
+recognized  trade-mark,  if  any; 
+
+b)  Batch  or  code  number; 
+
+c)  Power  rating  and  capacity; 
+
+d)  Type; 
+
+e)  Mode  No.; 
+
+f)  Year  of  manufacturing; 
+
+g)  Grading  efTectiveness  ( see  A-4.5  ); 
+
+h)  Performance  index  (j^eeA-4.6);  and 
+
+j)    Direction  of  rotating  parts. 
+
+10. 1. 1  A  minimum  cautionary  notice  worded  as  follows 
+shall  be  written  in  vernacular  language  legibly  and 
+prominently  on  the  main  body  of  the  grader: 
+
+
+a)  DO  NOT  WEAR  LOOSE  DRESS,  BANC3LES, 
+WATCH,  ETC,  WHE.E  WORKING; 
+
+b)  DO  NOT  WCM«C  UNDER  THE  INFLUENCE 
+OF  INTOXICANTS  LIKE  LIQUCHl,  OPIUM, 
+ETC; 
+
+c)  CHILDREN  AND  AGED  PERSONS  SHOULD 
+BE  DISCOURAGED  FOR  WORKING  ON 
+GRADER; 
+
+d)  DO  NOT  CROSS  OVER  MOVING  BELTS; 
+
+e)  DO  NOT  OPERATE  GRADER  WTIHOUT 
+GUARDS  AND  SAFETY  DEVICES; 
+
+f)  DO  NOT  MAKE  ADJUSTMENT  WHEN 
+GRADER  IS  WORKING;  AND 
+
+g)  DO  NOT  PUT  OR  TAKE-OFF  BELT  WHILE 
+PULLEY  ISRUNNING. 
+
+10.2  BIS  Certification  Marking 
+
+The  grader  toay  also  be  maiked  vtith  the  Standard  Mark. 
+
+10.2.1  The  use  of  the  Standard  Mark  is  governed 
+by  the  provisions  of  Bureau  of  Indian  Standards  Act, 
+19S6  and  the  Rules  and  Regulations  made  thereunder 
+The  details  of  conditions  under  which  the  licence  for 
+the  use  of  Standard  Mark  may  be  granted  to 
+manufacturers  or  producers  may  be  obtained  from  the 
+Bureau  of  Indian  Standards. 
+
+10.3  Packing 
+
+The  packing  of  the  grader  shall  be  done  as  agreed  to 
+between  the  purchaser  and  the  supplier  for  safe  handling 
+in  transit. 
+
+
+IS  10048  :  1999 
+
+
+ANNEX  A 
+(Clause  6.1) 
+
+METHODS  OFTEST  FORRICE  GRAM:RS 
+
+
+A-1  TESTMATERIAL 
+
+A-1 .1  Sufficient  quantity  of  polished  rice  of  the  same 
+variety  shall  be  taken.  The  percentage  of  head  rice  and 
+brokens  shall  be  analyzed  by  taking  5  samples  each  of 
+100  g  and  the  average  shall  be  reported.  The  brokens 
+present  in  the  feed  shall  be  in  the  range  of  25  percent  to 
+50  percent. 
+
+A-1.2  The  moisture  content  of  test  material  when 
+measured  in  accordance  with  IS  4333  ( Part  2 )  shall  be 
+14  percent.  A/ax. 
+
+A-2  RUNNING-IN  AND  PRELIMINARY 
+ADJUSTMENTS 
+
+A-2.1  The  grader  shall  be  installed  on  level  and 
+preferably  on  hard  surface.  All  the  adjustments  shall  be 
+made  in  accordance  with  the  manufacturer's 
+recommendation. 
+
+A-2  J  The  grader  shall  be  attached  with  a  suitable  prime 
+mover  preferably  with  an  electric  motor  and  auto-voltage 
+stabilizer.  An  energy  meter  or  some  form  of  transmission 
+dynamometer  shall  be  fitted.  The  power  delivered  to 
+the  grader  may  be  supplied  in  the  following  ways: 
+
+a)  Direct  coupling  the  prime  mover  with  the  main 
+shaft  of  the  grader,  and 
+
+b)  Connecting  the  prime  mover  with  the  help  of  a 
+flat  or  V-belt  and  pulleys  with  the  main  shaft  of 
+the  grader. 
+
+A-2.2. 1  In  case  of  (a),  the  power  delivered  to  the  grader 
+would  be  the  power  output  of  the  prime  mover,  whereas 
+in  case  of  (b),  the  allowances  for  flat  and  V-belt  drive 
+losses  may  be  taken  at  6  percent  and  3  percent 
+respectively. 
+
+A-2.3  The  grader  shall  be  run-in  without  load 
+before  commencing  the  tests.  The  running-in  shall  be 
+carried  out  in  accordance  with  the  manufacturer's 
+recommendation.  In  the  absence  of  any 
+recommendation  by  the  manufacturer,  the  grader  shall 
+be  run-in  for  30  minutes.  During  the  period  of  run-in, 
+adjustment  for  various  fiinctional  components  may  be 
+done.  All  the  adjustments  done  shall  be  in  accordance 
+with  the  instructions  contained  in  the  manual  supplied 
+by  the  manufacturer. 
+
+A-3  TEST  AT  NO  LOAD 
+
+A-3. 1  After  the  running-in  is  over,  the  grader  shall  be 
+run  at  no  load  for  30  min  at  the  specified  speed.  During 
+
+
+and  after  no  load  run,  the  visual  observation  of  the 
+grader  shall  not  show  the  following: 
+
+a)  Presence  of  any  marked  vibration  during  the 
+operation, 
+
+b)  Presence  of  undue  knocking  or  rattling  sound, 
+
+c)  Frequent  slippage  of  belts, 
+
+d)  Any  marked  unusual  wear  or  slackness  in  any 
+component,  and 
+
+e)  Any  marked  rise  in  bearing  temperature. 
+A-4  TEST  AT  LOAD 
+
+A-4.1  Operation  and  Collection  of  Data 
+
+The  grader  shall  be  operated  at  its  specified  speed  for 
+15  min  at  a  feed  rate  slightly  below  the  rated  input 
+capacity  specified  by  the  manufacturer.  During  the  run 
+period,  collect  the  following  samples  and  data: 
+
+a)  Three  sets  of  samples  of  graded  fractions  like 
+brokens  and  head  rice  at  an  interval  of  5  min  at 
+each  outlet. 
+
+b)  The  speed  of  the  main  shaft  and  the  reading  of 
+the  energymeter  or  dynamometer  shall  be 
+recorded. 
+
+A-4. 1.1  At  the  end  of  1 5  min  feeding,  run  the  grader  for 
+sometime  so  that  practically  no  more  nwlerial  already 
+fed  comes  out.  At  the  end  of  the  test,  collect  and  weigh 
+the  material. 
+
+A-4.1.2  The  test  given  at  A-4.1  and  A-4.1.1  shall  be 
+repeated  for  minimum  of  three  times  at  various  feed  rates 
+covering  approximately  90  percent,  100  percent  and 
+1 10  percent  of  rated  input  capacity  declared  by  the 
+manufacturer. 
+
+NOTE  —  For  the  purpose  of  certification,  the  test 
+at  A-4.1  and  A-4.1.1  shall  be  conducted  at  the  capacity 
+declared  by  the  manufacturer  and  test  at  A-4.1.2  need  not 
+be  conducted. 
+
+A-4.2  Preparation  and  Analysis 
+
+Three  samples  of  different  fractions  of  graded  materials 
+shall  be  analyzed  for  brokens  and  head  rice  percentage. 
+
+A-4.3  Determination  of  Energy  Consumption 
+
+The  energy  requirement  for  each  feed  rate  shall  be 
+calculated  in  accordance  with  A-4.3.1  and  A-4.3.2. 
+
+
+IS  10048  :  1999 
+
+
+A-4.3.1  In  case  of  prime  mover  fitted  with  an 
+energymeter,  the  readings  taken  shall  be  the  energy 
+consumption  for  5  min.  The  energy  consumption  per 
+hour  giving  due  allowance  to  the  type  of  drive  shall  be 
+calculated  and  reported. 
+
+A-4.3.2  In  case  of  prime  mover  fitted  with  the  dynamo- 
+meter, the  readings  taken  shall  indicate  the  torque 
+required.  The  energy  consumption  giving  due 
+allowance  to  the  type  of  drive  ( see  A-2.2.1 )  shall  be 
+determined  after  computing  power  delivered  by 
+primemover  by  the  following  formula: 
+
+
+P  = 
+
+
+973.363 
+
+
+where 
+
+
+P  =  power  delivered  by  primemover,  kW; 
+T~  torque,  Nm;  and 
+5  =  speed,  rcv/min. 
+
+A-4.4  Detennination  of  the  Rated  Input  Capacity 
+
+Select  the  feed  rate  at  which  the  following  requirements 
+are  met.  The  capacity  in  terms  of  energy  consumed 
+shall  be  calculated  by  dividing  the  capacity  by  energy 
+consumed  ( see  A-4.3 ): 
+
+a)    It  shall  be  able  to  remove  20  percent  brokens 
+present  in  the  feed  in  one  pass,  and 
+
+
+b)  Percentage  of  head  rice  i  n  total  brokens  shall 
+not  be  more  than  5  percent. 
+
+A-4.S  Grading  Effectiveness 
+
+A-4.S.1  Grading  ^ectiveness  shall  be  computed  using 
+Mc  Cabe  Smith's  formula  as  given  below: 
+
+
+E= 
+
+
+{X^-X^)H\-X^X^ 
+
+
+where 
+
+Xf-  mass  fraction  of  head  rice  in  feed , 
+
+X,  =  mass  fraction  of  head  rice  in  overflow,  and 
+
+A"^  =  mass  fraction  of  head  rice  in  underflow. 
+
+A-4.6  Performance  Index 
+
+A-4.6. 1  Performance  index  shall  be  computed  as  follows: 
+Capacity  x  Grading  effectiveness 
+
+
+PI  = 
+
+
+A-5  LONG  RUN  TEST 
+
+
+Power 
+
+
+A-5.1  The  grader  shall  be  operated  for  a  minimum  period 
+of  20  h  at  no  lo^d  which  could  be  covered  by  continuous 
+run  of  atleast  S  h.  During  and  after  the  operation,  no 
+breakdown  or  defect  shall  develop  in  the  grader. 
+
+
+Bureau  of  Indian  Standards 
+
+BIS  is  a  statutory  institution  established  under  the  Bureau  of  Indian  Standards  Act,  1 986  to  promote  harmonious 
+development  of  the  activities  of  standardization,  marking  and  quality  certification  of  goods  and  attending  to 
+connected  matters  in  the  country. 
+
+Copyright 
+
+BIS  has  the  copyright  of  all  its  publitations.  No  part  of  these  publications  maybe  reproduced  in  any  form  without 
+the  prior  permission  in  writing  of  BIS.  This  does  not  preclude  the  free  use,  in  the  course  of  implementing  the 
+standard,  of  necessary  details,  such  as  symbols  and  sizes,  type  or  grade  designations.  Enquiries  relating  to 
+copyright  be  addressed  to  the  Director  (Publications),  BIS. 
+
+Review  of  Indian  Standards 
+
+Amendments  are  issued  to  standards  as  the  need  arises  on  the  basis  of  comments.  Standards  are  also  reviewed 
+periodically;  a  standard  along  with  amendments  is  reaffirmed  when  such  review  indicates  that  no  changes  are 
+needed;  if  the  review  indicates  that  changes  are  needed,  it  is  taken  up  for  revision.  Users  of  Indian  Standards 
+should  ascertain  that  they  are  in  possession  of  the  latest  amendments  or  edition  by  referring  to  the  latest  issue 
+of  'BIS  Handbook'  and  'Standards  :  Monthly  Additions' 
+
+This  Indian  Standard  has  been  developed  from  Doc  :  No.  FAD  5  H  770 ). 
+
+Amendments  Issued  Since  Publication 
+
+Amend  No.  Date  of  Issue  Text  Affected 
+
+
+BUREAU     OF     INDIAN     STANDARDS 
+Headquarters: 
+
+Manak  Bhavan,  9  Bahadur  Shah  Zafar  Marg,  New  Delhi  1 10002  Telegrams:  Manaksanstha 
+
+Telephones  ;  323  01  31,  323  94  02,  323  33  75  (  Common  to 
+
+all  offices  ) 
+
+Regional  Offices:  Telephone 
+
+
+Central  :  Manak  Bhavan,  9  Bahadur  Shah  Zafar  Marg  f  323  76  17 
+
+NEW  DELHI  110002  L  323  3841 
+
+
+Eastern  :  1/14  C.  I.  T.  Scheme  VII  M,  V.  I.  P.  Road,  Maniktola  f   337  84  99,  337  85  61 
+
+CALCUTTA  700054  I  337  86  26,  337  86  62 
+
+Northern  :  SCO  335-336,  Sector  34-A,  CHANDIGARH  160022  f  60  38  43 
+
+1  60  20  25 
+
+Southern  :  C.  I.  T.  Campus,  IV  Cross  Road,  CHENNAI  6001 13  T  235  02  16,  235  04  42 
+
+\  235  15  19,235  23  15 
+
+Western  :  Manakalaya,  E9  MIDC,  Marol,  Andheri  (East)  f  832  92  95,  832  78  58 
+
+MUMBAI  400093  \  832  78  91,  832  78  92 
+
+Branches :  AHMADABAD.  BANGALORE.  BHOPAL.  BHUBANESHWAR. 
+
+COIMBATORE.  FARIDABAD.  GHAZIABAD.   GUWAHATI.  HYDERABAD.  JAIPUR. 
+KANPUR.    LUCKNOW.    NAGPUR.     PATNA.     PUNE.  THIRUVANANTHAPURAM. 
+
+
+Printed  at  New  India  Printing  Press,  Khurja,  India 
+
+

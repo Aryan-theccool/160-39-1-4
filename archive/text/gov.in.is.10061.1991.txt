@@ -1,0 +1,777 @@
+**************** 
+
+
+
+
+Disclosure to Promote the Right To Information 
+
+Whereas the Parliament of India has set out to provide a practical regime of right to 
+information for citizens to secure access to information under the control of public authorities, 
+in order to promote transparency and accountability in the working of every public authority, 
+and whereas the attached publication of the Bureau of Indian Standards is of particular interest 
+to the public, particularly disadvantaged communities and those engaged in the pursuit of 
+education and knowledge, the attached public safety standard is made available to promote the 
+timely dissemination of this information in an accurate manner to the public. 
+
+
+
+
+Mazdoor Kisan Shakti Sangathan 
+"The Right to Information, The Right to Live'' 
+
+
+
+IS 10061 (1991) : Proforma for analysis of unit rate of 
+excavation of tunnels by cyclic drilling and blasting [WRD 
+23: Measurement and Cost Analysis of Works For River Valley 
+Projects] 
+
+
+
+
+Jawaharlal Nehru 
+'Step Out From the Old to the New" 
+
+
+
+aj^&vi f 7ui^s:y%K^ isb^^ni^seg 
+
+
+
+:<>5&i| mT'5K^5?::5:^>^i»l 
+
+
+
+K^^^iXSVCd^ 
+
+
+
+Satyanarayan Gangaram Pitroda 
+Invent a New India Using Knowledge 
+
+
+
+Bhartrhari — Nitisatakam 
+''Knowledge is such a treasure which cannot be stolen" 
+
+
+
+
+^'^^^r 
+
+
+
+k 
+
+
+
+
+BLANK PAGE 
+
+
+
+^*-^^^ 
+
+
+
+
+
+PROTECTED BY COPYRIGHT 
+
+
+
+IS 10061 : 1991 
+( Reaffirmed 2001 ) 
+
+( ^?n ^?TT>«TiT ) 
+
+Indian Standard 
+
+PROFORMA FOR ANALYSIS OF UNIT RATE 
+OF EXCAVATION OF TUNNELS BY 
+CYCLIC DRILLING AND BLASTING 
+
+( First Revision ) 
+
+
+
+UDC 69003-12: 624-19 1-2 
+
+
+
+© BIS 1991 
+
+BUREAU OF INDIAN STANDARDS 
+
+MANAK BHAVAN, 9 BAHADUR SHAH ZAFAR MARG 
+NEW DELHI 110002 
+
+September 1991 Price Group 2 
+
+
+
+Cost Analysis and Cost Estimates Sectional Committee, RVD 19 
+
+
+
+FOREWORD 
+
+This Indian Standard ( First Revision ) was adopted by the Bureau of Indian Standards, after the draft 
+finalized by the Cost Analysis and Cost Estimates Sectional Committee had been approved by the 
+River Valley Division Council. 
+
+Tunnels are provided for various purposes such as for river diversion during construction of dams, 
+pressure conduits to serve as penstocks for power house, pressure or free flow conduits in water carrier 
+system, spillways and for rail and road transporation. Tunnelling may be either in rock or in soft 
+ground or shield driven. The tunnelling costs depend not onlv on labour, machinery and materials of 
+construction but also on the purpose of construction, types of rocks and soils bored through including 
+physical defects of the geological formatijons, the number of entrances prx>vided for excavating the 
+tunnel, etc. The cost of excavation of tunnels may vary therefore from place to place. To have a 
+proper comparison of the unit rates of excavation of various tunnels, it is necessary to have uniformity 
+in the analysis of the costs of different parameters which make up the unit rate, which has been brought 
+out in this standard in the form of proforma. 
+
+This standard was first published in 198^1. The revision of this standard has been taken up in the light 
+of the experience gained during the last nine years in 1he use of this standard. This standard has 
+been revised and additional items, required to be covered have been added. 
+
+
+
+IS 10061 : 1991 
+
+
+
+Indian Standard 
+
+
+
+PROFORMA FOR ANALYSIS OF UNIT RATE 
+OF EXCAVATION OF TUNNELS BY 
+CYCLIC DRILLING AND BLASTING 
+
+( First Revision ) 
+
+
+
+1 SCOPE 
+
+This standard lays down proforma for analysis of 
+unit rate of tunnel excavation. It does not include 
+provisions for tunnel lining. 
+
+2 CLASSIFICATION 
+
+For ease of comparison of unit rates of excavation 
+of various tunnels, the following classification for 
+tunnels should be adopted: 
+
+a) Geological 
+
+i) Tunnels in competent rock 
+ii) Tunnels in incompetent rock 
+
+b) Cross- Sections 
+i) Up to 20 m^ 
+
+ii) From 20 m^ to 40 ra^ 
+iii) From 40 m^ to 70 m^ 
+iv) Exceeding 70 m^ 
+
+c) Method of Excavation 
+
+i) Full face 
+
+ii) Heading and benching 
+iii) Multi-drift 
+
+Unit cost for tunnel excavation for tunnels excav- 
+ated by heading and benching method may be the 
+average of unit cost of heading and unit cost of 
+benching. The average will be weighted average 
+depending upon the area of heading and benching. 
+
+2.1 Technical Information 
+
+The following pertinent technical information will 
+also be helpful for a full appreciation of the 
+circumstances under which the tunnel is excavated: 
+
+1 . Name of the project 
+
+2. Layout plan of the project 
+
+3. Location with plan and L-section of the 
+tunnel 
+
+4. Purpose of the tunnel 
+
+
+
+5. Construction Agency 
+
+a) Departmental or contractor 
+
+b) Name of department/contractor 
+
+6. Shape of the tunnel ( circular, horse shoe, 
+elliptical, vertical walled with arch roof ) 
+
+7. Excavated size of the tunnel ( excavated 
+dimensions to the pay-Hne ) 
+
+8. Type of final lining 
+
+9. Location plan and L-section of adits and 
+shafts 
+
+
+
+heading length ( shorter 
+length 
+
+
+
+10. a) Main tunnel 
+
+limb ) 
+
+b) Secondary tunnel — heading 
+( shorter limb ) 
+
+11. Description of alignment including mention 
+of bends, transitions, approach channel, 
+exit channel 
+
+12. Types of rock bored ( igneous, sedimentary 
+or metamorphic ) and physical properties 
+such as compressive strength, abrasive value 
+and modulus of elasticity 
+
+13. Physical defects of rock formations (joints, 
+faults, etc ) 
+
+14. Ground water conditions, locations and 
+quantity of seepage water at various periods 
+of the year 
+
+15. Description of rock cover, depressions and 
+khuds crossing over the tunnel along its 
+alignment 
+
+16. Inflammable and abnoxious gases, if encoun- 
+tered ( brief description ) 
+
+17> Methods adopted for tackling tunnel exca- 
+vation ( full face; heading and benching; 
+multiple drifting; pilot tunnel; forepoling; 
+providing double steel ribs and invert struts; 
+etc ) 
+
+a) Reaches of competent rock strata 
+
+b) Reaches of incompetent rock strata 
+( sheared and fractured ) 
+
+
+
+IS 10061 : 1991 
+
+
+
+c) Reaches with inadequate rock cover and 
+adverse ground water conditions 
+
+d) Reaches showing rock distress 
+
+c) Reaches of bad rock strata causing break 
+through conditions 
+
+f ) Any other adverse geological conditions. 
+18. Equipment at each tunnel heading 
+
+a) Drill Jumbo 
+Type 
+
+Overall dimensions 
+Number of decks 
+Motive power 
+
+b) Drilling machines (hydro-booms; 
+ladder drilling system with fast rock 
+drills; other drills ) 
+
+Number and Type 
+
+c) Drill steel and drill bits ( a brief des- 
+cription ) 
+
+d) Mucking machine 
+Make and model 
+Capacity 
+Motive power 
+
+^Number of mucking machine 
+
+e) Haulage equipment 1 Number, make, 
+Locos-Diesel/Electric >inodel and 
+Rubber tyred carriers } capacity 
+
+
+
+f) Muck trucks 
+Mine cars/diesel/ 
+
+electric 
+Rubber tyred carriers J 
+
+
+
+Number, make, 
+model and 
+capacity 
+
+
+
+g) Ventilation 
+
+i) Diameter of ventilation duct 
+Make, model, type and capacity of 
+main blowers 
+Spacing of main blowers 
+
+ii) Same as above in case of exhaust 
+blowers — at the face inside the 
+tunnel and spacing 
+
+h) Pumping arrangements inside the tunnel 
+Number of pumps — main/feeder 
+Type of pumps 
+Capacity of pumps 
+Spacing of pumps 
+
+Length, size and nature of pipelines- 
+main/feeder 
+
+j) Tunnel supporting arrangement 
+
+k) Communication arrangement inside 
+and outside 
+
+m) Instruments for monitoring 
+
+n) Instruments for determining stresses 
+inrock 
+
+
+
+p) Location and lead of dump yard from 
+portal 
+
+19. Air supply — Installed capacity of com- 
+pressors pipe size 
+
+Water supply — Capacity of tank, pipe 
+size, length, etc. 
+
+20. Electrification 
+Main supply voltage 
+Tranformer details 
+Spacing 
+
+Lighting voltage 
+
+Trolley line rectification ( in case of electric- 
+traction ) 
+
+Firing voltage 
+
+21. Excavation data ( in reaches of competent 
+rock strata ) 
+
+a) Type of strata 
+
+Average number of drill holes and size 
+
+of holes per round 
+Type of cut-holes pattern 
+Number and size of cut-holes 
+Average depth of drill-holes 
+Average actual advance 
+Type of explosive and detonators used 
+Quantity of explosive used per round 
+Explosive factor ( kg/m^ ) 
+
+b) Time Cycle 
+
+Moving drill jumbo up to ... ( h Min) 
+the face and drilling the 
+round 
+
+Average drilling rate ..• ( cms per Min ) 
+
+Loading the round; ... ( h Min ) 
+
+removing drill jumbo from 
+the face firing the circuits 
+
+Smoke clearance time ... ( Min ) 
+
+Advancing mucking machine ( h Min ) 
+to the muck pile, scaling 
+down loose rocks and 
+mucking out 
+
+Time for installation of steel 
+supports sets 
+
+Time for secondary blast- ... ( h Min ) 
+ing and muck removal 
+
+Number of sets installed 
+
+Spacing of sets 
+
+Time for installation ... ( h Min ) 
+
+Time for lagging and ... ( Min ) 
+
+blocking 
+
+OR 
+
+
+
+IS 10061 : 1991 
+
+
+
+Time for shotcreting/ ... (Min) a) Length of reach 
+
+guniting/installing weld r p r» *o, \ „ * 
+
+mesh and rock bolts ( R. D. .. to ) ...metres 
+
+( in case steel supports Geological description of tunnelling 
+
+are not considered condition time taken to tunnel 
+
+necessary ) through ...( days ) 
+
+Average time lost due to ... (hMin) b) and so on 
+
+hold ups/derailments in ^c t^ . e . ^ , . 
+
+case rail mounted equip- 25. Date of commencement and completion of 
+
+mentis used tunnel excavation 
+
+Average cycle time for ... (h) 26. Monthly progress from the date of start of 
+
+advance A excavation to completion of excavation. 
+Overall advance in a month (metres) 
+
+Year Month Progress Tunnelling 
+
+Maximum overbrcak . . . ( cm ) in metres condition 
+
+Average overbreak ... ( cm ) ( R.D....to... ) 
+
+Percentage overbreak of the 27. Incentive payment ... a brief description 
+
+excavation of pay line ... % schemes for tunnel and results obtained 
+
+crews ( if introduced ) 
+
+^^" ,?thelnnel T?nr«nV'* ^n'ZTf^l 28. Industrial disputcs ... a brief description 
+
+m the tunnel Type and m the total / ir ^-„ % '^ ^^ j +1, -^ ^ivS* ^« 
+
+spacing of steel ribs length of ^ '^ ^^^ ^ „ro JL ' 
+
+tunnel progress 
+
+., i, segmental .ypenb. % ^'^ fnSiSnS 
+
+ii) Portal type ribs % medical and rescue 
+
+operations 
+
+b) i) Rib spacing 300 to 600 mm % ^ 
+
+ii) Rib spacing more than 30. Accidents during tunnelling 
+
+600 and up to 900 mm % Fatal accidents ... No of persons dead 
+
+c) iii) Rib spacing more than Major accidents .•• No of persons 
+
+900 and up to 1 200 mm % disabled 
+
+iv) Rib spacing more than Reasons of ... A broad split up be 
+
+1 200 and up to I 500 mm ......% accidents given 
+
+23. a) Percent of tunnel unsupported % ^l. Geological forecast .. Current forecast ...% 
+
+r^ , ^ of Strata and that A brief description 
+
+Percent of tunnel supported actually obtained outlining the major 
+
+( steel ribs ) ,4 during tunnelling variations be given. 
+
+Percent of tunnel supported ^#> t*c.«««c uo,.«f 
+
+( rock bolts ) % 32* ^^'*^"* ^^^'"* 
+
+Percent of tunnel supported 3 PROFOMA FOR ANALYSIS OF UNIT RATE 
+
+( Precast or pre-stresscd OF COST FOR TUNNEL EXCAVATION 
+
+segmental lining ) % ^^ ^ ^ ^ ^ ^ 
+
+3.1 The proforma recommended for use in anal- 
+
+24. Tunnelling in very poor/distress/cavity ysis of unit rate of tunnel excavation is as given 
+reaches ia Table 1. 
+
+
+
+IS 10061 : 1991 
+
+
+
+Table 1 Proforma for Analysis of Unit Rate of Excavation of Tunne] 
+
+(Clause 3,1 ) 
+
+
+
+SI No. Item 
+
+(1) (2) 
+
+
+
+Jnit 
+
+
+Quantity 
+
+
+Rate 
+
+
+Amount 
+
+
+Remarks 
+
+
+(3) 
+
+
+(4) 
+
+
+(5) 
+
+
+(6) 
+
+
+(7) 
+
+
+
+i) Drilling 
+
+a) Machinery and equipment excJuding air 
+operating cost 
+
+b) Compressed air 
+
+c) Other material 
+
+d) Labour 
+
+ii) Blasting 
+
+a) Machinery and equipment 
+
+b) Material 
+
+c) Labour 
+
+iii) Scaling, Mucking and Disposal 
+
+a) Scaling 
+
+b) Machinery and equipment 
+
+c) Labour 
+
+iv) Shotcreting/Guniting/Rock bolting and Consolid- 
+ation grouting 
+
+a) Shotcreting 
+
+b) Guniting 
+
+c) Rock bolting 
+
+d) Consolidation grouting 
+
+e) Labour 
+
+v) Supports and Lagging 
+
+a) Machinery and equipment 
+
+b) Material 
+
+c) Labour 
+
+vi) Facilities 
+
+a) Ventilation 
+
+b) Surveying 
+
+c) Lighting 
+
+d) Dcwatering 
+
+e) Communication 
+
+f) Instrumentation 
+
+g) Tracks 
+
+h) Miscellaneous items 
+
+vii) Ancillaries and Incidentals 
+
+a) Construction of the following: 
+
+1) Labour and staff quarters 
+
+2) Service roads 
+
+3) Electric power supply 
+
+4) Water supply system 
+
+5) Sanitation system 
+
+6) Drainage system 
+
+7) Other amenties including first-aid, medical 
+facilities and safety arrangements and 
+rescue operations 
+
+b) Maintenance/operation of items mentioned 
+above 
+
+c) Supervisory works establishment 
+viii) Quality control 
+
+ix) Contingencies 
+x) Overload ( excluding profit ) 
+
+This would include establishment, office stationery, general tools and plant, staff cars, their running and 
+maintenance, insurance, workman's compensation, statutory benefits, telephone and telecommunication facilities 
+interest liabilities on borrowings from the owner and bank guarantee charges etc. 
+NOTE — All items mentioned above shall include depreciation, erection, operation, repairs and mainten- 
+ance and dismantling of machinery where used. All items of labour mentioned above shall include indirect 
+statuatory and other benefits payable to the labour. 
+
+
+
+Standard Mark 
+
+The use of the Standard Mark is governed by the provisions cf the Bureau of Indian 
+Standards Act, 1986 and the Rules and Regulations made thereunder. The Standard Mark 
+on products covered by an Indian Standard conveys the assurance that they have been 
+produced to comply with the requirements of that standard under a well defined system 
+of inspection, testing and quality control which is devised and supervised by BIS and 
+operated by the producer. Standard marked products are also continuously checked by 
+BIS for conformity to that standard as a further safeguard. Details of conditions under 
+which a licence for the use of the Standard Mark may be granted to manufacturers or 
+producers may be obtained from the Bureau of Indian Standards. 
+
+
+
+Bureau of Indian Standards 
+
+BIS is a statutory institution established under the Bureau of Indian Standards Act, 1986 to 
+promote harmonious development of the activities of standardization, marking and quality 
+certification of goods and attending to connected matters in the country. 
+
+Copyright 
+
+BIS has the copyright of all its publications. No part of these publications may be reproduced 
+in any form without the prior permission in writing of BIS. This does not preclude the free use, 
+in the course of implementing the standard, of necessary details, such as symbcls and sizes, type 
+or grade designations. Enquiries relating to copyright be addressed to the Director 
+(Publications ), BIS. 
+
+Revision of Indian Standards 
+
+Indian Standards are reviewed periodically and revised, when necessary and amendments, if 
+any, are issued from time to time. Users of Indian Standards should ascertain that they are in 
+possession of the latest amendments or edition. Comments on this Indian Standard may be 
+sent to BIS giving the following reference: 
+
+Doc : No. RVD 19 ( 34 ) 
+
+Amendments Issued Since Publication 
+
+
+
+Amend No. Date of Issue Text Affected 
+
+
+
+BUREAU OF INDIAN STANDARDS 
+
+Headquarters : 
+
+Manak Bhavan, 9 Bahadur Shah Zafar Marg, New Delhi 110002 
+
+Telephones : 331 01 31, 331 13 75 Telegrams : Manaksanstha 
+
+( Common to all OflSces ) 
+
+
+
+(311 01 31 
+|331 13 75 
+
+
+
+Regional Offices : Telephone 
+
+Central : Manak Bhavan, 9 Bahadur Shah Zafar Marg 
+NEW DELHI 110002 
+
+Eastern : 1/14 C. I. T. Scheme VII M, V. I. P. Road, Maniktola 37 86 62 
+
+CALCUTTA 700054 
+
+Northern : SCO 445-446, Sector 35-C, CHANDIGARH 160036 53 38 43 
+
+Southern : C. I. T. Campus, IV Cross Road, MADRAS 600113 235 02 16 
+
+Western : Manakalaya, E9 MIDC, Marol, Andheri ( East ) 6 32 92 95 
+
+BOMBAY 400093 
+
+Branches : AHMADABAD, BANGALORE, BHOPAll^aHUBANESHWAR, COIMBATORE, 
+FARIDABAD, GHAZIABAD, GUWAHATI, HYDERABAD, JAIPUR, KANPUJl, 
+PATNA, THIRUVANANTHAPURAM. 
+
+
+
+Printed at Printwell Printers, Aligarh, India 
+
+
+

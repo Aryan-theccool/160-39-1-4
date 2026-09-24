@@ -1,0 +1,2385 @@
+**************** 
+
+
+
+
+Disclosure to Promote the Right To Information 
+
+Whereas the Parliament of India has set out to provide a practical regime of right to 
+information for citizens to secure access to information under the control of public authorities, 
+in order to promote transparency and accountability in the working of every public authority, 
+and whereas the attached publication of the Bureau of Indian Standards is of particular interest 
+to the public, particularly disadvantaged communities and those engaged in the pursuit of 
+education and knowledge, the attached public safety standard is made available to promote the 
+timely dissemination of this information in an accurate manner to the public. 
+
+
+
+
+Mazdoor Kisan Shakti Sangathan 
+"The Right to Information, The Right to Live" 
+
+
+
+IS 1003-1 (2003) : Timber Panelled and Glazed Shutters, Part 
+1: Door shutters - [CED 11: Doors, Windows and Shutter] 
+
+
+
+
+Jawaharlal Nehru 
+'Step Out From the Old to the New' 
+
+
+
+■K^y / 1 juaaaws^fea rs^^TTF^ 
+
+
+
+2*S< W I *>S*V2^NK^ 
+
+
+
+^frcvvv^ 
+
+
+
+Satyanarayan Gangaram Pitroda 
+Invent a New India Using Knowledge 
+
+
+
+Bhartrhari — Nitisatakam 
+"Knowledge is such a treasure which cannot be stolen" 
+
+
+
+
+.^^_ 
+
+
+
+• 
+
+
+
+
+BLANK PAGE 
+
+
+
+*rt*2V^ 
+
+
+
+
+
+PROTECTED BY COPYRIGHT 
+
+
+
+IS 1003 (Parti) : 2003 
+(Reaffirmed 2008) 
+
+
+
+Indian Standard 
+
+TIMBER PANELLED AND GLAZED 
+SHUTTERS — SPECIFICATION 
+
+( Fourth Revision) 
+
+ICS 91.060.50 
+
+
+
+© BIS 2003 
+
+BUREAU OF INDIAN STANDARDS 
+
+MANAK BHAVAN, 9 BAHADUR SHAH ZAFAR MARG 
+
+NEW DELHI 110002 
+
+August 2003 Price Grou P 7 
+
+
+
+AMENDMENT NO. 1 APRIL 2007 
+
+TO 
+
+IS 1003 (PART 1) : 2003 TIMBER PANELLED AND 
+
+GLAZED SHUTTERS — SPECIFICATION 
+
+( Fourth Revision ) 
+
+{Cover page, Title) — Substitute the following for the existing title: 
+
+*TFT1 ^4InA%TOT 
+
+(^fvr yn/liHVf ) 
+
+Indian Standard 
+
+TIMBER PANELLED AND GLAZED SHUTTERS — 
+
+SPECIFICATION 
+
+PART 1 DOOR SHUTTERS 
+
+(Fourth Revision)'' 
+
+(Second cover page, Foreword, first para, line I) — Insert '(Part 1)* after 
+the word 'Standard'. 
+
+(Page 1, clause 1.1, first sentence) — Insert '(Part 1)' between 'standard' 
+and 'lays'. 
+
+(Page 10, clause 13) — Insert 'ADDITIONAL' before the existing title. 
+
+
+
+(CED11) 
+
+
+
+Reprography Unit, BIS, New Delhi, India 
+
+
+
+AMENDMENT NO. 2 NOVEMBER 2011 
+
+TO 
+
+IS 1003 (Part 1) : 2003 TIMBER PANELLED AND 
+
+GLAZED SHUTTERS — SPECIFICATION 
+
+PART1 DOOR SHUTTERS 
+
+(Fourth Revision ) 
+
+{Page 1, clause 5.3) — Substitute the following for the existing: 
+
+'Blockboards used for panelling of door shutters shall conform to BWP grade of 
+IS 1659.' 
+
+{Page 2, clause 5.9) — Insert the following new clauses after the clause: 
+
+'5.10 Bamboo Mat Board 
+
+Bamboo mat board used for panelling of door shutters shall conform to IS 13958. 
+
+5.11 Bamboo Mat- Veneer Composite 
+
+Bamboo mat-veneer composite for panelling of door shutters shall conform to 
+IS 14588. 
+
+5.12 Laminated Veneer Lumber 
+
+Laminated veneer lumber used for rails and stiles shall conform to IS 14616. 
+
+5.13 Prelaminated Medium Density Fibre Board 
+
+Prelaminated medium density fibre board used for panelling of door shutters 
+shall conform to Grade I, Type I of IS 14587. 
+
+5.14 Wire Gauze 
+
+Wire gauze used for panels shall conform to IS 1568.' 
+
+{Page 2, clause 6.1, first sentence) — Substitute the following for the 
+existing: 
+
+
+
+Amend No. 2 to IS 1003 (Part 1) : 2003 
+
+
+
+'Timber panelled shutters shall be constructed in the form of timber or laminated 
+veneer lumber framework of stiles and rails with panel inserts of timber, 
+plywood, blockboard, medium density fibreboard, veneered particle board, 
+asbestos cement sheets, prelaminated particle board, bamboo mat board, bamboo 
+mat-veneer composite, prelaminated medium density fibre board, wire gauze or 
+glass.' 
+
+{Page 4, clause 6.3) — Substitute the following for the existing: 
+
+'Stiles, top rails, bottom rails and lock rails of shutters shall be made of one piece 
+of timber or of laminated veneer lumber only. Intermediate rails, lock rails and 
+bottom rails exceeding 150 mm in width may be made out of one or more pieces 
+of timber or laminated veneer lumber, but the width of each piece shall be not 
+less than 75 mm. Where more than one piece of timber or laminated veneer 
+lumber is used, they shall be joined with a continuous tongued and grooved joint 
+glued together and reinforced with metal dowels at regular intervals not 
+exceeding 200 mm or pinned to the full thickness of the door with 
+wooden/bamboo pin. Jointed pieces of timber shall belong to the same specie.' 
+
+{Page 6, clause 6.14) — Insert the following after the clause and renumber 
+the subsequent clauses: 
+
+'6.15 Bamboo Mat Board Panelling 
+
+Panels shall be made up of one piece of bamboo mat board. The thickness of the 
+boards used shall not be less than 12 mm. 
+
+6.16 Bamboo Mat- Veneer Board Panelling 
+
+Panels shall be made up of one piece of bamboo mat- veneer board. The thickness 
+of the boards used shall not be less than 12 mm. 
+
+6.17 Prelaminated Medium Density Fibre Board Panelling 
+
+Panels shall be made up of one piece of prelaminated medium density fibre 
+board. The thickness of the boards used shall not be less than 12 mm.' 
+
+
+
+Amend No. 2 to IS 1003 (Part 1) : 2003 
+
+
+
+{Page 12, Annex A) — Substitute the following for the existing entries: 
+
+IS No. Title 
+
+'848 : 2006 Synthetic resin adhesives for plywood (phenolic and 
+aminoplastic) — Specification {second revision) 
+
+1659 : 2004 Blockboards — Specification {fourth revision) 
+
+3087 : 2005 Particle boards of wood and other lignocellulosic materials 
+(medium density) for general purposes — Specification 
+{second revision) 
+
+3097 : 2006 Veneered particle boards — Specification {second 
+revision) 
+
+4351 : 2003 Steel door frames — Specification {second revision) ' 
+
+{Page 12, Annex A) — Add the following new entries at the appropriate 
+place: 
+
+IS No. Title 
+
+'1568 : 1970 Specification for wire cloth for general purposes {first 
+revision) 
+
+13958 : 1994 Bamboo mat board for general purposes — Specification 
+14587 : 1998 Prelaminated medium density fibre board — Specification 
+
+
+
+14588 : 1999 Bamboo mat- veneer composite for general purposes 
+Specification 
+
+14616:1999 Laminated veneer lumber — Specification' 
+
+
+
+(CED11) 
+
+
+
+Reprography Unit, BIS, New Delhi, India 
+
+
+
+Doors, Windows and Shutters Sectional Committee, CED 1 1 
+
+
+
+FOREWORD 
+
+
+
+1 his Indian Standard (Fourth Revision) was adopted by the Bureau of Indian Standards, after the draft finalized by 
+the Doors, Windows and Shutters Sectional Committee had been approved by the Civil Engineering Division 
+Council. 
+
+This standard was first published in 1 957 and subsequently revised in 1966, 1977 and 1991. The major modifications 
+made in this revision are: 
+
+a) Requirements that are to met by door shutters, when tested as per relevant parts of IS 4020 (Parts I to 16) : 
+1998 'Door shutters — Methods of tests {third revision)' have been specified. 
+
+b) 'Spot tesf for determination of penetration and identification of preservatives used for treatment of timber 
+has been included. 
+
+c) Other modifications based on the prevailing practices in the country have been made. 
+
+'A scheme of labelling environment friendly products to be known as ECO-Mark is being introduced at the 
+instance of the Ministry of Environment and Forests (MEF), Government of India. The ECO-Mark shall be 
+administered by the Bureau of Indian Standards (BIS) under the BIS Act, 1986 as per the Resolution No. 71 dated 
+21 February 1991 published in the Gazette of the Government of India. For a product to be eligible for ECO- 
+Mark, it shall also carry the Standard Mark of the BIS besides meeting additional optional environment friendly 
+requirements. 1 
+
+For the purpose of deciding whether a particular requirement of this standard is complied with, the final value, 
+observed or calculated, expressing the result of a test or analysis, shall be rounded off in accordance with 
+IS 2 : 1 960 'Rules for rounding off numerical values (revised)'. The number of significant places retained in the 
+rounded off value should be the same as that of the specified value in this standard. 
+
+
+
+IS 1003 (Parti): 2003 
+
+Indian Standard 
+
+TIMBER PANELLED AND GLAZED 
+SHUTTERS — SPECIFICATION 
+
+(Fourth Revision) 
+
+
+
+1 SCOPE 
+
+1.1 Th is standard lays down the requirements regarding 
+material, sizes, construction, workmanship, finish, 
+inspection and testing of timber door shutters with 
+timber, plywood, blockboard, veneered particle board, 
+asbestos cement sheet, wire gauge and glass panels used 
+in domestic buildings, offices, schools, hospitals, etc. 
+The shutters could be single panelled or multi-panelled 
+with or without glazing. 
+
+1.2 This standard does not cover timber door shutters 
+for industrial and other special buildings, such as, 
+workshops and garages. 
+
+2 REFERENCES 
+
+The standards given in Annex A contain provisions, 
+which through references in this text, constitute 
+provisions of this standard. At the time of publication, 
+the editions indicated were valid. All standards are 
+subject to revision and parties to agreement based on 
+this standard are encouraged to investigate the 
+possibility of applying the most recent editions of the 
+standards. i 
+
+3 TERMINOLOGY 
+
+For the purpose to this standard, the definitions given 
+in IS 10428 and IS 707 shall apply (see also Fig. 1 for 
+illustrations of components of doors). 
+
+4 HANDING 
+
+Handing and direction of closing of doors shall be 
+designated in accordance with IS 4043. 
+
+5 MATERIAL 
+5.1 Timber 
+
+5.1.1 Timber suitable for manufacture of door shutters 
+shall be in accordance with IS 12896. Each class of 
+species stand in the same footing functionally 
+(irrespective of cost). Timber used for rails and stiles 
+shall be of the same species. All the panels where they 
+are of solid wood shall be of one species which may or 
+may not be the same species as that of rails and stiles. 
+
+5. 1 .2 Moisture Content 
+
+The maximum permissible moisture content in timber 
+shall be as specified in IS 287. 
+
+
+
+5.1.3 Seasoning and Treatment 
+
+All timbers shall be kiln-seasoned by a suitable process 
+conforming to IS 1141 before being planed to the 
+required dimensions. Sap-wood of durable species and 
+heartwood and sapwood of non-durable species shall 
+be treated with suitable preservative (except the water 
+soluble leachable type) as specified in IS 401. The 
+finished components shall also be given suitable 
+preservative treatment in places where these have been 
+cut for joinery work. Spot test according to Annex B 
+shall be carried out for determination of penetration 
+and identification of preservatives. 
+
+5.1.4 Defects Prohibited 
+
+The timber shall be free from decay, fungal growth, 
+boxed heart, splits, pitch pockets or streaks on the 
+exposed faces. 
+
+5.1.5 Defects Permitted 
+
+The timber shall be graded as First Grade and Second 
+Grade on the basis of the permissible defects in the 
+timber as given in Table 1 . For both the grades, knot 
+should be avoided where it is over or touching a place 
+of joint. Surface checks not exceeding 2 mm in depth 
+may be permitted. 
+
+5.2 Plywood 
+
+Plywood used for panelling of door shutters shall be 
+BWR grade conforming to IS 303. 
+
+5.3 Blockboards 
+
+Blockboards used for panelling of door shutters shall 
+confirm to Grade 1 (exterior grade) of IS 1659. 
+
+5.4 Veneered Particle Board 
+
+Veneered particle boards used for panelling of door 
+shutters shall conform to IS 3097. Particle boards used 
+for core of veneered particle board shall be FPT-1 
+conforming to IS 3087 and shall have been bonded with 
+BWP type of synthetic resin adhesive conforming to 
+IS 848. 
+
+5.5 Asbestos Cement Sheets 
+
+Asbestos cement sheets used for panels shall conform 
+to IS 2096. 
+
+5.6 Glass 
+
+Glass for glazing shall conform to IS 2835 or IS 2553 
+
+
+
+IS 1003 (Part 1) : 2003 
+
+
+
+X 
+
+
+
+HEAD OF 
+FRAME 
+
+
+
+jL 
+
+
+
+TOP RAIL 
+
+
+
+T 
+
+
+
+i ^=^y 
+
+
+
+v 
+
+
+
+^^fi 
+
+
+
+¥=^ 
+
+
+
+i / 
+
+
+
+HOLDFAST 
+
+
+
+-GLAZED PANEL 
+-DOOR FRAME 
+
+-HANGING STILE 
+
+MEETING STILE 
+
+
+
+LOCK RAIL 
+
+
+
+•TIMBER PANEL 
+
+
+
+BOTTOM RAIL 
+OR KICK PANEL 
+
+
+
+STRUCTURAL 
+FLOOR LEVEL 
+
+
+
+x_ 
+
+
+
+METAL PIN 
+£QmmDEEP APPROX. 
+
+
+
+Fig. 1 Typical Illustration of Double Panelled Door with 
+Timber and Glazed Panels 
+
+
+
+(Part 1 ). The users may also specify the type of glass to 
+be used, such as frosted glass, wire glass and coloured 
+glass and the requirements for them. 
+
+5.7 Medium Density Fibre Board 
+
+Medium density Fibre board used for panelling of door 
+shutters shall conform to Grade 1 to IS 12406 and shall 
+be bonded with BWP type adhesive conforming to 
+IS 848. 
+
+5.8 Prelaminated Particle Board 
+
+Prelaminated particle boards used for panel ting of door 
+shutters shall conform to Grade I, Type I (PLB-II) of 
+IS 1 2823. Particle boards used for core of prelaminated 
+particle board shall be FPT-1 conforming to IS 3087 
+and shall have been bonded with BWP type of synthetic 
+resin adhesive conforming to IS 848. 
+
+5.9 Wood Particle Board (Medium Density) 
+
+Medium density wood particle boards used for panelling 
+
+
+
+of doors shutters shall conform to grade FPT-1 of 
+IS 3087 and shall be bonded with BWP type of synthetic 
+resin adhesive conforming to IS 848. 
+
+6 CONSTRUCTION AND WORKMANSHIP 
+
+6.1 Timber panelled shutters shall be constructed in 
+the form of timber framework of stiles and rails with 
+panel inserts of timber, plywood, blockboard, medium 
+density flbreboard, veneered particle board, asbestos 
+cement sheets, prelaminated particle board wire gauze 
+or glass. The panels shall be fixed by either providing 
+grooves in the stiles and rails or beading or both 
+(see 6.2). The stiles, top rails and lock rails shall be 
+joined to each other by mortice and tenon joints 
+(see Fig. 2). Figure 3 shows alternate figures showing 
+typical illustrations of tenon and haunched tenon in 
+joinery. The bottom rails shall have haunched plain 
+double tenon joints and other single tenon joints. The 
+bottom, lock and top rails shall be inserted 25 ± 3 mm 
+short of the width of the stiles to form a stub mortice 
+and tenon joint. 
+
+
+
+IS 1003 (Part 1) : 2003 
+
+
+
+Table 1 Permissible Defects for Various Grades of Timbers 
+
+(Clause 5.1.5) 
+
+
+
+SI No. 
+
+(I) 
+
+
+
+Defects 
+
+(2) 
+
+
+
+First Grade 
+
+(3) 
+
+
+
+Second Grade 
+
+
+
+(4) 
+
+
+
+i) Cross-grain 
+
+n) Sound knots and 
+live knots 
+
+
+
+in) Dead and loose 
+knots (Plugged) 
+
+
+
+iv) Pitch pockets or 
+streaks 
+
+
+
+v) Sapwood 
+
+
+
+vi) Pin holes 
+vii) Worm holes 
+
+
+
+Not steeper than 1 in 1 5 
+
+I) Stiles and rails 
+
+a) Short exposed face — Not more than 
+20 mm size and not more 1 knot/m 
+
+
+
+b) Long exposed face — Not more than 
+20 mm size and not more than I knot/m 2 
+than I knot/m 2 No knot shall occur 
+within 20 mm of the edges 
+
+2) Panels — Not more than 20 mm size and 
+not more than 2 knots/m 2 No knot shall 
+occur on edge of any component of a panel 
+
+
+
+I) Stiles and Rails — Not more than 10 mm 
+size centrally located and not more than 
+I knot/m 
+
+
+
+2) Panels — Not more than 15 mm size and 
+not more than 2 knots/m 2 No knot shall 
+occur on edge of any component of a panel 
+
+None 
+
+
+
+Total not exceeding S mm wide and 150 mm 
+long per metre (This restriction applies only 
+to supper group) 
+
+Permitted provided they are not in clusters 
+
+None 
+
+
+
+Not steeper than 1 in 1 
+
+1) Stiles and rails 
+
+a) Short exposed face — Not more 
+than 20 mm size and not more than 
+3 knots per stile and I knot per rail 
+
+b) Long exposed face — Not more 
+than 25 mm size and not more 
+than 3 knots per stile and 1 knot 
+per rail 
+
+2) Panels — Not more than 20 mm size 
+
+and not more than 4 knots/m 2 No 
+knot shall occur on edge of any 
+component of a panel 
+
+1 ) Stiles and Rails — Not more than 
+10 mm size, centrally located and 
+not more than 3 knots per stile 
+and I knot per rail 
+
+2) Panels — Not more than 1 5 mm 
+size and not more than 4 knots/m 2 
+No knot shall occur on edge of 
+any component of a panel 
+
+Permissible except on exposed edges, 
+provided that they arc clean and 
+filled up with suitable puttey or 
+filler When pitch pockets or 
+streaks are located on the exposed 
+edges ot the core, they shall 
+be cut out and filled with piece 
+of wood of similar species with 
+grain running in the same direction 
+The piece shall be well glued 
+
+Total not exceeding 10 mm wide and 
+200 mm long per metre (This restriction 
+applies only to supper group) 
+
+Permitted 
+
+Permitted provided they are not more 
+than 10 mm in diameter and not more 
+than one per metre and provided such 
+worm holes are plugged with similar 
+timber in such a manner that the 
+plugging merges with the surrounding 
+area both as to colour and grain 
+
+
+
+NOTES 
+
+1 Dead and loose knots are permitted only it they are suitably plugged 
+
+2 Knot shall not occur where hinges or locks are to be fixed 
+
+
+
+IS 1003 (Parti): 2003 
+
+
+
+6.1. 1 All members of the door shutters shall be straight, 
+smooth and well planed faces at right angles to each 
+other. Any warp or bow shall not exceed 1 .5 mm. The 
+right angle for the shutters shall be checked by 
+measuring the two diagonals from one extreme corner 
+to the opposite one and the difference between the two 
+diagonals shall be not more than 3 mm. 
+
+6.2 Beading 
+
+Timber panels shall be fixed only with grooves but 
+additional beading may be provided either on one side 
+or on both sides, if so desired. Plywood, blockboard, 
+medium density fibre board, veneered particle board 
+and prelaminated particle board shall have either 
+grooves or beading or both. In so far as glass, wire 
+gauge and asbestos panels are concerned, beading shall 
+always be provided without grooves. In such cases, 
+that is where beading is provided without the 
+grooves the beading shall be only on one side, the 
+other side being supported by rebate from stiles 
+
+
+
+(see Fig. 4). The beading shall have a size not less than 
+15 mm x 10 mm. It can be fixed by suitably nailing or 
+screwing. 
+
+6.3 Stiles, top rails, bottom rails and lock rails of 
+shutters shall be made out of one piece of timber only. 
+Intermediate rails, lock rails and bottom rails exceeding 
+1 50 mm in width may be made out of one or more 
+pieces of timber, but the width of each piece shall be 
+not less than 75 mm. Where more than one piece of 
+timber is used, they shall be joined with a continuous 
+tongued and grooved joint glued together and reinforced 
+with metal dowels at regular intervals not exceeding 
+200 mm or pinned to the full thickness of the door with 
+wooden/bamboo pins. Jointed pieces of timber shall 
+belong to the same species. 
+
+6.4 Muntings and glazing bars shall be stubtenoned to 
+the maximum depth which the size of the member 
+would permit or to a depth of 25 mm, whichever is 
+less. 
+
+
+
+
+2A SINGLE TENON IN TOP 2B HAUNCHED SINGLE 
+RAIL TENON IN TOP RAIL 
+
+
+
+fei 
+
+
+
+V , S I 
+
+
+
+v. 
+
+
+
+^ 
+
+
+
+kir 
+
+
+
+2C DOUBLE TENON IN 
+LOCK RAIL 
+
+
+
+2 HAUNCHED 00UBLE 
+TENON IN BOTTOM RAIL 
+
+
+
+Fig. 2 Typical Illustrations of Tenon and Haunched Tenon in Joinery 
+
+4 
+
+
+
+6.5 Some of the common methods for jointing of panels 
+with stiles/rails are shown in Fig. 4. The minimum 
+depth of grooves of stiles and rails shall be 12 mm for 
+all types of panelling. The panels shall be framed into 
+grooves to the full depth of groove leaving an air space 
+of 1.5 mm and the faces shall be closely fitted to the 
+sides of the groove. The rest of the details shall be as 
+given in 6.6 to 6.11 for respective panel materials. 
+
+6.6 Timber Panelling 
+
+Timber panels shall be preferably made of timber of 
+larger width; the minimum width and thickness of a 
+panel shall be 100 mm and 15 mm respectively. When 
+made from more than one piece, the pieces shall be 
+jointed with a tongued and grooved joint, depth of joint 
+extending to one-third of thickness of panel and the 
+thickness of joint also as one-third of panel. The grains 
+of timber panels shall run along the longer dimensions 
+of the panels. The panels shall be designed such that 
+no single panel exceeds 0.5 m 2 in area. Beading may 
+be done as 6.2. 
+
+
+
+
+3A SINGLE HAUNCHEO TENON 
+ON A TOP RAIL 
+
+
+
+IS 1003 (Part 1) : 2003 
+
+6.7 Plywood Panelling 
+
+Each plywood panels shall be of one piece of not 
+less than 9 mm thickness for 2 or more panel 
+construction and 12 mm thickness for single panel 
+construction. There shall be no restriction on the size 
+of the panel. 
+
+6.8 Block board Panelling 
+
+Each blockboard panel shall be of one piece of thickness 
+12 mm or more and there shall be no restriction on the 
+size of the panel. 
+
+6.9 Veneered Particle Board Panelling 
+
+Panels shall be made of one piece of veneered particle 
+board. The thickness of particle boards used shall not 
+be less than 12 mm. 
+
+6.10 Wire Gauze Panelling 
+
+Wire gauze panel shall be so designated that no single 
+panel exceeds 0.5 m 2 in area. 
+
+
+
+
+3B MIDDLE OR LOCK RAIL WITH 
+PAIR OF SINGLE TENON AND 
+HAUNCH IN CENTRE 
+
+
+
+
+3C PAIR OF SINGLE HAUNCHED 
+TENON ON BOTTOM RAIL 
+
+
+
+
+3 STUB TENON ON A HUNTING 
+(IT DOES NOT GO THROUGH 
+THE RAIL) 
+
+
+
+Fig. 3 Typical Illustrations of Tenon and Haunched Tenon in Joinery 
+(Alternative Figure) 
+
+
+
+IS 1003 (Parti): 2003 
+
+6.1 1 Asbestos Cement Board Panelling 
+
+Asbestos cement sheets for panelling shall consist of 
+two or more panels. Thickness of each panel shall not 
+be less than 6 mm. 
+
+6.12 Medium Density Fibre Board Panelling 
+
+Panels shall be made up of one piece of medium density 
+fibre board. The thickness of boards used shall not be 
+less than 12 mm. 
+
+6.13 Prelaminated Particles Board Panelling 
+
+Panels shall be made of one piece of prelaminated 
+particle board. The thickness of particle boards used 
+shall not be less than 12 mm. 
+
+6.14 Medium Density Wood Particle Board 
+Panelling 
+
+Panels shall be made of one piece of medium density 
+
+
+
+wood particle board. The thickness of particle boards 
+used shall not be less than 12 mm. 
+
+6.15 Rebating 
+
+In case of double-leaved shutters the meeting of the 
+stiles shall be rebated either splayed or square type as 
+shown in Fig. 5. 
+
+6.16 Gluing of Joints 
+
+The contact surfaces of tenon and mortice shall be 
+treated, before putting together, with bulk type synthetic 
+resin adhesive conforming to IS 851 suitable for 
+construction work in wood, or synthetic resin adhesive 
+(phenolic and aminoplastic) conforming to IS 848 
+suitable for plywood or animal glue for general wood- 
+working purposes conforming to IS 852 or polyvinyl 
+acetate dispersion based adhesive for wood conforming 
+to IS 4835. However, gluing of joints is optional and 
+may be done with the agreement between the purchaser 
+and the supplier. 
+
+
+
+
+
+
+
+
+
+
+
+&^^3 
+
+
+
+Fig. 4 Common Methods of Jointing Panels with Stiles and 
+Rails with/without Beading 
+
+
+
+IS 1003 (Part 1) : 2003 
+
+
+
+7 DIMENSIONS, SIZES AND TOLERANCES 
+
+7.1 Dimensions of Components and Tolerances 
+
+The finished dimensions and tolerances of the different 
+components of door shutters shall be as given in 
+Table 2. 
+
+7.2 Sizes and Types 
+
+Sizes and types of the timber panelled and glazed 
+shutters shall generally conform to the modular sizes 
+specified in Table 3 (see also Fig. 6). Sizes other than 
+modular sizes as agreed to between the manufacturer 
+and the purchaser, may also be permitted. 
+
+7.3 Tolerances 
+
+Tolerances on the sizes of door shutters shall be 
+
+±3 mm. 
+
+8 LOCATION OF FITTINGS AND 
+ACCESSORIES 
+
+8.1 The lock rail of door shutters, where provided, shall 
+be so placed that its centre line is at a height of 850 ± 5 
+mm from the bottom of the shutter. 
+
+8.2 Each door shutter shall be fixed to the door frame 
+with hinges of the type specified by the purchaser, as 
+follows: 
+
+a) Door shutter of width Three hinges for 
+
+900 mm and below single leaf door 
+
+
+
+b) Door shutter of w idth 
+more than 900 mm 
+
+
+
+Six hinges for double- 
+leaved doors, three on 
+each side and four 
+hinges for single leaf 
+door 
+
+
+
+8.3 Timber panelled shutter may be provided with 
+louvers or vision panels as specified by the purchaser. 
+Where such a provision is made, the position, size and 
+shape of louver or vision panel opening shall be as 
+specified by the purchaser. 
+
+9 FINISH 
+
+9.1 All door shutters shall be sanded and finished 
+smooth. 
+
+9.2 Panels of shutters shall be flat and well-sanded to a 
+smooth and level surface. 
+
+9.3 Defective knots, when permitted on surfaces 
+exposed to view shall be completely bored or cut out 
+and tightly plugged with the same timber species and 
+properly glued in. The grains of the plug shall run in 
+direction of the grains of the piece. 
+
+9.4 All the surfaces of door shutters which are required 
+to be painted or polished or varnished ultimately shall 
+be covered initially before delivery by protective coat 
+of primer polish or varnish as specified in IS 2338 
+(Part 1) and IS 2338 (Part 2). 
+
+
+
+< 5 /4 
+
+
+
+8 TO 10 mm 
+
+
+
+z 
+
+
+
+51 
+
+
+
+Vs t 
+«/3 J 
+
+
+
+8 TO 10 mm 
+
+
+
+vTf 
+
+
+
+iti 
+
+
+
+5A SPLAYED TYPE SB SQUARE TYPE 
+
+Fig. 5 Meeting of Stiles for Double-Leaved Door Shutters 
+
+
+
+SI No. 
+
+
+
+Table 2 Dimensions and Tolerances of Components of Door Shutters 
+
+(Clause 7 A) 
+
+
+
+Description 
+
+
+
+Width 
+
+
+
+Thickness 
+
+
+
+(«) 
+
+
+
+(2) 
+
+
+
+(3) 
+
+
+
+(4) 
+
+
+
+i) 
+
+
+Vertical stile top and freeze rail 
+
+
+100±3 
+
+
+H) 
+
+
+Lock rail 
+
+
+150 4:3 
+
+
+Hi) 
+
+
+Bottom rail 
+
+
+200 ±3 
+
+
+iv) 
+
+
+Munting 
+
+
+100 ±3 
+
+
+v) 
+
+
+Glazing bar 
+
+
+40*1 
+
+
+
+35 ± I or 40 ± I 
+35 ± lor40±l 
+35 ± 1 or 40 ± 1 
+35 ± 1 or 40 ± 1 
+35 ± 1 or 40 i 1 
+
+
+
+IS 1003 (Part t) : 2003 
+
+
+
+© 
+
+z 
+z 
+
+S 
+g 
+
+o 
+o 
+
+
+
+X 
+
+o 
+
+
+
+o 
+
+2 
+
+
+
+Ul 
+
+
+
+a: 
+o 
+o 
+o 
+
+
+
+I 
+
+
+
+s 
+
+
+
+THICKNESS OF DOOR FRAME 
+MINUS REBATE ■ 45mm-i 
+
+
+
+5 mm CLEARANCE 
+
+
+
+x 
+
+
+
+x 
+S2 
+
+
+
+3 
+
+
+
+f 
+
+
+
+5 mm CLEARANCE 
+
+
+
+-*-M w -100mm * WIDTH OF SHUTTER* 
+
+
+
+r» 
+
+
+
+\i 
+
+
+
+_M w -10mm ■ OVERALL WIDTH ^ 
+
+OF DOOR FRAME ^ 
+
+
+
+45 mm 
+5 mm 
+
+
+
+M w » MODULAR WIDTH 0F_ 
+DOOR OPENING 
+
+
+
+-FINISHED FLOOR 
+LEVEL 
+
+-40 mm 
+
+
+
+^-STRUCTURAL 
+FLOOR LEVEL 
+
+
+
+Fig. 6 Sketch Illustrating Dimensions of Shutter 
+
+
+
+IS 1003 (Parti): 2003 
+
+
+
+Table 3 Dimension of Door Shutters 
+
+(Clause 7.2) 
+
+
+
+SI No. 
+
+
+Designation of Doors 
+
+
+Width 
+
+
+Height 
+
+
+
+
+
+
+mm 
+
+
+mm 
+
+
+(1) 
+
+
+(2) 
+
+
+(3) 
+
+
+(4) 
+
+
+
+i) 
+
+
+8DS20 
+
+
+") 
+
+
+8DS21 
+
+
+iii) 
+
+
+9DS20 
+
+
+iv) 
+
+
+9DS21 
+
+
+v) 
+
+
+10 DS 20 
+
+
+vi) 
+
+
+10DS21 
+
+
+vii) 
+
+
+12DT20 
+
+
+viii) 
+
+
+12DT21 
+
+
+
+700 
+
+700 
+
+800 
+
+800 
+
+900 
+
+900 
+1 100 ■> 
+1 100 » 
+
+
+
+1 905 ( I 945) 
+
+2 005 ( 2 045) 
+
+1 905 ( 1 945) 
+
+2 005 ( 2 045) 
+
+1 905 ( 1 945) 
+
+2 005 ( 2 045) 
+
+1 905 ( I 945) 
+
+2 005 ( 2 045) 
+
+
+
+NOTES 
+
+1 The designation refers to modular sizes of door openings. First number stands for width and the last for height in module 
+(A/= 100 mm). Alphabet '£)' refer to doors. '£' to single shutter and T to double leaf shutter. 
+
+2 Standard sizes of door frames are covered in IS 402 1 and IS 435 1 . 
+
+3 The standard widths and heights for panel doors are arrived at as shown in Fig. 6. In case the modular height is taken from the 
+finished floor level, the height of the door shall be the one given in bracket. In the case of double leave shutters, the rebate in the 
+shutters shall be as given in 6.15. 
+
+
+
+* Combined width of double leaf shutters. 
+
+
+
+10 GLAZING 
+
+10.1 The glass used for panels shall be of good and 
+durable quality, weighing not less than 10 kg/m 2 and 
+the thickness shall not be less than 4 mm. The particular 
+type, quality and shade shall be as agreed to between 
+the purchaser and the supplier. 
+
+10.2 In specifying sizes of openings or panels of glass, 
+the first dimension shall be the width. 
+
+10.3 The glass shall be embedded in putty and secured 
+to the rebate by wooden beads of suitable size and 
+shape. 
+
+10.4 Wash leather, ribbon velvet, rubber flannel, felt, 
+asbestos or other similar material may be used in place 
+of putty for internal glazing. The material shall be fitted 
+either as a beading on one side or in such a manner that 
+it covers all parts of the glass which will be covered by 
+the beading. 
+
+11 TESTS 
+
+Door shutters shall be subjected to the following tests. 
+
+11.1 Dimensions and Squareness Test 
+
+Door shutters, when tested in accordance with IS 4020 
+(Part 2), the dimensions of nominal width and height 
+shall be within a limit of ±5 mm. The door shutter 
+shall not deviate by more than 1 mm on a length of 
+500 mm. The thickness of the door shutter shall be 
+
+
+
+uniform throughout with the permissible variation of 
+not more than 0.8 mm between any two points. The 
+nominal thickness of the shutter shall be within a limit 
+of±l mm. 
+
+1 1.2 General Flatness Test 
+
+Door shutters, when tested in accordance with IS 4020 
+(Part 3), the twist, cupping and warping shall not exceed 
+6 mm. 
+
+1U Local Planeness Test 
+
+Door shutters, when tested in accordance with IS 4020 
+(Part 4), the depth of deviation measured at any point 
+shall not be more than 0.5 mm. 
+
+11. 4 Impact Indentation Test 
+
+Door shutters, when tested in accordance with IS 4020 
+(Part 5), shall have no defects such as cracking, tearing 
+or delamination and the depth of indentation shall not 
+be more than 0.2 mm. 
+
+11.5 Flexure Test 
+
+Door shutters, when tested in accordance with IS 4020 
+(Part 6), there shall not be any residual deflection of 
+more than one-tenth of the maximum deflection. The 
+residual deflection shall not be more than one-tenth of 
+the maximum deflection. The deflection at the 
+maximum load shall not be more than one-thirtieth of 
+the length and one-fifteenth of the width, whichever is 
+less. 
+
+
+
+IS 1003 (Part 1): 2003 
+
+
+
+1 1.6 Edge Loading Test 
+
+Door shutters, when tested in accordance with IS 4020 
+(Part 7), the deflection of the edge at the maximum 
+load shall not be more than 5 mm. On removal of the 
+loads, the residual deflection shall not be more than 
+0.5 mm, failing which the test may be repeated on the 
+other edge in the reverse direction. Also there shall be 
+no lateral buckling by more than 2 mm during loaded 
+condition and no residual lateral buckling after removal 
+of the load. 
+
+11.7 Shock Resistance Test 
+
+11.7.1 Door shutters, when tested in accordance 
+with 2.1 of IS 4020 (Part 8), there shall be no visible 
+damage in any part of the door after twenty five blows 
+on each end. 
+
+11.7.2 Door shutters, when tested in accordance 
+with 3. 1 of IS 4020 (Part 8), the normally hung shutter, 
+with hangings, fixings and fastenings should 
+withstand without any significant permanent 
+deformation and without deterioration the five impacts 
+on both sides of the shutter. 
+
+11.8 Buckling Test 
+
+Door shutters, when tested in accordance with IS 4020 
+(Part 9), shall not show any deterioration and any 
+residual deformation more than 5 mm after 15 min of 
+unloading and the initial deflection also shall not be 
+more than 50 mm. 
+
+11.9 Slamming Test 
+
+1 1.9.1 Any one of the following tests given in 1 1.9.2 
+and 1 1.9.3 shall be used. 
+
+11.9.2 Door shutters, when tested in accordance 
+with 2.1 of IS 4020 (Part 10), shall not have any visible 
+damage in any part of the door at the end of 50 
+successive impacts. 
+
+11.9.3 Door shutters, when tested in accordance 
+with 3.1 of IS 4020 (Part 10), shall not have any visible 
+damage in any part of the door at the end of 100 
+successive impacts. 
+
+11.10 Misuse Test 
+
+Door shutters, when tested in accordance with IS 4020 
+(Part 1 1 ), there shall not be any permanent deformation 
+of the fixing or any other part of the doorset in hindering 
+its normal working after the test. 
+
+11.11 Screw Withdrawal Resistance Test 
+
+Door shutters, when tested in accordance with IS 4020 
+(Part 16), the required load to withdraw the screw 
+completely shall not be less than 1 000 N. On 
+withdrawal, there shall be no visible damage to the 
+surface either by delamination or extra chipping off at 
+the points of withdrawal. 
+
+
+
+12 SAMPLING AND CRITERIA FOR 
+CONFORMITY 
+
+12.1 Lot 
+
+In any consignment, all the shutters of the same type 
+and manufactured under similar conditions of 
+production shall be grouped together to constitute a lot. 
+
+12.2 Sample Size 
+
+1 2.2. 1 The number of specimens to be taken for testing 
+of shutters for dimensions and squareness, flatness, and 
+local planeness shall be in accordance with col 3 of 
+Table 4. 
+
+12.2.2 For slamming test, the number of shutters 
+shall be as per col 5 of Table 4. 
+
+1 2.2.3 For impact test, and screw withdrawal resistance 
+test, shutters shall be tested on production of 1 000 
+shutters of the same size and type. 
+
+12.2.4 For flexure edge loading, shock resistance, 
+misuses and buckling test the shutters shall be tested 
+once a year. 
+
+12.3 Criteria for Conformity 
+
+The lot shall be declared as conforming to the 
+requirements of the standard when the number of 
+defective samples does not exceed the permissible 
+number given in col 4 of Table 4. 
+
+13 REQUIREMENTS FOR ECO-MARK 
+
+13.1 Door shutters shall be manufactured from wood 
+from sources other than natural forests such as timber 
+from industrial and social forestry plantations, shade 
+trees from tea and coffee estates, etc, as applicable to 
+various components under 6 and such doors shutters 
+shall conform to the requirements of quality and 
+performance as specified in this standard as well as the 
+requirements of ECO-Mark for all the referred 
+standards. 
+
+NOTES 
+
+1 The manufacturers shall provide documentary evidence by way 
+of certificate or declaration to Bureau of Indian Standards while 
+applying for ECO-Mark. 
+
+2 The manufacturer shall provide to BIS environmental consent 
+clearance from the concerned State Pollution Control Board as 
+per the provisions of the Water (Prevention and Control of 
+Pollution) Act, 1 974 and Air (Prevention and Control of Pollution) 
+Act, 1981 along with the authorization, if required under the 
+Environment (Protection) Act, 1986, while applying for ECO- 
+Mark. 
+
+14 MARKING 
+
+14.1 All door shutters shall be hammer-marked or 
+indelibly marked on the exposed edge of a rail with the 
+following information : 
+
+a) Name of the manufacturer or trade-mark, if any; 
+
+
+
+10 
+
+
+
+IS 1003 (Part I): 2003 
+
+
+
+Table 4 Sample Size and Criteria for Conformity 
+
+(Clauses 12.2.1, 12.2.2 and 12.3) 
+
+
+
+SI No. 
+
+
+
+
+Lot Size 
+
+
+
+
+Sample Size 
+
+
+
+
+Permissible No. 
+Defectives 
+
+
+of 
+
+
+Sub- 
+
+
+sample Size 
+
+
+(1) 
+
+
+
+
+(2) 
+
+
+
+
+(3) 
+
+
+
+
+(4) 
+
+
+
+
+
+
+(5) 
+
+
+■ ) 
+
+
+
+
+26 to 50 
+
+
+
+
+8 
+
+
+
+
+
+
+
+
+
+
+
+1 
+
+
+>«) 
+
+
+
+
+51 to 100 
+
+
+
+
+13 
+
+
+
+
+1 
+
+
+
+
+
+
+2 
+
+
+iii) 
+
+
+
+
+101 to 150 
+
+
+
+
+20 
+
+
+
+
+1 
+
+
+
+
+
+
+2 
+
+
+iv) 
+
+
+
+
+1 5 1 to 300 
+
+
+
+
+32 
+
+
+
+
+1 
+
+
+
+
+
+
+3 
+
+
+v) 
+
+
+
+
+301 to 500 
+
+
+
+
+50 
+
+
+
+
+2 
+
+
+
+
+
+
+4 
+
+
+vi) 
+
+
+
+
+501 and above 
+
+
+
+
+80 
+
+
+
+
+2 
+
+
+
+
+
+
+5 
+
+
+NOTE — For 
+purchaser. 
+
+
+lot 
+
+
+size 25 or less, number of 
+
+
+samples to be taken for 
+
+
+testing 
+
+
+shall be as agreed to between the manufacturer and the 
+
+
+
+b) Whether the size of the shutter is 'Modular' or 
+'Non-modular 1 ; 
+
+c) Designation (showing width and height in 
+modules) for modular sizes as specified in 
+Table 3, of the actual size (width and height in 
+case of non-modular sizes) along with 
+appropriate symbols for shutters as given in 
+Note I of Table 3; 
+
+d) Group and Grade of timber used for rails and 
+stiles {sec 5.1.1 and 5.1.5); 
+
+e) Species of timber, in case of ECO-Mark; and 
+
+f) The criteria for which the product has been 
+labelled as ECO-Mark. 
+
+14.1.1 The shutters may also be marked with the 
+Standard Mark. 
+
+1 4. 1 . 1 . 1 The use of the Standard Mark is governed by 
+the provisions of the Bureau of Indian Standards Act, 
+1986 and the Rules and Regulations made thereunder. 
+Details of conditions under which a licence for use of 
+
+
+
+the Standard Mark may be granted to manufacturers or 
+producers may be obtained from the Bureau of Indian 
+Standards. 
+
+15 INFORMATION TO BE SUPPLIED BY THE 
+PURCHASER 
+
+15.1 The purchaser shall supply the following 
+information at the time of placing the order : 
+
+a) The size and the type of door shutters, species 
+of timber, the group and grade of timber to be 
+used, particulars regarding panels, the handing 
+of door (right or left) and the way the door is 
+required to open (inward or outward); 
+
+b) Whether single or double-leaved and the type 
+of rebate in double-leaved shutter; 
+
+c) Whether provision has to be made for letter 
+plates, postal knockers, etc; and 
+
+d) Whether the door shutters are to be polished or 
+painted. 
+
+
+
+IS 1003 (Part 1) : 2003 
+
+
+
+ANNEX A 
+
+{Clause 2) 
+
+LIST OF REFERRED INDIAN STANDARDS 
+
+
+
+IS No. Title 
+
+287 : 1993 Permissible moisture content for 
+
+timber used for different purposes — 
+Recommendations (third revision) 
+
+303 : 1989 Specification for plywood for 
+
+general purposes (third revision) 
+
+40 1 : 200 1 Code of practice for preservation of 
+
+timber (fourth revision) 
+
+707 : 1976 Glossary or terms applicable to 
+
+timber technology and utilization 
+(second revision) 
+
+848 : 1974 Specification for synthetic resin 
+
+adhesives for plywood (phenolic and 
+aminoplastic) (first revision) 
+
+851 : 1978 Specification for synthetic resin 
+
+adhesive for construction work 
+(non-structural) in wood (first 
+revision) 
+
+852 : 1994 Specification for animal glue for 
+
+general wood-working purposes 
+(second revision) 
+
+1141: 1993 Code of practice for seasoning of 
+
+timber (second revision) 
+
+1659: 1 990 Specification for block boards (third 
+
+revision) 
+
+2096 : 1992 Specification for asbestos cement 
+
+flat sheets (first revision) 
+
+2338 Code of practice for finishing of 
+
+wood and wood-based materials: 
+
+(Part 1 ) : 1967 Operations and workmanship 
+
+(Part2): 1967 Schedules 
+
+2553 Safety glass — Specification: Part 1 
+
+(Parti) : 1967 General purpose (third revision) 
+
+
+
+IS No. 
+2835 : 1987 
+
+3087: 1985 
+
+3097: 1980 
+
+4020 
+
+(Parts 1 to 16) : 
+1998 
+
+4021 : 1995 
+4043 : 1969 
+
+
+
+4351 : 1976 
+4835: 1979 
+
+10428: 1983 
+12406: 1988 
+
+12823: 1990 
+
+12896: 1990 
+
+
+
+Title 
+
+Specification for flat transparent 
+sheet glass (third revision) 
+
+Specification for wood particle 
+boards (medium density) for general 
+purposes (third revision) 
+
+Specification for veneered particle 
+boards (first revision) 
+
+
+
+Doors shutters — Methods 
+tests (third revision) 
+
+
+
+of 
+
+
+
+Timber, door, window and 
+ventilator frames — Specification 
+(third revision) 
+
+Recommendations for symbolic 
+designation of direction of closing 
+and faces of doors, windows and 
+shutters 
+
+Specification for steel door frames 
+(first revision) 
+
+Specification for polyvinyl acetate 
+dispersion based adhesives for 
+wood (first revision) 
+
+Glossary of terms relating to doors 
+
+Specification for medium 
+density fibreboards for general 
+purposes 
+
+Specification for prelaminated 
+particle boards from wood and 
+other lignocellulosic materials 
+
+Classification of Indian timbers for 
+door and window shutters and 
+frames 
+
+
+
+12 
+
+
+
+IS 1003 (Part 1): 2003 
+
+
+
+ANNEX B 
+(Clause 5.1.3) 
+
+METHOD FOR THE DETERMINATION OF PENETRATION AND 
+IDENTIFICATION OF PRESERVATIVE BY SPOT TEST 
+
+
+
+B-l GENERAL 
+
+Methods for the determination of penetration of copper- 
+chrome-arsenic composition and acid-cupric-chromate 
+and ammoniacal-copper-arsenite composition are given 
+below. Definite colour reactions are not given by other 
+common preservatives. The entire cross-sectional area 
+has to be tested for preservative treatment by using spot 
+tests after cutting across stile/rail and other timber 
+components at any given place. Thorough penetration 
+of preservative chemical is required. 
+
+B-2 COPPER-CHROME-ARSENIC 
+COMPOSITION ACID-CUPRIC-CHROMATE 
+COMPOSITION BORATED-COPPER- 
+CHROME COMPOSITION AND 
+AMMONIACAL-COPPER-ARSENITE 
+COMPOSITION 
+
+B-2. 1 Detection for Copper 
+
+B-2. 1. 1 Dissolve 0.5 g chrome Azurol-S and 5.0 g of 
+sodium acetate in 80 ml water and dilute to 100 ml. 
+
+B-2. 1 .2 Spray or brush the solution over split or cross- 
+section or boring/bore dust with a fine spray on the cut 
+surface of treated wood. A deep blue colour shows the 
+presence of copper. 
+
+B-2. 2 Detection for Chromium 
+
+B-2. 2.1 Dissolve 0.5 g diphenyl carbazide in 50 ml 
+/.v«-propyl alcohol and 50 ml of distilled water. 
+
+B-2. 2. 2 Spray or brush the solution on the boring/bore 
+dust or cross-section of treated wood. Portions 
+containing chromium will develop a purple colour 
+while impenetrated/untreated portion will remain as 
+such. 
+
+B-2.3 Detection for Arsenic 
+
+B-2.3.1 Solution 1 
+
+3.5 g ammonium molybdate dissolved in 90 ml distilled 
+water followed by 9 ml concentrated nitric acid. 
+
+B-2.3.2 Solution 2 
+
+0.7 g benzidine dihydrochloride dissolved in 10 ml 
+
+
+
+concentrated acetic acid and diluted to 1 00 ml by adding 
+90 ml distilled water. 
+
+B-2.3.3 Solution 3 
+
+30 g stannous chloride dissolved in 100 ml 1:1 
+hydrochloric acid in distilled water. 
+
+B-2.3.4 Solution I may be prepared on fresh for 
+each day testing. Solution 2 and solution 3 may be 
+stored in clean glass stoppered brown glass bottles for 
+one week. 
+
+B-2.3.5 Apply Solution 1 to the boring or cross-section 
+ensuring that entire wood surface is saturated. After 2 
+min, excess solution is shaken off and allowed to dry 
+for about 1 min. Solution 2 is next applied in the same 
+way as Solution 1. After 2 min, the excess solution is 
+shaken off and surface is allowed to dry for 1 min. 
+Solution 3 is last applied by pouring over cross-section 
+or boring beginning at untreated part. The entire wood 
+surface will immediately turn bluish on treated surface 
+of wood containing arsenic. 
+
+B-3 METHOD FOR THE DETECTION OF 
+BORON IN COPPER-CHROME-BORON AND 
+BORATED-COPPER-CH ROME- ARSENIC 
+COMPOSITION 
+
+B-3.1 Solution"! 
+
+Extract 10 g turmeric powder with 90 g ethyl alcohol. 
+Decant or filter to obtain clear solution. 
+
+B-3.2 Solution 2 
+
+20 ml of concentrated hydrochloric acid diluted to 100 
+ml with ethyl alcohol and then saturated with salicylic 
+acid (about 13 g per 100 ml). 
+
+B-3.3 Solution 1 is applied on the dry cut surface 
+of wood or cross-section by spraying or with a 
+dropper and the surface is allowed to dry for a few 
+minute. Solution 2 is then applied in a similar manner 
+to the areas that have been coloured yellow by the 
+application of Solution 1. The colour changes shall be 
+observed carefully. Areas having presence of boron 
+turn red. 
+
+
+
+13 
+
+
+
+Bureau of Indian Standards 
+
+BIS is a statutory institution established under the Bureau of Indian Standards Act, 1986 to promote harmonious 
+development of the activities of standardization, marking and quality certification of goods and attending to 
+connected matters in the country. 
+
+Copyright 
+
+BIS has the copyright of all its publications. No part of these publications may be reproduced in any form 
+without the prior permission in writing of BIS. This does not preclude the free use, in the course of implementing 
+the standard, of necessary details, such as symbols and sizes, type or grade designations. Enquiries relating to 
+copyright be addressed to the Director (Publication), BIS. 
+
+Review of Indian Standards 
+
+Amendments are issued to standards as the need arises on the basis of comments. Standards are also reviewed 
+periodically; a standard along with amendments is reaffirmed when such review indicates that no changes are 
+needed; if the review indicates that changes are needed, it is taken up for revision. Users of Indian Standards 
+should ascertain that they are in possession of the latest amendments or edition by referring to the latest issue of 
+'BIS Catalogue* and 'Standards: Monthly Additions'. 
+
+This Indian Standard has been developed from Doc: No. CED 1 1 (6062). 
+
+Amendments Issued Since Publication 
+
+
+
+Amend No. 
+
+
+
+Date of Issue 
+
+
+
+Text Affected 
+
+
+
+BUREAU OF INDIAN STANDARDS 
+Headquarters: 
+
+Manak Bhavan, 9 Bahadur Shah Zafar Marg, New Delhi 1 10002 
+Telephones: 2323 0131, 2323 3375, 2323 9402 
+
+Regional Offices: 
+
+Central : Manak Bhavan, 9 Bahadur Shah Zafar Marg 
+NEW DELHI 110002 
+
+Eastern : 1/14 C.I.T. Scheme VII M, V.I.P. Road, Kankurgachi 
+KOLKATA 700054 
+
+Northern : SCO 335-336, Sector 34-A, CHANDIGARH 160022 
+Southern : C.I.T. Campus, IV Cross Road, CHENNAI 6001 13 
+
+
+
+Western 
+
+
+
+Branches 
+
+
+
+: Manakalaya, E9 MIDC, Marol, Andheri (East) 
+MUMBAI 400093 
+
+
+
+Telegrams: Manaksanstha 
+(Common to all offices) 
+
+Telephone 
+
+j-2323 7617 
+12323 3841 
+
+r-2337 8499, 2337 8561 
+12337 8626,2337 9120 
+
+r 60 3843 
+1 60 9285 
+
+j-2254 1216,2254 1442 
+12254 2519,2254 2315 
+
+f2832 9295, 2832 7858 
+12832 7891,2832 7892 
+
+
+
+AHMEDABAD. BANGALORE. BHOPAL. BHUBANESHWAR. COIMBATORE. FARIDABAD. 
+GHAZIABAD. GUWAHATI. HYDERABAD. JAIPUR. KANPUR. LUCKNOW. NAGPUR. 
+NALAGARH. PATNA. PUNE. RAJKOT. THIRUVANANTHAPURAM. VISAKHAPATNAM. 
+
+
+
+Printed at Simco Printing Press, Delhi 
+
+
+

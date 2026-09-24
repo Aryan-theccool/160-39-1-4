@@ -1,0 +1,746 @@
+**************** 
+
+
+
+
+Disclosure to Promote the Right To Information 
+
+Whereas the Parliament of India has set out to provide a practical regime of right to 
+information for citizens to secure access to information under the control of public authorities, 
+in order to promote transparency and accountability in the working of every public authority, 
+and whereas the attached publication of the Bureau of Indian Standards is of particular interest 
+to the public, particularly disadvantaged communities and those engaged in the pursuit of 
+education and knowledge, the attached public safety standard is made available to promote the 
+timely dissemination of this information in an accurate manner to the public. 
+
+
+
+
+Mazdoor Kisan Shakti Sangathan 
+"The Right to Information, The Right to Live'' 
+
+
+
+IS 101-5-3 (1999) : Methods of Sampling and Test for Paints, 
+Varnishes and Related Products, Part 5: Mechanical Tests, 
+Section 3: Impact Resistance [CHD 20: Paints, Varnishes and 
+Related Products] 
+
+
+
+
+Jawaharlal Nehru 
+'Step Out From the Old to the New" 
+
+
+
+aj^&vi f 7ui^s:y%K^ isb^^ni^seg 
+
+
+
+:<>5&i| mT'5K^5?::5:^>^i»l 
+
+
+
+K^^^iXSVCd^ 
+
+
+
+Satyanarayan Gangaram Pitroda 
+Invent a New India Using Knowledge 
+
+
+
+Bhartrhari — Nitisatakam 
+''Knowledge is such a treasure which cannot be stolen" 
+
+
+
+
+^'^^^r 
+
+
+
+k 
+
+
+
+
+BLANK PAGE 
+
+
+
+^*-^^^ 
+
+
+
+
+
+PROTECTED BY COPYRIGHT 
+
+
+
+IS 101 (Parts/Sec 3): 1999 
+
+( Reaffirmed 2004 ) 
+
+
+
+Indian Standard 
+
+METHODS OF SAMPLING AND TEST FOR 
+
+PAINTS, VARNISHES AND RELATED PRODUCTS 
+
+PART 5 MECHANICAL TESTS 
+Section 3 Impact Resistance 
+
+(Fourth Revision) 
+
+
+
+ICS 19.060; 87.040 
+
+
+
+© BIS 1999 
+
+BUREAU OF. INDIAN STANDARDS 
+
+MANAK BHAVAN, 9 BAHADUR SHAH ZAFAR MARG 
+NEW DELHI 110002 
+
+
+
+December 1999 Price Group 3 
+
+
+
+Paints (Other Than Industrial Paints) and Allied Products Sectional Committee, CHD 20 
+
+
+
+FOREWORD 
+
+This Indian Standard (Fourth Revision) was adopted by the Bureau of Indian Standards, after the draft finalized 
+by the Paints (Other Than Industrial Paints) and Allied Products Sectional Committee had been approved by 
+the Chemical Division Council. 
+
+This standard, which was earlier published in 1988, is one of a series dealing with sampling and testing of 
+paints, varnishes and related products. 
+
+In this revised version, an alternate method of test has been incorporated. 
+
+In the preparation of this standard considerable assistance has been derived from ISO 6272 : 1993 'Paints and 
+varnishes — Falling-weight test', issued by the International Organization for Standardization (ISO). 
+
+The composition of technical committee responsible for the formulation of this staildard is given in Annex A. 
+
+In reporting the result of a test or analysis made in accordance with this standard, if the final value, observed or 
+calculated, is to be rounded off, it shall be done in accordance with IS 2 : I960 'Rules for rounding off numerical 
+values (revised)'. 
+
+
+
+IS lUl (Part 5/Sec 3) : 1999 
+
+
+
+Indian Standard 
+
+METHODS OF SAMPLING AND TEST FOR 
+PAINTS, VARNISHES AND RELATED PRODUCTS 
+
+PART 5 MECHANICAL TESTS 
+Section 3 Impact Resistance 
+
+( Fourth Revision ) 
+
+
+
+1 SCOPE 
+
+This standard prescribes two methods, for determining 
+the resistance of impact on paint films, using a free 
+failing ball. 
+
+2 REFERENCE 
+
+The Indian Standard listed below contains provisions 
+which through reference in this text, constitutes 
+provision of this standard. At the time of publication, 
+the edition indicated was valid. All standards are 
+subject to revision and parties to agreements based on 
+this standard are encouraged to investigate the 
+possibility of applying the most recent edition of the 
+standard indicated below: 
+
+
+
+IS No, 
+101 (Part 1/ 
+Sec 3) 
+
+
+
+Title 
+Methods of sampling and test for 
+paints, varnishes and related 
+products ; Part 1 Tests on liquid 
+paints (general and physical), 
+Section 3 Preparation of panels (third 
+revision) 
+
+
+
+3 METHOD A 
+3.1 Apparatus 
+
+
+
+3.1.1 Hardened Steel Ball — Approximately 60 mm 
+in diameter and of mass 900 ± 10 g, unless otherwise 
+specified. 
+
+3.1.2 Device — For example, an electromagnet for 
+holding and releasing the steel ball at a specified height 
+above the test panel. 
+
+3.1.3 Supporting Frame — Frame on which the test 
+panel rests horizontally, so as to leave an area of 
+180 mm X 180 mm unsupported. 
+
+3.2 Panels 
+
+3.2.1 Material and Dimensions — Unless^atherwise 
+specified or agreed, the test panel shall be of burnished 
+steel, approximately 200 mm x 200 mm and at least 
+5 mm thick. 
+
+3.2.2 The test panels shall be prepared as given in 
+IS 101 (Part 1/Sec3). 
+
+
+
+3.2.3 The panels shall be dried (or stored and aged' 
+for the specified time and under specified conditions 
+as given in material specification. It shall be 
+conditioned at 27 ± 2^C and 65 ± 5 percent relative 
+humidity for a minimum period of 16 h and test shall 
+be carried out as soon as possible after that. 
+
+3.3 Procedure 
+
+3.3.1 Place the panel on the supporting frame with 
+the test coating facing upwards or downwards as 
+specified. Release the steel ball and allow it to fall 
+freely from a height of 3 m, unless otherwise specified, 
+so that it strikes the panel approximately in the centre. 
+Repeat this procedure in a manner that the second 
+point of impact is as close to the first as possible and, 
+in any case, is not apart by more than 20 mm. 
+
+3.3.2 Remove the panel from the supporting frame 
+and examine the coating for signs of cracking, flaking 
+detachment from the substrate. 
+
+4 METHOD B 
+
+4,1 Apparatus 
+
+4.1.1 Falling-Weight Apparatus — comprising the 
+elements described in 4.1.1.1 to 4.1.1.6 and detailed 
+at Fig. 1 and 2. 
+
+4.1.1.1 Base stand, of sufficient mass to support the 
+die as described in 4.1.1.4. 
+
+4.1.1.2 Falling-weight — The head having the shape 
+of a spherical sector of diameter 20 ± 0.1 mm and a 
+total mass of 1 000 ± 1 g. 
+
+4.1.1.3 Vertical guide tube — To direct the falling 
+weight perpendicularly on to the test panel. The guide 
+tube may be graduated, in millimetres, over 1 m from 
+the surface of the test panel upward. 
+
+To avoid excessive friction and to ensure accurate 
+guidance, the difference between the inner diameter 
+of the guide tube and the outer diameter of the falling- 
+weight shall be 0.7 ± 0.1 mm and the distance between 
+the bottom end of the guide tube and the top of the 
+test panel shall be not more than 45 mm. 
+
+
+
+IS 101 (Part 5/Sec 3) : 1999 
+
+
+
+GOIDB TOBE 
+
+
+
+
+All dimensions in millimetres. 
+
+Fig. 1 Falling-Weight Apparatus Showing Required Dimensions 
+
+
+
+IS 101 (Part 5/Sec 3) : 1999 
+
+
+
+STOPS FOR 
+LIMITI 
+
+
+
+GDIDS TDBg 
+
+
+
+
+Fig. 2 Side-View of Falling-Weight Apparatus 
+
+
+
+IS 101 O^art 5/Sec 3) : 1999 
+
+
+
+4.1.1.4 D/e — Ring-shaped with an inner diameter of 
+27 ± 0.3 mm. The inner upper edge of the ring shall 
+be founded with a radius of curvature of 0.9 ± 0.2 
+mm. The minimum height of the ring shall be 20 mm. 
+
+4.1.1.5 Clamping sleeve — To hold the test panel in 
+position. The inner diameter at the bottom shall be 
+the same as that of the die 27 ± 0.3 mm. 
+
+4.1.1.6 Stops — Of different thicknesses, to limit the 
+indentation depth of the falling weight. 
+
+4.1.7 Viewing Lens — Hand-held, with an enhanced 
+magnification often times. 
+
+4.2 Panels 
+
+4.2.1 Unless otherwise specified, the test panel shall 
+be of burnished steel of such size as to allow the test 
+to be carried out for at least five different positions 
+not within 40 mm from each other and not within 20 
+mm from the edge of the panel. The panels shall be at 
+least 0.25 mm thick. 
+
+4.2.2 The test panels shall be prepared as specified 
+in IS 101(Partl/Sec3). 
+
+
+
+4.2.3 The panels shall be dried (or stored aUd aged) 
+for the specified time and under specified conditions 
+as given in material specification. It shall be 
+conditioned at 27 ± 2°C and 65 ± 5 percent relative 
+humidity for a minimum period of 16 h and test shall 
+be carried out as soon as possible after that. 
+
+4.3 Procedure 
+
+4.3.1 Ensure that the guide tube {see 4,1.1.3) is vertical 
+and adjusted to a height of 3 m, unless otherwise 
+specified. Place the panel on the base stand 
+{see 4.1.1.1) in position of means of clamping sleeve 
+{see 4.1.1.5) with the test coating facing upwards or 
+downwards as specified. Release the weight 
+{see 4.1.1.2) and allow it to fall freely on to the test 
+panel. Repeat the test a further four times at different 
+positions (giving a total of five drops). 
+
+4.3.2 Remove the panel from the clamping device and 
+examine the coating for signs of cracking, flaking or 
+peeling from the substrate. 
+
+4.3.3 Report the coating as- satisfactory if at least four 
+test positions show no cracking, flaking or peeling 
+from the substrate. 
+
+
+
+IS 101 (Part 5/Sec 3) : 1999 
+
+
+
+ANNEX A 
+
+(Foreword) 
+
+COMMITTEE COMPOSITION 
+
+
+
+Paints (Other Than Industrial 
+
+Chairman 
+DrGautamRay 
+Members 
+
+ShrI a. N. MAHADEIiVAN 
+
+Shri Shaish Kumar 
+
+Shri B. B. Sharma {Alternate) 
+Shri S. S. Akakaikar 
+
+Shri M. G. Patil {Alternate) 
+Shri A. A. Khan 
+
+Shri R, N. Upadhyaya {Alternate) 
+ShriA. B. Mekox 
+
+Shri S. G. SHET^T {Alternate) 
+Dr a. Basu 
+DiRa^oR (Chemicals) 
+DrM.B.Guiia 
+
+Shri S. Mitra {Alternate) 
+Dr S. Ghosh 
+
+Shri K. Nirmal Kumar {Alternate) 
+Diipuri' Diri-ctor (CM) (RDSO) 
+
+DOPUTV (CC & M) (iCF) {Alternate) 
+Shri Jung Bahadur 
+
+Shri A. Mazumokr {Alternate) 
+Shri Alok Mathur 
+
+Shri M. M. Ghosh {Alternate) 
+ShriV.K-Nayyar 
+
+Shri D. P. Singh {Alternate) 
+
+ShRID. P. MUKHERJI-E 
+
+Shri A. P. Sikha {Alternate) 
+Shri S. Sarasandan 
+
+Shri Amrudh Hasija {Alternate) 
+Shri Ashok Khuiuna 
+
+Shri Ashvani Kumar (^/rerna/e) 
+Shri A. Mukherjee 
+
+Shri B. S. Narula {Alternate) 
+Dr S. K. Ghosh 
+DrS.K.Saha 
+
+Shri A. K. Chakravorty {Alternate) 
+DrG.Saha 
+
+Shri G. V. Swami {Alternate) 
+Prof S. Chandra 
+
+Dr M . Yaseen {Alternate) 
+ShriG.N.Tcwari 
+
+Shri P. K. Khanna {Alternate) 
+ShriM.Somu 
+
+Shri N. D. Gupta {Alternate I) 
+
+Shri A. K. Basu {Alternate II) 
+DrV.K.Verma 
+Dr N. Krishnamurty 
+
+
+
+Paints) and Allied Products Sectional Committee, CHD 20 
+
+Reprsenting 
+Jenson and Nicholson (India) Ltd, Calcutta 
+
+Jensen and Nicholson (India) Ltd, Calculta 
+
+Department of Industrial Policy and Promotion, New Delhi 
+
+GoodlassNerolac Paints Ltd, Mumbai 
+
+DGQA (Ministry of Defence), Kanpur 
+
+Asian Paints (India) Ltd, Mumbai 
+
+ICI India Ltd, Calcutta 
+
+Development Commissioner (SSi),Governmem of India, New Delhi 
+
+Shalimar Paints Ltd, Calcutta 
+
+Berger Paints India Ltd, Calcutta 
+
+Railway Board, New Delhi 
+
+Tata Engineringand Locomotive Co, Punc 
+
+Indian Paints Association, Calcutta 
+
+The UK Paint Industries, New Delhi 
+
+Heavy Machine Building Plant (HEC), Ranchi 
+
+Indian Small Scale Paint As^sociation, Mumbai 
+
+Central Public Works Department, New Delhi 
+
+Ministry of Defence (R&D), New Delhi 
+
+Ministry of Environment & Forests, New Delhi 
+National Test House, Calcutta 
+
+Engineers India Ltd, New Delhi 
+
+Oil Technologists Association of India, Kanpur 
+
+The Punjab Paint Colour and Varnish Works Ltd, Kanpur 
+
+Bharat Heavy Electricals Ltd, New Delhi 
+
+
+
+Shriram Institute for Industrial Research, New Delhi 
+Indian Institute of Chemical Technology, Hyderabad 
+
+
+
+IS 101 (Part 5/Sec 3) : 1999 
+
+
+
+{Continued from page 5) 
+
+Members 
+
+Shri p. Jayakumaran 
+
+Shri M. a. Khan {Alternate) 
+Shri Arun D. Kkbtan 
+Dr R. S, Rajagopalan, 
+Director (Chem) 
+
+
+
+Convener 
+DrB.B.Pal 
+
+Members 
+
+
+
+Reprsenting 
+Directorate General of Supplies & Disposals, Mumbai 
+
+Consumer Unity Trust Society (CUTS), Jaipur 
+Director General, BIS {Ex-qfficio Member) 
+
+
+
+Member Secretary 
+
+DrR.K. Singh 
+
+Additional Director (Chem), BIS 
+
+Methods of Test Subcommittee, CHD 20:1 
+
+
+
+National Test House, Calcutta 
+
+
+
+Shri K. P. Jambotkar 
+
+Shri S. V. Naik {Alternate) 
+Shri B. P. Mallik 
+
+Shri K. Nirmal Kumar {Alternate) 
+ShriC.P.Sharma 
+
+Shri S. C. Gupta {Alternate) 
+Shri A. E. Panhale 
+Dr S. D. Chatterjee 
+
+Dr a. R. Bandyopahyay {Alternate) 
+DrN. Krishnamurty 
+Shri A. N. Banerjee 
+Shri Sunil Shah 
+
+Shri Vinod Joshi {Alternate) 
+Shri A. A. Khan 
+
+Shri R. N. Upadhyay {Alternate) 
+DrS.K,Saha 
+DD(C&M) 
+
+AssisTANTT Research Officer {Alternate) 
+DrM.B.Guha 
+
+DKS.K.Duy {Alternate) 
+ShriV.K.Verma 
+
+
+
+Asian Paints (India) Ltd, Mumbai 
+
+Berger Paint Inia Ltd, Calcutta 
+
+Bharat Heavy Electricals Ltd, New Delhi 
+
+Goodlas Nerolac Paints Ltd, Mumbai 
+ICI India Ltd, Calcutta 
+
+Indian Institute of Chemical Technology, Hyderabad 
+
+Indian Paints Association, Calcutta 
+
+Indian Small Scale Paint Association, Mimibai 
+
+Ministry of Defence (DGQA), New Delhi 
+
+National Test House, Calcutta 
+
+Research Design & Stanards Organization, Lucknow 
+
+Shalimar Paints, Calcutta 
+
+Shriram Institute for Industrial Research, New Delhi 
+
+
+
+Bureau of Indian Standards 
+
+BIS is a statutory institution established under the Bureau of Indian Standards Act, 1986 to promote 
+harmonious development of the activities of standardization, marking and quality certification of goods 
+and attending to connected matters in the country. 
+
+Copyright 
+
+BIS has the copyright of all its publications. No part of these publications may be reproduced in any form 
+without the prior permission in writing of BIS. This does not preclude the free use, in the course of 
+implementing the standard, of necessary details, such as symbols and sizes, type or grade designations. 
+Enquiries relating to copyright be addressed to the Director (Publications), BIS. 
+
+Review of Indian Standards 
+
+Amendments are issued to standards as the need arises on the basis of comments. Standards are also reviewed 
+periodically; a standard along with amendments is reaffirmed when such review indicates that no changes are 
+needed; if the review indicates that changes are needed, it is taken up for revision. Users of Indian Standards 
+should ascertain that they are in possession of the latest amendments or edition by referring to the latest issue of 
+'BIS Catalogue' and 'Standards: Monthly Additions'. 
+
+This Indian Standard has been developed from Doc : No. CHD 20 (780). 
+
+
+
+Amendments Issued Since Publication 
+
+
+
+Amend No. 
+
+
+
+Date of Issue 
+
+
+
+Text Affected 
+
+
+
+BUREAU OF INDIAN STANDARDS 
+
+
+
+Headquarters : 
+
+
+
+Manak Bhavan, 9 Bahadur Shah Zafar Marg, New Delhi 1 10 002 
+Telephones : 323 01 31, 323 33 75, 323 94 02 
+
+Regional Offices : 
+
+Central : Manak Bhavan, 9 Bahadur Shah Zafar Marg 
+NEW DELHI 110 002 
+
+Eastern : 1/14 C. I. T. Scheme Vll M, V. I. P. Road, Kankurgachi 
+CALCUTTA 700 054 
+
+Northern : SCO 335-336, Sector 34- A, CHANDIGARH 160 022 
+Southern : C. I. T. Campus, IV Cross Road, CHENNAI 600 1 13 
+
+
+
+Western 
+
+
+
+Branches 
+
+
+
+Manakalaya, E9 MIDC, Marol, Andheri (East) 
+MUMBAI 460 093 
+
+
+
+Telegrams : Manaksanstha 
+(Common to all offices) 
+
+
+
+Telephone 
+
+323 76 17 
+323 38 41 
+
+
+
+["337 84 99, 337 85 61 
+\337 86 26, 337 9120 
+
+
+
+{ 
+
+
+
+{ 
+
+
+
+60 38 43 
+60 20 25 
+
+
+
+J235 02 16,235 04 42 
+\235 15 19, 235 23 15 
+
+r832 92 95, 832 78 58 
+1832 78 91,832 78 92 
+
+
+
+AHMADABAD. BANGALORE. BHOPAL. BHUBANESHWAR. COIMBATORE. 
+FARIDABAD. GHAZIABAD. GUWAHATI. HYDERABAD. JAIPUR. KANPUR. 
+LUCKNOW. NAGPUR. PATNA. PUNE. RAJKOT. THIRUVANANTHAPURAM. 
+
+
+
+Printed at PriutoRraph, New Delh. Ph.: 5726847 
+
+
+

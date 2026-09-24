@@ -22,7 +22,7 @@ export const metadata: Metadata = {
     template: "%s · BIS Standards AI",
   },
   description:
-    "Search 197 Indian Standards, analyse tender PDFs, and check product compliance against BIS Quality Control Orders — with citations for every answer.",
+    "Search 1,000 Indian Standards, analyse tender PDFs, and check product compliance against BIS Quality Control Orders — with citations for every answer.",
 };
 
 export default function RootLayout({

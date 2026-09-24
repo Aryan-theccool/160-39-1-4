@@ -1,0 +1,696 @@
+**************** 
+
+
+
+
+Disclosure to Promote the Right To Information 
+
+Whereas the Parliament of India has set out to provide a practical regime of right to 
+information for citizens to secure access to information under the control of public authorities, 
+in order to promote transparency and accountability in the working of every public authority, 
+and whereas the attached publication of the Bureau of Indian Standards is of particular interest 
+to the public, particularly disadvantaged communities and those engaged in the pursuit of 
+education and knowledge, the attached public safety standard is made available to promote the 
+timely dissemination of this information in an accurate manner to the public. 
+
+
+
+
+Mazdoor Kisan Shakti Sangathan 
+"The Right to Information, The Right to Live" 
+
+
+
+IS 10000-3 (1980) : Methods of tests for intrnal combustion 
+engines, Part 3: Measuremnts for testing-units and limits 
+of accuracy [TED 2: Automotive Primemovers] 
+
+
+
+
+Jawaharlal Nehru 
+'Step Out From the Old to the New' 
+
+
+
+■K^y / 1 juaaaws^fea rs^^TTF^ 
+
+
+
+2*S< W I *>S*V2^NK^ 
+
+
+
+^frcvvv^ 
+
+
+
+Satyanarayan Gangaram Pitroda 
+Invent a New India Using Knowledge 
+
+
+
+Bhartrhari — Nitisatakam 
+"Knowledge is such a treasure which cannot be stolen" 
+
+
+
+
+.^^_ 
+
+
+
+• 
+
+
+
+
+BLANK PAGE 
+
+
+
+*rt*2V^ 
+
+
+
+
+
+PROTECTED BY COPYRIGHT 
+
+
+
+UDC «2i'43-0l8'«:62<n-OB8-3 ( Second Reprint OCTOBER 1990) IS : 10000 ( Part III ) - 1900 
+
+
+
+# -/. *j -/ ^ (Reaffirmed 2001) 
+
+Indian Standard 
+
+METHODS OF TESTS FOR 
+INTERNAL COMBUSTION ENGINES 
+
+PART III MEASUREMENTS FOR TESTING — UNITS AND 
+LIMITS OF ACCURACY 
+
+
+
+may 
+
+
+
+1. Scope — Specifies the units and limits of accuracy for the purpose of measurement of test 
+parameters of constant speed and variable speed internal combustion engines. 
+
+2, Measurement Conditions and Definitions of Degree of Accuracy 
+
+2.1 Operating Conditions 
+
+2.1.1 Before a set of measurements is commenced, the engine shall have operated at particular 
+load and speed for a sufficient length of time to ensure that the operating temperatures have 
+reached stable conditions as lajd down by the manufacturer. 
+
+2.1.2 During the period in which a set of measurements is being made, the load, the speed and 
+all the fluid temperatures and pressures shall be maintained constant within limits of accuracy of 
+measurement given in 3, col 5. 
+
+2.2 Methods of Measurement— Are generally selected by the manufacturer, and, if necessary, 
+be subject to agreement between the manufacturer, user, and/or inspecting authority. 
+
+2.3 Accuracy of Measurement — Includes the accuracy of instrument being used, involves 
+correctness of location of the instrument, the conditions under which it is used and the 
+interpretation of the results obtained. 
+
+2.3.1 Where the total accuracy involves measurements of a number of quantities, each with its 
+own accuracy, or where individual measurement is dependent on several parameters, each with its 
+own accuracy, the overall accuracy is taken as the square root of the sum of the squares of the 
+separate accuracies, each multiplied by an appropriate factor equal to the exponent of its parameter 
+in the formulae. 
+
+2.3.2 The accuracies given in 3 are considered adequate for most acceptance tests. Manufacturers 
+may adopt greater accuracy of measurements for: 
+
+a) Type tests, and 
+
+b) Special contractual or legislative requirements. 
+
+2.3.2.1 Where measurements are used in subsequent calculations, accuracies greater than 
+those specified for the measured parameters may be chosen to achieve the specified accuracy for 
+the final calculated parameters. 
+
+2.3.3 The degree of accuracy assumes that the instruments selected are operating within their 
+range of maximum accuracy. 
+
+2.3.4 All measuring instruments and apparatus used during tests shall be checked and calibrated 
+over the range of expected readings. 
+
+2.4 Dynamometer Balance, Calibration and Sensitivity 
+
+2.4.1 Scales shall be checked for zero scale reading with the dynamometer frame in neutral 
+position. 
+
+2.4.2 Calibration of the dynamometer with the engine running at some fixed (beam) load, for 
+example, 445N, may be checked by the addition of a 445N weight to the opposite side which should 
+bring the scale back to zero reading. This shall be done for several different loads within the range 
+of expected operation and shall be repeated under static conditions. The result obtained shall be 
+accurate within plus or minus one-half percent of the observed full load reading. 
+
+
+
+Adopted 25 July 1980 
+
+
+
+October 1980, BIS 
+
+
+
+Gr 3 
+
+
+
+BUREAU OF INDIAN STANDARDS 
+
+MANAK BHAVAN, 9 BAHADUR SHAH ZAFAR MARG 
+NEW DELHI 110002 
+
+
+
+IS: 10000 (Part III) -1980 
+
+2.4.3 Hydraulic brakes, electric dynamometers or other similar appliances for measurement of 
+torque shall be statically calibrated by suspending weights on a lever arm of constant length or by 
+other suitable methods. Electric dynamometers shall be calibrated for both ' brake ? and ' motoring ' 
+positions. 
+
+2.4.4 Sensitivity of dynamometer and scale shall be checked by adding small increments of weight 
+until the pointer moves a readable amount. The magnitude of this weight, which is the sensitivity, 
+shall not exceed one fourth percent of the observed full load reading. Several points shall be 
+checked within the operating range. 
+
+2.5 Exhaust Gas Opacimeter Accuracy — The indicating dial of the opacimeter shall enable an 
+absorption coefficient of 17m" 1 to be read with an accuracy of O'tESnr 1 . [ For details see IS : 10000 
+( Part X ) - 1980 Methods of tests for internal combustion engines: Part X Tests for smoke levels, 
+limits and corrections for smoke levels for variable speed engines.] 
+
+
+
+3. Units and Limits of Accuracy 
+
+
+
+Clause 
+
+
+Parameter 
+
+
+1 
+Unit 
+
+
+Symbol 
+
+
+Limits of Accuracy 
+
+
+(D 
+
+
+(2) 
+
+
+(3) 
+
+
+(4) 
+
+
+(5) 
+
+
+3.1 
+3.2 
+
+
+General Parameters 
+
+Engine speed* 
+
+Engine driving shaft speed 
+
+
+rev/ mi n 
+rev/ ml n 
+
+
+n 
+na 
+
+
+±1 percent 
+±1 percent 
+
+
+3.3 
+
+3.4 
+
+3.5 
+36 
+
+3.7 
+3.8 
+3.9 
+
+
+Pressures 
+
+Barometric pressureft 
+
+Compression pressure in a 
+cylinder! 
+
+Maximum pressure in a cylinder 
+
+Exhaust gas pressure in the 
+exhaust pipe 
+
+Coolant pressure 
+
+Lubricating oil pressure 
+
+Fuel pressure 
+
+
+kPa 
+kPa 
+
+kPa 
+kPa 
+
+J<Pa 
+kPa 
+kPa 
+
+
+P* 
+
+Pa 
+PM»x 
+
+Pg 
+Poool 
+
+Po 
+
+Pt 
+
+
+±0'5 percent 
+
+±5 percent 
+±5 percent 
+
+±5 percent 
+±5 percent 
+
+±5 percent 
+db10 percent 
+
+
+♦Measured by a tachometer, revolution counter or tachoscope. 
+
+tThe accuracy of each pressure ( except the pressure at 3.3 ) is given as percentage of the gauge pressure. 
+
+^Measured by spring loaded or fluid type barometers. 
+
+§Measured by a recording maximum pressure gauge, mechanical indicator or from an indicator diagram. 
+
+
+
+IS: 10000 (Part III) -1980 
+
+
+
+Clause 
+
+
+Parameter 
+
+
+Unit 
+
+
+Symbol 
+
+
+Limits of Accuracy 
+
+
+(D 
+
+
+(2) 
+
+
+(3) 
+
+
+(4) 
+
+
+(5) 
+
+
+• 
+3.10 
+
+3.11 
+3.12 
+3.13 
+3.14 
+
+
+Temperatures* 
+
+Air temperature at the engine or 
+pressure charger inlet 
+( ambient temperature ) 
+
+Coolant temperature 
+
+Lubricating oil temperature 
+
+Fuel temperature 
+
+Exhaust gas temperature 
+
+
+K 
+
+K 
+K 
+
+K 
+K 
+
+
+'cool 
+To 
+Tt 
+T e 
+
+
+±2 K 
+
+±2K 
+
+±2K 
+±5K 
+±5K 
+
+
+315 
+
+3 16 
+3.17 
+
+
+Consumptions^ 
+
+Fuel consumption (Gravimetric 
+method ) 
+
+Fuel quantity consumption 
+
+Lubricating oil consumption 
+
+
+g/s 
+
+ml 
+
+g/s 
+
+
+Gi 
+
+Go 
+
+
+db 0'5 percent 
+
+±05 ml 
+
+± 10 percent 
+
+
+3.18 
+
+
+Time 
+
+
+s 
+
+
+t 
+
+
+±0"5s 
+
+
+3.19 
+3.20 
+3.21 
+
+
+£missions% 
+Hartridge smoke value 
+
+Bosch smoke value 
+
+Exhaust gas opacity 
+
+
+Hartridge smoke 
+unit 
+
+Bosch smoke 
+unit 
+
+m" 1 
+
+
+Sb 
+k 
+
+
+± 2 units 
+± 0'2 units 
+± 0'025 rrr 1 
+
+
+3.22 
+3.23 
+
+
+Dynamometer^ 
+Dynamometer load reading 
+
+Sensitivity 
+
+
+— 
+
+
+i 
+
+
+± 0'5 percent of 
+full load reading 
+( see 2.4.2 ) 
+
+± 0*25 percent 
+load reading 
+(see 2.4.4) 
+
+
+fluld"^ m6th0dS (resistance thermometers or a thermocouple with measuring apparatus) or 
+
+n..«^?MTh Pti fl n ^ ? re measu, \ ed b y mass or vo'ume methods, by determining the time during which a njven 
+quantity of the fluid is consumed, using normal pressure differential systems or other types of flowmeters 
+
+*♦> be measured by a Hartridge smoke meter, Bosch smoke meter or an exhaust gas opacimeter. 
+
+§Used for measurement of engine torque and power ( calculated from torque and speed ). 
+
+
+
+IS: 10000 (Pari III) -1980 
+
+EXPLANATORY NOTE 
+
+The testing and performance of constant speed and variable speed internal combustion 
+engines was earlier covered by the following Indian Standards: 
+
+IS: 1600-1960 'Code for type testing of constant speed internal combustion engines for 
+
+general purposes \ 
+IS : 1601-1960 * Performance of constant speed internal combustion engines for general 
+
+purposes \ 
+IS : 1602-1960 ' Code for type testing of variable speed internal combustion engines for 
+
+automotive purposes \ and 
+IS: 1603-1960 'Performance of variable-speed internal-combustion engines for automotive 
+
+purposes '. 
+
+These standards were originally issued in the year 1960 and as a result of implementation 
+of these standards by the manufacturers of engines and testing laboratories, as also the 
+operation of ISI Certification Marking Scheme, these standards have now been extensively 
+revised. 
+
+While IS: 1600 and IS: 1602 covered the codes for type testing of constant and variable 
+speed engines respectively, the performance requirements of such engines were covered by IS : 1601 
+and IS: 1603, respectively. These standards are now replaced by two sets of standards, one sei 
+covers the methods of testing of engines and the other covers the specification and performance 
+requirements of both constant speed and variable speed engines. 
+
+The standard covering methods of tests is being published in following 12 parts (each part 
+covering a particular test method or information related to methods of tests ): 
+
+IS : 10000 Part I Glossary of terms relating to test methods 
+
+IS : 10000 Part II Standard reference conditions 
+
+IS : 10000 Part III Measurements for testing — units and limits of accuracy 
+
+IS : 10000 Part IV Declarations of power, efficiency, fuel consumption and lubricating oil 
+consumption 
+
+IS : 10000 Part V Preparation for tests and measurements for wear 
+
+IS : 10000 Part VI Recording of test results 
+
+IS : 10000 Part VII Governing tests for constant speed engines and selection of engines for 
+use with electrical generators 
+
+IS ; 10000 Part VIII Performance tests 
+
+IS : 10000 Part IX Endurance tests 
+
+IS : 10000 Part X Tests for smoke levels, limits and corrections for smoke levels for variable 
+speed engines 
+
+IS : 10000 Part XI Information required with inquiry or order and information supplied by 
+the manufacturer with the engine 
+
+IS : 10000 Part XII Test certificates. 
+
+This standard will be complementary to specifications for performance requirements of 
+different types of engines covered by following standards: 
+
+IS : 10001 Specification for performance requirements for constant speed compression 
+ignition (diesel) engines for general purposes (up to 20 kW) 
+
+IS: 10002 Specification for performance requirements for constant speed compression 
+ignition (diesel) engines for gene'ral purposes (above 20 kW ) 
+
+IS : 10003 Specification for performance requirements for variable speed compression 
+ignition ( diesel ) engines for automotive purposes 
+
+IS : 10004 Specification for performance requirements for variable speed spark ignition 
+engines for automotive purposes 
+
+Spark ignition engines for sprayers and similar applications have been covered by IS: 7347- 
+1974 ' Specification for performance requirements of small size spark ignition engines for sprayers 
+and similar applications *. 
+
+Two-stroke spark ignition engines for automotive applications which were earlier covered by 
+IS : 1603 will be covered by a separate specification. 
+
+
+
+IS: 10000 (Part III) -1980 
+
+The revised methods of tests covered by IS : 10000 (Part I to Part XII) have been 
+aligned with the current international practices in the field of I. C. engines. These parts are in 
+general agreement with the following ISO standards, issued by the International Organization for 
+Standardization: 
+
+
+
+a) ISO 3046/1-1975 
+
+h) ISO 3046/11-1977 
+
+c) ISO 3046/111-1979 
+
+d) ISO 2710-1978 
+
+
+
+Reciprocating internal combustion engines — Perfdrmance: Parti 
+Standard reference conditions and declarations of power, fuel 
+consumption and lubricating oil consumption 
+
+Reciprocating internal combustion engines — Performance: Part II 
+Test methods 
+
+Reciprocating internal combustion engines — Performance: Part III 
+Test measurements 
+
+Reciprocating internal combustion engines — Vocabulary 
+
+This Part III of IS : 10000 is in general agreement with ISO 3046/111-1979. However, the 
+calculated quantities and their limits of accuracies have been deleted. Also the definitions covered 
+by ISO 3046/111-1979 have been covered in IS : 10000 ( Part I ) - 1980. Many of the parameters which 
+are not applicable to the Indian conditions have not been included from ISO 3046/111-1979, while 
+some additional parameters like smoke levels have been introduced. 
+
+IS : 10000 ( Part I to Part XII ) and IS : 10001, IS : 10002, IS : 10003 and IS : 10004 collectively 
+supersede IS : 1600, IS : 1601, IS : 1602 and IS : 1603. 
+
+
+
+Reprography Unit, BIS, New Delhi, India 
+
+
+
+AMENOMINT HO. 1 MARCH 19U5 
+
+70 
+
+!S: 10000 (Part 3 )-1 930 METHODS OF TESTS FOR IHTLRHAL 
+
+COMBUSTION ENGINES 
+
+|>A!U 3 MEASUREHENIS FUR US UNO UNITS 
+AND LIMITS OF ACCURACY 
+
+
+
+{Page I, clause 2,4.2, last sentence) - Substitute 
+the following sentence for the existing: 
+
+'The result obtained shall be accurate within plus 
+or minus one-half percent of the observed full, load 
+reading of dynamometer.' 
+
+{I'age 3, clause S.16, col 5) - Substitute 
+'+ 0.5 percent! for •+ 0.5 ml 1 . 
+
+
+
+(EDC lM 
+
+
+
+RcproRffiphy Unit, 1)1 S, Hew Delhi, India 
+
+
+

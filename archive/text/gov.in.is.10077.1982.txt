@@ -1,0 +1,816 @@
+**************** 
+
+
+
+
+Disclosure to Promote the Right To Information 
+
+Whereas the Parliament of India has set out to provide a practical regime of right to 
+information for citizens to secure access to information under the control of public authorities, 
+in order to promote transparency and accountability in the working of every public authority, 
+and whereas the attached publication of the Bureau of Indian Standards is of particular interest 
+to the public, particularly disadvantaged communities and those engaged in the pursuit of 
+education and knowledge, the attached public safety standard is made available to promote the 
+timely dissemination of this information in an accurate manner to the public. 
+
+
+
+
+Mazdoor Kisan Shakti Sangathan 
+"The Right to Information, The Right to Live" 
+
+
+
+IS 10077 (1982) : equipment for determination of shrinkage 
+factors [CED 43: Soil and Foundation Engineering] 
+
+
+
+
+Jawaharlal Nehru 
+'Step Out From the Old to the New' 
+
+
+
+■K^y / 1 juaaaws^fea rs^^TTF^ 
+
+
+
+2*S< W I *>S*V2^NK^ 
+
+
+
+^frcvvv^ 
+
+
+
+Satyanarayan Gangaram Pitroda 
+Invent a New India Using Knowledge 
+
+
+
+Bhartrhari — Nitisatakam 
+"Knowledge is such a treasure which cannot be stolen" 
+
+
+
+
+.^^_ 
+
+
+
+• 
+
+
+
+
+BLANK PAGE 
+
+
+
+*rt*2V^ 
+
+
+
+
+
+PROTECTED BY COPYRIGHT 
+
+
+
+M Reaffirmed I9gg> 
+
+IS: 10077- 1932 
+
+( Reaffirmed 2006 ) 
+
+Indian Standard 
+
+SPECIFICATION FOR EQUIPMENT FOR 
+DETERMINATION OF SHRINKAGE FACTORS 
+
+
+
+UDC 6^ 1 1131-13 1 ; 620-1-05 
+
+
+
+
+£> Copyright 1902 
+
+INDIAN STANDARDS INSTITUTION 
+
+MANAK iHAVAN, S BAHADUR SHAM ZAFAR MARC 
+
+NEW DELHI UUtm 
+
+Gr 3 Btetmbtr 1982 
+
+
+
+IS : 10077 • 1982 
+
+Indian Standard 
+
+SPECIFICATION FOR EQUIPMENT FOR 
+DETERMINATION OF SHRINKAGE FACTORS 
+
+Soil Engineering and Rock Mechanics Sectional Committee, BDC 23 
+
+Chairman Representing 
+
+Dr Jagdish Narain University of Roorkee, Roorkee 
+
+Members 
+
+Additional Director, IRI Irrigation Department, Govt of Bihar, Patna 
+
+Additional Director Research Ministry of Railways 
+( F. E. ) 
+
+Deputy Director Research 
+( Soil Mech ) ( Alternate ) 
+Shri P. D. Agarwal Public Works Department, Govt of Uttar Pradesh, 
+
+Lucknow 
+
+Dr B. L. Dhawan ( Alternate ) 
+Prof Alam Singh University of Jodhpur, Jodhpur 
+
+Col Avtar Singh Engineer-in-Chief 's Branch, Army Headquarters 
+
+Lt-Gol V. K. Kanitkar ( Alternate ) 
+Chief Engineer ( D & R ) Irrigation Department, Govt of Punjab, Chandigarh 
+
+Dr G. S. Dhillon ( Alternate ) 
+Shri M. G. Dandavate The Concrete Association of India, Bombay 
+
+Shri N. C. Duggal ( Alternate ) 
+Shri A. G. Dastidar In personal capacity ( 5 Hungerford Courts 12/1, 
+
+Hungerford Street, Calcutta 700 017 ) 
+Dr G. S. Dhillon Indian Geotechnical Society, New Delhi 
+
+Director, IRI Irrigation Department, Government of Uttar Pradesh, 
+
+Roorkee 
+Shri A. H. Divanji Asia Foundations and Construction (P) Ltd, 
+
+Bombay 
+
+Shri A. N. Jangle ( Alternate ) 
+t\ <^ t> f Institution of Engineers ( India ), Calcutta 
+
+DrGopalRajan I University of Roorkee, Roorkee 
+
+Shri S. Gupta Cemindia Co Ltd, Bombay 
+
+Shri N. V. De Sousa ( Alternate ) 
+Shri G. S.Jain G. S.Jain & Associates, Roorkee 
+
+Shri Vijay K. Jain ( Alternate ) 
+Shri A. B. Joshi Central Water Commission, New Delhi 
+
+Dy Director ( CSMRS ) ( Alternate ) 
+Col M. V. Kayerkar Ministry of Defence (R&D) 
+
+Shri V. B. Ghorpade ( Alternate ) 
+
+( Continued on page 2 ) 
+
+
+
+© Copyright 1982 
+
+INDIAN STANDARDS INSTITUTION 
+
+This publication is protected under the Indian Copyright Act ( XIV of 1957 ) and 
+
+reproduction in whole or in part by any means except with written permission of the 
+
+publisher shall be deemed to be an infringement of copyright under the said Act. 
+
+
+
+IS : 10077 - 1982 
+
+
+
+( Continued from page 1 ) 
+
+Members 
+Shri O. P. Malhotra 
+
+Shri D. R. Narahari 
+
+Shri B. G. Rao ( Alternate ) 
+Shri T. K. Natarajan 
+Dr G. B. Rao 
+
+Dr K. K. Gupta ( Alternate ) 
+Research Officer ( B & RRL ) 
+
+Shri K. R. Saxena 
+
+Secretary 
+
+Dy Secretary ( Alternate ) 
+Shri N. Sivaguru 
+
+Shri D. V. Sikka ( Alternate ) 
+Shri K. S. Srinivasan 
+
+Shri Sunil Berry ( Alternate ) 
+Shri N. Subramanyam 
+
+Superintending Engineer( P&DC ) 
+Executive Engineer ( SMRD ) 
+Shri H. G. Verma 
+
+Shri H. K. Guha ( Alternate ) 
+Shri G. Raman, 
+
+Director (Civ Engg ) 
+
+
+
+Representing 
+
+Public Works Department Administration, 
+
+Chandigarh 
+Central Building Research Institute (CSIR), Roorkee 
+
+Central Road Research Institute (CSIR), New Delhi 
+Indian Institute of Technology, New Delhi 
+
+Public Works Department, Govt of Punjab, Chandi- 
+garh 
+
+Engineering Research Laboratories, Govt of Andhra 
+Pradesh, Hyderabad 
+
+Central Board of Irrigation & Power, New Delhi 
+
+Roads Wing ( Ministry of Shipping and Transport ) 
+National Buildings Organization, New Delhi 
+
+Karnataka Engineering Research Station, Krishna- 
+raj asagar 
+
+PWD, Govt of Tamil Nadu, Madras 
+
+( Alternate ) 
+
+All India Instruments Manufacturers & Dealers 
+Association, Bombay 
+
+Director General, ISI ( Ex-officio Member ) 
+
+
+
+Secretary 
+
+Shri K. M. Mathur 
+Deputy Director ( Civ Engg ), ISI 
+
+
+
+Soil Testing Instruments and Equipment Subcommittee, BDC 23 : 6 
+
+
+
+Convener 
+Shri H. C. Verma 
+
+Members 
+
+Shri M. D. Nair ( Alternate to 
+
+Shri H. C. Verma ) 
+Deputy Director Research 
+
+( Soil Mech ), ( RDSO ) 
+Director ( CSMRS ) Central Water Commission 
+
+Deputy Director ( CSMRS ) ( Alternate ) 
+Shri H. K. Guha Geologists' Syndicate Pvt Ltd, Calcutta 
+
+Shri A. Bhattacharya ( Alternate ) 
+Shri A. K. Gupta Saraswathi Engineering Agency, Roorkee 
+
+Shri Rakesh Geol ( Alternate ) 
+
+
+
+Associated Instrument Manufacturers ( I ) Pvt Ltd, 
+New Delhi 
+
+
+
+Ministry of Railways 
+
+
+
+( Continued on-pagt 9 ) 
+
+
+
+IS : 10077 - 19B2 
+
+Indian Standard 
+
+SPECIFICATION FOR EQUIPMENT FOR 
+DETERMINATION OF SHRINKAGE FACTORS 
+
+0. FOREWORD 
+
+0.1 This Indian Standard was adopted by the Indian Standards Institution 
+on 20 January 1982, after the draft finalized by the Soil Engineering and 
+Rock Mechanics Sectional Committee had been approved by the Civil 
+Engineering Division Council. 
+
+0.2 The Indian Standards Institution has already published a series of 
+standards on methods of testing soils. It has been recognised that reliable 
+and intercomparable test results can be obtained only with standard testing 
+equipment capable of giving the desired level of accuracy. The Sectional 
+Committee has, therefore, decided to bring out a series of specifications 
+covering the requirements of equipment used for testing soils to 
+encourage its development and manufacture in the country. 
+
+0.3 The equipment covered in this standard is used in the apparatus for 
+determination of shrinkage factors of soils covered in IS : 2720 ( Part VI )- 
+1972*. 
+
+0.4 For the purpose of deciding whether a particular requirement of this 
+standard is complied with, the final value, observed or calculated, expressing 
+the result of a test or analysis, shall be rounded off in accordance with 
+IS : 2-1960t- The number of significant places retained in the rounded off 
+value should be the same as that of the specified value in this standard. 
+
+
+
+1. SCOPE 
+
+1.1 This standard covers the requirement of equipments for the apparatus 
+used for determination of shrinkage limit, shrinkage ratio, shrinkage index 
+and volumetric shrinkage of soils. 
+
+2. DIMENSIONS 
+
+2.1 Dimensions and tolerances of different equipment shall be as detailed 
+in Fig. 1 to 6 and in 4.6. Except where tolerances are specifically 
+mentioned against the dimensions, all dimensions shall be taken as nominal 
+dimensions and tolerances as given in IS : 2 102- 1969 J shall apply. 
+
+
+
+♦Methods of test for soils: Part VI Determination of shrinkage factors (fast revision } 
+
+t Rules for rounding off numerical values (revised). 
+
+^Allowable deviations for dimensions without specified tolerances (fast revision). 
+
+
+
+IS : 10077 -1982 
+
+3. MATERIALS 
+
+3.1 The materials of construction of various parts of the apparatus /equip- 
+ment shall be as given in Table 1 and 4,6. 
+
+TABLE 1 MATERIALS OF CONSTRUCTION OF PARTS OF EQUIPMENTS 
+
+
+
+Equipment 
+
+
+
+Evaporating dish 
+
+Spatula 
+
+a) Blade 
+
+b) Handle 
+
+Shrinkage dish 
+
+
+
+Vrong plate 
+a) Prong 
+
+
+
+b) Plate 
+Plain plate 
+Glass cup 
+
+
+
+Material 
+
+
+
+Porcelain 
+
+
+
+Steel 
+Wood 
+
+Stainless steel 
+
+
+
+Special 
+
+Requirement, 
+
+if ANY 
+
+
+
+Polished 
+Painted 
+
+
+
+i) Brass 
+ii) Stainless steel 
+
+Acrylic plastic** 
+
+Acrylic plastic** 
+
+Glass 
+
+
+
+Relevant 
+
+Indian Standard 
+
+Specification 
+
+IS : 2837 ( Part II ) - 
+1977* 
+
+see IS :2507-1975f 
+see IS : 620-1975J 
+
+Grade 07Crl8Ni9 of 
+IS :6911-1972§ 
+
+
+
+see IS : 319-1974|| 
+
+see Grade 07Crl8Ni9 of 
+IS :6911-1972§ 
+
+
+
+see IS : 878-1 9751T 
+
+
+
+*Specification for porcelain crucibles and basins: Part II Basins (first revision). 
+f Specification for cold rolled steel strip for springs (first revision). 
++General requirements for wooden tool handles ( third revision). 
+^Specification for stainless steel plate sheet and strip, 
+
+H Specification for free-cutting brass bars, rods and sections ( third revision ). 
+^Specification for graduated measuring cylinders (first revision). 
+**Relevant Indian Standard is under preparation. 
+
+
+
+4. CONSTRUCTION 
+
+4.1 Evaporating Dish — The evaporating dish shall be as detailed in 
+Fig. 1. The inside of the evaporating dish shall be smooth. 
+
+4.2 Spatula — The spatula shall be as detailed in Fig. 2. A wooden handle 
+shall be fixed as shown in Fig. 2. 
+
+4.3 Shrinkage Dish — The shrinkage dish shall be as detailed in Fig. 3. 
+The internal corner between the bottom and the vertical sides shall be 
+rounded into a smooth concave curve of approximately 3 mm radius. 
+
+
+
+IS : 10077 - 1982 
+
+
+
+
+Fig. 1 Evaporation Dish 
+5 
+
+
+
+2*5 mm 
+
+
+
+2*5 mm- 
+
+
+
+IS : 10077 - 1982 
+
+
+
+r 
+
+
+
+100' 
+
+
+
+■*■ 
+
+
+
+3 
+
+
+
+80- 
+
+
+
+U0 
+
+
+
+■180 
+
+
+
+■60- 
+
+
+
+pO-7 
+
+
+
+z 
+
+
+
+RIVET 
+
+
+
+All dimensions in millimetres. 
+
+Fig. 2 Spatula 
+
+
+
+t 
+
+
+
+^ahiz.j - — — ^ I 
+
+
+
+WOODEN 
+HANDLE -J 
+
+
+
+T 
+
+15 
+
+i 
+
+
+
+; r R 3 approx ; 
+
+
+
+a 
+
+
+
+\L 
+
+
+
+* 
+
+
+
+Trnr i tt t t?t ttrk 
+
+
+
+U— 45 ±0*2 J 
+
+« ■■ <b CI m 
+
+
+
+All dimensions in millimetres. 
+
+Fig. 3 Shrinkage Dish 
+
+
+
+25t1 
+
+
+
+
+[m 52ti 
+
+
+
+AH dimensions in millimetres. 
+
+Fig. 4 Glass Cup 
+
+
+
+4.4 Glass Cup — It shall be as detailed in Fig. 4. 
+
+4.5 Prong Plate — The prong plate shall be as detailed in Fig. 5. The 
+plate shall be plain. Three prongs as detailed in Fig. 5 shall be fixed to 
+the plate at 120° to each other and spacing of 30 mm ( centre to centre ). 
+
+4.6 Plain Plate — The plate shall be of size 75 mm square and of 3 mm 
+thickness. The plate shall be plain ( see Fig. 6 ). 
+
+
+
+
+IS : 10077 - 1982 
+
+
+
+
+
+
+,r T 
+
+
+
+15 3 
+
+
+
+i_lj] 
+
+
+
+PRONG 
+
+
+
+
+
+
+PRONG 
+
+
+
+TTnr 
+
+PRONG PLATE 
+
+
+
+Z2za: 
+
+
+
+L 
+
+
+
+All dimensions in millimetres. 
+
+Fig. 5 Details of Prong 
+
+4.7 Other Accessories — The equipment shall also have the following 
+other accessories: 
+
+a) Straight Edge— 150 mm long and 25 mm wide as per 
+
+IS : 2220-1962*. 
+
+b) Measuring Cylinder — of 25 ml capacity as per IS : 878-1975t. 
+
+5. MARKING 
+
+
+
+♦Specification for steel straight edges. 
+
+tSpccification for graduated measuring cylinders {first revision ). 
+
+
+
+IS : 10077 - 1982 
+
+
+
+75 mm 
+
+
+
+4*» 
+
+
+
+7 
+
+• mm- 1 
+
+
+
+All dimensions in millimetres. 
+
+Fig. 6 Plain Plate 
+
+5.1 The following information shall be clearly and indelibly marked 
+suitably : 
+
+a) Name of manufacturer or his registered trade-mark, 
+
+b) Date of manufacture, and 
+
+c) Type of material used. 
+
+5.1.1 The equipment may also be marked with the ISI Certification 
+Mark. 
+
+Note — The use of the ISI Certification Mark is governed by the provisions 
+of the Indian Standards Institution ( Certification Marks ) Act and the Rules 
+and Regulations made thereunder. The ISI Mark on products covered by an 
+Indian Standard conveys the assurance that they have been produced to comply 
+with the requirements of that standard under a well-defined system of inspection, 
+testing and quality control which is devised and supervised by ISI and operated 
+by the producer. ISI marked products are also continuously checked by ISI for 
+conformity to that standard as a further safeguard. Details of conditions under 
+which a licence for the use of the ISI Certification Mark may be granted to manu- 
+facturers or processors, may be obtained from the Indian Standards Institution. 
+
+
+
+8 
+
+
+
+IS : 10077 - 1982 
+
+
+
+( Continued from page 2 ) 
+
+Members 
+
+Shri S. K. Gupta 
+Dr S. C. Handa 
+Dr B. R. Malhotra 
+Shri D. S. Pathania 
+
+Shri Y. C. Sood ( Alternate ) 
+Dr T. Ramamurthy 
+Shri Resham Singh 
+
+Shri Jatinder Singh ( Alternate 
+Shri S. Venkatesan 
+
+Shri M. R. Soneja ( Alternate ) 
+
+
+
+Representing 
+
+Ministry of Defence 
+University of Roorkee, Roorkee 
+Central Road Research Institute ( CSIR ), New Delhi 
+Central Scientific Instruments Organisation ( CSIR ), 
+Chandigarh 
+
+Indian Institute of Technology, Delhi 
+Hydraulic & Engineering Instruments Company, 
+
+New Delhi 
+) 
+Central Building Research Institute (CSIR), Roorkee 
+
+
+

@@ -1,0 +1,30 @@
+INDIAN STANDARD
+IS 3196 (Part 1):2013
+WELDED LOW CARBON STEEL GAS CYLINDERS EXCEEDING 0.9 LITRE WATER CAPACITY FOR LOW PRESSURE LIQUEFIABLE GASES: PART 1 CYLINDERS FOR LIQUEFIED PETROLEUM GAS (LPG)
+Bureau of Indian Standards, Manak Bhavan, New Delhi
+
+Technical Committee: MED 16 (Mechanical Engineering)
+Year of Publication: 2013
+Status: Current Indian Standard
+Source: https://archive.org/details/gov.in.is.3196.1.2013
+
+1. SCOPE AND FIELD OF APPLICATION
+1.1 This Indian Standard prescribes the requirements, classification, methods of sampling and tests for Welded low carbon steel gas cylinders exceeding 0.9 litre water capacity for low pressure liquefiable gases: Part 1 Cylinders for Liquefied Petroleum Gas (LPG).
+1.2 The requirements of this standard apply to procurement specifications, tender evaluations, quality compliance checks, and statutory certifications.
+
+2. SUMMARY & TECHNICAL REQUIREMENTS
+Specifies materials, wall thickness, circumferential welds, hydrostatic proof pressure, and burst testing for domestic 14.2kg and commercial LPG cylinders.
+
+3. MATERIAL, CHEMICAL AND PHYSICAL SPECIFICATIONS
+3.1 All materials used in the manufacture shall conform to the applicable Indian Standards.
+3.2 Physical and mechanical properties including tensile strength, yield stress, elongation, dimensional tolerances, pressure rating, and thermal performance shall strictly meet the specified test parameters.
+3.3 Finished products shall be free from defects, cracks, seams, surface flaws, and structural voids.
+
+4. SAMPLING, INSPECTION AND COMPLIANCE TESTING
+4.1 Representative samples shall be drawn from each manufacturing lot according to statistical sampling procedures.
+4.2 Acceptance tests and routine type tests shall be conducted to verify conformity with all performance criteria.
+4.3 Test certificates shall be provided indicating chemical analysis and mechanical test values.
+
+5. MARKING AND PACKING
+5.1 Each item or packing unit shall be legibly and indelibly marked with: Manufacturer's name or trademark, Standard designation (IS 3196 (Part 1):2013), Grade/Type/Rating, Batch number, and Date of manufacture.
+5.2 Products complying with the requirements may be marked with the Standard Mark (BIS Certification Mark).

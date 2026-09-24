@@ -22,7 +22,7 @@ async def list_standards(
     compulsory_only: bool = Query(False),
     year_from: Optional[int] = Query(None, ge=1900, le=2100),
     year_to: Optional[int] = Query(None, ge=1900, le=2100),
-    limit: int = Query(50, ge=1, le=500),
+    limit: int = Query(50, ge=1, le=2000),
     offset: int = Query(0, ge=0),
     services: AppServices = Depends(get_services),
 ) -> dict[str, Any]:

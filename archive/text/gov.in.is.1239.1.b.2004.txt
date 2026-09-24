@@ -1,0 +1,407 @@
+vkbZ,l@IS 1239 (Hkkx@Part 1) : 2004
+�f}Hkk"kh@Bilingual�
+
+Hkkjrh; ekud
+
+bLikr dh ufy;k�] ufydkdkj lkefxz;k� rFkk fiVok� bLikr dh vU; fQfVaxsa -- fof'kf"V
+Hkkx 1 bLikr dh ufy;k�
+
+� NBk iqujh{k.k �
+Indian Standard STEEL TUBES, TUBULARS AND OTHER WROUGHT STEEL FITTINGS -- SPECIFICATION
+PART 1 STEEL TUBES
+
+( Sixth Revision )
+
+vkbZlh,l@ICS 77.140.75
+
+�
+
+Hkk ek C;wjks 2009
+
+Hkkjrh; ekud C;w j ks
+ekud Hkou] 9 cgknq j 'kkg T+kQj ekxZ ubZ fnYyh 110002
+� BIS 2009
+
+BUREAU OF INDIAN STANDARDS
+MANAK BHAVAN, 9 BAHADUR SHAH ZAFAR MARG NEW DELHI 110002
+
+tqykbZ@July 2009
+
+ewY; oxZ@Price Group 4
+
+bLikr dh ufydk,�] ikbi vkSj fiQfVax fo"k; lfefr] ,eVhMh 19
+
+izkDdFku ;g Hkkjrh; ekud (Hkkx 1) (NBk iqujh{k.k) bLikr dh ufydk,�] ikbi vkSj fiQfVax fo"k; lfefr }kjk vafre :i fn, x, elkSns dks �kkfRod bathfu;jh foHkkx ifj"kn }kjk vuqeksfnr fd, tkus ds i'pkr~ Hkkjrh; ekud C;wjks }kjk xzg.k fd;k x;kA bl ekud dk izFke izdk'ku 1958 esa gqvk rFkk rnuarj �e'k% 1964] 1968] 1973] 1979 rFkk 1990 esa bldk iqujh{k.k fd;k x;kA bl iqujh{k.k esa fuEufyf[kr eq[; la'kks�ku fd, x, gSa% d) ikapos iqujh{k.k ls lacaf�kr lHkh la'kks�ku 'kkfey dj fy, x, gSaA [k) lhoughu ufydkvksa (ysMy fo'ys"k.k) ds fy, jklk;fud la?kVu dks 'kkfey fd;k x;k gS rFkk osYM�r ufy;ksa ds fuekZ.k ds fy, vkbZ,l 10748 ^osYM�r ufy;ksa rFkk ibiksa ds fy, rRi&osfYyr bLikr fLV�i* ;k vkbZ,l 513 ^dksYM jksYM fuEu dkcZu bLikr 'khV rFkk fLV�i* dks 'kkfey fd;k x;k gSA x) lHkh fu�n"V vo;oksa ds fy, lhoughu V~;wcksa ds mRikn fo'ys"k.k ds ekeys esa vuqer varj dks 'kkfey fd;k x;k gSA ?k) izo.kdksj Nksj okyh ufy;ksa dh vkiw�r ds izko�kku dks 'kkfey dj fy;k x;k gSA
+
+(rhljs doj ij tkjh)
+
+Steel Tubes, Pipes and Fittings Sectional Committee, MTD 19
+
+FOREWORD This Indian Standard (Part 1) (Sixth Revision) was adopted by the Bureau of Indian Standards, after the draft finalized by the Steel Tubes, Pipes and Fittings Sectional Committee had been approved by the Metallurgical Engineering Division Council. This standard was first published in 1958 and subsequently revised in 1964, 1968, 1973, 1979 and 1990 respectively. In this revision, the following main modifications have been made: a) All the amendments on the fifth revision have been incorporated. b) Chemical composition for seamless tubes (ladle analysis ) has been incorporated and for manufacturing of welded tubes, IS 10748 `Hot-rolled steel strip for welded tubes and pipes' or IS 513 `Cold rolled low carbon steel sheets and strips' have been included. c) Permissible variation in case of product analysis of seamless tubes for all specified elements have been incorporated. d) Provision for supply of tubes with bevel end has been incorporated. (Continued on third cover)
+
+AMENDMENT NO. 4 JUNE 2010 TO IS 1239 (PART 1) : 2004 STEEL TUBES, TUBULARS AND OTHER WROUGHT STEEL FITTINGS -- SPECIFICATION
+PART 1 STEEL TUBES ( Sixth Revision ) (Page 5, clause 10.1.1) -- Substitute the following for the existing clause: `Each screwed tube shall be supplied with one socket conforming to IS 1239 (Part 2).'
+
+(MTD 19)
+Reprography Unit, BIS, New Delhi, India
+
+AMENDMENT NO. 3 MAY 2008 TO IS 1239 (PART 1) : 2004 STEEL TUBES, TUBULARS AND OTHER WROUGHT STEEL FITTINGS  SPECIFICATION
+
+( Sixth Revision ) (Page 2, clause 6.1.1, first sentence)  Substitute the following for the existing: `Chemical composition of steel to be used for seamless steel tubes, shall comply with Table 1 in Ladle sample analysis.' (Page 3, clause 8.1.1)  Add the following Note at the end:
+`NOTE  Mass of plain end tubes is also applicable for threaded tube without socket.'
+
+(Page 6, clause 17.3)  Delete the `Note'. (Page 6, clause 17.4)  Add the following Note at the end:
+`NOTE  Additional colour bands, as given in 17.2 to 17.4 may also be applied.'
+
+(MTD 19)
+Reprography Unit, BIS, New Delhi, India
+
+vkbZ,l@IS 1239 (Hkkx/Part 1) : 2004
+
+Hkkjrh; ekud
+
+bLikr dh ufy;k�] ufydkdkj lkefxz;k� rFkk fiVok� bLikr dh vU; fQfVaxsa -- fof'kf"V
+Hkkx 1 bLikr dh ufy;k�
+
+� NBk iqujh{k.k �
+Indian Standard STEEL TUBES, TUBULARS AND OTHER WROUGHT STEEL FITTINGS -- SPECIFICATION
+PART 1 STEEL TUBES
+
+( Sixth Revision )
+1 SCOPE 1.1 This standard (Part 1) covers the requirements for welded and seamless plain end or screwed and socketed steel tubes intended for use for water, non-hazardous gas, air and steam. This standard is applicable to tubes of size 6 mm nominal bore to 150 mm nominal bore. 1.2 Medium and heavy tubes only are recommended for carrying steam services. The maximum permissible pressure and temperatures for different sizes of tubes are given in Annex A for guidance only. 2 REFERENCES The following standards contain provisions, which through reference in this text, constitute provisions of this standard. At the time of publication, the editions indicated were valid. All standards are subject to revision and parties to agreements based on this standard are encouraged to investigate the possibility of applying the most recent editions of the standards indicated below: IS No. 228 513 : 1994 554 : 1999 Title Method for chemical analysis of steels Cold-rolled low carbon steel sheets and strips (fourth revision) Pipe threads where pressure-tight joints are made on the threads -- Dimensions, tolerances and designation (fourth revision) 1
+
+1 fo"k; {ks=k 1-1 bl ekud (Hkkx 1) esa ty] [krjkjfgr xSl] ok;q ,oa Hkki ds fy, iz;ksx gsrq vk'kf;r osYM�r rFkk lhoujfgr lkns Nksj okyh ;k pwM+hnkj ,oa lkWdsV;qDr bLikr ufydkvksa dh vis{kk,� nh xbZ gSaA 1-2 Hkki lsokvksa ds ogu ds fy, dsoy e�;e vkSj Hkkjh ufydkvksa dh fliQkfj'k dh xbZ gSA fofHkUu vkdkjksa dh ufydkvkas ds fy, vuqer vf�kdre nkc rFkk rkieku dsoy ekxZn'kZu gsrq vuqca�k ^d* esa fn, x, gSaA 2 la n HkZ fuEufyf[kr ekudksa esa os izko�kku lfUufgr gSa tks bl ikB esa lanHkZ ds ek�;e ls bl ekud ds izko�kkuksa dk la?kVu djrs gSaA izdk'ku ds l;e fu�n"V laLdj.k oS| FksA lHkh ekud iqujh{k.k ds v�khu gSa rFkk bl ekud ij vk�kkfjr djkjksa ds i{kdkjksa dks uhps fu�n"V ekudksa ds lokZf�kd uohu laLdj.kksa dks ykxw djus dh laHkkouk dk irk yxkus ds fy, izksRlkfgr fd;k tkrk gS%
+
+vkbZ,l l228 513 % 1994
+554 % 1999
+
+'kh"kZd bLikr dh jklk;fud fo'ys"k.k i�fr dksYM jksYM fuEu dkcZu bLikr 'khVsa rFkk ifV~V;k� (pkSFkk iqujh{k.k) ikbi dh pwfM+;k� tgk� pwfM+;ksa ij nkc dls tksM+ yxk, tkrs gS -- vk;ke] NwVsa rFkk in uke (pkSFkk iqujh{k.k)
+
+vkbZ,l@IS 1239 (Hkkx/Part 1) : 2004
+IS No. 1239 (Part 2) : 1992 Title Mild steel tubes, tubulars and other wrought steel fittings: Part 2 Mild steel socket, tubulars and other wrought steel pipe fittings (fourth revision) General requirements for the supply of metallurgical materials (second revision) Mechanical testing of metals -- Tensile testing (second revision) Method for flattening test on metallic tubes (first revision) Method for bend test on metallic tubes (in full section) (firstrevision) Methods for sampling of steel pipes, tubes and fittings (first revision) Hot dip zinc coatings on mild steel tubes (first revision) Code of practice for packaging of steel tubes (first revision) Gauging practice for pipe threads where pressure tight joints are required on the threads Hot rolled steel strip for welded tubes and pipes (first revision) Method for ring tensile test on metallic tubes
+
+1387 : 1993
+
+1608 : 1995 2328 : 1983 2329 : 1985 4711 : 1974 4736 : 1986 4740 : 1979 8999 : 1979
+
+10748 : 1995 12278 : 1988
+
+3 TERMINOLOGY 3.1 Black Tube Tube as manufactured without any subsequent surface treatment. 3.2 Nominal Bore A size reference denoting the approximate bore of the tube. For each size of tube, the outside diameter is fixed by the corresponding screw thread dimensions of IS 554 and therefore, the actual bore of each size of tube will vary according to the thickness. 3.3 Plain End The end of the tubes shall be finished clean. 3.4 Bevel End The finished tube end shall be with a specified angle and root face as given in Fig. 1. 3.5 Tube, Pipe A long, hollow, open-ended object of circular or other cross-section. The term tube is synonymous with the term pipe. 2
+
+vkbZ,l l'kh"kZd 1239 e`nq bLikr ufy;k�] ufydkdkj lkexzh rFkk (Hkkx 2)% 1992 fiVok� bLikr dh vU; fiQfVax% Hkkx 2 e`nq bLikr lkdsV] ufydkdkj lkexzh rFkk vU; fiVok� bLikr ikbi fiQfVaXl ( pkSFkk iqujh{k.k) 1387 % 1993 �kkfRod lkexzh dh vkiw�r ds fy, lkekU; vis{kk,� (nwljk iqujh{k.k) 1608 % 1995 �kkrqvksa dk vfHk;kaf=kd ijh{k.k&ruu ijh{k.k (nwljk iqujh{k.k) 2328 % 1993 �kkfRod ufydkvksa ij piVkus lac� a kh ijh{k.k dh i�fr (igyk iqujh{k.k) 2329 % 1985 �kkfRod ufydkvksa ij ueu ijh{k.k dh i�fr (iw.kZ vuqHkkx es) a (igyk iqujh{k.k) 4711 % 1974 bLikr dh ikbikas] ufydkvksa rFkk fiQfVaXl ds izfrp;u dh i�fr (igyk iqujh{k.k) 4736 % 1986 e`nq bLikr ufydkvksa ij xeZ fMi tLrk ysiu (igyk iqujh{k.k) 4740 % 1979 bLikr ufydkvksa ds iSd fd, tkus dh jhfr lafgrk (igyk iqujh{k.k) 8999 % 1979 ikbi dh pwfM+;ksa dk eki ysus dh jhfr tgk� pwfM+;ksa ij nkc dls tksM+ vko'd gSa 10748 % 1995 osYM�r ufydkvksa ,oa ikbiksa ds fy, rIr osfYyr bLikr dh iV~Vh (igyk iqujh{k.k) 12278 % 1988 �kkfRod ufydkvksa ij fjax ruu ijh{k.k dh i�fr 3 ikfjHkkf"kd 'kCnkoyh 3-1 dkyh ufydk ;Fkkfu�er ufydk ftlij dksbZ lrg mipkj u fd;k x;k gksA 3-2 vfHkfgr cksj ufydk dk yxHkx cksj bafxr djus okyk vkdkj lanHkZA izR;sd vkdkj dh ufydk ds fy, ck� O;kl dk fu|kZj.k vkbZ,l 554 esa nh xbZ ln`'k pwM+h ekikas ds vuqlkj fd;k tkrk gS rFkk blfy, izR;sd vkdkj dh ufydk dk okLrfod cksj mldh eksVkbZ ds vuqlkj gksxkA 3-3 lknk Nksj ufydkvksa ds fljksa dh liQkbZ iwoZd vafre :i fn;k tk,xkA 3-4 csoy (�o.kdks.k) Nksj ufydk dk vafre :i fn;k x;k Nksj vk�fr 1 eas ;Fkk fn, x, fofu�"V dks.k rFkk vk�kkj iQyd okyk gksxkA 3-5 ufydk] ikbi xksy ;k vU; varizZLFk dkV okyh yEch] [kks[kyh] nksuksa vksj ls [kqys Nksjksa okyh oLrqA 'kCn ^V~;wc* ikbi 'kCn dk i;kZ; gSA
+
+vkbZ,l@IS 1239 (Hkkx/Part 1) : 2004
+
+0-8 fe-eh- (U;w u re) 0-8 fe-eh- (U;w u re)
+
+vk�fr 1 30� izo.kdks.k okyk ufydk dk Nksj
+FIG. 1 TUBE END WITH 30� BEVELLING 3.6 Socket The screwed coupling utilized in joining the tubes together.
+NOTE -- The term socket is synonymous with the term coupler.
+
+3-6 lkds V ufydkvksa dks ,d lkFk tksM+us ds fy, iz;qDr fd;k tkus okyk pwM+hnkj ;qXedA
+fVIi.kh
+--
+
+'kCn lkdsV 'kCn ;qXed dk i;kZ; gSA
+
+3.7 Length 3.7.1 Random Length Normal manufacturing lengths, which may vary over a wide range; alternatively, a length range may be agreed to between the purchaser and the manufacturer. 3.7.2 Exact Length of Screwed and Socketed Tube The length of the tube exclusive of the socket. 3.7.3 Length of Screwed and Socketed Tube The length of the tube inclusive of the socket on one end with handling tight.
+NOTE -- Handling tight means that the socket is so tight fitted that it should not fall down during handling or transit.
+
+3-7 yEckbZ 3-7-1 ;kn`fPNd yEckbZ lkekU; mRiknu yEckb;k� ftuesa O;kid varj gks ldrk gS oSdfYid :i ls yEckbZ lhek �srk rFkk fuekZrk ds chp ;Fkk lEer yEckbZ gksxhA 3-7-2 pwM+hnkj rFkk lkdsV ;qDr ufydk dh okLrfod yEckbZ lkdsV ds fcuk ufydk dh yEckbZA 3-7-3 pwM+hnkj rFkk lkdsV;qDr ufydk dh yEckbZ ,d Nksj ij dldj yxs lkWdsV lfgr ufydk dh yEckbZ
+fVIi.kh -- dldj yxs lkdsV dk vFkZ gS fd lkdsV bl izdkj dldj yxk gks fd og izgLru ;k ekxZLFk gksus ds nkSjku uhps u fxjsA
+
+4 DESIGNATION Steel tubes covered by this standard shall be designated by their nominal bore and shall be further classified as light, medium and heavy depending on the wall thickness; and screwed and socketed or plainend/bevel-end to denote end condition, and black or galvanized to denote surface condition. 5 SUPPLY OF MATERIALS General requirements relating to the supply of steel tubes shall conform to IS 1387. 3
+
+4 inuke bl ekud esa 'kkfey bLikr ufydkvksa dks muds vfHkfgr cksj }kjk uke fn;k tk,xk rFkk fHkf�k dh eksVkbZ ds vk�kkj ij mUgsa vkxs gydk] e�;e vkSj Hkkjh dh Jsf.k;ksa esa rFkk Nksj dh voLFkk n'kkZus ds fy, pwMh + nkj ;k lkdsV;qDr vFkok lkns@�o.k dks.k Nksj okyh rFkk lrg voLFkk dks fu�n"V djus ds fy, dkyh ;k tLrk�r ds :i esa Js.kh�r fd;k tk,xkA 5 lkexzh dh vkiw�r bLikr ufydkvksa dh iw�r ls lacaf�kr lkekU; vis{kk,� vkbZ ,l 1387 ds vuq:i gksaxhA
+
+vkbZ,l@IS 1239 (Hkkx/Part 1) : 2004
+6 MANUFACTURE 6.1 Seamless steel tube shall be made from tested quality steel manufactured by any approved process and shall be fully killed. 6.1.1 Chemical composition of the steel shall comply with Table 1 in Ladle Sample analysis. Table 1 Chemical Composition (Ladle Analysis) Percent, Max
+Carbon (1) 0.20 1.30 Manganese (2) Sulphur (3) 0.040 Phosphorus (4) 0.040
+
+6 fuekZ.k 6-1 lhoujfgr ufydk dk fuekZ.k fdlh vuqeksfnr izf�;k }kjk fu�er ijhf{kr xq.krk okys bLikr ls fd;k tk,xk rFkk bls iw.kZr% e`r fd;k tk,xkA 6-1-1 bLikr dk jklk;fud la?kVu ysMy uewuk fo'ys"k.k esa lkj.kh 1 ds vuq:i gksxkA
+lkj.kh 1 jklk;fud la?kVd (ysMy fo'ys"k.k) iz f r'kr] vf�kdre
+dkcZu
+(1) 0.20
+
+eSaxuht
+(2) 1.30
+
+lYiQj
+(3) 0.040
+
+iQkLiQksjl
+(4) 0.040
+
+6.2 The welded tubes shall be manufactured from hotrolled steel strip for welded tubes and pipes conforming to IS 10748 or Cold-rolled low carbon steel sheets and strips conforming to IS 513. 6.3 Steel tubes shall be manufactured through one of the following processes: a) b) c) d) Hot finished seamless (HFS); Cold finished seamless (CDS); Hot finished welded (HFW); and Electric resistance welded or high frequency induction welded (ERW or HFIW).
+
+6-2 osYMd`r ufydkvksa dk fuekZ.k vkbZ,l 10748 ds vuq:i osYMd`r ufydkvksa rFkk ikbiksa ds fy, rIr osfYyr dh xbZ bLikr iV~Vh vFkok vkbZ,l 513 ds vuq:i 'khr&jksy dh xbZ fuEu dkcZu bLikr 'khVksa ls fd;k tk,xkA 6-3 bLikr ufydkvkas dk fuekZ.k fuEu esa ls fdlh ,d izf�;k }kjk fd;k tk,xk% d) [k) x) ?k) rRi rS;kj lhou jfgr (,p,iQ,l)_ 'khr rS;kj lohu jfgr (lhMh,l)_ r`Ir rS;kj osYM�r (,p,iQMCY;w)_ rFkk fo|qr izfrjks�kd osYM�r vFkok mPp vko`f�k izsj.k osYM�r (bZvkjMCY;w ;k ,p,iQvkbZMCY;w)A
+
+NOTE -- Tubes made by manual welding are not covered by this specification.
+
+6.4 Light, medium and heavy tubes shall be either welded or seamless as agreed to between the purchaser and the manufacturer. 6.5 For welded tubes, the height of the internal weld fin shall not be greater than 60 percent of the specified wall thickness. 6.6 All electric wired tubes used for steam services shall be normalized. Only medium and heavy class of tube shall normally be used for steam services.
+NOTE -- HFS and HFW tubes need not be normalized.
+
+fVIi.kh -- gLr osfYMax }kjk fu�er ufydka, bl fof'k"V esa ufydkax 'kkfey ugha gSaA
+
+6-4 gYdh] e�;e rFkk Hkkjh ufy;k� �srk rFkk fuekZrk ds chp gqbZ lgefr ds vuqlkj ;k rks osYM�r gksx a h vFkok lhoujfgr gksx a hA 6-5 osYM�r ufydkvksa ds fy,] vkarfjd osYM fiQu dh m�QpkbZ fu�n"V fHkf�k eksVkbZ ds 60 izfr'kr ls vf�kd ugha gksxhA 6-6 Hkki lsokvksa ds fy, iz;qDr dh tkus okyh lHkh fo|qr osYM�r ufy;k� izlkekU;�r gksaxhA Hkki lsokvksa ds fy, lkekU;r% dsoy e�;e rFkk Hkkjh Js.kh dh ufydk dk gh bLrseky fd;k tk,xkA
+fVIi.kh  ,p,iQl rFkk ,p,iQMCY;w ufydkvksa dks izlkekU;�r fd;k tkuk vko';d ugha gSA
+
+7 CHEMICAL COMPOSITION 7.1 The analysis of steel shall be carried out either by the method specified in IS 228 and its relevant parts or any other established instrumental/chemical methods. In case of dispute the procedure given in IS 228 and its relevant parts shall be the referee method. However, where method is not given in IS 228 and its relevant parts, the referee method shall be as agreed to between the purchaser and the manufacturer. 7.1.1 Product Analysis If so agreed between the purchaser and the 4
+
+7 jklk;fud la?kVu 7-1 bLikr dk fo'ys"k.k vkbZ,l 228 rFkk blds laxr Hkkxksa esa fu�n"V i�fr }kjk ;k fdlh vU; LFkkfir ;k�f=kd@jklk;fud i�fr }kjk fd;k tk,xkA fookn ds ekeys esa vkbZ,l 228 rFkk blds laxr Hkkxksa esa nh xbZ izf�;kfof�k lanHkZ i�fr gksxhA rFkkfi tgk� vkbZ,l 228 rFkk blds laxr Hkkxksa esa i�fr ugha nh xbZ gS ogk� lanHkZ i�fr �srk rFkk fuekZrk ds chp ;Fkk lEer i�fr gksxhA 7-1-1 mRikn fo'ys"k.k ;fn �srk rFkk fuekZrk ds chp ,slh lgefr gks rks mRikn
+
+vkbZ,l@IS 1239 (Hkkx/Part 1) : 2004
+manufacturer, the product analysis may be carried out. Maximum permissible variations in the case of product analysis over the maximum limits specified in Table 1 shall be as given in Table 2. Table 2 Permissible Variation for Product Analysis (Clause 7.1.1)
+SI No. (1) i) ii) iii) iv) Content (2) Carbon Manganese Sulphur Phosphorus Variation Over Specified Limit Percent, Max (3) 0.02 0.04 0.005 0.005
+
+fo'ys"k.k fd;k tk ldrk gSA mRikn fo'ys"k.k ds ekeys esa lkj.kh 1 esa fu�n"V vf�kdre lhekvksa dh rqyuk esa vf�kdre vuqer varj lkj.kh 2 esa fn, x, vuqlkj gksxkA lkj.kh 2 mRikn fo'ys"k.k ds fy, vuqer varj ([kaM 7-1-1)
+�-la(1) fo"k; oLrq (2) fu�n"V iz f r'kr lhek dh rq y uk esa varj] vf�kdre (3) 0-02 0-04 0-005 0-005
+
+NOTE -- In case of welded tubes, product analysis shall not be applicable to rimming steel.
+
+i) dkcZu ii) eSx a uht iii) lYiQj iv) iQkLiQksjl fVIi.kh -- osYM�r ufydkvksa ds ekeys esa mRikn fo'ys"k.k fjfeax bLikr ij iz;ksT; ugha gksxkA
+
+8 DIMENSIONS 8.1 The dimensions and nominal mass of tubes shall be in accordance with Tables 3, 4 and 5 subject to the tolerances permitted in 9.
+
+8 vk;ke 8-1 ufydkvksa ds vk;ke rFkk vfHkfgr Hkkj [kaM 9 esa vuqer NwVksa ds v�khu lkj.kh 3] 4 rFkk 5 ds vuqlkj gksxkA
+
+lkj.kh 3 gydh bLikr dh ufydkvksa ds vk;ke rFkk vfHkfgr Hkkj ([kaM 8-1 rFkk 10-1-1-1)
+vfHkfgr cksj fe-eh(1) 6 8 10 15 20 25 32 40 50 65 80 100
+
+ckg~; O;kl vf/dre fe-eh(2) 10.1 13.6 17.1 21.4 26.9 33.8 42.5 48.4 60.2 76.0 88.7 113.9
+
+eksVkbZ U;wure fe-eh(3) 9.7 13.2 16.7 21.0 26.4 33.2 41.9 47.8 59.6 75.2 87.9 113.0
+
+ufydk dk Hkkj lknk Nksj fdyksxzke@eh(5) 0.360 0.515 0.670 0.947 1.38 1.98 2.54 3.23 4.08 5.71 6.72 9.75
+
+fe-eh(4) 1.8 1.8 1.8 2.0 2.3 2.6 2.6 2.9 2.9 3.2 3 .2 3.6
+
+pwM+hnkj rFkk lkdsV;qDr fdyksxzke@eh(6) 0.363 0.519 0.676 0.956 1.39 2.00 2.57 3.27 4.15 5.83 6.89 10.0
+
+Table 3 Dimensions and Nominal Mass of Steel Tubes (Clauses 8.1 and 10.1.1.1)
+Nominal Bore mm (1) 6 8 10 15 20 25 32 40 50 65 80 100 Outside Diameter Maximum mm (2) 10.1 13.6 17.1 21.4 26.9 33.8 42.5 48.4 60.2 76.0 88.7 113.9 Minimum mm (3) 9.7 13.2 16.7 21.0 26.4 33.2 41.9 47.8 59.6 75.2 87.9 113.0 Thickness mm (4) 1.8 1.8 1.8 2.0 2.3 2.6 2.6 2.9 2.9 3.2 3 .2 3.6 Plain End kg/m (5) 0.360 0.515 0.670 0.947 1.38 1.98 2.54 3.23 4.08 5.71 6.72 9.75 Mass of Tube Screwed and Socketed kg/m (6) 0.363 0.519 0.676 0.956 1.39 2.00 2.57 3.27 4.15 5.83 6.89 10.0
+
+5
+
+vkbZ,l@IS 1239 (Hkkx/Part 1) : 2004
+8.1.1 Thickness and mass mentioned in Tables 3, 4 and 5 are applicable to both black and galvanized tubes.
+
+8-1-1 lkj.kh 3] 4 rFkk 5 esa mfYyf[kr eksVkbzZ rFkk Hkkj dkyh rFkk tLrk�r nksuksa izdkj dh ufydkvksa ij iz;ksT; gksxkA
+
+lkj.kh 4 e�;e bLikr ufydkvksa ds vk;ke rFkk vfHkfgr Hkkj ([kaM 8-1)
+vfHkfgr cksj fe-eh(1) 6 8 10 15 20 25 32 40 50 65 80 100 125 150
+
+ckg~; O;kl vf/dre fe-eh(2) 10.6 14.0 17.5 21.8 27.3 34.2 42.9 48.8 60.8 76.6 89.5 115.0 140.8 166.5
+
+eksVkbZ U;wure fe-eh(3) 9.8 13.2 16.7 21.0 26.5 33.3 42.0 47.9 59.7 75.3 88.0 113.1 138.5 163.9
+
+ufydk dk Hkkj lknk Nksj pwM+hnkj rFkk lkdsV;qDr fdyksxzke@eh(6) 0.407 0.645 0.845 1.22 1.57 2.43 3.13 3.60 5.10 6.54 8.53 12.50 16.40 19.50
+
+fe-eh(4) 2.0 2.3 2.3 2.6 2.6 3.2 3.2 3.2 3.6 3.6 4.0 4.5 4.8 4.8
+
+fdyksxzke@eh(5) 0.404 0.641 0.839 1.21 l.56 2.41 3.10 3.56 5.03 6.42 8.36 12.20 15.90 18.90
+
+Table 4 Dimensions and Nominal Mass of Steel Tubes -- Medium (Clause 8.1)
+Nominal Bore mm (1) 6 8 10 15 20 25 32 40 50 65 80 100 125 150 Outside Diameter Maximum mm (2) 10.6 14.0 17.5 21.8 27.3 34.2 42.9 48.8 60.8 76.6 89.5 115.0 140.8 166.5 Minimum mm (3) 9.8 13.2 16.7 21.0 26.5 33.3 42.0 47.9 59.7 75.3 88.0 113.1 138.5 163.9 mm (4) 2.0 2.3 2.3 2.6 2.6 3.2 3.2 3.2 3.6 3.6 4.0 4.5 4.8 4.8 Thickness Plain End kg/m (5) 0.404 0.641 0.839 1.21 l.56 2.41 3.10 3.56 5.03 6.42 8.36 12.2 15.9 18.9 Mass of Tube Screwed and Socketed kg/m (6) 0.407 0.645 0.845 1.22 1.57 2.43 3.13 3.60 5.10 6.54 8.53 12.5 16.4 19.5
+
+6
+
+vkbZ,l@IS 1239 (Hkkx/Part 1) : 2004
+9 TOLERANCES ON THICKNESS AND MASS 9.1 The following manufacturing tolerances shall be permitted on the tubes and sockets: a) Thickness: 1) Welded tubes: Light tubes Medium and heavy tubes Seamless tubes + not limited � 8 percent + not limited � 10 percent + not limited � 12.5 percent + 10 percent � 8 percent � 10 percent + 7.5 percent � 5 percent � 7.5 percent
+
+9 eksVkbZ rFkk Hkkj laca�kh NwVsa 9-1 ufydkvksa rFkk lkdsVksa ds laca�k esa fuEufyf[kr mRiknu NwVsa vuqer dh tk,axh% d) eksVkbZ% 1) osYMd`r ufy;k�% gydh ufy;k� e�;e rFkk Hkkjh ufy;k� 2) lhou jfgr ufy;k�
+
+2)
+
+b) Mass: 1) 2) 3) Single tube (light series) Single tube (medium and heavy series) For quantities per load of 10 tonnes, Min (light series) For quantities per load of 10 tonnes, Min (medium and heavy series)
+
++ � + � + �
+
+dksbZ lhek ugha 8 izfr'kr dksbZ lhek ugha 10 izfr'kr dksbZ lhek ugha 12-5 izfr'kr
+
+4)
+
+[k) Hkkj% 1) ,dy ufydk + 10 izfr'kr (gydh J`a[kyk) � 8 izfr'kr 2) ,dy ufydk (e�;e � 10 izfr'kr rFkk Hkkjh J`a[kyk) + 7-5 izfr'kr 3) izfr 10 Vu Hkkj okyh izek=kkvksa ds fy, U;wure � 5 izfr'kr (gydh J`a[kyk) � 7-5 izfr'kr 4) izfr 10 Vu Hkkj okyh izek=kkvksa ds fy, U;wure (e�;e rFkk Hkkjh J`a[kyk)
+fVIi.kh -- 10 Vu ds lewg ds U;wure Hkkj ds iz;kstukFkZ] Hkkj rksy fuekZrk osQ fodYi ij lqfo/ktud lewgksa esa fd;k tk ldrk gSA
+
+NOTE -- For the purpose of minimum weighment of 10 tonnes lot, the weighment may be done in convenient lots at the option of the manufacturer.
+
+10 JOINTS 10.1 All screwed tubes shall be supplied with pipe threads conforming to IS 554. Gauging in accordance with IS 8999 shall be considered as an adequate test for conformity of threads of IS 554. 10.1.1 Unless specified otherwise, tubes shall be supplied screwed with taper threads and fitted with one socket having parallel thread. The socket shall conform to all requirements (except 6.4) of IS 1239 (Part 2). 10.1.1.1 In case of light tubes the application of taper pipe threads may be modified by permitting the outside diameter of the tubes to be within the limits shown in col 2 and 3 of Table 3. Where the tube approaches the lower limit of outside diameter, some incomplete threads (perfect at root and imperfect at the crest) may be expected from and beyond the gauge plane. Such incomplete threads, shall not be regarded as justification for rejection of the tubes. Also the minimum length of threads in light tubes shall be 80 percent of that specified in IS 554. 10.2 The plain end pipes shall be supplied with square cut. However, bevel end may also be supplied on mutual agreement between the purchaser and the manufacturer (see Fig. 1). 7
+
+10 tks M + 10-1 lHkh pwM+hnkj ufydkvksa dh vkiw�r vkbZ,l 554 ds vuq:i ikbi pwfM+;ksa ds lkFk dh tk,xhA vkbZ,l 554 dh pwfM+;ksa dh vuq:irk ds fy, vkbZ,l 8999 ds vuqlkj ekikadu dks i;kZIr ijh{k.k ekuk tk,xkA 10-1-1 ;fn vU;Fkk fu�n"V u fd;k x;k gks] rks ufydkvksa dh vkiw�r xkonqe pwfM+;ksa lfgr rFkk lekukarj pwM+h okys ,d lkdsV ds lkFk fiQV djds dh tk,xhA lkdsV vkbZ,l 1239 (Hkkx 2) dh lHkh vis{kkvksa (flok, 6-4 6-4) ds vuq:i gksxkA 10-1-1-1 gydh ufydkvksa ds ekeys esa] ufydkvksa ds ck� O;kl dks lkj.kh 3 ds dkye 2 rFkk 3 eas n'kkZ;h xbZ lhekvksa ds Hkhrj gksus dh vuqefr nsdj xkonqe ikbi pwfM;k� ds vuqiz;ksx esa la'kks�ku fd;k tk ldrk gSA tgk� ufydk ck� O;kl dh fuEure lhek ds yxHkx lfUudV gks] ogk� xst lrg ls rFkk mlls vkxs dqN viw.kZ pwfM+;ksa (ewy ij iw.kZ rFkk 'kh"kZ ij v�kwjh) gksuk laHkkfor gS] ,slh viw.kZ pwfM;ksa ds vk�kkj ij ufydkvkas dks vLohdkj djuk ;qfDrlaxr ugha ekuk tk,xkA lkFk gh gYdh ufydkvksa esa pwfM+;ksa dh U;wure yEckbZ vkbZ,l 554 esa fu�n"V yEckbZ dk 80 izfr'kr gksxhA 10-2 lkns Nksj okyh ikbiksa dks oxkZdkj dVko fn;k tk,xkA rFkkfi �srk rFkk fuekZrk ds chp ikjLifjd lgefr gksus ij izo.k dks.k Nksj okyh ikbisa Hkh vkiwfjr dh tk ldrh gSA a (ns[kasa vk�fr 1)A
+
+vkbZ,l@IS 1239 (Hkkx/Part 1) : 2004
+
+lkj.kh 5 Hkkjh bLikr ufydkvksa ds vk;ke rFkk vfHkfgr Hkkj ([kaM 8-1 vkSj 8-1-1)
+vfHfgr cksj vf/dre fe-eh(1) 6 8 10 15 20 25 32 40 50 65 80 100 125 150
+
+ckg~; O;kl U;wure fe-eh(3) 9.8 13.2 16.7 21.0 26.5 33.3 42.0 47.9 59.7 75.3 88.0 113.1 138.5 163.9
+
+eksVkbZ lknk Nksj fe-eh(4) 2.6 2.9 2.9 3.2 3.2 4.0 4.0 4.0 4.5 4.5 4.8 5.4 5.4 5.4
+
+ufydk dk Hkkj pwM+hnkj rFkk lkdsV;qDr fdyksxzke@eh(6) 0.490 0.769 1.03 1.45 1.88 2.95 3.82 4.41 6.26 8.05 10.10 14.80 18.40 21.90
+
+fe-eh(2) 10.5 14.0 17.5 21.8 27.3 34.2 42.9 48.8 60.8 76.6 89.5 115.0 140.8 166.5
+
+fdyksxzke@eh(5) 0.487 0.765 1.02 1.44 1.87 2.93 3.79 4.37 6.19 7.93 9.90 14.50 17.90 21.30
+
+Table 5 Dimensions and Nominal Mass of Steel Tubes -- Heavy (Clauses 8.1 and 8.1.1)
+Nominal Bore mm (1) 6 8 10 15 20 25 32 40 50 65 80 100 125 150 Outside Diameter Maximum mm (2) 10.5 14.0 17.5 21.8 27.3 34.2 42.9 48.8 60.8 76.6 89.5 115.0 140.8 166.5 Minimum mm (3) 9.8 13.2 16.7 21.0 26.5 33.3 42.0 47.9 59.7 75.3 88.0 113.1 138.5 163.9 mm (4) 2.6 2.9 2.9 3.2 3.2 4.0 4.0 4.0 4.5 4.5 4.8 5.4 5.4 5.4 Thickness Plain End kg/m (5) 0.487 0.765 1.02 1.44 1.87 2.93 3.79 4.37 6.19 7.93 9.90 14.50 17.90 21.30 Mass of Tube Screwed and Socketed kg/m (6) 0.490 0.769 1.03 1.45 1.88 2.95 3.82 4.41 6.26 8.05 10.10 14.80 18.40 21.90
+
+11 LENGTHS Following tolerances shall be applied on lengths of tubes. 11.1 Random Length 4 to 7 m, unless otherwise specified includes one socket for screwed and socketed tubes.
+
+11 yEckbZ ufydkvksa dh yEckbZ ds laca�k esa fuEufyf[kr NwVsa iz;ksT; dh tk,axhA
+11.1 ;kn` f PNd
+
+yEckbZ
+
+4 ls 7 ehVj] tc rd fd vU;Fkk fu�n"V u fd;k x;k gksA blesa pwMh + nkj rFkk lkWdV s ;qDr ufydkvksa ds fy, ,d lkdsV 'kkfey gSA
+8
+
+vkbZ,l@IS 1239 (Hkkx/Part 1) : 2004
+11.1.1 For orders of over 150 m of any one size of tube, it shall be permissible to supply short random lengths from 2 to 4 m provided that the number of such length does not exceed 5 percent of the total number of lengths for sizes below 65 mm nominal bore and above, 7.5 percent of such short random length shall be permitted. In addition, it shall be permissible for two lengths to be joined together to make a random length, provided that the number of such joint lengths does not exceed 5 percent of the total number of lengths for sizes below 65 mm nominal bore and 7.5 percent of the total number of lengths for sizes 65 mm and above. 11.2 Exact Length Unless otherwise agreed to between the manufacturer and the purchaser, where exact lengths are specified, either for screwed and socketed tubes or for plain-end 6 tubes each tube shall be within + - 0 mm of the specified length. 11.3 Approximate Length When approximate lengths are required, either for screwed and socketed tubes or for plain end tubes, each tube shall be within �150 mm of the specified length. 12 GALVANIZING 12.1 Where tubes are required to be galvanized, the zinc coating on the tubes shall be in accordance with IS 4736. 12.2 Tubes, which are to be screwed, shall be galvanized before screwing. 13 LEAK PROOF TEST
+
+11-1-1 fdlh ,d vkdkj dh ufydk ds 150 ehVj ls vf�kd dh vkiw�r djus ds vkns'kksa ds fy, 2 ls 4 ehVj dh NksVh ;kn`fPNd yEckbZ okyh ufydkvksa dh vkiw�r djus dh vuqefr gksxh c'krsZ fd 65 fe-eh- ls de ds vfHkfgr ifjos�k okys vkdkjksa ds fy, bl izdkj dh yEckbZ oky VqdMs+ dh la[;k dqN yEckbZ la[;k ds 5 izfr'kr ls vf�kd u gks rFkk 65 fe-eh- ls vf�kd ds vfHkfgr ifjos�k ds fy, NksVh ;kn`fPNd yEckbZ oky ,sls 7-5 izfr'kr VqdMksa dh vuqefr nh tk,xhA blds vfrfjDr] dksbZ ;kn`fPNd yEckbZ izkIr djus ds fy, nks VqdM+kas dks tksMu + s dh vuqefr gksxh c'krsZ fd tksMk+ as okyh ,slh yEckbZ dh la[;k 65 fe-eh- ds vfHkfgr ifjos�k ls de okys vkdkjksa ds fy, yEckbZ dh dqy la[;k ds 5 izfr'kr ls rFkk 65 fe-eh- ,oa mlls vf�kd ds vkdkjksa ds fy, yEckbZ dh dqy la[;k ds 7-5 izfr'kr ls vf�kd u gksA 11-2 okLrfod yEckbZ tc rd fuekZrk ,oa �srk ds chp vU;Fkk lgefr u gqbZ gks] ogk� pwM+hnkj rFkk lkdsV;qDr ufydkvksa ds fy, ;k lkjs Nksj okyh ufydkvksa ds fy, okLrfod yEckbZ fu�n"V gksus dh fLFkfr esa izR;sd ufydk fu�n"V yxHkx fe-eh- ds Hkhrj gksxhA 11-3 vuqekfur yEckbZ tgk� pwM+hnkj rFkk lkdsV;qDr ufydkvksa ds fy, ;k lkns Nksj okyh ufydkvksa ds fy, vuqekfur yEckb;k� visf{kr gSa] ogk� izR;sd ufydk fu�n"V yEckbZ ds �150 fe-eh- ds Hkhrj gksxhA 12 tLrhdj.k 12-1 tgk� ufydkvksa ij tLrk p<+kuk vko';d gS ogk� ufydkvksa ij tLrk ysiu vkbZ,l 4736 ds vuqlkj fd;k tk,xkA 12-2 ftu ufydkvksa ij pwfM+;k� cukbZ tkuh gSa] mudh pwfM+;k� cukus ls igys mudk tLrhdj.k dj fy;k tk,xkA 13 fjlko jks�kh ijh{k.k
+
+13.1 Each tube shall be tested for leak tightness as an in-process test at manufacturer's works either by hydrostatic test or alternatively by Eddy current test, in accordance with Annex B. 13.1.1 Hydrostatic test shall be carried out at a pressuring of 5 MPa and the same maintained for at least 3 and shall not show any leakage in the pipe.
+NOTE -- The choice of test is at the discretion of the manufacturer.
+
+13-1 izR;sd ufydk dk vuqca�k [k ds vuqlkj fuekZrk ds dkj[kkus esa ;k rks gkbM�ksLVsfVd (tyLFkSfrd) ijh{k.k }kjk vFkok oSdfYid :i ls varj �kkjk ijh{k.k }kjk fjlko dlko ds fy, var% izf�;k ijh{k.k fd;k tk,xkA 13-1-1 tyLFkSfrd ijh{k.k 5 ,eih, ds nkc ij rFkk de ls de 3 lSdsaM rd mls cuk, j[kdj fd;k tk,xk rFkk bl nkSjku ikbi esa dksbZ fjlko ugha gksuk pkfg,A
+fVIi.kh
+--
+
+ijh{k.k dk p;u fuekZrk ds foosdkuqlkj fd;k tk,xkA
+
+14 TEST ON TUBES
+
+14 ufy;ksa ij ijh{k.k
+Following tests shall be conducted by the manufacturer on tubes. 14.1 The tensile strength shall be at least 320 MPa (320 N/mm2). The test shall be carried out on full section or strip cut from the selected tubes in accordance with IS 1608 and IS 12278. 9
+
+fuekZrk }kjk ufydkvksa ij fuEufyf[kr ijh{k.k fd, tk,axsA 14-1 ruu {kerk de ls de 320 ,eih, (320 N/mm2) gksxhA ijh{k.k vkbZ,l 1608 rFkk 12278 ds vuqlkj p;fur ufydkvksa dh iw.kZ yEckbZ ij ;k muls dkVh xbZ iV~Vh ij fd;k tk,xkA
+
+vkbZ,l@IS 1239 (Hkkx/Part 1) : 2004
+NOTES 1 For welded tubes, the strip tensile test specimen shall not contain the weld. 2 For galvanized tubes, zinc coating may be removed by stripping prior to tensile test.
+
+fVIi.kh;k� 1 osYM�r ufydkvksa ds fy, iV~Vh ruu ijh{k.k uewus esa tksM+ (osYM) ugha gksxkA 2 tLrk�r ufydkvksa ds fy, ruu ijh{k.k ds iwoZ iVV~h dkVdj muds mQij ls tLrs dk ysi gVk fn;k tk,XkkA
+
+14.1.1 The elongation percent on a gauge length of
+
+5.65 So , where So is the original cross-sectional area of the test specimen, shall be as follows:
+Nominal Bore a) For steam services for all sizes b) For other services: 1) Up to and including 25 mm 2) Over 25 mm up to and including 150 mm Elongation Percent, Min 20 12 20
+
+14-1-1 5.65 So eki dh yEckbZ ij izyacu izfr'kr fuEu izdkj gksxk] tgk� So ijh{k.k uewus dk vuqizlFk dkV okyk ewy {ks=kiQy gS% vfHkfgr cksj �yEcu �fr'kr] U;wure d) lHkh vkdkjksa dh eki lsokvksa 20 ds fy, [k) vU; lsokvksa ds fy,% 1) 25 fe-eh- rd rFkk mlds 12 lekfgr 2) 25 fe-eh- ls vf�kd rFkk 15 fe-eh- 20 lekfgr rd 14-2 50 fe-eh- rd rFkk mlds lekfgr vfHkfgr cksj okyh ufydkvksa ij ueu ijh{k.k vkbZ,l 2329 ds vuqlkj ijh{k.k fd, tkus ij ufydk Hkax ;k fodkj ds dksbZ okg~u n'kkZ, fcuk ueu ijh{k.k dks lgus esa l{ke gksA osYM�r rkfydkvkas dks osYM ds lkFk ueu lrg ij 90 fMxzh ij eksMk+ tk,xkA bl ijh{k.k ds fy, bu ufydkvksa dks Hkjk ugh tk,xkA 14-2-1 vtLrh�r ufy;k� ,slh gksa fd mUgas vrIr voLFkk esa 180� ij iQkeZj ds pkjksa vksj fcuk fdlh izdkj ds pVdk; ds eksM+k tk ldsA bl iQkeZj dh f=kT;k ueu ry okys lkaps dh rygVh ij ufydk ds ckgjh O;kl dh 6 xquk gksA 14-2-2 tLrh�r ufydk,� ,slh gksa fd mUgsa vrIr voLFkk esa 90� ij iQkeZj ds pkjksa vksj fcuk fdlh izdkj ds pVdko ds eksM+k tk ldsA bl iQkeZj dh f=kT;k ueu ry okys [kkap dh rygVh ij ckgjh O;kl dh 8 xquk gksA 14-3 50 fe-eh- ls vf�kd vfHkfgr cksj okyh ufydkvksa dks piVkus laca�kh ijh{k.k p;u dh xbZ ufydkvksa ds Nksj ls de ls de 40 fe-ehyEckbZ ds dkVs x, NYYkksa dks vkbZ,l 2328 ds vuqlkj osYM] ;fn gks] ds lkFk 90� (vf�kdre ueu fcUnq) ij lekUrj ifVV;ksa ds chp j[kdj piVk fd;k tk,xkA tc rd ifVV;ksa ds chp dh nwjh ewy ck� O;kl ds 75 izfr'kr ls de ugha gks tk, rc rd osYM foHkat ds dkj.k fdlh izdkj [kqys ugha vkSj tc rd ifVV~;ksa ds chp dh nwjh ewy ck� O;kl ds 60 izfr'kr ls de ugha gks tk,] rc rd �kkrq esa osYM ds LFkku ds vykok fdlh vU; LFkku ij fdlh Hkh izdkj dh njkj ;k Hkatu u gksA
+fVIi.kh -- fdukjksa ij gydh iwoZ ifjiDo njkj bl ekud ds lkFk vuqikyu dks izHkkfor djus okyh ugha ekuh tk,xhA
+
+14.2 Bend Test on Tubes Up to and Including 50 mm Nominal Bore When tested in accordance with IS 2329 the tubes shall be capable of withstanding the bend test without showing any signs of fracture or failure. Welded tubes shall be bent with the weld at 90� to the plane of bending. The tubes shall not be filled for this test. 14.2.1 Ungalvanized tubes shall be capable of being bent cold without cracking through 180� round a former having a radius at the bottom of groove in the plane of bending, equal to at least six times the outside diameter of the tube. 14.2.2 Galvanized tubes shall be capable of being bent cold, without cracking of the steel, through 90� round a former having a radius at the bottom of the groove equal to at least eight times the outside diameter of the tubes. 14.3 Flattening Test on Tubes Above 50 mm Nominal Bore Rings not less than 40 mm in length cut from the ends of the selected tubes shall be flattened cold between parallel plates with the weld, if any at 90� (point of maximum bending) in accordance with IS 2328. No opening shall occur by fracture in the weld area until the distance between the plates is less than 75 percent of the original outside diameter of the tube and no cracks or breaks in the metal elsewhere than in the weld shall occur until the distance between the plates is less than 60 percent of the original outside diameter.
+NOTE -- Slight premature cracking at the edges would not be deemed to affect compliance with this standard.
+
+14.3.1 The test rings may have the inner and outer edges rounded. 10
+
+14-3-1 ijh{k.k NYyksa ds vkarfjd rFkk ckgjh fdukjs xksy fd, x, gks ldrs gSaA
+
+vkbZ,l@IS 1239 (Hkkx/Part 1) : 2004
+14.4 Re-test Should any one of the test pieces first selected fail to pass any of the tests specified above, two further samples shall be selected for testing in respect of each failure. Should the test pieces from both these additional samples pass, the material shall be deemed to comply with the requirements of that particular test. Should the test pieces from either of these additional samples fail, the material represented by the test samples shall be deemed as not complying with the standard. 15 WORKMANSHIP All pipes shall be cleanly finished and reasonably free from injurious defects. The ends shall be free from sharp edges and burrs of the pipe. The tubes shall be reasonably straight. 16 SAMPLING FOR TUBES 16.1 Lot for the purpose of drawing samples all tubes bearing same designation and manufactured under a single process shall be grouped together to constitute a lot. Each lot shall be sampled separately and assessed for conformity to this specification. 16.2 Sampling and Criterion for Conformity Unless otherwise agreed to between the manufacturer and the purchaser the procedure for sampling of tubes for various tests and criteria for conformity, IS 4711 shall be followed. 17 MARKING
+
+14-4 iqu% ijh{k.k ;fn igys pqus x, ijh{k.k [kaMksa esa ls dksbZ [kaM ekud esa fu�n"V fdlh ijh{k.k esa ikl ugha gksrk rks gj vliQy [kaM ds fy, ijh{k.k gsrq nks vkSj uewuksa dk pquko fd;k tk,xkA ;fn bu nksuksa uewuksa ds ijh{k.k [kaM ikl gks tkrs gSa rks ftl lkexzh ds os uewus gSa eku fy;k tk,xk fd og lkexzh ml ijh{k.k fo'ks"k dh vis{kkvksa dk ikyu djrh gSA ;fn bu vfrfjDr uewuksa esa ls fdlh ,d ds ijh{k.k [kaM [kjs ugha mrjrs rks eku fy;k tk,xk fd ftl lkexzh ds ;s uewus gSa og ekud ds vuq:i ugha gSA 15 dkjhxjh lHkh ikbiksa dks liQkbZ ls vafre :i fn;k tk,xk rFkk og gkfudkjd nks"kksa ls ;qfDRlaxr :i ls eqDr gksxhA ikbi ds Nksj rh[ks fdukjksa rFkk daVdks ls eqDr gksx aA s ufy;k� ;qfDrlaxr :i ls lh�kh gksx a hA 16 ufydkvksa ds uewus ysuk 16-1 uewus ysus ds iz;kstukFkZ lewg cukus ds fy, leku inuke okyh lHkh ufydkvksa rFkk ftUgsa ,dy izf�;k ds rgr fu�er fd;k x;k gks] dks lewgc� fd;k tk,xkA izR;sd lewg ls i`Fkd uewuk fy;k tk,xk rFkk mldk bl fof'kf"V ds izfr vuq:irk gsrq vkdyu fdk tk,xkA 16-2 uewus ysuk vkSj vuq:irk ds fy, dlkSVh tc rd fuekZrk rFkk �srk ds chp vU;Fkk lgefr u gqbZ gks] fofHkUu ijh{k.k ds fy, uewus ysus rFkk vuq#irk gsrq dlkSVh osQ fy, vkbZ,l 4711 dh izf�;koknh dk vuqlj.k fd;k tk,xkA 17 lwpuk vadu
+
+17.1 Each tube shall be marked with manufacturer's name or trade-mark, IS No. that is, IS 1239 (Part 1) and class of tubes, that is, L, M, and H, for light, medium and heavy class. 17.2 The different classes of tubes shall be distinguished by colour bands, which shall be applied as follows before the tubes leave the manufacturer's works: a) Light tubes -- Yellow b) Medium tubes -- Blue c) Heavy tubes -- Red
+NOTE -- For export purpose the colour band on the light tubes may be painted yellow or brown.
+
+17-1 izR;sd ufydk ij fuekZrk dk uke vFkok V�sMekoZQ vkbZ,l la[;k vFkkZr~ vkbZ,l 1239 (Hkkx 1) rFkk ufydkvksa dh Js.kh vFkkZr~ gydh] e�;e rFkk Hkkjh Js.kh ds fy, L, M rFkk H vafdr fd;k tk,xkA 17-2 ufy;k� dh fofHkUu Jsf.k;ksa esa jax dh ifV~V;ksa ds vuqlkj varj fd;k tk,xk tks fuekZrk ds dkj[kkus ls ckgj fudyus ls igys ufydkvksa ij fuEu izdkj ls yxk nh tk,xh% d) gydh ufy;k� -- ihyh [k) e�;e ufy;k� -- uhyh x) Hkkjh ufy;k� -- yky
+fVIi.kh -- fu;kZr iz;kstu ds fy, gydh ufy;ksa ij iV~Vh dks ihyk ;k Hkwjs jax dk isaV fd;k tk,xkA
+
+17.3 Unless otherwise agreed to between the manufacturer and the purchaser a white colour band shall be applied at each end of the tubes for steam services.
+NOTE -- Additional colour bands, as given in 17.2 to 17.4 may also be applied.
+
+17-3 fuekZrk vkSj �srk ds e�; dksbZ vU; ikjLifjd lgefr ugha gksus ij Hkki lsokvksa ds fy, fu�er ufydkvksa ds izR;sd Nksj ij liQsn jax dh iV~Vh cukbZ tk,xhA
+fVIi.kh -- 17-2 ls 17-4 esa fn, x, vfrfjDr jaxksa dh ifV~V;k� Hkh yxkbZ tk ldrh gSaA
+
+11
+
+vkbZ,l@IS 1239 (Hkkx/Part 1) : 2004
+17.4 Tubes having random length 4 to 7 meters shall have two 75 mm bands one near each end. Tubes having exact length and approximate length as prescribed in clause 11.2 and clause 11.3 shall have one 75 mm band. 17.5 BIS Certification Marking The tubes may also the marked with the Standard Mark. 17.5.1 The use of the Standard Mark is governed by the provisions of the Bureau of Indian Standards Act, 1986 and the Rules and Regulations made thereunder. The details of conditions under which the licence for the use of Standard Mark may be granted to manufacturers or producers may be obtained from the Bureau of Indian Standards. 18 PROTECTION AND PACKING Black tubes not otherwise protected shall be varnished or suitably painted externally throughout the length unless ordered unvarnished or unpainted. Where tubes are bundled for transport, all qualities of tubes shall be packed in accordance with IS 4740.
+
+17-4 4 ls 7 ehVj okyh ;kn`fPNd yEckbZ okyh ufy;ksa ij nks ifV~V;k� izR;sd fljs ds lehi 75 fe-eh- dh ,d iV~Vh cukbZ tk,xhA [kaM 11-2 rFkk [kaM 11-3 esa ;Fkk fu�kkZfjr okLrfod yEckbZ rFkk vuqekfur yEckbZ okyh ufydkvksa esa 75 fe-eh- dh ,d iV~Vh gksxhA 17-5 Hkkjrh; ekud C;wjks dk izek.ku eqgjkadu ufydkvksa ij ekud eqgjkadu Hkh fd;k tk ldrk gSA 17-5-1 ekud eqgj dk mi;ksx Hkkjrh; ekud C;wjks vf�kfu;e] 1986 vkSj mlds vf�ku cus fu;eksa vkSj fofu;eksa ds izko�kkuksa vuqlkj gksA fuekZrkvksa vkSj laLd�kkZvksa dks ftu 'krks� osQ v�khu ekud eqgj yxkus ds fy, ykblsl a fn;k tkrk gS mldk fooj.k Hkkjrh; ekud C;wjks ls izkIr fd;k tk ldrk gSA 18 laj{k.k ,oa iSfdax vU;Fkk lajf{kr u dh xbZ dkyh ufydkvksa dh iw.kZ yEckbZ ij ok�u'k yxkbZ tk,xh vFkok mls ckgj ls mi;qDr izdkj isaV fd;k tk,xk tc rd fd ml ij ok�u'k ;k isaV u yxkus ds vkns'k u fn, x, gksA a tgk� ufydkvksa ds ifjogu ds fy, caMy cuk, tkrs gS] a ogk� lHkh izdkj dh rkfydkvksa dks vkbZ,l 4740 ds vuqlkj iSd fd;k tk,xkA
+
+vuqca�k ^d* ([kaM 1-2)
+Hkki ogu okyh ufydkvksa ds fy, vf�kdre vuqer nkc vkSj rki ANNEX A (Clause 1.2)
+MAXIMUM PERMISSIBLE PRESSURE AND TEMPERATURE FOR TUBES FOR CONVEYING STEAM A-1 The maximum permissible pressure and temperature for tubes with screwed and socketed joints shall be as given in Table 6. A-2 For tubes fitted with appropriate flanges or suitably butt welded together, the maximum permissible pressure shall be 2.06 MPa and the maximum permissible temperature 260�C.
+
+d -1 pwM+hnkj vkSj lkWdsV yxs tksM+ksa okyh ufydkvksa ds fy, vf�kdre vuqKs; nkc vkSj rki lkj.kh 6 ds vuqlkj gksxkA d -2 mi;qDr �ySat yxs gq, ;k i;kZIr :i ls VDDj osYM�r ufydkvksa ds fy, vf�kdre vuqer rki 260 esxk ikLdy vkSj vf�kdre vuqer rki 260�lasVhxzsM gksxkA
+
+12
+
+vkbZ,l@IS 1239 (Hkkx/Part 1) : 2004
+Table 6 Maximum Permissible Pressure and Temperature for Tubes with Steel Couplings or Screwed and Socketed Joints (Clause A-1)
+Nominal Bore Maximum Maximum Permissible Permissible Pressure Temperature MPa �C (2) 1.20 1.03 0.86 0.69 0.83 Over 100 mm up to and including 125 mm Over 125 mm up to and including 150 mm 0.69 0.50 (3) 260 260 260 260 177 171 160
+
+lkj.kh 6 bLikr ds ;qXed ;k pwM+hnkj vkSj lkWdsV tksM+ okyh ufydkvkas ds fy, vf�kdre vuqer nkc vkSj rki ([kaM d&1)
+vf�kdre vf�kdre vuq K s ; nkc vuq K s ; rki fe-eh,eih, fMxzh lasVhxzsM (1) (2) (3) 25 fe-eh- rd ds fy, 1-20 260 25 fe-eh- ls vf�kd rFkk 40 fe-eh- rd 1-03 260 40 fe-eh- ls vf�kd rFkk 80 fe-eh- rd 0-86 260 80 fe-eh- ls vf�kd rFkk 100 fe-eh- rd 0-69 260 0-83 177 100 fe-eh- ls vf�kd rFkk 125 fe-eh- rd 0-69 171 125 fe-eh- ls vf�kd rFkk 150 fe-eh- rd 0-50 160 fVIi.kh -- 1 esxk ikLdy = 1 U;wVu@fe-eh-2 = 0-102 0 fdyksxkz e@fe-eh-2 vfHkfgr cks j
+
+mm (1) Up to and including 25 mm Over 25 mm up to and including 40 mm Over 40 mm up to and including 80 mm Over 80 mm up to and including 100 mm
+
+NOTE -- 1 MPa = 1 N/mm2 = 0.102 0 kg/mm2.
+
+vuqca�k [k ([kaM 13-1)
+ty fjlko dlko ijh{k.k ds fodYi ds :i esa ufydkvksa dk Hkaoj �kkjk ijh{k.k ANNEX B (Clause 13.1)
+EDDY CURRENT TESTING OF TUBES AS AN ALTERNATIVE TO THE HYDRAULIC LEAK TIGHTNESS TEST
+
+B-1 METHODS OF TEST B-1.1 The tubes shall be tested for imperfections using a concentric coil or segment coil or a rotating tube or rotary probe Eddy current technique in accordance with this Annex. B-1.2 The tube shall be sufficiently straight to ensure the validity of the test and the surface shall be free from any foreign matter that would interfere with the interpretation of the test. B-1.3 Two methods of test are permitted (at the manufacturer's option). The equipment may be located on or off the tube mill. B-1.3.1 Method A The tube to be tested is passed through the (a) concentric test coil (applicable to welded or seamless tubes), or (b) segmental coil covering the weld and �15� arc from weld line (applicable to welded tubes) on either side. 13
+
+[k-1 ijh{k.k dh fof�k [k-1-1 bl ifjf'k"V ds vuqlkj ,d ladf s Unzr dqM a yh (dkW;y) vFkok [kaM dkW;y ;k ?kw.khZ ufydk ;k ?kw.khZ ijh{k.k vkorZ rduhd dk iz;ksx djds =kqfV;ksa ds fy, ufydkvksa dk ijh{k.k fd;k tk,xkA [k-1-2 ijh{k.k dh oS�krk lqfuf'pr djus ds fy, ufydk i;kZIr lh�kh gksxh rFkk lrg fdlh ,sls ckgjh inkFkZ ls eqDr gksxh tks ijh{k.k dh O;k[;k esa gLr{ksi dj ldrk gSA [k-1-3 ijh{k.k dh nks i�fr;k� (fuekZrk ds fodYi ij) vuqer gSA a miLdj ufydk dkj[kkus esa ;k mlds ckgj vofLFkr gks ldrk gSA [k-1-3-1 fof�k d ijhf{kr dh tkus okyh ufydk dks (d) ladsfUnzr ijh{k.k dqM a yh (dkW;y) (osYM�r ;k lhoujfgr ufydkvksa ij iz;ksT;) vFkok ([k) osYM rFkk osYM js[kk ls �15� pki dks 'kkfey djus okyh [kaMkRed dkW;y (osYM�r ufydkvksa ij iz;ksT;) esa ls nksuksa vksj vkj&ikj fd;k tkrk gSA
+
+vkbZ,l@IS 1239 (Hkkx/Part 1) : 2004
+B-1.3.2 Method B The tube to be tested or the test coil assembly is rotated and translated relative to each other so the test coil describes a helical path over the tube surface. The pitch of the helical scan shall ensure that the whole of the tube surface is effectively covered. This method is applicable to seamless tubes only. B-2 CALIBRATION OF TEST EQUIPMENT B-2.1 The equipment shall be calibrated using standard tube containing holes as defined in B-2 for Method A or standard notches as defined in B-2.3 for Method B. The standard tube for offline equipment shall have similar electromagnetic properties and same diameter and thickness as the tube to be tested. For online equipment, running tube may be considered as standard tube. B-2.2 Method A The standard defect shall be a circular hole drilled radically completely through the tube wall on the welding. The diameters of the drills required to make these holes shall be as follows: Nominal Bore of the Tubes mm Up to and including 15 20, 25 - 32 40 - 50 65 - 80 100 - 125 150 B-2.3 Method B The standard test piece shall have a longitudinal notch 0.8 mm or less in width machined parallel to the tube axis on the outer surface of the tube. The depth of the notch shall not exceed 12� percent of the specified thickness of the tube or 0.3 mm whichever is greater. The length of the notch at full depth shall not exceed 50 mm. B-3 CALIBRATION PROCEDURE B-3.1 The equipment and test coils shall be adjusted to produce in a consistent manner a clearly identifiable signal from the standard defect(s) on the standard tube and this signal shall be used to set the triggrer alarm level of the equipment. For calibration purposes the relative speed between the standard tube containing standard defect and the test coils shall be the same as that used during the production. B-3.2 The calibration of the equipment shall be checked 14 Drill Diameter mm 1.2 1.7 2.2 2.7 3.2 3.7
+
+[k-1-3-2 fof�k [k ijhf{kr dh tkus okyh ufydk ;k ijh{k.k dkW;y la;kstu dks ,d nwljs ds lkis{k ?kw�.kr rFkk LFkkukarfjr fd;k tkrk gS rkfd ijh{kk dkW;y ufydk dh lrg ij ,d l�iy ekxZ cuk,A l�iy LdSu dh <ky ;g lqfuf'pr djsxh fd laiw.kZ ufydk lrg izHkkoh :i ls vkPNkfnr gks tk,A ;g i�fr dsoy lhoujfgr ufydkvksa ij iz;ksT; gSA [k-2 ijh{k.k midj.k dk va'k'kks�ku [k-2-1 miLdj dk va'k'kks�ku fof�k d ds fy, [k-2 esa ;Fkk ifjHkkf"kr Nsnksa okyh ekud ufydk dk iz;ksx djds vFkok fof�k [k ds fy, [k-2-3 esa ;Fkk ifjHkkf"kr ekud [kakpksa dk iz;ksx djds fd;k tk,xkA vkWiQ ykbu miLdj ds fy, ekud ufydk dh le:i oS|qr pqEcdh; fof'k"Vrk,� gksaxh rFkk mldk O;kl rFkk eksVkbZ Hkh ijhf{kr dh tkus okyh ufydk ds leku gksxkA vkWu ykbu miLdj ds fy, fo|eku ufydk dks gh ekud ufydk ekuk tk ldrk gSA [k-2-2 fof�k d ekud nks"k osfYMax ij ufydk dh fHkf�k esa ls f=kT;h; :i ls iw.kZr;k fM�y fd;k x;k ,d xksykdkj fNnz gSA bu Nsnksa dks cukus ds fy, visf{kr fM�yksa ds O;kl fuEu izdkj gksaxs% ufydkykvksa dk vfHkfgr cksj fe-eh15 fe-eh- rd 20] 25&32 40&50 65&80 100&125 150 [k-2-3 fof�k [k ekud ijh{k.k VqdMs+ ds ns'kkarjh; [kkaps dh pkSM+kbZ 0-8 fe-eh;k mlls de gksxh ftls ufydk dh ckgjh lrg ij ufydk ds v{k ds lekukarj e'khuh�r fd;k tk,xkA [kkaps dh xgjkbZ ufydk dh fu�n"V eksVkbZ ds 121/2 izfr'kr ;k 0-3 fe-eh- tks Hkh vf�kd gS] ;s T;knk ugha gksxhA iw.kZ xgjkbZ ij [kkaps dh yEckbZ 50 fe-eh- ls vf�kd ugha gksxhA [k-3 va'k'kks�ku izf�;k [k-3-1 miLdj rFkk ijh{k.k dqaMfy;ksa dks bl izdkj leaftr fd;k tk,xk fd ekud ufydk dk ekud nks"kksa ls ,d Li"V :i ls vfHkKs; ladr s lqlx a r rjhds ls l`ftr gks rFkk bl ladr s dkk iz;ksx miLdj ds fV�xj@lapsrd Lij dks fu�kkZfjr djus ds fy, fd;k tk,xkA va'kk'kks�ku iz;kstuksa ds fy, ekud nks"k okyh ekud ufydk rFkk ijh{k.k dqaMfy;ksa ds chp lkis{k xfr ogh gksxh ftldk iz;ksx mRiknu ds nkSjku fd;k x;k FkkA [k-3-2 miLdj ds va'k'kks�ku dh tkap izR;sd dk;Zdkjh vof�k fM�y O;kl fe-eh1-2 1-7 2-2 2-7 3-2 3-7
+
+vkbZ,l@IS 1239 (Hkkx/Part 1) : 2004
+at the commencement and at the end of each working period and at intervals not exceeding 2 h. B-3.3 If on checking during production testing the reference standard defect is not detected even after changing the sensitivity by 2dB to allow for equipment drift, the equipment shall be recalibrated. Following recalibration, all tubes tested since the previous check shall be retested, unless recordings from individually identified tubes are available that permit classification of those tubes into `suspect' and `acceptable' categories. B-4 TEST PROCEDURE Pass the tube to be inspected through the test unit at the appropriate production speed, maintaining the production speed constant with �10 percent under conditions identical to those used in the calibration of the equipment.
+NOTE -- Identical conditions include all instrument setting, mechanical motion, positioning of the encircling coil(s) in relation to the tube and any other factor that affect the validity of the technique.
+
+ds vkjaHk rFkk var esa 2 ?kaVksa ls vuf�kd ds varjkyksa ij dh tk,xhA [k-3-3 ;fn mRiknu ijh{k.k ds nkSjku tk�p djus ij miLdj viogu vuqer djus ds fy, laosnu'khyrk dks 2dB }kjk ifjo�rr djus ds i'pkr Hkh ekud nks"k dk irk ugha yxrk rks miLdj dks iqu% va'k'kksf�kr fd;k tk,xkA iqu% va'k'kksf�kr ds i'pkr~ fiNyh tk�p ds i'pkr~ ijhf{kr lHkh ufydkvksa dk iqu%ijh{k.k fd;k tk,xk tc rd fd O;f"V #i ls vfHkKkr ufydkvksa ls ,sls vfHkys[k miyC�k u gksa tks mu ufydkvksa dk ^lafnX�k* rFkk ^Lohdk;Z* Jsf.k;ksa esa Js.khdj.k vuqer djsaA [k-4 ijh{k.k izf�;k miLdj ds va'kkadu esa iz;qDr fLFkfr;ksa ds le:i fLFkfr;ksa ds varxZr mRiknu xfr dks �10 izfr'kr ij fLFkj j[krs gq, leqfpr mRiknu xfr ij ijh{k.k ;wfuV esa ls fujh{k.k dh tkus okrh ufydk xqtkjsaA
+fVIi.kh -- le:i fLFkfr;ksa esa leLr ;a=k lsfVax] vfHk;kaf=kd xfr] l�iy dqaMfy;ksa dh ufydk ls lacaf�kr fLFkfr rFkk dksbZ vU; dkjd 'kkfey gS tks rduhd dh oS�krk dks izHkkfor djrk gSA
+
+B-5 ACCEPTANCE B-5.1 Any tube producing a signal lower than the signals from the standard shall be deemed to have passed this test. B-5.2 Since NDT systems are known to be sensitive to some features which do not cause leak, the tube rejected by NDT may be retested hydraulically and whatever tubes pass the hydraulic test shall be accepted. B-5.3 The tubes rejected in (see B-5.1) may also be retested off-line NDT equipment. Those which do not produce reject level signals shall be accepted. Others may be accepted after cropping off the portion producing reject level signals.
+
+[k-5 Loh�fr [k-5-1 ekud ds ladsrdksa ls fuEurj ladsrd dk l`tu djus okyh fdlh Hkh ufydk }kjk ;g ijh{kk ikfjr dh xbZ ekuh tk,xhA [k-5-2 pwfa d ,uMhVh i�fr;k� dqN ,sls y{k.kksa ds izfr laon s h ekuh xbZ gSa ftuds dkj.k fjlko ugha gksrk] ,uMhVh }kjk fujLr dh xbZ ufydk dk iqu% nzoh; ijh{k.k fd;k tk,xk rFkk tks Hkh ufydk,a nzoh; ijh{k.k dks ikl dj yax s h] mUgsa Lohdkj dj fy;k tk,xkA [k-5-3 fujLr ufydkvksa (ns[ksa [k-5-1) dk vkWiQ ykbu ,uMhVh miLdj ij Hkh iqu% ijh{k.k fd;k tk ldrk gSA fujLr Lrjh; ladr s d l`ftr u djus okyh ufydkvksa dks Lohdkj dj fy;k tk,xkA vU;ksa dks fujlu Lrj ds ladr s d l`ftr djus okys Hkkx dks dkVdj vyx dj nsus ds i'pkr Lohdkj dj fy;k tk,xkA
+
+fookn dh fLFkfr esa bl ekud dk vaxzsT+kh ikB gh ekU; gksxkA
+In case of dispute English version of this standard shall be authentic.
+
+15
+
+(nwljs doj ls tkjh) bl ns'k esa Hkki izokg ds fy, bLrseky dh tkus okyh ufy;ksa dks iz'kkflr djus okys fofu;e dsfUnz; ckW;yj cksMZ }kjk izdkf'kr Hkkjrh; ckW;yj fofu;eksa esa fu�kkZfjr fd, x, gSaA bl ekud dk fu�kkZj.k djrs le;] ns'k esa bl {ks=k esa izpfyr O;kikj jhfr;ksa ij ;Fks"V �;ku fn;k x;k gSA fofHkUu ns'kksa esa izpfyr ekudksa ds varjkZ"V�h; leUo; ij Hkh ;Fks"V �;ku fn;k x;k gSA fuEufyf[kr izdk'kuksa ls lgk;rk izkIr dh xbZ gS% vkbZ,lvks 65 % 1981 ekudhdj.k ds fy, vkbZ,lvks varjk"V�h; laxBu ds vuqlkj pwM+h cukus ds fy, mi;qDr dkcZu bLikr ufydk,� ch,l 1387 % 1985 pwM+hnkj ,oa lkdsV;qDr bLikr ufy;ksa rFkk ufydkdkj lkefxz;ksa ,oa osfYMax ds fy, mi;qDr lkns fljs okyh bLikr ufydkvksa ds fy, vFkok pwMh + cukus ds fy, ch,l 21 % 1985 ^ufydk,� ,oa fiQfVax ds fy, ikbi dh pwfM+;k�] tgk� pwfM+;ksa ij nkc dls tksM+ cuk, tkrs gSa* bl ekud esa [kaM 6-4] 7-1] 7-1-1] 11-2] 16-2 rFkk 17-3 fn, x, gSa ftlds fy, �srk vkSj fuekZrk ds chp djkj fd;k tkuk vko';d gSA bl ekud dk nwljk Hkkx vkbZ,l 1239 (Hkkx 2) % 1992 ^e`nq bLikr ufydkvksa] ufydkdkj lkexzh rFkk vU; fiVok� bLikr fiQfVaXl ds fy, fof'kf"V% Hkkx 2 e`nq bLikr lkWdsV] ufydkdkj lkexzh rFkk vU; fiVok� bLikr fiQfVaxs (pkSFkk iqujh{k.k)* gSA ;g fuf'pr djus ds fy, fd bl ekud esa fdlh vis{kk fo'ks"k dk ikyu fd;k x;k gS ;k ugha] rks ijh{k.k ;k fo'ys"k.k esa ifj.kke dks n'kkZus okys voyksdu ;k x.kuk }kjk izkIr vafre eku dks vkbZ,l 2 % 1960 ^la[;kRed ekuksa ds iw.kk�du laca�kh fu;e (iqujhf{kr)* ds vuqlkj iw.kk�fdr dj fn;k tk,A iw.kk�fdr eku esa j[ks x, lkFkZd LFkkuksa dh la[;k mruh gh gks ftruh bl ekud esa fufnZ"V eku dh gSA
+
+(Continued from second cover)
+
+In this country, the regulations governing the use of tubes for conveying steam are laid down in the Indian Boiler Regulations published by the Central Boilers Board. While formulating this standard, due consideration has been given to the trade practices followed in the country in this field. Due consideration has also been given to international coordination among the standards prevailing in different countries. Assistance has been derived from the following publications: ISO 65 : 1981 BS 1387 : 1985 Carbon steel tubes suitable for screwing in accordance with ISO International Organization for Standardization Screwed and socketed steel tubes and tubulars and for plain end steel tubes suitable for welding or for screwing to BS 21 : 1985 `Pipe threads for tubs and fitting where pressure-tight joints are made on the threads'
+
+This standard contains clauses 6.4, 7.1, 7.1.1, 11.2, 16.2 and 17.3 which call for an agreement between the manufacturer and the purchaser. The other part of this standard is IS 1239 (Part 2) : 1992 `Specification for mild steel tubes, tubulars and other wrought steel fittings: Part 2 Mild steel socket, tubulars and other wrought steel pipe fittings ( fourth revision )'. For the purpose of deciding whether a particular requirement of this standard is complied with, the final value, observed or calculated, expressing the results of a test or analysis, shall be rounded off in accordance with IS 2 : 1960 `Rules for rounding off numerical values (revised )'. The number of significant places retained in the rounded off value should be the same as that of the specified value in this standard.
+
+Bureau of Indian Standards BIS is a statutory institution established under the Bureau of Indian Standards Act, 1986 to promote harmonious development of the activities of standardization, marking and quality certification of goods and attending to connected matters in the country. Copyright BIS has the copyright of all its publications. No part of these publications may be reproduced in any form without the prior permission in writing of BIS. This does not preclude the free use, in the course of implementing the standard, of necessary details, such as symbols and sizes, type or grade designations. Enquiries relating to copyright be addressed to the Director (Publications), BIS. Review of Indian Standards Amendments are issued to standards as the need arises on the basis of comments. Standards are also reviewed periodically; a standard along with amendments is reaffirmed when such review indicates that no changes are needed; if the review indicates that changes are needed, it is taken up for revision. Users of Indian Standards should ascertain that they are in possession of the latest amendments or edition by referring to the latest issue of `BIS Catalogue' and `Standards : Monthly Additions'. This Indian Standard has been developed from Doc No.: MTD 19 (4264).
+
+Amendments Issued Since Publication Amend No. Date of Issue Text Affected
+
+BUREAU OF INDIAN STANDARDS Headquarters: Manak Bhavan, 9 Bahadur Shah Zafar Marg, New Delhi 110002 Telephones : 2323 0131, 2323 3375, 2323 9402 Website: www.bis.org.in Regional Offices: Central Eastern : Manak Bhavan, 9 Bahadur Shah Zafar Marg NEW DELHI 110002 : 1/14 C.I.T. Scheme VII M, V. I. P. Road, Kankurgachi KOLKATA 700054 Telephones
+
+{ { {
+
+{
+
+2323 7617 2323 3841
+
+2337 8499, 2337 8561 2337 8626, 2337 9120
+
+Northern : SCO 335-336, Sector 34-A, CHANDIGARH 160022 Southern : C.I.T. Campus, IV Cross Road, CHENNAI 600113 Western Branches: : Manakalaya, E9 MIDC, Marol, Andheri (East) MUMBAI 400093
+
+{
+
+60 3843 60 9285
+
+2254 1216, 2254 1442 2254 2519, 2254 2315 2832 9295, 2832 7858 2832 7891, 2832 7892
+
+AHMEDABAD. BANGALORE. BHOPAL. BHUBANESHWAR. COIMBATORE. FARIDABAD. GHAZIABAD. GUWAHATI. HYDERABAD. JAIPUR. KANPUR. LUCKNOW. NAGPUR. PARWANOO. PATNA. PUNE. RAJKOT. THIRUVANANTHAPURAM. VISAKHAPATNAM.
+Laser Typeset by Sunshine Graphics
+
+

@@ -1,0 +1,842 @@
+**************** 
+
+
+Disclosure  to  Promote  the  Right  To  Information 
+
+Whereas  the  Parliament  of  India  has  set  out  to  provide  a  practical  regime  of  right  to 
+information  for  citizens  to  secure  access  to  information  under  the  control  of  public  authorities, 
+in  order  to  promote  transparency  and  accountability  in  the  working  of  every  public  authority, 
+and  whereas  the  attached  publication  of  the  Bureau  of  Indian  Standards  is  of  particular  interest 
+to  the  public,  particularly  disadvantaged  communities  and  those  engaged  in  the  pursuit  of 
+education  and  knowledge,  the  attached  public  safety  standard  is  made  available  to  promote  the 
+timely  dissemination  of  this  information  in  an  accurate  manner  to  the  public. 
+
+
+Mazdoor  Kisan  Shakti  Sangathan 
+"The  Right  to  Information,  The  Right  to  Live'' 
+
+
+IS  10080  (1982) :  Specification  for  vibration  machine  for 
+standard  cement  mortar  cubes  [CED  2:  Cement  and  Concrete] 
+
+
+Jawaharlal  Nehru 
+'Step  Out  From  the  Old  to  the  New" 
+
+
+aj^&vi  iJii^s:y>K^  isb^^ni^seg 
+
+
+:<>5&i|  mT'5K^5?::5:^>^i»l 
+
+
+K^^^iXSVCd^ 
+
+
+Satyanarayan  Gangaram  Pitroda 
+Invent  a  New  India  Using  Knowledge 
+
+
+Bhartrhari — Nitisatakam 
+''Knowledge  is  such  a  treasure  which  cannot  be  stolen" 
+
+
+^'^^^r 
+
+
+k 
+
+
+BLANK  PAGE 
+
+
+^*-^^^ 
+
+
+PROTECTED  BY  COPYRIGHT 
+
+
+18:10080-1982 
+
+( Reaffirmed  2004 ) 
+
+Indian  Standard 
+
+SPECIFICATION  FOR 
+VIBRATION  MACHINE 
+
+(  First  Reprint  OCTOBER  1996  ) 
+
+
+UDC  666.971.033.16  :  620.115 
+
+
+©  Copyright  1982 
+BUREAU   OF   INDIAN   STANDARDS 
+
+MANAK  BHAVAN,   9  BAHADUR  SHAH  ZAFAR  MARG 
+NEW  DELHI    110002 
+
+Gr3  September  \m 
+
+
+Indian  Standard 
+
+SPECIFICATION  FOR 
+VIBRATION  MACHINE 
+
+
+IS  :  10080  -  1982 
+
+( ReafTirmed  1989 ) 
+
+
+Cement  and  Concrete  Sectional  Committee,  BDC  2 
+
+Chairman  Representing 
+
+Dr  H.  C  Visvesvaraya  Cement  Research  Institute  of  India,  New  Delhi 
+
+Members 
+Additional  Director,  Standards     Research,     Designs    &    Standards    Organization 
+(  B  &  S  )  (  Ministry  of  Railways  ),  Lucknow 
+
+Deputy  C.rector,  Standards 
+(  B  i&  S  )  (  Alternate  ) 
+Shri  K,  p.  Banerjee  Larsen  &  Toubro  Ltd,  Bombay 
+
+Shri  Harish  N.  Malani  (  Alternate  ) 
+Shri  S.  K.  Banerjee  National  Test  House,  Calcutta 
+
+Shri  R.  N.  Bansal  Beas  Designs  Organization,  Nangal  Township 
+
+Shrj  T.  C.  Garg  (  Alternate  ) 
+Shri  R.  V.  Chalapathi  Rao  Geological  Survey  of  India,  Calcutta 
+
+Shri  S.  Roy  (  Alternate ) 
+Chief  Enginfer  (  Designs  )  Central  Public  Works  Department,  New  Delhi 
+
+Executive  Engineer  (  Designs  )  III 
+(  Alternate  ) 
+Chief  Engineer  (  Projects  )  Irrigation    Department,    Government    of  Punjab, 
+
+Chandigarh 
+Director,  IPRI  (  Alternate  ) 
+Director  (  CSMRS )  Central    Soil    and    Materials    Research  Station, 
+
+New  Delhi 
+Deputy  Director  (  CSMRS  )  (  Alternate  ) 
+ShriT.  a.  E.  D*Sa  The  Concrete  Association  of  India,  Bombay 
+
+Shri  N.  C.  Duggal  (  Alternate  ) 
+Shri  A.  K.  Gupta  Hyderabad     Asbestos     Cement     Products     Ltd, 
+
+Hyderabad 
+Shri  V.  K.  Gupta  Engineer-in-Chief's  Branch,  Army    Headquarters. 
+
+New  Delhi 
+Shri  S.  N.  Pande  (  Alternate  ) 
+Dr  R.  R.  Hattiangadi  The  Associated  Cement  Companies  Ltd,  Bombay 
+
+
+Shri  P.  J.  Jagus  (  Alternate  ) 
+
+
+(  Continued  on  page  2  ) 
+
+
+@   Copyright  1982 
+
+BUREAU    OF    INDIAN    STANDARDS 
+
+This  publication  is  protected  under  the   Indian  Copyright  Act  (  XIV   of  1957  )  and 
+
+reproduction  in  whole  or  in  part  by  any  means  except  with  written  permission  of  the 
+
+publisher  shall  be  deemed  to  be  an  infrigement  of  copyright  under  the  said  Act. 
+
+
+IS  ;  10080  -  1982 
+
+(  Continued  from  page  1  ) 
+
+Members 
+
+Dr  Iobal  Ali 
+
+Shri  S.  R.  Kulkarni 
+
+Shri  S.  K.  Laha 
+
+Shri  B.  T.  Unwalla  (  Alternate  ) 
+Or  Mohan  Rai 
+
+Dr  S.  S.  Rehsi  (  Alternate  ) 
+Shri  K.  K.  Nambiar 
+
+
+Shri  H.  S.  Pasricha 
+
+Shri  C.  S.  Mishra  (  Alternate  ) 
+Shri  Y.  R.  Phull 
+
+
+Representing 
+
+Engineering  Research  Laboratories,  Hyderabad 
+
+M.  N.  Dastur  &  Co  Pvt  Ltd,  Calcutta 
+
+The  Institution  of  Engineers  (  India  ),  Calcutta 
+
+Central    Building    Research    Institute     ( CSIR ), 
+Roorkee 
+
+In    personal    capacity     ( *Ramanalaya*    1  \    First 
+Crescent    Park    Road,     Gandhinagar,    Adyar^ 
+Madras  ) 
+Hindustan  Prefab  Ltd,  New  Delhi 
+
+
+Central      Road     Research      Institute     ( CSIR ), 
+New  Delhi 
+Shri  M.  R.  Chatter jee  (  Alternate  I ) 
+Shri  K.  L.  Sethi  (  Alternate  II ) 
+Dr  M.  Ramaiah  Structural  Engineering  Research  Centre  (  CSIR  ), 
+
+Roorkee 
+
+
+Dr  N.  S.  Bhal  (  Alternate  ) 
+Shri  G.  Ramdas 
+
+
+Directorate  General  of  Supplies   and    Disposals, 
+
+New  Delhi 
+National  Buildings  Organization,  New  Delhi 
+
+
+Gammon  India  Ltd,  Bombay 
+
+Indian  Roads  Congress,  New  Delhi 
+
+Cement  Corporation  of  India  Ltd,  New  Delhi 
+
+
+Dr  a.  V.  R.  Rao 
+
+Shri  J.  Sen  Gupta  (  Alternate  ) 
+Shri  T.  N.  S.  Rao 
+
+Shri  S.  R.  Pinheiro  (  Alternate  ) 
+Representative 
+Shri  Arjun  Ruhsinghaki 
+
+Shri  K.  Vithal  Rao  (  Alternate  ) 
+Secretary  Central  Board  of  Irrigation  and  Power,  New  Delhi 
+
+Deputy  Secretary  ( I )  (  Alternate  ) 
+Shri  N.  Sivaguru  Roads  Wing,  Ministry  of  Shipping  and  Transport, 
+
+New  Delhi 
+
+Shri  R.  L.  Kapoor  (  Alternate  ) 
+Shri  K.  A.  Subramaniam  The  India  Cements  Ltd,  Madras 
+
+Shr(  P.  S.  Ramachanoran  ( Alternate  ) 
+Superintending    Engineer  Public    Works     Department,     Government     of 
+
+(  Designs  )  Tamil  Nadu,  Madras 
+
+Executive  Engineer  (  SM  &  R 
+
+
+Division  )  (  Alternate  ) 
+Shri  L.  Swaroop 
+
+Shri  A.  V.  Ramana  (  Alternate  ) 
+Shri  G.  Raman, 
+Director  (  Civ  Engg  ) 
+
+
+Dalmia  Cement  (  Bharat )  Ltd,  New  Delhi 
+Director  General  ISI  (  Ex-officio  Member ) 
+
+
+Secretary 
+Shki  M.  N.  Neelakandhan 
+Assistant  Director  ( Civ  Engg ),  ISI 
+
+
+(  Continued  on  page  11) 
+
+
+IS  :  10080  -  1982 
+
+Indian  Standard 
+
+SPECIFICATION  FOR 
+VIBRATION  MACHINE 
+
+0.  FOREWORD 
+
+0-1  This  Indian  Standard  was  adopted  by  the  Indian  Standards  Institution 
+on  28  January  1982,  after  the  draft  finalized  by  the  Cement  and  Concrete 
+Sectional  Committee  had  been  approved  by  the  Civil  Engineering  Division 
+Council. 
+
+0.2  The  Indian  Standards  Institution  has  already  published  a  series  of 
+standards  on  methods  of  testing  cement  and  concrete.  It  has  been 
+recognized  thai  reproducible  and  repeatable  test  results  can  be  obtained 
+only  with  standard  testing  equipment  capable  of  giving  the  desired  level 
+of  accuracy.  The  Sectional  Committee  has,  therefore,  decided  to  bring  out 
+a  series  of  specifications  covering  the  requirements  of  equipment  used  for 
+testing  cement  and  concrete,  to  encourage  their  development  and  manu- 
+facture in  the  country. 
+
+0.3  Accordingly,  this  standard  has  been  prepared  to  cover  requirements  of 
+vibration  machine  used  for  moulding  70  6  mm  cement  mortar  cubes  in  the 
+test  for  determination  of  compressive  strength  of  hydraulic  cement.  Use  of 
+this  machine  is  covered  in  IS  :  4031-1968*. 
+
+0.4  In  the  formulation  of  this  standard,  due  weightage  has  been  given  to 
+international  co-ordination  among  the  standards  and  practices  prevailing 
+in  different  countries  in  addition  to  relating  it  to  the  practices  in  the  field  in 
+this  country, 
+
+0.5  For  the  purpose  of  deciding  whether  a  particular  requirement  of  this 
+standard  is  complied  with,  the  final  value,  observed  or  calculated,  express- 
+ing the  result  of  a  test  or  analysis,  shall  be  rounded  off  in  accordance  with 
+IS  :  2-1960t.  The  number  of  significant  places  retained  in  the  rounded  off 
+value  should  be  the  same  as  that  of  the  specified  value  in  this  standard. 
+
+
+1.  SCOPE 
+
+1.1  This  standard  specifies  the  requirements  of  vibration  machine  used  in 
+casting  cement  mortar  cubes  of  70*6  mm  size. 
+
+
+♦Methods  of  physical  tests  for  hydraulic  cement. 
+tRules  for  rounding  off  numerical  values  (  revised ). 
+
+
+IS  :  10080  -  1982 
+
+2.  MATERIALS 
+
+2.1  Materials   of  construction  of  different  components  of  the  vibration 
+naachine  shall  be  as  given  in  Table  1 . 
+
+
+TABLE  1  MATERIALS  OF  CONSTRUCTION  OF  DIFFERENT  COMPONENTS 
+OF  VIBRATION  MACHINE 
+
+
+Sl 
+No. 
+
+Part 
+
+Material 
+
+Specif ic  Requirements  and 
+
+Recommended   Indian 
+
+Standard  Specification, 
+
+IF  Any 
+
+(1) 
+
+(2) 
+
+(3) 
+
+(4) 
+
+i) 
+
+Bed 
+
+ISLC  200 
+
+_- 
+
+ii) 
+
+Vibrator 
+
+Cast  iron 
+
+Smooth  surface, 
+is  :  210-1978* 
+
+iii) 
+
+Eccentric  shaft 
+
+Mild  steel 
+
+IS  :  226-l975t 
+
+iv) 
+
+Pulley 
+
+MM  steeJ 
+
+IS  :  226-I975t 
+
+V) 
+
+Support  spring 
+
+Spring  steel 
+
+— 
+
+vi) 
+
+Tension  spring 
+
+Spring  steel 
+
+— 
+
+vii) 
+
+Hopper 
+
+Brass 
+
+_« 
+
+viii) 
+
+Drive  pulley 
+
+Cast  iron 
+
+Smooth  surface, 
+JS  :  2]0-1978* 
+
+X) 
+
+Belt 
+Motor 
+
+Cotton/Nylon 
+
+Woven,  end  less  belt 
+3/4  hp,  2  800  rpm 
+
+xi) 
+
+Motor  support 
+plate 
+
+Mild  steel 
+
+IS  :  226-1975t 
+
+xii)        Mould 
+
+♦Specification  for  grey  iron 
+tSpecification  for  structural 
+
+
+Cast  iron/Mild  steel  IS  :  210-1978*/ 
+
+IS:  226-1  y75t 
+castings  (  third  revision  ). 
+steel  (  standard  quality  )  (fifth  revision  ), 
+
+
+3.  CONSTRUCTION 
+
+3.1  Vibration  machine  shall  be  constructed  generally  as  shown  in  Fig.  I 
+and  shall  consist  of  a  vibrator,  housing  revolving  shaft  with  eccentric 
+supported  on  four  springs,  which  assembly  is  mounted  over  a  bed  of 
+channel  A  motor  (3/4  hp,  2  800  rpm)  carrying  a  pulley  shall  be  coupled  to 
+the  vibrator  revolving  shaft  through  an  endless  belt.  A  belt  guard  shall  be 
+provided.    The  machine  may  be  fitted  with  time  switch. 
+
+
+IS  :  10080  -  1982 
+
+
+All  dimensions  in  millimetres. 
+
+
+Fig.  1    Typical  Vibration  Machine 
+
+
+As  in  the  Original  Standard,  this  Page  is  Intentionally  Left  Blank 
+
+
+IS  :  10080  -  1982 
+
+3.1.1  The  vibrator  shall  be  constructed  to  comply  with  the  following 
+essential  requirements: 
+
+a)  Mass  of  vibrator  on  its  supporting    springs  29±0*5  kg 
+(  excluding  solid  eccentric  and  cube  hut, 
+
+including  mass  of  mould,  mould  clamp 
+and  hopper  ) 
+
+b)  Out  of  balance  moment  of  eccentric  shaft  0001  6  kgm 
+
+c)  Normal  running  speed  of  eccentric  shaft  12  000zt400  rpm 
+
+3.1.2  The  centre  of  gravity  of  the  vibrator,  including  the  cube  and  the 
+mould,  shall  be  either  to  the  centre  of  the  eccentric  shaft  or  within  a  distance 
+of  25  mm  below  it.  For  this  purpose,  a  mild  steel  plate  may  be  fixed  to  the 
+vibrator. 
+
+3.2  Bed  —  The  bed  of  the  vibration  machine  shall  be  made  of  steel  channel 
+and  shall  be  provided  with  four  cast  iron  feet.  It  shall  be  provided  with 
+four  levelling  bolts.  Four  support  springs  shall  be  fitted  for  positioning  the 
+coiled  springs.  A  bracket  shall  be  provided  for  fixing  one  end  of  a  tension 
+spring. 
+
+3.3  Vibrator 
+
+3.3.1  The  vibrator  shall  be  mounted  over  four  coiled  springs. 
+
+3.3.2  The  vibrator  platform  shall  be  provided  with  two  guide  pieces  for 
+positioning  a  cast  iron  mould  clamp  which  carries  a  cube  mould  of  size 
+70*6  mm.  A  suitable  arrangement  for  mounting  a  hopper  shall  be  provided 
+and  a  tension  spring  shall  be  fitted  as  shown  in  Fig.     1. 
+
+3.3.3  A  brass  hopper  fitted  on  to  a  mild  steel  frame  with  projecting  lugs 
+shall  be  positioned  over  the  mould  as  shown  in  Fig.  1 . 
+
+3.3.4  The  vibrator  shall  house  a  revolving  shaft  with  an  accurately 
+machined  eccentric.    A  pulley  shall  be  fitted  to  the  shaft. 
+
+3.3.5  Springs  —  The  springs  shall  be  as  shown  in  Fig.  I .  The  stiffness  of 
+the  spring  shall  be  such  that  the  natural  frequency  of  the  machine  mounted 
+on  it  is  well  below  its  minimum  running  speed. 
+
+3.3.6  Drive  —  The  drive  should  be  by  an  endless  belt  running  on  a  pulley 
+on  the  motor  and  a  pulley  on  the  vibrator. 
+
+3.4  Mould  —  The  mould  shall  be  of  70-6  mm  size  and  shall  be  constructed 
+generally  in  accordance  with  Fig.  2.  The  dimensions  of  the  mould  with 
+tolerances  shall  be  as  specified  in  Table  2. 
+
+
+70-6*0'1 
+
+
+n 
+
+
+% 
+
+
+■^1 
+
+
+I  •  I 
+I      I 
+
+
+{      I 
+
+
+— _-  -   70'6+0'1 
+
+
+-:!- 
+
+
+97 
+
+
+All  din^ensions  in  millimetres. 
+
+Fig.  2    Typical  Cube  Mould,  70-6  mm  Size 
+
+
+8 
+
+
+IS  :  10080  -  1982 
+
+
+TABLE  2    DIMENSIONS  AND  TOLERANCES  OF  MOULD 
+
+{Clause  3.4) 
+
+Sl  Description  Dimensions 
+
+No. 
+
+(  1  )  ( 2 )  (  3 ) 
+
+
+70-6  ±  0-1 
+
+70-6  ±  0*1 
+
+12 
+
+90  ±  0*5 
+
+97 
+
+97 
+
+6 
+
+003 
+0-05 
+
+i)    Distance  between  opposite  faces,  mm 
+
+ii)    Height  of  mould,  mm 
+
+iii)    Thickness  of  wall  plate,  mm 
+
+iv)    Angle  between  adjacent  interior  faces  and    between 
+interior  faces  and  top  and  bottom  planes  of  mould 
+
+v)    Length  of  base  plate,  mm 
+
+vi)    Width  of  base  plate,  mm 
+
+vii)    Thickness  of  base  plate,  mm 
+
+viii)    Permissible  variation  in  the  planencss  of  interior 
+faces,  mm 
+for  new  moulds 
+for  moulds  in  use 
+
+ix)    Permissible   variation    in    the  planeness  of  base  0-15 
+
+plate,  mm 
+
+
+3.4,1  The  cube  mould  shall  be  constructed  in  such  a  manner  as  to 
+facilitate  separation  into  two  parts.  The  mass  of  the  mould  together  with  the 
+base  plate  shall  be  2*8  ±  0'2  kg.  Other  requirements  of  the  mould  shall  be 
+as  laid  down  in  IS  :  10086-1982.* 
+
+4.  MARKING 
+
+4.1  The  following  information  shall  be  clearly  and  indelibly  marked  on 
+each  component  of  the  vibration  machine  as  far  as  practicable  in  a  way  that 
+it  does  not  interfere  with  the  performance  of  the  apparatus: 
+
+a)  Name  of  the  manufacturer  or  his  registered  trade-mark  or  both,  and 
+
+b)  Date  of  manufacture. 
+
+
+♦Specification  for  moulds  for  use  in  tests  of  cement  and  concrete. 
+
+
+IS  :  10080  -  1982 
+
+4.2  BIS  Certification  Marking 
+
+The  product  may  also  be  marked  with  Standard  Mark. 
+
+4.2.1  The  use  of  the  Standard  Mark  is  governed  by  the  provisions  of  the 
+Bureau  of  Indian  Standards  Act,  1986  and  the  Rules  and  Regulations  made 
+thereunder.  The  details  of  conditions  under  which  the  licence  for  the  use  of 
+Standard  Mark  may  be  granted  to  manufacturers  or  producers  may  be  obtained 
+from  the  Bureau  of  Indian  Standards. 
+
+
+10 
+
+
+IS  :  10080  -  1982 
+
+( Continued  from  page  2 ) 
+
+Instruments  for  Cement  and  Concrete  Testing  Subcommittee,  BDC  2  :  10 
+
+Convener  Representing 
+
+Dr  Iqbal  Ali  Engineering  Research  Laboratories,  Hyderabad 
+
+Members 
+Shri  p.  D.  Agarwal  Public  Works  Department,  Government  of  Uttar 
+
+Pradesh,  Lucknow 
+Dr  T.  N.  Chojer  (  Alternate  ) 
+Prof  B.  M.  Ahuja  Indian  Institute  of  Technology,  New  Delhi 
+
+Shri  T.  P.  Ekambaram  Highways  Research  Station,  Madras 
+
+Shri  H.  K.  Guha  All  India  Instruments  Manufacturers  and  Dealers 
+
+Association,  Bombay 
+Deputy  Secketaky  { Alternate ) 
+Shri  P.  J.  Jagus  The  Associated  Cement  Companies  Ltd,  Bombay 
+
+Shri  D.  A.  Wadia  (  Alternate ) 
+Shri  M.  R,  Joshi  Research  &  Development  Organization  ( Ministry 
+
+of  Defence ),  Punc 
+Shri  Y.  P.  Pathak  (  Alternate  ) 
+Shri  E.  K.  Ramachandran  National  Test  House,  Calcutta 
+
+Shri  S.  K.  Banerjee  (  Alternate  ) 
+Prof  C  K.  Ramesh  Indian  Institute  of  Technology,  Bombay 
+
+Dr  R.  S.  Ayyar  (  Alternate  ) 
+Shri  M.  V.  Ranga  Rao  Cement  Research  Institute  of  India,  New  Delhi 
+
+Dr  K.  C.  Narang  (  Alternate  ) 
+Dr  S.  S.  Rehsi  Central    Building    Research    Institute    (  CSIR  ), 
+
+Roorkee 
+Shri  J.  P.  Kaushish  (  Alternate  ) 
+Shri  A.  V,  S.  R.  Sastri  Associated    Instrument    Manufacturers    ( India  ) 
+
+Private  Ltd,  New  Delhi 
+Shri  Subhash  Sharma  (  Alternate  ) 
+Shri  K.  L.  Sethi  Central     Road    Research      Institute      ( CSIR ), 
+
+New  Delhi 
+Shri  M.  L.  Bhatca  (  Alternate ) 
+
+
+11 
+
+
+AMENDMENT  NO.  1       NOVEMBER  1984 
+
+TO 
+
+IS: 10080-1982    SPECIFICATION  FOR  VIBRATION  MACHINE 
+
+
+{First  OOO0P,  pagM  1  cmd  Z,   title)  •  Sii>8titute 
+the  folloviqg  for  the  existing  title: 
+
+*Iniian  ■Stardard 
+
+SPECIFICATION  FOR  VIBRATION  MI^CH I NE  FOR  CASTING 
+STANDARD  CEMENT  MORTAR  CUBES' 
+
+
+(BDC  2) 
+
+
+Printed  at  Simco  Printing  Press,  Delhi,  India 
+
+
+AMENDMENT  NO.  2        MARCH  1988 
+
+TO 
+IS  :  10080-1982     SPECIFICATION  FOR 
+VIBRATION  MACHINE  FOR  CASTING  STANDARD 
+CEMENT  MORTAR  CUBES 
+
+(  Page  9,  clause  3AA  )  —  Add  the  following  new  clause  after  3.4.1: 
+
+'3.5  Poking  Rod  —  The  poking  rod  shall  be  made  of  non-absorptiy  e, 
+non-abrasive,  non-brittle  material,  such  as  rubber  compound  having 
+shore  A  durometcr  hardness  of  80  ±  10,  or  seasoned  teak  wood  rendered 
+non-absorptive  by  immersion  for  15  minutes  in  paraffin  at  approximately 
+20a'G,  or  ebonite  fibre.  The  poking  rod  shall  be  150  to  175  mm  long 
+and  shall  have  cross-section  of  12  X  25  mm  with  tamping  face  in  the 
+form  of  a  blunt  torpedo  (  see  Fig.  3  ).* 
+
+
+150  TO  175 
+
+
+x 
+
+
+J. 
+
+
+U-J 
+
+
+DWSV^ 
+
+
+T 
+
+E5 
+
+
+ALL  CORNERS   ROUNDED  TO    3mm  RADUS- 
+
+SECTION  XX 
+All  dimensicms  in  miUimetret. 
+
+Fig.  3    Pokino  Rod 
+
+
+( Page  9,   clause  4.1  )  —  Substitute    the  following  for   the     existing 
+clause: 
+
+*4.l  The  following  information  shall  be  clearly  and  indelibly  marked  on 
+each  component  of  the  vibration  machine  and  the  accessories  as  far  as 
+practicable  in  a  way  that  it  docs  not  interfere  with  the  performance  of 
+the  apparatus: 
+
+a)  Name   of  the   manufacturer     or  his  registered    trade-mark    or 
+both,  and 
+
+b)  Date  of  manufacture.' 
+
+(  Page  10,  clause  4,1,1  )  —  Add  the  words  *and  the   accessories'  after 
+the  word  'machine*. 
+
+( BDC  2  ) 
+
+
+Printed  at  Simco  Printing  Press,  Delhi,  India 
+
+
+AMENDMENT  NO.  3    APRIL  2000 
+
+TO 
+
+IS  10080  :  1982    SPECIFICATION  FOR  VIBRATION 
+
+MACHINE  FOR  CASTING  STANDARD  CEMENT 
+
+MORTAR  CUBES 
+
+[  Page  9,  Table  2,  SI  No  .(iii),  col  3  ]  —  Substitute  '12.0  to  12.5'  for  '12'. 
+(  CED  2  )  
+
+
+Reprography  Unit,  BIS,  New  E>elhi,  India. 
+
+
+AMENDMENT  NO.  4    AUGUST  2006 
+
+TO 
+
+IS  10080 :  1982   SPECIFICATION  FOR 
+
+VIBRATION  MACHINE  FOR  CASTING  STANDARD 
+
+CEMENT  MORTAR  CUBES 
+
+(  First  cover  page  )  -  Insert  die  following  above  the  English  title  of  tiie 
+Indian  Standard: 
+
+
+( CED  2  ) 
+
+
+Reprogrq}hy  Unit,  BIS,  New  Delhi,  India 
+
+

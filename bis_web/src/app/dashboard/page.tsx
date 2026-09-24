@@ -86,7 +86,7 @@ export default function DashboardPage() {
       <PageHeader
         icon={BarChart3}
         title="Corpus dashboard"
-        description="Canonical corpus metrics — 500 unique curated BIS standards across 15 normalized engineering divisions, served by a 19,853-chunk hybrid retrieval index."
+        description="Canonical corpus metrics — 1,000 unique curated BIS standards across 16 normalized engineering divisions, served by a 24,353-chunk hybrid retrieval index."
       />
 
       {healthState.error ? <ErrorBanner error={healthState.error} /> : null}
@@ -107,15 +107,14 @@ export default function DashboardPage() {
         <>
           {/* ── Canonical metrics ───────────────────────────────────────────
               These four cards show PRESENTATION-SAFE, canonical population
-              numbers. They are deliberately NOT the raw internal backend counts
-              (953 in-memory records / 70 raw division strings).
+              numbers.
 
-              Card 1: service.corpus.knowledge_base_standards  → 500
-                      Direct read of knowledge_base.json (bypasses 3-way merger).
-                      Falls back to STANDARDS_PAGE_LIMIT (500) if field is absent.
-              Card 2: service.corpus.chunks       → 19,853 active retrieval
+              Card 1: service.corpus.knowledge_base_standards  → 1,000
+                      Direct read of knowledge_base.json.
+                      Falls back to STANDARDS_PAGE_LIMIT (1,000) if field is absent.
+              Card 2: service.corpus.chunks       → 24,353 active retrieval
                        chunks (MIN_CHUNK_CHARS=40 filter already applied)
-              Card 3: byDivision.length           → 15 clean divisions
+              Card 3: byDivision.length           → 16 clean divisions
                        (already normalised via cleanDivisionName())
               Card 4: service.qco.verified_count  → 33 Gazette-verified QCO
                        mappings (falls back to qco.entries if field absent)
@@ -129,7 +128,7 @@ export default function DashboardPage() {
                 STANDARDS_PAGE_LIMIT
               )}
               sub="Unique curated BIS standards"
-              tooltip="500 unique curated BIS standards — direct count from knowledge_base.json, the canonical curated RAG corpus file. The backend in-memory representation may show a higher number (953) due to multi-source merging."
+              tooltip="1,000 unique curated BIS standards — direct count from knowledge_base.json, the canonical curated RAG corpus file."
             />
             <StatCard
               icon={Layers}
@@ -140,7 +139,7 @@ export default function DashboardPage() {
                   ? `Editions ${service!.corpus.year_range[0]}–${service!.corpus.year_range[1]}`
                   : "Normalized engineering divisions"
               }
-              tooltip="15 clean, normalized BIS engineering divisions derived from the standards corpus. The backend stores 70 raw scraper strings — these are de-duplicated and HTML-stripped for display."
+              tooltip="16 clean, normalized BIS engineering divisions derived from the standards corpus."
             />
             <StatCard
               icon={ShieldCheck}

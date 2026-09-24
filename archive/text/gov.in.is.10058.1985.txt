@@ -1,0 +1,768 @@
+**************** 
+
+
+
+
+Disclosure to Promote the Right To Information 
+
+Whereas the Parliament of India has set out to provide a practical regime of right to 
+information for citizens to secure access to information under the control of public authorities, 
+in order to promote transparency and accountability in the working of every public authority, 
+and whereas the attached publication of the Bureau of Indian Standards is of particular interest 
+to the public, particularly disadvantaged communities and those engaged in the pursuit of 
+education and knowledge, the attached public safety standard is made available to promote the 
+timely dissemination of this information in an accurate manner to the public. 
+
+
+
+
+Mazdoor Kisan Shakti Sangathan 
+"The Right to Information, The Right to Live'' 
+
+
+
+IS 10058 (1985): Forceps, Fixation, Graefe's Pattern 
+(Modified) [MHD 5: Ophthalmic Instruments and Appliances] 
+
+
+
+
+Jawaharlal Nehru 
+'Step Out From the Old to the New" 
+
+
+
+aj^&vi iJii^s:y>K^ isb^^ni^seg 
+
+
+
+:<>5&i| mT'5K^5?::5:^>^i»l 
+
+
+
+K^^^iXSVCd^ 
+
+
+
+Satyanarayan Gangaram Pitroda 
+Invent a New India Using Knowledge 
+
+
+
+Bhartrhari — Nitisatakam 
+''Knowledge is such a treasure which cannot be stolen" 
+
+
+
+
+^'^^^r 
+
+
+
+k 
+
+
+
+
+BLANK PAGE 
+
+
+
+^*-^^^ 
+
+
+
+
+
+PROTECTED BY COPYRIGHT 
+
+
+
+IS :1005a- 1985 
+
+( Reaffirmed 2002 ) 
+
+Indian Standard 
+
+SPHCJFICATJON FOR 
+
+FORCEPS, FIXATION, GRAEFE'S 
+
+PATTERN ( MODIFIED ) 
+
+
+
+(First Revision) 
+
+
+
+UDC 613 472 4 i 617-7 089-72 
+
+
+
+
+© Copjnght 1«B6 
+
+INDIAN STANDARDS INSTITUTION 
+
+MAMAK BHAVAM* 9 BAHADUR SlIAII ZAFAR MARC 
+
+NEW DELHI Il0ni»2 
+
+Gr2 ^ffi/ ISeS 
+
+
+
+IS : 10058 • 1985 
+
+Indian Standard 
+
+SPECIFICATION FOR 
+
+FORCEPS, FIXATION, GRAEFE'S 
+
+PATTERN ( MODIFIED ) 
+
+(First Revision) 
+
+Eye Surgery Instruments Sectional Committee, CPDC 27 
+
+Chairman Representing 
+
+Db K. Lali. Ministry of Health ( DGHS ), New Delhi 
+
+Members 
+
+Db p. M. Kapoor ( Alternate to 
+Dr K. Lall ) 
+Shei Abya Muni Arya Muni & Co, Amritsar 
+
+Col M- S. Bopaeai Ministry of Defence ( DGAEMS ), New Delhi 
+
+Db D. B. ChaNdba Department of Health and Family Welfare, Govern- 
+
+ment of U.P., Lucknow 
+Db Daljit Singh Department of Health and Family Welfare, Govern- 
+
+ment of Punjab, Chandigarh 
+Db Char an jit Lal ( Alternate ) 
+Shbi K. H. Gandhi Ministry of Defence ( DGT ) 
+
+Shbi V. K. Bajpai ( Alternate ) 
+Db A. K. Gupta Delhi Administration ( M & PH Department ), Delhi 
+
+Shbi P. Y. Kai.ei>ki:b Kalelker Surgical Industries, Bombay 
+
+Shbi Y. P. Kalelker ( Alternate ) 
+Db A. Kbishna Mubthy Department of Health and Family Welfare, Govern- 
+
+ment of Karnataka, Bangalore 
+Db H. Thimmaiah ( Alternate) 
+Shbi A. K. Maiti Directorate of Industries, Government of West 
+
+Bengal, Calcutta 
+Shr] S. Gupta ( Alternate ) 
+Shbi K. Manivannan Directorate of Industries, Government of Haryana, 
+
+Chandigarh 
+Db I. P» Singh Pabmab ( Alternate ) 
+Db D. L. Mabia Directorate of Medical Education and Research, 
+
+Bombay 
+Db S. N, Patel ( Alternate 1 ) 
+Db S. K. Dhawan ( Alternate II ) 
+
+( Continued on page 2 ) 
+
+
+
+© Copyright 1986 
+
+INDIAN STANDARDS INSTITUTION 
+
+This publication is protected under the Indian Copyright Act ( XlV of 1957 ) and 
+reproduction in whole or in part by any means except with written permission of the 
+publisher shall be deemed to be an infringement of copyright under the said Act. 
+
+
+
+ISvim)5S-1985 
+
+( Continued from page 1 ) 
+
+Members Representing 
+
+Shbt G. S. Mathartt Indo-German Surgical Corporation, Bombay 
+
+Shri MoHiNDBB Lal Punjab Surgical Instruments Manufacturers & 
+
+Suppliers Association, Jalandbar 
+Shbi Stjbit Mukbrji H. Mukerji & Banerjee Surgicals Pvt Ltd, Calcutta 
+
+Shut Sudhib Mukebji ( Alternate ) 
+Dr R, MrjSALAPFA Redby Municipal Administration Departmentj Government 
+
+of Andhra Pradesh^ Hyderabad 
+Shbi C. Nabayana Rao Bharat Electronics Ltd, Machilipatnam 
+
+Shri A. M. Jose ( Alternate ) 
+Shsi Sxjrinder Nayyab Hansraj Nayyar ( Surgical ) Pvt Ltd, A.mritsar 
+
+Shbi Vijay Nayyar ( Alternate ) 
+Shbi B. L. Pahwa Surgical Manufacturers & Traders Association, 
+
+' Delhi 
+Shbi Balwant Singh ( Alternate ) 
+Shri B. L. Pahwa Speedway Surgical Company, Delhi 
+
+Shbi Vipin Pahwa ( Alternate ) 
+Shbi K, L. Pahwa Speedway Surgical Company, Ludhiana 
+
+Shri P. S. Pahwa ( Alternate ) 
+0B S. Sathiayakesan Health and Family Welfare Department, Govern- 
+
+ment of Tamil Nadu, Madras 
+Pbof ( Dr ) P. Siva Reddy All India Ophthalmoiogical Society, Madras 
+
+Db J. AOABWAL ( Alternate ) 
+Dr K. S. Stjbrahmaniam Health and Family Welfare Department, Govern- 
+
+ment of Kerala, Trivandrum 
+Dr M. V. JoHiT ( Aliernate ) 
+Shbi P. R. T. TnuLAsmaAM Surgical Instruments Plant, IDPL, Madras 
+
+Shbi A. K. ThanikaohaIiAM ( Alternate) 
+Db a. S. Sethi, Director General, ISI ( Ex-offisio Member ) 
+
+Direciof ( Gonsr Prods & Med Instrs ) 
+
+Secretary 
+
+Shbi M. K. Bhatia 
+Deputy Director ( Consr Prods & Med Instrs ), Ibl 
+
+
+
+IS : 10058 - 1985 
+
+Indian Standard 
+
+SPECIFICATION FOR 
+
+FORCEPS, FIXATION, GRAEFE'S 
+
+PATTERN ( MODIFIED ) 
+
+{First Revision) 
+
+
+
+0. FOREWORD 
+
+0.1 This Indian Standard ( First Revision ) was adopted by the Indian 
+Standards Institution on 23 November 1985, after the draft finalized by 
+the Eye Surgery Instruments Sectional Committee had been approved 
+by the Consumer Products & Medical Instruments Division Council. 
+
+0.2 This standard was first published in 1981. The present revision has 
+been taken up to include certain modifications in order to bring the 
+specification in line with the modern manufacturing practices. In the 
+revised standard the non-functional dimensions have been rounded off. 
+The tolerance for the functional dimensions have been modified keeping 
+in view the present manufacturing technique. A clause on sampling 
+and inspection has been added. The test methods have been brought in 
+line with the test methods covered in other similar standards of eye 
+surgery instruments, 
+
+0,3 For the purpose of deciding whether a particular requirement of this 
+standard is complied with, the final value, observed or calculated, 
+expressing the result of a test, shall be rounded off in accordance with 
+IS : 2-1960*, The number of significant places retained in the rounded 
+off value should be the same as that of the specified value in this standard. 
+
+
+
+1. SCOPE 
+
+!•! This standard covers requirements for Graefe's pattern fixation 
+forceps used in eye surgery. 
+
+2. SHAPE AND DIMENSIONS 
+
+2.1 The shape and dimension shall be as shown in Fig. 1. 
+
+2.2 Joint — Shall conform to requirements given in 5of IS : 3642-19781. 
+
+♦Rules for rounding oif numerical values {first revision ). 
+fGeneral requirements for surgical instruments {first revision ). 
+
+3 
+
+
+
+1 4a* 
+
+
+
+TEETH 
+
+
+
+ENLARGED VIE¥/ X 
+OF CLOSED POSITION 
+
+
+
+r t*5 
+
+
+
+Sl/iTASLE GROOVES FOR 
+R HOLD 
+
+
+
+\ BETTER 
+
+
+
+
+
+
+
+*This dimension will vary depending upon the number of teeth. 
+
+All dimensions in millimetres. 
+
+
+
+tfi 
+
+
+
+O 
+
+o 
+
+en 
+
+09 
+
+
+
+CO 
+00 
+
+
+
+Fig. 1 Forceps, Fixation, Graefe's Pattern 
+
+
+
+IS : 10058 - 1985 
+
+2.3 Teeth — Shall conform to requirements given in Section 4 of 
+IS : 3642-1978* combination being I in 2, 2 in 3, 3 in 4, or 5 in 6. 
+
+2.4 The tolerance on dimensions of working ends shall conform to ^fine' 
+class of deviation and the tolerance for remaining dimensions shall 
+conform to ^medium' class of deviations of IS : 2102 ( Part 1 )-1980t. 
+
+3. MATERIAL 
+
+3.1 The material for forceps shall be stainleis steel conforming to 
+designation 30Cr 13 of IS : 6603-1972$. 
+
+4. REQjUIREMENTS 
+
+4.1 The forceps shall be finished smooth and shall be free from burrs, 
+pits, cracks, and other surface defects. 
+
+4.2 The edges shall be even and rounded off. 
+
+4.3 The teeth shall be clear, clean and match perfectly, 
+
+4.4 The forceps shall be matt finished and passivated. 
+
+5. HARDNESS 
+
+5.1 The forceps shall be hardened and tempered to give a hardness of 
+400 to 460 HV, 
+
+6. TESTS 
+
+6*1 Test for Engagement of Teeth — A latex sheet of 0'05 mm 
+thickness conforming to IS : 5430-1981§ be stretched over the tip of the 
+fingers. The stretched latex sheet shall then be gripped by the teeth of 
+the forceps and pulled to a distance of 6 mm. The forceps shall hold the 
+latex sheet firmly without any tendency to slipping and the latex sheet 
+shall not be punctured or damaged. 
+
+6.2 Flexibility Test — The arms of the forceps after maximum closure 
+by manual compression shall not take a permanent set and the teeth 
+shall continue to engage and disengage accurately and properly. 
+
+6.2.1 By the application of force at the tip of one arm, the arm of 
+the forceps shall be deflected in a plane at right angles to the plane of 
+the arm, by 20 mm as measured at the tip of the forceps. On release of 
+the force no permanent set shall be observed. The test shall be repeated 
+on the other arm. 
+
+
+
+♦General requirements for surgical instruments {Jirst nvision ). 
+
+tGeneral tolerances for dimensions and form and position: Part 1 General tolerances 
+for linear and angular dimensions ( second revision ). 
+
+^Specification for stainless steel bars and flats. 
+
+§Specification for ammonia preserved concentrated natural rubber latex {Jirst 
+revision). 
+
+5 
+
+
+
+IS : 10058 - 1985 
+
+6.3 Corrosion Resistance Test — The forceps shall satisfy boiling and 
+autoclaving test as specified in IS : 7531-1975*. 
+
+6.4 Load Closure Test — The load 215 g ± 20 g when applied at a 
+distance of 45 mm from the tips of the jaws shall make the teeth to just 
+interlock, 
+
+7. SAMPLING AND CRITERIA FOR CONFORMITY 
+
+7.1 A suitable sampling scheme and criteria for acceptance is given in 
+Appendix A. 
+
+8. MARKING 
+
+8.1 Each instrument shall be marked with the manufacturer's name, 
+initials or recognized trade-mark and the word 'stainless steel' or letters 
+^SS'. 
+
+8.1.1 The forceps may also be marked with ISI Certification Mark. 
+
+NoTK — The use of the ISI Certification Mark is governed by the provisions of the 
+Indian Standards Institution ( Certification Marks ) Act and the Rules and Regu- 
+lations made thereunder. The ISI Mark on products covered by an Indian Standard 
+conveys the assurance that they have been produced to comply with the require- 
+ments of that standard under a well-defined system of inspection, testing and quality 
+control which is devised and supervised by ISI and operated by the producer. ISI 
+marked products are also continuously checked by ISI for conformity to that 
+standard as a further safeguard. Details of conditions under which a licence for the 
+use of the ISI Certification Mark may be granted to manufacturers or processors^ 
+may be obtained from the Indian Standards Institution. 
+
+9. PACKING 
+
+9.1 As agreed to between the purchaser and the supplier. 
+
+
+
+APPENDIX A 
+
+( Clause 7.1 ) 
+
+SAMPLING AND CRITERIA FOR CONFORMITY 
+FOR FORCEPS 
+
+A-1. LOT 
+
+A-1.1 In any consignment, all the forceps produced from the same 
+material, shape and dimensions under similar conditions, shall consti- 
+tute a lot. 
+
+A-2. The number of forceps to be selected from each lot shall depend 
+upon the size of the lot and shall be in accordance with col 1 and 2 of 
+Table 1. 
+
+
+
+♦Method for boiling and autoclaving test for corrosion resistance of stainless steel 
+surgical instruments. 
+
+6 
+
+
+
+IS : 10058 - 1985 
+
+
+
+TABLE 1 
+
+
+SCALE OF SAMPLING 
+
+
+
+
+( Clause A-2 ) 
+
+
+
+
+Lot Size 
+
+
+
+
+Sample Size 
+
+
+(1) 
+
+
+
+
+(2) 
+
+
+Up to 15 
+
+
+
+
+2 
+
+
+16 „ 50 
+
+
+
+
+3 
+
+
+51 „ 150 
+
+
+
+
+5 
+
+
+151 and above 
+
+
+
+
+8 
+
+
+
+A-2.1 These forceps shall be selected from the lot at random and in 
+order to ensure the randomness of selection, procedures given in 
+IS : 4905-1968* may be followed. 
+
+A-3. NUMBER OF TESTS AND CRITERIA FOR CONFORMITY 
+
+A-3-1 All the forceps selected at random in accordance with col 1 
+and 2 of Table I shall be tested for hardness, requirements load closure, 
+engagement of teeth, flexibility, and corrosion resistance. The lot shall be 
+considered as conforming to these requirements if none of the forceps in 
+the sample is found to be defective in any oi these tests. 
+
+
+
+♦Methods tor random sampling. 
+
+
+
+INTERNATIONAL SYSTEM OF UNITS ( SI UNITS) 
+
+Base Units 
+
+Unit 
+
+
+
+Quantity 
+Length 
+Mass 
+Time 
+Electric current 
+
+Thermodynamic 
+temperature 
+
+Luminous intensity 
+
+Amount of substance 
+
+Sapplementary Units 
+
+QlTANTlTy 
+
+Plane angle 
+Solid angle 
+
+Derived Units 
+
+Quantity 
+
+Force 
+
+Energy 
+
+Power 
+
+Flux 
+
+Flux density 
+
+Frequency 
+
+Electric conductance 
+
+Electromotive force 
+
+Pressure, stress 
+
+
+
+Symbol 
+
+
+
+metre 
+
+
+m 
+
+
+kilogram 
+
+
+i^g 
+
+
+second 
+
+
+s 
+
+
+ampere 
+
+
+A 
+
+
+kelvin 
+
+
+K 
+
+
+candela 
+
+
+cd 
+
+
+mole 
+
+
+mol 
+
+
+Unit 
+
+
+SYMBOIi 
+
+
+radian 
+
+
+rad 
+
+
+steradian 
+
+
+sr 
+
+
+Unit 
+
+
+Symbol 
+
+
+newton 
+
+
+N 
+
+
+joule 
+
+
+J 
+
+
+watt 
+
+
+W 
+
+
+weber 
+
+
+Wb 
+
+
+tesla 
+
+
+T 
+
+
+hertz 
+
+
+Hz 
+
+
+Siemens 
+
+
+S 
+
+
+volt 
+
+
+V 
+
+
+pascal 
+
+
+Pa 
+
+
+
+Definition 
+
+
+
+1 N - 1 kg.m/s^ 
+1 J = 1 N.m 
+1 W - I J/s 
+1 Wb - 1 V.s 
+1 T - 1 Wb/m*^ 
+1 Hz - 1 c/s (s-i> 
+1 S = 1 A/V 
+1 V = 1 W/A 
+I Pa - 1 N/m'- 
+
+
+

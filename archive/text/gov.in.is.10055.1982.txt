@@ -1,0 +1,1865 @@
+•*•*•••••*•*•••• 
+
+
+
+
+
+
+^ 
+
+
+
+m^% 
+
+
+
+
+Disclosure to Promote the Right To Information 
+
+Whereas the Parliament of India has set out to provide a practical regime of right to 
+information for citizens to secure access to information under the control of public authorities, 
+in order to promote transparency and accountability in the working of every public authority, 
+and whereas the attached publication of the Bureau of Indian Standards is of particular interest 
+to the public, particularly disadvantaged communities and those engaged in the pursuit of 
+education and knowledge, the attached public safety standard is made available to promote the 
+timely dissemination of this information in an accurate manner to the public. 
+
+
+
+
+Mazdoor Kisan Shakti Sangathan 
+The Right to Information, The Right to Live' 
+
+
+
+Jawaharlal Nehru 
+'Step Out From the Old to the New' 
+
+
+
+IS 10055 (1982): Jute Needleloom Felts [TXD 33: Industrial 
+Fabrics ] 
+
+
+
+
+.^^_ 
+
+
+
+^sf m 
+
+
+
+^ 
+
+
+
+1 w 
+
+
+
+Satyanarayan Gangaram Pitroda 
+Invent a New India Using Knowledge 
+
+
+
+
+Bhartrhari — Nitisatakam 
+"Knowledge is such a treasure which cannot be stolen' 
+
+
+
+
+- M 
+
+
+
+
+
+
+BLANK PAGE 
+
+
+
+
+><3 
+
+
+
+^ri*jr.-^. 
+
+
+
+
+
+
+PROTECTED BY COPYRIGHT 
+
+
+
+IS : 10055 - 1982 
+
+(Reaffirmed 2000) 
+
+Indian Standard 
+
+SPECIFICATION FOR 
+JUTE NEEDLELOOM FELTS 
+
+
+
+UDC 67763 : 677' 13 
+
+
+
+
+® Cofrrighi 1982 
+
+INDIAN STANDARDS INSTITUTION 
+
+MANAK BHAVAN, 9 BAHADUR SHAH ZAFAK MARG 
+
+NEW DELHI II0OO2 
+
+
+
+■3UE3* 8 
+
+
+
+March 1982 
+
+
+
+IS : 10055 - 1982 
+
+
+
+Indian Standard 
+
+
+
+SPECIFICATION FOR 
+JUTE NEEDLELOOM FELTS 
+
+
+
+Non-woven Textiles Sectional Committee, TDC 48 
+
+
+
+Chairman 
+Shri Upendra M. Patel 
+
+Members 
+Shri T. D. Baheti 
+
+Shri M. K. Bardhan 
+
+Shri P. G. Basu ( Alternate ) 
+Shri K. L. Bothra 
+Shri A. Chakravarty 
+
+Shri S. C. Gupta ( Alternate ) 
+Shri S. L. Gandhi 
+
+
+
+Representing 
+Shri Dinesh Mills Ltd, Vadodara 
+
+
+
+Hastings Mill Ltd (Coir & Felt Division), 
+
+Calcutta 
+Ministry of Defence ( DGI ) 
+
+Woollen & Felt Industries, Calcutta 
+
+Hindustan Motors Ltd, Hooghly ( West Bengal ) 
+
+
+
+Shri P. G. Agaewal (Alternate) 
+Shri S. B. Hardas 
+Shri N. G. Jain 
+
+Shri Baudev Raj Khanna 
+
+Shri S. A. Majeed 
+
+Shri B. M. Nagkporewalla 
+
+Shei S. A. Shah . 
+
+Shri U. K. Sharma 
+
+Shri Hardyal Singh 
+
+Dr A. G. Chakravarty 
+
+Db C. R. Debnath ( Alternate ) 
+Shri S. M. Chakraborty, 
+Director ( Tex ) 
+
+
+
+Ministry of Defence ( R&D ) 
+
+Wool Research Association, Bombay 
+
+Hukamchand Jute Mills Ltd, P.O. Hazinagar 
+Dist 24 Parganas ( West Bengal ) 
+
+Raj Industries, Agra 
+
+Hindustan Enterprises, Jaipur 
+
+The Tata Mills Ltd ( Non- woven Section), 
+Bombay 
+
+The Silk & Art Silk Mills' Research Association, 
+Bombay 
+
+The Barnagore Jute Factory Company Ltd, 
+Calcutta 
+
+Central Mechanical Engineering Research Insti- 
+tute, Durgapur 
+
+Jute Technological Research Laboratories 
+(ICAR), Calcutta 
+
+Director General, ISI ( Ex-qfficio Member) 
+
+
+
+Secretary 
+Shri S. K. Mukhopadhyay 
+Assistant Director ( Tex ), ISI 
+
+
+
+( Continued on page 2 ) 
+
+
+
+O Copyright 1982 
+INDIAN STANDARDS INSTITUTION 
+
+This publication is protected under the Indian Copyright Act ( XIV of 1957 ) and 
+reproduction in whole or in part by any means except with written permission of the 
+publisher shall be deemed to be an infringement of copyright under the said Act. 
+
+
+
+IS: 10055-1982 
+
+( Continued from page 1 ) 
+
+Non- woven Jute Textiles Subcommittee, TDC 48 : 2 
+
+Members Representing 
+
+Shbi T. D. Baheti Hastings Mills Ltd (Coir & Felt Division), 
+
+Calcutta 
+Shbi A. Chakravabty Hindustan Motors Ltd, Hooghly ( West Bengal ) 
+
+Shri S. C. Gupta ( Alternate ) 
+Dr D. B. Das Super Semi-Conductor Pvt Ltd, Calcutta 
+
+Dr C. R. Dbbnath Jute Technological Research Laboratories 
+
+(ICAR), Calcutta 
+Shri S. L. Gandhi Ministry of Defence (R&D) 
+
+Shbi P. C. Aoaewal ( Alternate ) 
+ShriN. C.Jain Hukamchand Jute Mills Ltd, P.O. Hazinagar, 
+
+Dist 24 Parganas ( West Bengal ) 
+Shri U. K. Shabma The Barnagore Jute Factory Co Ltd, Calcutta 
+
+Shri D. P. Das ( Alternate ) 
+
+
+
+IS : 10055 - 1982 
+
+Indian Standard 
+
+SPECIFICATION FOR 
+JUTE NEEDLELOOM FELTS 
+
+
+
+0. FOREWORD 
+
+0.1 This Indian Standard was adopted by the Indian Standards 
+Institution on 11 January 1982, after the draft finalized by the Non-woven 
+Textiles Sectional Committee had been approved by the Textile Division 
+Council, 
+
+0.2 The jute needleloom felts are used for padding, cushioning and 
+packing purposes mainly. 
+
+0.3 In the preparation of this standard, assistance has been derived from 
+BS 2628:1972, JIS L 3203 and Defence (Government of India) 
+Specification IND/ME/410 on the subject of needleloom jute felts, 
+
+0.4 Standards of Weights and Measures Act, 1976 stipulates the use of 
+International System of Units in the country; in order to familiarize the 
+industry with this system, the recommended SI units for use in the textile 
+industry are given in Appendix B. 
+
+0.5 For the purpose of deciding whether a particular requirement of this 
+standard is complied with, the final value, observed or calculated, 
+expressing the result of a test or analysis, shall be rounded off in 
+accordance with IS : 2-1960*. The number of significant places retained 
+in the rounded off value should be the same as that of the specified value 
+in this standard. 
+
+
+
+1. SCOPE 
+
+1.1 This standard covers three grades and seven varieties of jute 
+needleloom felts (depending upon thickness, mass and chemical 
+requirements). 
+
+2. MANUFACTURE 
+
+2.1 The felts of Variety No. 1 shall be reinforced with support fabric. 
+The jute fabric used for reinforcement in the manufacture of felt should 
+
+
+
+*Rules for rounding off numerical values ( revised). 
+
+3 
+
+
+
+IS : 10055 - 1982 
+
+have a minimum mass of 120 g/m 2 , 24 ends/dm and 16 picks/dm. For 
+other varieties the reinforcement may be provided, if agreed to between 
+the buyer and the seller. 
+
+2.2 The felts in Varieties 1 and 2 (see 3.1) may be needled on one side, 
+while in case of remaining varieties the felts shall be needled on both 
+sides. The needle punching operations should be repeated to achieve the 
+desired thickness and/or mass of the felt. 
+
+2.3 Grade I felts ( see 3.2) shall be manufactured from well carded jute 
+fibre free from roots and other foreign matters. Grades II and III felts 
+shall be manufactured from jute caddies, processed through dust shaker 
+and reasonably free from dust and foreign matter. 
+
+2.4 The felts should, as far as possible, be free from ridges and creases, 
+and preferably have straight edges. 
+
+3. REQUIREMENTS 
+
+3.1 Physical Requirements — The felts shall conform to the physical 
+requirements as given in Table 1 for all grades. 
+
+3.1.1 Moisture Regain — 16 percent, Max of average of 5 test specimens 
+when determined as given in 3,1.1.1. 
+
+3.1.1.1 Moisture Regain, percent = — °—^ X 100 
+
+where 
+
+M = Original mass of test specimens, and 
+
+Md = Mass of test specimen dried in an oven maintained at 
+a temperature of 105 ± 3°G for 4 hours. 
+
+3.1.2 Width — The width shall be 90 cm or as specified in the contract 
+
+4- 5 
+subject to a tolerance of J_ 3 percent, when tested in accordance with 
+
+IS: 1954-1969*. 
+
+3.2 Chemical Requirements — The felts of Grades I and II shall 
+conform to the chemical requirements given in Table 2. 
+
+Note — The felt of Grade III shall conform to the requirements specified in 
+Table 1. 
+
+
+
+"Methods for determination of length and width of fabrics {first revision ). 
+
+4 
+
+
+
+IS : 10055 - 1982 
+
+
+
+TABLE 1 PHYSICAL REQUIREMENTS OF JUTE NEEDLELOOM FELTS 
+
+( rj~„r. <x i -i 
+
+
+
+Variety 
+No. 
+
+
+
+(1) 
+
+
+
+Mass (Conditioned) 
+
+
+
+500 
+700 
+
+
+
+(2) 
+g/m* 
+r± 12 percent 
+
+
+
+Thickness 
+
+
+
+(3) 
+
+
+
+J u — n.e. 
+
+
+
+Pbeferbed Length 
+of Felt in 
+Bclt/Roll 
+
+(4) 
+
+
+
+50 
+
+
+
+2 
+
+
+1400 \ ± 12 P ercent 
+
+
+6-0±l*5 
+
+
+50 
+
+
+3 
+
+
+1 50 ° \ , ,o 
+
+2 250f ±12percent 
+
+
+10-015:8 
+
+
+50 
+
+
+A. 
+
+
+2 100\ , 1A 
+
+2 900/^ ™»™™ 
+
+
+i<2.n c *i.f\ 
+
+
+
+
+5 
+
+
+2 600 \ , ,n 
+
+3 60o] ±inpercent 
+
+
+l6-0+i.$ 
+
+
+50 
+
+
+6 
+
+
+3 00° I , m 
+
+4 200/ ±10 P ercent 
+
+
+19-0±2-5 
+
+
+25 
+
+
+7 
+
+
+4 000 \ , , n 
+
+_ _„ f± 10 percent 
+
+5 600 J ^ K 
+
+
+25-Qltl 
+
+
+25 
+
+
+Method 
+of Test 
+
+
+Method A of 
+IS : 1964-1970* 
+
+
+Appendix A 
+
+
+IS : 1954-1969f 
+
+
+
+Note 1 — For conforming the variety, check conditioned mass first, then 
+thickness. 
+
+Note 2 — Preferred length mentioned in col 4 is for guidance only. 
+
+♦Methods for determination of weight per square metre and weight per linear metre 
+of fabrics (first revision). 
+
+fMethods for determination of length and width of fabrics (first revision). 
+
+
+
+IS: 10055 -1982 
+
+
+
+TABLE 2 CHEMICAL REQUIREMENTS OF JUTE NEEDLELOOM FELTS 
+
+( Clause 3.2 ) 
+
+
+
+Sr, Characteristic 
+
+No. 
+
+
+
+(1) 
+
+
+
+(2) 
+
+
+
+Requib.emk:n t 
+
+
+Method os 1 
+Test 
+
+
+Grade I 
+
+
+
+
+Grade II 
+
+
+(3) 
+
+
+
+
+(4) 
+
+
+(5) 
+
+
+0-05 
+
+
+
+
+0-2 
+
+
+IS : 4202-1967* 
+
+
+0-2 
+
+
+
+
+0-5 
+
+
+IS : 4203-1967f 
+
+
+5 to 8 
+
+
+
+
+5 to 9 
+
+
+IS : 1390-1961$ 
+
+
+25 
+
+
+
+
+— 
+
+
+IS : 4390-1967§ 
+
+
+2-0 
+
+
+
+
+6-0 
+
+
+IS : 3456-1966|| 
+
+
+2-5 
+
+
+
+
+6-5 
+
+
+7 of IS : 199- 
+1973U 
+
+
+
+i) Chloride content, percent, 
+Max 
+
+ii) Sulphate content, percent, 
+Max 
+
+iii) />H value 
+
+iv) Ether-soluble matter, per- 
+cent, Max 
+
+v) Water-soluble matter, per- 
+cent, Max 
+
+vi) Ash content (other than 
+ash of proofing agents), 
+percent, Max, unless 
+otherwise specified 
+
+
+
+♦Method for determination of chloride content of textile materials. 
+tMethod for determination of sulphate content in textile materials. 
+JMethods for determination ofpH. value of aqueous extracts of textile materials. 
+§Mcthod for determination of ether-soluble matter in textile materials. 
+||Method for determination of water soluble matter of textile materials. 
+^Methods for estimation of moisture, total size or finish, ash and fatty matter in grey 
+and finished cotton textile materials ( second revision ) . 
+
+
+
+4. PACKING 
+
+4.1 Unless otherwise agreed to between the buyer and the seller, the felts 
+shall be packed as given in 4.2. 
+
+4.2 The felts shall be rolled individually and tied with a 3-ply jute twine 
+at two places minimum. A suitable number of rolls shall be wrapped 
+with polyethylene film of minimum 0'04 mm thickness and heavy cee 
+cloth or equivalent hessian to form a bale. The outer layer shall be 
+tightly stitched with jute twine keeping the distance between the two 
+stitches about 5 cm. Stitching shall not pierce the waterproof layer. 
+
+
+
+IS : 10055 - 1982 
+
+5. MARKING 
+
+5.1 Each bale shall bear the following information: 
+
+a) Name and trade-mark of the manufacturer; 
+
+b) Nominal length, width, thickness; 
+
+c) Grade (see 2.3 and 3.2), and variety No. ; 
+
+d) Date of manufacture; and 
+
+e) Any other information specified by the purchaser. 
+
+5.1.1 The felts may also be marked with the IS I Certification Mark. 
+
+Note — The use of the ISI Certification Mark is governed by the provisions of 
+the Indian Standards Institution ( Certification Marks ) Act and the Rules and 
+Regulations made thereunder- The ISI Mark on products covered by an Indian 
+Standard conveys the assurance that they have been produced to comply with the 
+requirements of that standard under a well-defined system of inspection, testing and 
+quality control which is devised and supervised by ISI and operated by the producer. 
+ISI marked products are also continuously checked by ISI for conformity to that 
+standard as a further safeguard. Details of conditions under which a licence for the 
+use of the ISI Certification Mark may be granted to manufacturers or processors, 
+may be obtained from the Indian Standards Institution. 
+
+6. SAMPLING 
+
+6.1 Lot — The quantity of jute needleloom felts of same grade and mass 
+delivered to a buyer against a despatch note shall constitute a lot. 
+
+6.2 The conformity of the lot to the requirements of this specification 
+shall be determined on the basis of the tests carried out on the sample 
+selected from it. 
+
+6.3 Unless otherwise agreed to between the buyer and the seller, the 
+number of rolls to be selected at random from a lot shall be in accordance 
+with col 1 and 2 of Table 3. 
+
+TABLE 3 SAMPLE SIZE AND CRITERIA FOR CONFORMITY 
+
+( Clauses 6.3 and 6.4) 
+
+No. or Rolls in 
+thr Lot 
+
+(1) 
+
+jj Up to 100 
+101 „ 150 
+151 „ 300 
+301 „ 500 
+501 and above 
+
+
+
+No. op Rolls to 
+
+
+AcCEPTAHCE 
+
+
+SuB-S AMPLE 
+
+
+be Selected 
+
+
+Number 
+
+
+Size 
+
+
+(2) 
+
+
+(3) 
+
+
+(4) 
+
+
+5 
+
+
+
+
+
+2 
+
+
+8 
+
+
+1 
+
+
+2 
+
+
+13 
+
+
+1 
+
+
+3 
+
+
+20 
+
+
+2 
+
+
+3 
+
+
+32 
+
+
+3 
+
+
+5 
+
+
+
+IS : 10055 - 1982 
+
+6.4 The number of tests and criteria for conformity for various 
+characteristics shall be as follows : 
+
+
+
+Characteristics 
+
+*Mass and chemi- 
+cal characteris- 
+tics 
+
+♦Thickness ', 
+
+Length ] 
+
+Width \ 
+
+
+
+Number of Tests 
+
+According to col 4 
+of Table 3 
+
+
+
+According to col 2 
+of Table 3 
+
+
+
+Criteria for Conformity 
+
+All test specimens shall 
+satisfy the relevant 
+requirements 
+
+Non- conforming rolls not 
+exceeding the corres- 
+ponding number given 
+in col 3 of Table 3 
+
+
+
+APPENDIX A 
+
+( Table 1 ) 
+
+METHOD OF TEST FOR DETERMINING THICKNESS 
+
+A-l. ATMOSPHERIC CONDITIONS FOR CONDITIONING AND 
+TESTING 
+
+A-l.l The tests shall be carried out in the standard atmosphere at 
+27 db 2°G temperature and 65 ± 2 percent relative humidity {see also 
+IS: 6359-19711"). 
+
+A-l .2 Prior to test, the specimens shall be conditioned to moisture 
+equilibrium in the standard atmosphere. When the specimens have been 
+left in such an atmosphere for 48 hours in such a way as to expose as far 
+as possible all portions of the specimens to the atmosphere, they shall be 
+deemed to have reached moisture equilibrium. 
+
+Note — Thickness measurements may also be carried out in the prevailing 
+atmosphere after attaining moisture equilibrium. But, in case of dispute, conditioning 
+of the test specimen is recommended. 
+
+A-2. THICKNESS 
+
+A-2.1 Test Specimen — Each roll in the test sample selected in 
+accordance with col 1 and 2 of Table 3 shall constitute a test specimen. 
+
+
+
+*See Note 1 under Table 1. 
+fMethod for conditioning of textiles. 
+
+
+
+IS : 10055 - 1982 
+
+
+
+A-2.2 Apparatus 
+
+
+
+A-2.2.1 Micrometer gauge provided with a dial gauge reading to 
+0" 25 mm or less having a separate or detachable foot of 10 cm diameter. 
+
+A-2.2. 1.1 The gauge shall be capable to provide a pressure of 21 kPa 
+on the test specimen. 
+
+Note —- 1 Kflopascai (kPa) is approximately equal to 10 gf/cm 2 . 
+
+A -2. 3 Procedure 
+
+A-2.3.1 Glean the surfaces of the presser foot and anvil. Adjust the 
+gauge so that it provides the requisite pressure (see A-2.2.1.1) on the 
+specimen during the test. Set the gauge to read zero when the presser 
+foot rests on the anvil. 
+
+A-2.3.2 Raise the presser foot and lay a portion of the specimen on the 
+anvil and render it free from wrinkles and creases with no greater tension 
+than is necessary to make it lie flat and straight. Lower the presser foot 
+slowly avoiding jerks or impacts till the requisite pressure (see A-2.2.1.1) 
+is applied on the felt. Read the dial immediately after the visible 
+movement of the pointer ceases. 
+
+A-2.3.3 Measure the thickness of the specimen under test at 5 different 
+places across the diagonal and record the values. Find the average of 
+all the readings of each test specimen. 
+
+
+
+APPENDIX B 
+
+( Clause 0.4 ) 
+RECOMMENDED SI UNITS FOR TEXTILES 
+
+
+
+SI 
+
+
+Characteristic 
+
+
+
+
+SI Unit 
+
+A. 
+
+
+Application 
+
+
+Unit 
+
+
+Abbreviation 
+
+
+\ 
+
+
+(1) 
+
+
+(2) 
+
+
+(3) 
+
+
+(4) 
+
+
+(5) 
+
+
+1. 
+
+
+Length 
+
+
+Millimetre 
+
+Millimetre, 
+
+
+mm 
+mm, cm 
+
+
+Fibres 
+
+Samples, test 
+
+
+
+
+
+
+centimetre 
+Metre 
+
+
+m 
+
+
+specimens ( as 
+appropriate ) 
+Yarns, ropes, 
+cordage, fab- 
+rics 
+
+
+
+IS : 10055 - 1982 
+
+
+
+Si 
+
+
+ChoTacttTtstic 
+
+
+SI 
+
+
+Unit 
+
+
+Application 
+
+
+No. 
+
+
+
+
+
+
+A 
+
+
+
+
+
+
+Unit 
+
+
+Abbreviation 
+
+
+\ 
+
+
+(1) 
+
+
+(2) 
+
+
+(3) 
+
+
+(4) 
+
+
+(5) 
+
+
+2. 
+
+
+Width 
+
+
+Millimetre 
+
+
+mm 
+
+
+Narrow fabrics 
+
+
+
+
+
+
+Centimetre 
+
+
+cm 
+
+
+Other fabrics 
+
+
+
+
+
+
+Millimetre, 
+
+
+mm, cm 
+
+
+Samples, test 
+
+
+
+
+
+
+centimetre 
+
+
+
+
+specimens ( as 
+appropriate ) 
+
+
+
+
+
+
+Centimetre, 
+
+
+cm, m 
+
+
+Carpets, druggets, 
+
+
+
+
+
+
+metre 
+
+
+
+
+DURRIES (as 
+appropriate ; 
+
+
+3. 
+
+
+Thickness 
+
+
+Micrometre 
+
+^ J-Aii^AV-" / 
+
+
+urn 
+
+
+Delicate fabrics 
+
+
+
+
+
+
+Millimetre 
+
+
+mm 
+
+
+Other fabrics, 
+carpets, felts 
+
+
+4. 
+
+
+Linear density 
+
+
+Tex 
+
+
+tex 
+
+
+Yarns 
+
+
+
+
+
+
+Millitex 
+
+
+mtex 
+
+
+Fibres 
+
+
+
+
+
+
+Decitex 
+
+
+dtex 
+
+
+Filaments, fila- 
+ment yarns '"* 
+
+
+
+
+
+
+Kilotex 
+
+
+ktex 
+
+
+Slivers, ropes, 
+cordage 
+
+
+
+5. Diameter 
+
+
+
+Micrometre urn 
+
+( micron ) 
+Millimetre mm 
+
+
+
+v-Jircuiiiiercxice ivxiuimetre 
+
+
+
+7. Threads 
+
+fd Vivify 
+
+
+
+in 
+
+
+
+Lengthwise 
+
+
+
+Width wise 
+
+
+
+Number per 
+centimetre 
+
+Number per 
+decimetre 
+
+Number per 
+centimetre 
+
+Number per 
+decimetre 
+
+
+
+ends/cm 
+ends/dm 
+
+picks/cm 
+picks/dm 
+
+
+
+Fibres 
+
+
+
+i arns, ropes, 
+cordage 
+
+
+
+LJ j-* >-^ nn r* r\ «* *-l *i *-* r\ 
+
+
+
+Woven fabrics 
+
+( s»s annrn. 
+
+\ — - rr* _ 
+
+priate ) 
+
+
+
+10 
+
+
+
+IS : 10055 - 1982 
+
+
+
+SI 
+
+No. 
+
+
+Characteristic 
+
+
+SI 
+
+Unit 
+
+
+r Unit 
+
+A 
+
+
+Application 
+
+
+Abbreviation 
+
+
+* 
+
+
+(1) 
+
+
+(2) 
+
+
+(3) 
+
+
+(4) 
+
+
+(5) 
+
+
+8. 
+
+
+Warp threads 
+in loom 
+
+
+Number per 
+centimetre 
+
+
+ends/cm 
+
+
+Reeds 
+
+
+9. 
+
+
+Stitches in 
+knitted fabric 
+
+
+
+
+
+
+Knitted fabrics 
+( as appro- 
+priate ) 
+
+
+
+
+Lengthwise 
+
+
+Courses per 
+centimetre 
+
+Courses per 
+decimetre 
+
+
+courses/cm 
+courses/dm 
+
+
+
+
+
+
+Widthwise 
+
+
+Wales per 
+centimetre 
+
+Wales per 
+decimetre 
+
+
+wales/cm 
+wales/dm 
+
+
+
+
+10. 
+
+
+Stitch length 
+
+
+Millimetre 
+
+
+mm 
+
+
+Knitted fabrics, 
+made-up items 
+
+
+
+11. Mass per unit Grams per g/m 2 
+
+area square metre 
+
+12. Mass per unit Grams per 
+
+length metre 
+
+
+
+13. Twist 
+
+
+
+Turns per 
+centimetre 
+
+Turns per 
+metre 
+
+
+
+14. Test or gauge Millimetre, 
+length centimetre 
+
+
+
+turns/cm ~) 
+
+turns/m f 
+J 
+mmt cm 
+
+
+
+15. Breaking load Millinewton mN 
+
+
+
+Newton 
+
+
+
+N 
+
+
+
+Fabrics 
+
+
+
+Fabrics 
+
+
+
+Yarns, ropes, 
+
+cordage ( as 
+appropriate ) 
+
+Fibres, yarns 
+and fabric 
+specimens ( as 
+appropriate ) 
+
+Fibres, delicate 
+yarns ( indivi- 
+dual or skeins ) 
+
+Strong yarns 
+( individual or 
+skeins ), ropes, 
+cordage , 
+fabrics 
+
+
+
+11 
+
+
+
+IS: 
+
+
+10055 - 1982 
+
+
+
+
+
+
+
+
+
+
+SI 
+
+No. 
+
+
+Characteristic 
+
+
+SI Unit 
+
+> 
+
+
+Application 
+
+
+Unit 
+
+
+Abbreviation 
+
+
+N 
+
+
+(1) 
+
+
+(2) 
+
+
+(3) 
+
+
+(4) 
+
+
+(5) 
+
+
+16. 
+
+
+Breaking 
+length 
+
+
+Kilometre 
+
+
+km 
+
+
+Yarns 
+
+
+17. 
+
+
+Tenacity 
+
+
+Millinewton 
+per tex 
+
+
+mN/tex 
+
+
+Fibres, yarns 
+( individual or 
+skeins ) 
+
+
+18. 
+
+
+Twist factor or 
+
+
+Turns per 
+
+
+turns/cm 
+
+
+
+
+
+
+
+
+twist multi- 
+
+
+centimetre x 
+
+
+X Vtex 
+
+
+
+
+
+
+
+
+plier 
+
+
+square root 
+of tex 
+Turns per 
+
+
+turns/m 
+
+
+i 
+
+t 
+
+
+Yarns ( as appro- 
+priate ) 
+
+
+
+
+
+
+metre X 
+
+
+X \Aex 1 
+
+
+
+
+
+
+
+
+square root 
+of tex 
+
+
+1 
+J 
+
+
+
+
+19. 
+
+
+Bursting 
+strength 
+
+
+Newton per 
+square 
+centimetre 
+
+
+N/cm 2 
+
+
+Fabrics 
+
+
+20. 
+
+
+Tear strength 
+
+
+Millinewton, 
+newton 
+
+
+mN, N 
+
+
+Fabrics { as 
+appropriate ) 
+
+
+21. 
+
+
+Pile height 
+
+
+Millimetre 
+
+
+mm 
+
+
+Carpets 
+
+
+22. 
+
+
+Pile density 
+
+
+Mass of pile 
+yarn in 
+grams per 
+square 
+metre per 
+millimetre 
+pile height 
+
+
+g/m 2 /mm 
+pile height 
+
+
+Pile carpets 
+
+
+23. 
+
+
+Elastic 
+modulus 
+
+
+Millinewton 
+per tex 
+
+
+mN/tex/unit 
+deforma- 
+
+
+Fibres, yarns, 
+strands 
+
+
+
+
+
+
+per unit 
+deformation 
+
+
+tion 
+
+
+
+
+
+
+
+12 
+
+
+

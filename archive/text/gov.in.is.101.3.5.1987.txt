@@ -1,0 +1,594 @@
+**************** 
+
+
+
+
+Disclosure to Promote the Right To Information 
+
+Whereas the Parliament of India has set out to provide a practical regime of right to 
+information for citizens to secure access to information under the control of public authorities, 
+in order to promote transparency and accountability in the working of every public authority, 
+and whereas the attached publication of the Bureau of Indian Standards is of particular interest 
+to the public, particularly disadvantaged communities and those engaged in the pursuit of 
+education and knowledge, the attached public safety standard is made available to promote the 
+timely dissemination of this information in an accurate manner to the public. 
+
+
+
+
+Mazdoor Kisan Shakti Sangathan 
+"The Right to Information, The Right to Live'' 
+
+
+
+IS 101-3-5 (1987) : Methods of sampling and test for paints, 
+varnishes and related products. Part 3: Tests on paint film 
+formation. Section 5: Fineness of grind [CHD 20: Paints, 
+Varnishes and Related Products] 
+
+
+
+
+Jawaharlal Nehru 
+'Step Out From the Old to the New" 
+
+
+
+aj^&Vi ilW^K-^i^^^ T ^bi^ nVF^f 
+
+
+
+::^^s^\n%i9^j^/;s^>^^^^ 
+
+
+
+K^^^iXSVCd^ 
+
+
+
+Satyanarayan Gangaram Pitroda 
+Invent a New India Using Knowledge 
+
+
+
+Bhartrhari — Nitisatakam 
+''Knowledge is such a treasure which cannot be stolen" 
+
+
+
+
+^'^^^r 
+
+
+
+k 
+
+
+
+
+BLANK PAGE 
+
+
+
+^*-^^^ 
+
+
+
+
+
+PROTECTED BY COPYRIGHT 
+
+
+
+IS : 101 ( Part 3/Sec 5 ) - 1987 
+
+UPC 667 6122: 639-215 ( Second Reprint JUNE 1998) ( Reaffirmed 2004 ) 
+
+
+
+3 
+
+o 
+
+
+
+Indian Standard 
+
+METHODS OF SAMPLING AMD TEST FOR PAINTS, 
+VARNISHES AND RELATED PRODUCTS 
+
+PART 3 TESTS ON PAINT FILM FORMATION 
+Section 5 Fineness of Grind 
+
+( Third Revision ) 
+
+
+
+1. Scope — Prescribes a method for determining the fineness of grind of paints and related products 
+by a suitable fineness of grind gauge. 
+
+2. Principle — This test is intended to measure the degree of dispersion of pigments in the vehicle 
+system. The materfal is spread in a calibrated tapered groove. At some point in this groove, solid 
+particles are readily discernible. A direct reading from the calibrated scale is then made at this point 
+The method is applicable to all types of paints and related products. Of the 3 gauges referred to in 
+this standard, the to 100 f^m gauge is suitable for general use, but the to 50 jLtm and especially 
+the to 25 fAfn gauge will only provide reliable results in the hands of skilled laboratory personnel. 
+Particular caution is necessary in interpreting readings of less than 10 ^m. 
+
+3. Apparatus 
+
+3.1 Gaw^fe — Consists of ablock of hardened steel (5ee Note ) of approximately 175 mm in length, 
+65 mm in width and 13 mm thick. The top surface of the block shall be ground smooth and flat, and 
+shall contain one or two grooves approximately 140 mm in length and 12*5 mm width parallel to the 
+longer sides of the block. Each groove shall be tapered uniformly in depth lengthwise from a 
+suitable depth (for example, 25, 50 to 100 pm ) at one end to zero depth as specified in the Table 1. 
+
+Note — Use stainless steel blocks for water borne paints. 
+
+
+
+TABLE 1 GRADUATION OF TYPICAL GAUGES 
+
+Depth of Range, fxm fnterval of Graduation, \i.m 
+(1) (2) 
+
+100 too 10 
+
+50 to 5 
+
+25 to 2*5 
+
+
+
+3.2 Scraper — Consisting of a single or double edged steel blade approximately 90 mm long, 
+40 mm wide and 6 mm thick. The edges on the long sides shall be straight, and rounded to a radius 
+of approximately 25 mm. 
+
+3.3 Typical gauges with scraper is shown in Fig. 1 and 2. 
+
+4. Sampling — A representative sample to be tested shall be taken as given in 13:101 (Parti/ 
+Sec 1 )-1986 'Methods of sampling and test for paints, varnishes and related products : Part 1 Tests 
+on liquid paints (general and physical ), Section 1 Sampling ( tliird revision)' . 
+
+5. Procedure — Place the gauge to be used, which shall be thoroughly clean and dry, on a flat, 
+horizontal and non-slipping surface. Pour a sufficient amount of sample into the deep end of the groove 
+
+1 so that it overflows the groove slightly. Grasp the scraper between the thumbs and fingers of both 
+hands and place it edgewise in contact with the surface of the gauge at extreme deep end of the 
+groove with the long dimension of the scraper parallel to the short dimension of the gauge. While 
+holding the scraper prependicular to the surface of the gauge and at right angles to the length of the 
+groove, draw it at a uniform rate over the surface of the gauge to a point beyond the zero end of the 
+groove in 2 to 3 seconds. Sufficient downward pressure shall be exerted on the scraper just to fill 
+the groove with the sample and clean the level surface of the gauge. Determine in a time not exceed- 
+ing 6 seconds from the completion of the drawdown, the fineness of grind of the product by viewing 
+the gauge from the side in such a manner that the line of visfon is at right angles to the long dimension 
+of the groove and at an angle of not more than 30° nor less than 20"* to the face of the gauge while 
+it is in a light which will make tha pattern of the product in the groove readily visible. 
+
+
+
+Adopted 30 April 1987 
+
+
+
+© March 1988, BIS 3r 2 
+
+
+
+BUREAU OF INDIAN STANDARDS 
+
+MANAK BHAVAN, 9 BAHADUR S+iAH ZAFAR MARG 
+NEW DELHI 110002 
+
+
+
+IS: 101 (Part 3/ Sec 5) -1987 
+
+
+
+:^n- 
+
+
+
+.as65 H 
+
+
+
+Mtn 
+100 
+
+
+
+100 
+
+
+
+90 
+
+
+
+
+90 
+
+
+80 
+
+
+
+
+80 
+
+
+70 
+
+
+
+
+70 
+
+
+SO 
+
+
+
+
+60 
+
+
+50 
+
+
+
+
+50 
+
+
+40 
+
+
+
+
+40 
+
+
+30 
+
+
+
+
+30 
+
+
+20 
+
+
+
+
+20 
+
+
+10 
+
+
+
+
+10 
+
+
+
+
+
+
+
+
+
+
+
+Sfl75 
+
+
+
+^V^ 
+
+
+
+59 
+
+
+
+45 
+
+40 
+35 
+30 
+25 
+20 
+15 
+10 
+5 
+
+
+
+
+B 
+
+All dimensions in millimstrss. 
+FIG. 1 TYPICAL GAUGE 
+
+
+
+SCRAPING 
+EDGE R 0.25 
+
+
+
+25.0 
+
+
+
+/am 
+25.0 
+
+
+
+22.5 
+
+
+
+
+22.5 
+
+
+20.0 
+
+
+
+
+20.0 
+
+
+17.5 
+
+
+
+
+17.5 
+
+
+15.0 
+
+
+
+
+15.0 
+
+
+12.5 
+
+
+
+
+12.5 
+
+
+10.0 
+
+
+
+
+10.0 
+
+
+7.5 
+
+
+
+
+7.5 
+
+
+5.0 
+
+
+
+
+5.0 
+
+
+2.5 
+
+
+
+
+2.5 
+
+
+
+
+
+
+
+
+
+
+
+
+All dimensions in millimetres. 
+FIG. 2 SCRAPER 
+
+Observe the point along the groove where the product first shows a predominantly speckled 
+appearance and, in particular, the two graduation marks between which the number of particles, in a 
+band 3 mm wide across the groove, is of the order of 5 to 10. (^e^ Fig. 3). Estimate this position 
+as the fineness of grind to the nearest 5/Am for to 100 Mm gauge; 2 Mm for to 50 Mm gauge and 
+1 Mm for to 25 Mm gauge. Discard any scattered specks which may appear prior to the point where 
+the predominantly speckled appearance begins. The gauge and scraper shall be cleaned carefully with 
+a suitable solvent immediately after each reading. Make 3 determinations. 
+
+
+
+6. Expression of Results — Calculate the mean of the three determinations and round off the result 
+to the same precision as the original reading. 
+
+
+
+IS : 101 ( Part 3/Sec 5 ) - 1987 
+
+
+
+100 
+
+
+
+>4m 
+
+m 
+
+
+
+90 
+
+
+
+
+10 
+
+
+10 
+
+
+
+
+ifi 
+
+
+20 
+
+
+
+
+Zo 
+
+
+IP 
+
+
+
+
+JUL 
+
+
+IP 
+
+
+
+
+H 
+
+
+CO 
+
+
+
+
+^ 
+
+
+30 
+
+
+
+
+Ifi. 
+
+
+2P 
+
+
+kji^^ 
+
+
+20 
+
+
+JP 
+
+
+^^10_ 
+
+
+J^ 
+
+
+
+
+IL 
+
+
+
+20Mm 
+READING 
+
+
+
+ISnm 
+
+
+• 
+
+
+1$Mm 
+
+
+♦ 
+
+
+
+
+3nim 
+
+
+• • ' . • 
+
+
+
+
+lOMm 
+
+
+•••'•;.-''•*;'••. 
+
+
+^o^lm 
+
+
+
+
+
+
+
+ENLARGED VIEW OF GAUGE 
+READING ISpm 
+
+
+
+60Mm 
+READING 
+
+FIG. 3 TYPICAL READING OF GAUGE 
+
+
+
+EXPLANATORY NOTE 
+
+This Indian Standard is one of a series dealing with the sampling and testing of paints, varnishes 
+and related products. This standard supersedes 7.6 of IS : 101-1964 'Methods of test for ready mixed 
+paints and enamels (second reW^/oA?)'. In the preparation of this standard, considerable assistance 
+has been derived from 150 1524-1973 Paints and varnishes— Determination of fineness of grind, 
+prepared by the International Organization for Standardization ( ISO ). 
+
+
+
+Printed »t Simco Phnting Press, Delhi, Bidia 
+
+
+

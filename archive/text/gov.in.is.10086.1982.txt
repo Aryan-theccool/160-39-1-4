@@ -1,0 +1,2141 @@
+**************** 
+
+
+
+^ tOTH: 
+
+
+
+
+Disclosure to Promote the Right To Information 
+
+Whereas the Parliament of India has set out to provide a practical regime of right to 
+information for citizens to secure access to information under the control of public authorities, 
+in order to promote transparency and accountability in the working of every public authority, 
+and whereas the attached publication of the Bureau of Indian Standards is of particular interest 
+to the public, particularly disadvantaged communities and those engaged in the pursuit of 
+education and knowledge, the attached public safety standard is made available to promote the 
+timely dissemination of this information in an accurate manner to the public. 
+
+
+
+Mazdoor Kisan Shakti Sangathan 
+"The Right to Information, The Right to Live" 
+
+
+
+Jawaharlal Nehru 
+"Step Out From the Old to the New" ' 
+
+
+
+IS 10086 (1982) : Specification for moulds for use in tests 
+of cement and concrete [CED 2: Cement and Concrete] 
+
+
+
+Satyanarayan Gangaram Pitroda 
+Invent a New India Using Knowledge 
+
+
+
+
+Bhartrhari — Nitisatakam 
+"Knowledge is such a treasure which cannot be stolen" 
+
+
+
+
+
+BLANK PAGE 
+
+
+
+
+^*-:gv 
+
+
+
+
+^^35^* 
+
+
+
+PROTECTED BY COPYRIGHT 
+
+
+
+IS: 10086 -1982 
+
+Reaffirmed 2004 
+
+Indian Standard Reaffirmed 2008 
+
+SPECIFICATION FOR 
+
+MOULDS FOR USE IN TESTS OF 
+
+CEMENT AND CONCRETE 
+
+Third Reprint MARCH 2008 
+
+( Including Amendment No, 1 ,2.3,4 & 5 ) 
+
+
+
+UDC 666.9055:621.744.3 : 620.173/.174 
+
+
+
+© Copyright 1982 
+BUREAU OF INDIAN STANDARDS 
+
+MANAK BHAVAN, 9 BAHADUR SHAH ZAFAR MARG 
+NEW DELHI 1 1 0002 
+
+
+
+August 1982 
+Gr 5 
+
+
+
+IS : 10086 - 1J»82 
+
+Indian Standard 
+
+SPECIFICATION FOR 
+
+MOULDS FOR USE IN TESTS OF 
+
+CEMENT AND CONCRETE 
+
+Cement and Concrete Sectional Committee, BDC 2 
+
+Chairman Reprtsenttng 
+
+Dr H. C. VisvBSvaraya Cement Research Institute of India, New Delhi 
+
+Membett 
+
+ACDtTioNAi. Director, Standards Research, Designs & Standardi Organization 
+
+( B & S ) ( Ministry of Railways ), Lucknow 
+
+Deputy Director, Standards 
+(B&SH Alteraett) 
+Shri K. p. Banerjbe Laisen & Toubro Ltd, Bombay 
+
+Shri Harish N. Malani ( Alternate ) 
+Shri S. K. Banerjbe National Test House, Calcutta 
+
+Sh«ii R.N. Bansal Beas Designs Orga.mzaiiQn, Nangal Township 
+
+Shri T. C Garo ( Alltrnate ) 
+Shhi R. v. Ghalapathi Rao Geological Survey of India, Calcutta 
+
+Shri S. Roy ( Ailernati ) 
+Chief Engineer ( Designs) Central Pubhc Works Department, New Delhi 
+
+ExEctmvE Engineer 
+( Designs ] III ( AlUmaU ) 
+Chief Engineer ( Projects) Irrigation Department, Governmot of Punjab, 
+
+Chandigarh 
+Director, IPRI { Aita-aate ) 
+Director (CSMRS) Central Soil and Mafenals Research Station, New 
+
+Delhi 
+Deputy Director ( CSMRS ) 
+( Alternate ) 
+
+Shri T, A E. D'Sa The Concrete Association of India, Bombay 
+
+Shri N. C, Dugcal ( Alterante ) 
+Shri A. K Gupta Hyderabad Asbestos Cement Products Ltd, 
+
+Hyderabad 
+Shbi V. K. Gupta Enginecr-in-Chicf 's Branch, Army Headquarters, 
+
+New Delhi 
+Shbi S N. Pande {Alternate ) 
+
+Dr R R Hattiangadi The Associated Cement Companies Ltd, Bombay 
+
+
+
+Shri P. J.Jagus ( AUttnale ) 
+
+
+
+( Continued on page 2 ) 
+
+
+
+® Copyright 1982 
+
+BUREAU OF INDIAN STANDARDS 
+
+Thia publication is protected under the Indian Copyright A<^i f XJV of 1957) and 
+reproduction id whole or in part bv any means except with written permisstoD oftha 
+publisher shall be deecned to be an infnogement of copyngbi under th« taid Ac). 
+
+
+
+IS : 10086 - 1982 
+
+( Continued from pagi 1 ) 
+
+Members Reprtseabng 
+
+Ds Iqbal Ali Engineering Research Laboralonei, Hyderabad 
+
+Shri 5. R. KuLKARNl M. N. Daatur & Co Pvt Ltd, Calcutta 
+
+Shri S. K. Laha The Institution of Engineers ( Indi,i ), Calcutta 
+
+Shri B, T, UnWalla ( AlternaU ) 
+Da Mohan Rai Central Building Research Institute (CSIR), 
+
+Roorkce 
+Dr S. S Rehsi ( Allemali ) 
+Shui K. K. Naueiak In personal capacity ( ' Rama'"'lajia ' II Pint Crttctnt 
+
+Park Road, Gandhinagar, Adyar, Madras) 
+Shri H S PasrichA Hinduitan Prefab Ltd, New Delhi 
+
+Shri C. S. MishRa ( AllemaU) 
+Shri Y R. Phull Central Road Research Institute ( GSIR ), New 
+
+Delhi 
+Shri M R. Chattebjee ( AlUmalt I ) 
+Shri K, L Sethi ( Altemait II J 
+Db M Rauaiah Structural Engineering Research Centre ( CSIR ), 
+
+Roorkee 
+Dr N. S. Bhal ( Alumate J 
+
+Shri G, Raudas Directorate General of Supplies and Disposals, New 
+
+Delhi 
+Dr a. V. R Rao National Buildings Organization, New Delhi 
+
+Shri J Sen GuPTA ( Albmatt ) 
+
+Shri T N. S Rao Gammon India Ltd, Bombay 
+
+Shri S. R. PinHeiho {Alternate ) 
+
+Representative Indian Roads Congress, New Delhi 
+
+Shri Arjun Rijhsinchani Cement Corporation of India Ltd, New Delhi 
+
+Shri K. Vithai. Rao ( Alternate) 
+
+Secretary Central Board of IrrvgatLon and Power, New Delhi 
+
+Deputy SecflTary (I) ( Alternate) 
+
+SbrI N SivAGUKU Roads Wing, Ministry of Shipping and Transport, 
+
+New Delhi 
+
+Shri R. L. Kafoor [ Alternate ) 
+Shri K A. Subrauaniau The India Cements Ltd, Madras 
+
+Shri P. S Rahachandran ( Alternate ) 
+
+Superintending E n o i n e c r Public Works Department, Government of Tamil 
+( Designs ) Nadu, Madras 
+
+Executive Engineer ( SM&R 
+Division ) ( Alternate) 
+
+Shri L. Swaroop Datmia Cement (Bharat) Ltd, New Delhi 
+
+Shri A V. Rauana ( Alternate ) 
+
+Shm G. Rkuxh, DiieclM Getitial, ISI ( Ea-oJ^cw Mtm&«r ) 
+
+Director ( Civ Engg ) 
+
+Secretary 
+
+Shri M N. Nsblakandhan 
+
+Assistant Director ( Civ Engg ), 131 
+
+( Continued on page 19) 
+
+
+
+s 
+
+
+
+AHENOHENT NO. 1 NOVEMBER 1984 
+
+TO 
+
+15:10086-1982 SPECIFICATION FOR MOULDS FOR USE 
+IN TESTS OF CEMENT AND CONCRETE 
+
+Addendum 
+
+[Jttge 14, Table 2) - Add the follovlng nev note 
+belov the table: 
+
+'NOTE - The length and vidth of base plate depend 
+upon the arraogement provided for clamping the mould 
+to the base plate and hence nay vary fron the values 
+specified In the table.* 
+
+
+
+(BDC 2) 
+
+
+
+printad at Slmco Printing Praaa, D*lhl. '"^I* 
+
+
+
+Ai-IENDHE'NT NO. 2 JUNE 19b 5 
+
+TO 
+
+I S:l 0086-1 9B2 SPECIFICATION FOR MOULDS FOR USE IN 
+TESTS OF CEMENT AND CONCRETE 
+
+
+
+{.Rxge 4, alause 4,2 ) - Renumber the existing NOTE 
+as NOTE 1 and add the following as NOTE 2 under this 
+clause: 
+
+'NOTE 2 - For checking the permissible variation 
+in the planeness, the surface should be wholly con- 
+tained between two planes not further apart than the 
+specified value.' 
+
+
+
+(JDC 2) 
+
+
+
+Printed at Simco Printing Pratt. Dtlhl, India 
+
+
+
+AMENDMENT NO. 3 FEHRDART 1988 
+
+TO 
+
+15:10086-1982 SPECIFICATION POR MOULDS FOR USE 
+IN TESTS OF CEMENT AND CONCRETE 
+
+
+
+( Page 17, clause 7.1, line 2) - Add the vrords 
+'and the accessories' after the words 'the mould' . 
+
+(Page 17, clause 7.1.1) - Add the words 'and 
+the accessories' after the words 'The moulds'. 
+
+
+
+(BDC 2) 
+
+
+
+Printed at Slmco Prlntlns Pr*M, Dalhl, India 
+
+
+
+AMENDMENT NO. 4 MARCH 1993 
+
+TO 
+
+IS I(K>86 : 1982 SPECIFICATION FOR MOULDS FOR 
+
+USE IN TESTS OF CEMENT AND CONCRETE 
+
+( Page A, clause 4.1 ) — Sutetiititc 'IS 2102 { Part 1 ) : 1980' for IS : 2102 
+1969* in the NOTE. 
+
+( Page ^, foot-note ) — Substitute the following for the existing foot-note: 
+
+
+
+'* General loleranccs for dtmeosioBS ind fonn imI position: Part 1 GenenI loleraiKcs for linear and 
+angular diinensions ( second ratsum ) ' 
+
+
+
+( CED 2 ) 
+
+
+
+Pnnted at Sunco Pnnling Press, Delhi 
+
+
+
+AMENDMENT NO. 5 JULY 2006 
+
+TO 
+
+IS 10086 : 1982 SPECIFICATION FOR MOULDS FOR 
+
+USE IN TESTS OF CEMENT AND CONCRETE 
+
+( First cover page ) — Insert the following above the English title of ihe 
+Indian Standard 
+
+
+
+{ CED 2 ) 
+
+
+
+Prinled at Simco Printing Press, Deini 
+
+
+
+[S : 10086 - 1982 
+
+Indian Standard 
+
+SPECIFICATION FOR 
+
+MOULDS FOR USE IN TESTS OF 
+
+CEMENT AND CONCRETE 
+
+0. FOREWORD 
+
+0.1 This Indian Standard was adopted by the Indian Standards rnstitution 
+on 28 January 1982, after the draft finahzed by the Cement and Concrete 
+Sectional Committee, had been approved by the Ci\il Engineering Division 
+Council. 
+
+0.2 The Indian Standards Institution has already published a series of 
+standards on methods of te.ting Ciiincnt and concrete. It has been 
+recognized that reproducible and repeatable test results can be obtained 
+only with standard testing equipment capable of giving the desired level 
+of accuracy The Sectional Committee has, therefore, decided to bring out 
+a scries of specifications covering the requiretncnt^ of equipment used fcf 
+testing cement and concrete, to encourage their development and manufac- 
+ture in the country. 
+
+0.3 Accordingly, this standard has been prepared to cover requirements of 
+the moulds used for casting cement or concrete cubes, cylinders and beams 
+for compressive and flexural strength tests on cement and concrete. The 
+Indian Standards which detail the methods of compressive and flexural 
+strength tests requiring use of these moulds are IS : 516-1959*, 
+IS : 1199-1959t and IS : 4031-1968^. 
+
+0.4 In the formulation of this standard, due weightage has been given to 
+international co-ordination among the standards and practices prevailing 
+\n different countries in addition to relating it to the practices in the field 
+in this country. 
+
+0.5 For the purpose of deciding whether a particular requirement of this 
+standard is complied with, the final value, observed or calculated, expres- 
+sing the result of a test or analysis, shall be rounded off in accordance with 
+IS : 2-19605- The number of significant place retained in the rounded off 
+value should be the same as that of the specified value in this standard. 
+
+
+
+•Methods of test for strength of concrete 
+fMeihods of samphng and analysis of concrete 
+JMcthods ofphyjical tests for hydraulic cement 
+^Rules for rounding off numerical values {fii\i'd) 
+
+
+
+IS : loose - 1983 
+
+1. SCOPE 
+
+1.1 This standard covers the requirements of the moulds used for casting 
+cement or concrete cubes, cylinders and beams for tests of cement and 
+concrete, such as compressive strength test and Qexural strength test. 
+
+1.2 Moulds which are accessories to testing equipment such as vibration 
+machine and jolting apparatus are not coverd by this standard. 
+
+2. TYPES 
+
+2.1 The moulds shall be of following types; 
+
+a) Cube moulds of 50, 100, 1 50, 225 and 300 mm, 
+
+b) Cylindrical mould of 150 mm diameter and 300 mm height, 
+
+c) Beam moulds of 100 x 100 X 500 mm and 150 x 150 x 70O mm, 
+
+d) Bar moulds of 25 x 25 mm size and 2^0 mm effective length, and 
+
+e) Mould of 75 x 75 mm size and 150 to 300 mm length. 
+
+3. MATERIAL 
+
+3.1 Material for construction of moulds shall normally be as given in 
+Table 1. However, any other material which is non-absorbent and non- 
+reactive with concrete and which shall retain the dimensional stability of 
+the moulds may also be used. 
+
+4. DIMENSIONS AND TOLERANCES 
+
+4.1 The dimensions with tolerances of various types of moulds described 
+at 2.1 (a) to 2.1 (d) { see Fig 1 to 8 ) shall be as given in Tables 1 to 5. The 
+dimensions of moulds described at 2.1 ( e ) shall be such that it shall be 
+possible to cast specimens with a length of 150 to 300 mm and a cross-sec- 
+tion as near as practicable to 75 X 75 mm. 
+
+Note — The allowable deviations for nominal dimensions shall be as laid down for 
+coarae class of deviation in IS 2102-1969*. 
+
+5. CONSTRUCTION 
+
+5.1 General — The construction of the moulds shall, m general, be in 
+accordance with Fig. 1 to 8 
+
+Note — The figures are illustrative only, but the dimensions and mininiuin require- 
+ments where specified shall be binding 
+
+5.1.1 The moulds shall be of metal and stout enough to prevent 
+distortion. These shall be constructed in such a manner as to facilitate 
+the removal of the moulded specimen without damage and shall be so 
+machmed that, when they are assembled ready for use, the dimensions and 
+internal faces shall be accurate within the specified limits. Internal faces of 
+the moulds shall be smooth. 
+
+
+
+•Allowable deviations for dimensions without specified tolerances (.first revtjion ]. 
+
+
+
+IS : 10OS6 • 1982 
+
+
+
+-y- 
+
+
+
+T 
+
+
+
+CT- 
+
+
+
+3 
+
+
+
+
+
+
+(1 
+
+
+
+Vi_F 
+
+
+
+iT'-^r-^ 
+
+
+
+^h- 
+
+
+
+E 
+
+
+
+J" 
+
+
+
+^ 
+
+
+
+< 
+
+
+
+^ 
+
+
+
+-^ 
+
+
+
+k 
+
+
+
+1 ^ ^ V I 
+
+
+
+K— — lif; 
+
+
+
+Q 
+
+-J 
+
+cs O 
+n ta 
+
+i ^ 
+
+o — 
+■" O 
+
+
+
+•9 : 100S6 - 1982 
+
+
+
+B 
+
+
+
+n 
+
+
+
+vuu 
+
+
+
+V. 
+
+
+
+5.0 5' 
+
+
+
+rrrr 
+
+
+
+
+
+rr~--=n- 
+
+
+
+tfr 
+
+
+
+f- — 50-0 1 — — 
+
+
+
+
+
+L.J-J I 
+
+
+
+So' 
+
+
+
+to. 
+
+
+
+■^5" 
+
+
+
+
+
+
+
+50-0 1 
+
+
+
+—~\ [- 50;01 
+
+
+
+i 
+
+
+
+210.2 
+
+
+
+T 
+
+
+
+s ~ 
+
+
+
+■LOCATING 
+\ PIN 
+
+
+
+•ALLEN 
+SCREW 
+
+
+
+
+
+
+A 
+
+
+
+^2*2 
+
+
+
+1^ 
+
+
+
+H 1- 
+
+
+
+-^^^ 
+
+
+
+T^^ 
+
+
+
+W2 
+
+
+
+]:n- 
+
+
+
+M 
+
+
+
+^- 
+
+
+
+d: 
+
+
+
+1-5:0! 
+
+
+
+All dimrnsions in niillimcires 
+
+Fig. 2 Typical Cube Mould, 50mm Size with 3 Mould Compartment 
+
+
+
+IS : 10086 - 1982 
+
+
+
+
+£ 
+
+
+
+6 min 
+
+
+
+4< 
+
+
+
+
+
+
+^ c 
+
+
+
+*19StJ 
+
+
+
+
+CAPPING PIATP 
+6 nnin---T_ 
+
+
+
+
+
+
+^ 
+
+f 
+
+
+
+<i> 
+
+
+
+re 
+
+
+
+•0 300±1 
+
+
+
+-BASE 
+PLATE 
+
+
+
+Ail dimeniions in millimetrci. 
+
+Fio. 3 Typical Cylimdricai. Mould 
+
+
+
+IS : 10086 - 1982 
+
+
+
+^ 
+
+
+
+if 
+
+
+
+m ^ yj 
+
+
+
+^ 
+
+
+
+
+
+
+^^ 
+
+
+
+r:^ 
+
+
+
+Hi 
+
+
+
+"^ 
+
+
+
+CQ 
+
+
+
+IS .• 10086 - 1982 
+
+
+
+o a 
+
+
+K 
+
+in 
+
+
+S 
+
+
+» 
+
+
+
+
+
+
+1 ^ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+I s 
+
+
+
+
+
+
+
+
+4 
+c 
+■f 
+
+
++ r 
+
+t 
+
+
+; 
+
+
+
+
+
+
+
+
+^ 
+
+
+U 
+
+
+> 
+
+
+
+
+^ 
+
+
+H 
+
+
+
+
+
+
+
+
+I 
+
+
+
+r. 
+
+
+
+^S 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+t/j ,2 
+
+
+
+Q 
+
+i § 
+
+-= < 
+
+B m 
+
+s J 
+
+S 3 
+
+s 5: 
+
+I 
+
+
+
+K 
+
+
+
+IS : 10086 • 1982 
+
+
+
+f O 
+
+
+
+A 
+
+
+
+K 
+
+
+
+Ji 
+
+
+
+t 
+
+
+
+Mg 
+
+
+
+-u. 
+
+
+
+
+
+
+13" 
+
+
+
+f^ 
+
+
+
+T 
+
+
+
+h 
+
+
+
+^ 
+
+
+
+o 
+
+a. 
+
+
+
+z 
+111 
+
+
+
+a: 
+
+
+
+
+5 
+
+
+
+5 § 
+
+IS 
+
+
+
+o Q 
+S -J 
+
+■i| 
+
+5 % 
+
+. CO 
+
+u 
+
+ol 
+
+>• 
+H 
+
+
+
+10 
+
+
+
+IS : 160t« - IMS 
+
+
+
+
+Ul 
+
+
+
+a 
+
+u O 
+
+= < 
+
+S " 
+
+c ^ 
+
+- < 
+
+a (u 
+
+" >■ 
+H 
+
+
+
+c 
+
+
+
+tl 
+
+
+
+IS :14M86-19S> 
+
+
+
+
+X 
+
+
+
+UJ 
+
+
+
+S p 
+
+
+
+
+
+
+IS : 10086 - 1W2 
+
+
+
+TABLE 1 MATERIALS OF CONSTRUCTION OF MOULDS 
+
+(Clauie 3.1 ) 
+
+
+
+Sl 
+No. 
+
+
+
+MouiD Type 
+
+
+
+Part 
+
+
+
+Maieukm 
+
+
+
+RE^a•lML^DFn 
+
+!SD1<1-, 
+
+Standafd 
+
+IF ANV 
+
+
+
+(1) W 
+
+i) Cube mould, 50 mm 
+
+
+
+a) Side p!a(i 
+
+
+
+'4, 
+
+
+
+Cast iron/ 
+
+Mild sicel 
+Gait iron/ 
+Mild st..-i 
+
+
+
+IS- 210-1978*,' 
+
+IS 226-l975t 
+TS 210-1978*/ 
+
+IS ,'L'i;-!n75t 
+
+
+
+m) Cube mould, 100 mm, 
+150 mm, 225 mm 
+and 300 mm 
+
+
+
+a) Side plali 
+
+b) Bj^e piatr 
+
+
+
+(Jast iron 
+GJst iron 
+
+
+
+IS 210-!97fi< 
+IS- 2IO-I')7/J* 
+
+
+
+111) Cylindncal mouldy 
+150 mm diameter x 
+300 mm height 
+
+
+
+a) Split part 
+
+b) Base plate 
+
+e) Capping plale 
+
+
+
+Cast iron/ 
+Mild steel 
+
+C^ast iror/ 
+Mild 5itcl 
+
+Cast iron/ 
+MiJd jteei 
+
+
+
+I-. 2Ui-iy7a* 
+
+IS ^26-1973t 
+IS' 210-1973*' 
+
+IS 220- 1975 1- 
+I» -'10-1978*/ 
+
+IS :i26-|''7Jt 
+
+
+
+iv) Beam mould 
+
+100 K 100X500 and 
+150x150x750 mm 
+
+
+
+a) Side plat^ 
+
+b) Bdse plate 
+
+c) Top piate 
+
+
+
+Casi iron 
+Cast iron 
+.Miidstfc! 
+
+
+
+IS 2\0-1971i* 
+IS 210-1978* 
+rs 226-I975t 
+
+
+
+v) Bar mould of 25x25 
+mm size and 250 
+mm clTcctive length 
+
+
+
+a) Side plate 
+
+b) Bascpla.te 
+
+c) Reference 
+points 
+(smooth & 
+knurled) 
+
+
+
+Mild steel 
+Mild steel 
+Siainlesi steel 
+
+
+
+IS 226-l975f 
+IS 226-19751 
+
+
+
+vi] Mould of 75x75 mm 
+Size and 150 to 300 
+mm length 
+
+
+
+a) Side Plate 
+
+b) Base plate 
+
+
+
+Mild steil 
+Mild stffl 
+
+
+
+IS, 226-1975t 
+IS- 22G-1975t 
+
+
+
+• Specification for grey iron castings ( Ihir/l revnwn). 
+
+t Specification for structural steel ( standard quality ) (,fiftk miswn }. 
+
+
+
+13 
+
+
+
+IS : 10086 - 1982 
+
+
+
+TABLE 2 DIMENSIONS AND TOLERANCES OF CUBE MOULDS 
+
+( Clamt 4 t ) 
+Sl No. Description Cubs Mouui Size 
+
+
+
+50 100 150 225 300 
+
+(1) (2) (3) (4) (5) (6) (7) 
+
+i) Distance between opposite 50 ±0 1 100±0'2 150±0-2 225±0-3 300±0-4 
+
+faces ( C* ), mm 
+ij) Height of mould (F*), 50±0 1 100±0'2 150±0 2 225±0-3 300±0 4 
+
+mm 
+111) Thickness of wall plate 6 8 8 10 10 
+
+( D*), mm 
+iv) Angle bftwcen adjacent in- 90±0 5' 90±0-5° 90±0-5° 90^0 5° 90±0-5° 
+tenor faces and between 
+interior faces and top and 
+bottom plates of mould 
+v) Length of base plate ( A* ), 
+
+mm 
+vi) Width of base plate ( B* ), 
+
+mm 
+vii) Thickness of bajc plate 
+( £• ) mm 
+
+Permissible variation in the 
+planencss of interior 
+faces ■ 
+
+for new moulds, mm 
+for moulds in use, mm 
+Permissible variation in ihc 
+planeness of base plate, 
+mm 
+
+• These letter symbols are indicated in Fig 1. 
+
+
+
+120 
+
+
+225 
+
+
+280 
+
+
+375 
+
+
+425 
+
+
+95 
+
+
+165 
+
+
+215 
+
+
+300 
+
+
+375 
+
+
+6 
+
+
+8 
+
+
+8 
+
+
+10 
+
+
+12 
+
+
+
+Villi 
+
+
+
+]x) 
+
+
+
+03 
+
+
+003 
+
+
+03 
+
+
+03 
+
+
+03 
+
+
+05 
+
+
+0'05 
+
+
+05 
+
+
+0-05 
+
+
+0'05 
+
+
+1 
+
+
+03 
+
+
+0-03 
+
+
+0-03 
+
+
+0'03 
+
+
+
+
+
+TABLE 3 DIMENSIONS AND TOLERANCES FOR CYLINDRICAL MOULDS 
+
+
+
+
+[Clauft 4.1) 
+
+
+
+
+SlNo. 
+
+
+Description 
+
+
+DlMENUONS IN mm 
+
+
+0) 
+
+
+(2) 
+
+
+(3) 
+
+
+») 
+
+
+Mean internal dmnneter 
+
+
+150 ± 2 
+
+
+'■) 
+
+
+Actual internal diameter m any direction 
+
+
+150 ±05 
+
+
+"') 
+
+
+Height 
+
+
+300 ± 1 
+
+
+iv) 
+
+
+Permissible variation in the planeness of cylindri- 
+cal wall plate 
+
+
+05 
+
+
+V) 
+
+
+Thickness of wall plate 
+
+
+6 
+
+
+VI) 
+
+
+Diameter of base plate 
+
+
+300 ±3 
+
+
+vh) 
+
+
+Diameter of capping plate 
+
+
+!95±2 
+
+
+viii) 
+
+
+Thickness of base plate/capping plate 
+
+
+G 
+
+
+«1 
+
+
+FermissDile variation in the planencM of base 
+plate/cmpping plate 
+
+
+03 
+
+
+
+14 
+
+
+
+IS: 10086 -1982 
+
+
+
+TABLE 4 DIMENSIONS AND TOLERANCES OF BEAM MOULDS 
+
+( aaun 4.1 ) 
+
+
+
+SlNo. 
+(1) 
+
+
+
+Description 
+
+
+
+(2) 
+
+
+
+Length between internal facfs 
+( A* ) , mm 
+
+
+
+ii) Width between internal faces 
+(B*),mm 
+
+iii) Height ( G* ), mm 
+
+iv) Thickaess of wall plate ( E* ), mm 
+
+v) Length of bajc plate ( C* ), mm 
+
+vi) Width of base plate ( D* ), mm 
+
+vii) I'hickncss of base plate ( f • ), mm 
+
+vm) Angle between inicriof faces and 
+top and bottom planes of the 
+mould 
+
+IX} Permissible variation in the plane- 
+ncss of internal surfaces : 
+
+In a length of 1 50 mm, mm 
+
+Overall, mm 
+
+*These letter symbols are indicated in Fig 4 
+
+
+
+Beam Mould Size 
+A 
+
+
+
+100x100x500 
+
+(3) 
+500 
+
+100 ±0-2 
+
+100 ± 005 
+
+9 
+600 
+
+225 
+8 
+90 ± O-S" 
+
+
+
+03 
+1 
+
+
+
+150x150x700 
+
+(4) 
+700 
+
+150 ± 0-2 
+
+150 ±005 
+
+12 
+830 
+275 
+
+IC 
+
+90 ±0 5" 
+
+
+
+0-03 
+01 
+
+
+
+TABLE 5 DIMENSIONS AND TOLERANCES OF BAR MOULDS 
+
+(Claust 4.1 ) 
+
+Sl No Description 
+
+(1) (3) 
+
+i) Distance between inner ends of reference 
+points ( effective gauge length ) 
+
+
+
+Dimensions in mm 
+
+(3) 
+230 ±2 
+
+
+
+ii) Width between inner surfaces 25 ± 0"8 
+
+111) Height 25 ±0-8 
+
+Note — The dimensions given in the table shall also apply to moulds in use. 
+
+
+
+15 
+
+
+
+IS : 10086 - 1982 
+
+5.1.2 The inside faces of the mould plates and base plates may have 
+blowholes and blemishes on the surface, such as honeycombing. All such 
+bJowhoies and cavities shall be litted in with mild steel pins, or by 
+welding and shall be finished flush with the surface either by machining 
+or by fikng. However, the number of blowholes on each plate acceptable 
+may not exceed 5 in the case of cube moulds of up to and including size 
+150 mm, and 10 in the case of cube moulds of sizes 225 and 300 mm, 
+cylindrical mould of 150 mm diameter and 300 mm height and beam moulds 
+of sizes 100 x100 x500 mm and 1 50 x: 1 50 >: 700 mm. The sizes of the 
+blowhole m any direction may not exceed 5 ram with a depth of 3 to 5 mm. 
+In the case of cylmd'-ic J mould, the sizes of blowhole/cavity in any direction 
+may not exceed 20-25 mm 
+
+5.2 Special Requirements 
+
+5.2.1 Cube Mould — Cube mould of 50 mm size shall be either a singly 
+mould ( see Fig. I ) or with more than one mould compartment ( see Fig 2 ); 
+however, the number of mould conip:irtments shall not exceed 3. Cube 
+moulds of size 100 mm, 150 mm, 225 mm and 300 mm shall be made 
+in such a manner as to facilitate their separation into two parts. Cube 
+moulds shall be provided with a base plate. 
+
+Note — If required by the purchaser, cube moulds may be provided with flat ateel 
+covei plates to facilitate acceleraied curing of test specimens ( t« IS : 9013-1978* ). 
+
+5.2.2 Cylindrical Mould ( see Fig. 3 ) — shall be made in such a manner 
+as to facilitate separation of the mould longitudinally into two parts. Each 
+mould shall be provided wjth a base plate and a capping plate. 
+
+5.2.3 Beam Mould ( see Fig. 4 ) — shall be made m such a manner as to 
+facilitate separation of the mould into two parts. The mould shall be 
+constructed with the longer dimension horizontal. Each mould shall be 
+provided with a base plate 
+
+5.2.4 Bar Mould — The bar mould miy be a single one or with more 
+than one mould compartment. Each end plate of the mould shall be 
+equipped to hold properly in place a stainless steel reference point having a 
+diameter of 6 mm. The reference points may be either smooth or knurled 
+end threaded The reference points shall be so set that their principal axis 
+coincides with the principal axis of the mould and shall extend 16 ram inside 
+the mould. Each mould shall be provided with a base plate Typical bar 
+moulds are shown in Fig. 5, 6, 7 and 8. 
+
+5.3 Arrangemrat for Fastening/Clamping — The base plate shall preferably 
+be attached to the mould by cleats which may either be spring-loaded or 
+secured with threaded studs and nuts/wing nuts The parts of the mould, 
+
+*Method of making, curing and determining compressive strength ofaccelerated-curtd 
+conciete test ipecimens. 
+
+16 
+
+
+
+IS : 100S6 - 1982 
+
+when assembled, shall be positively and ngidly held tonether during filhng, 
+subsequent handling and vibration where applicable Any suitable method 
+of ensuring this by way of lock nuts and/or locating pins may be employed. 
+
+6. ACCESSORIES 
+
+6.1 Tamping Rod — The tamping rod shall be of the following types: 
+
+a) 16 ± 0-5 mm dia and 600 ± 2 mm long with a rounded working 
+end shall be made of mild steel ( see Fig. 9 ), 
+
+b) Of square section with tamping face 25 ± 0-5 mm square and 
+400 ±2 mm long and weighing 2 kg shall be made of mild 
+steel and provided with a handle (see Fig 10 ). 
+
+c) Of 12x25 mm cross-section and convenient length of 
+125 to 150 mm; tamping face shall be flat and at right angles to the 
+length of the bar, shall be made of non-absorbciit, abrasion 
+resistant non-brittle material, such as a rubber compound having a 
+Shore A Durometer hardness of 80 ± 10 or seasoned teak wood 
+rendered non-absorbent by immersion for 15 mm in paraffin 
+at approximately 200°C, or ebonite fibre 
+
+6.2 Gauging Trowel — The gauging trowel shall be made of mild steel 
+and shall be in accordance with Fig II. The trowel blade shall be of 
+minimum thickness 1-5 mm and oflength 195 mm and shall be provided 
+with a wooden handle. The trowel shall weigh 210 ± !0 g 
+
+6.3 Trowel — The trowel shall be made of mild steel and shall be m 
+accordance with Fig. 11. The trowel blade shall be of minimum thickness 
+1'5 mm and 100 to 150 mm length with straight edges 
+
+7. MARKING 
+
+7.1 The following information shall be clearly and indelibly marked on each 
+component of the mould as far as practicable in way that it does not 
+interfere with the performance of the mould. 
+
+a) Name of the manufacturer or his registered trade mark or 
+both, and 
+
+b) Date of manufacture. 
+
+7.1.1 The product may also be marked with Slanddid Mark 
+
+''.1.2 The use of the Standard Mark, is governed by the provisions of the Bureau 
+of Indian Standards Act, \9%6 and the Ruie^ and Regulations made thereunder 
+I he details of conditions under ^vhich the licence for the use of Standard Mark 
+may be granted to manufactures or producers may be obtained from the Bureau 
+of Indian Standards 
+
+
+
+17 
+
+
+
+IS : 10086 ' 1982 
+
+
+
+-Ra 
+
+
+
+,-^^rf 
+
+
+
+31 
+
+
+
+'- <t> 16 + 
+
+
+
+*16±0 5 
+
+
+
+eoOii 
+
+
+
+All diiatntioM in millimetres. 
+
+Fig. 9 Typical Tamping Rod 
+
+
+
+
+All dimensiona in millimetre]. 
+
+Fig. 10 Typical Tamping Bar 
+
+
+
+
+
+
+
+
+30 
+
+
+S SO— — 
+
+J ^' 
+
+
+If 
+
+
+
+
+
+
+
+
+1 6,01-' 
+
+
+
+
+
+Ail dim^nnQni in rrnl'.lnmsei 
+
+Fig 11 Typic5tL Trowel 
+18 
+
+
+
+IS : Vm6 • 1982 
+
+( Conhtmed from page 2 ] 
+Instruments for Cement and Concrete Testing Subcommittee, BDC 2 : 10 
+
+Convener Refffesenltttg 
+
+Dr I(JBAL Ali Engineering Research Laboratories, Hyderabad 
+
+Members 
+
+Shri P. D. AoARWAL Public VVorks Department, Government of Uttar 
+
+Pradtsh, Luc know 
+Dr T. N Chojer ( Allernate ) 
+
+PeOf B. M Ahuja Indian Institute of Technology, New Delhi 
+
+Shri T. p. Ekamdabam Highways Research Station, Madras 
+
+Shri H K. GuHA All India Insiruments Manufacturers and Dealers 
+
+Asiociauon, Bombay 
+DEPtfTT Secketahy ( AllernaU ) 
+
+Shri P J Jagus The Associated Cement Companies Ltd, Bombay 
+
+Shri D A WadIa ( Ailemale ) 
+
+Shri M. R. Joshi Research &: Development Organiz3tion ( Ministry of 
+
+Defence), Pune 
+
+SkbI Y. p. Pathak {Ailemale) 
+■Shri E. K Ramachandhan Nalional Test House, Calcutta 
+
+Shri S. K Banehjeii ( Alurnate ) 
+Prof C K. Ramesh Indian Insiituie of Technology, Bombay 
+
+Dr R S. \YyAt{AlUrmle) 
+Shri M. V Ranga Rao GLmrnt Research Iniiitute of InJii, New Delhi 
+
+Dr K C NaraNG ( Allernate ) 
+
+DrS. S. Rehs! Central Budding Research Institute (CSIRI, 
+
+Roorkee 
+Shr[J p. Kaushish {Aiurnale) 
+
+Shri A. V S R. Sasthi Associated Instrument Manufacturers (India) 
+
+Private Ltd, New Delhi 
+Shri SuEHASH Shahma { AUtrnate) 
+
+Shki K. L Sethi Central Road Research Institute (CSIR), New 
+
+Delhi 
+Shri M L Bha-hJi. {Alternale) 
+
+
+
+19 
+
+
+
+BUREAU OF INDIAN STANDARDS 
+
+Headquarters 
+
+Manak Bhavan 9 Bahadur Shah Zafar Marg, NEW DELHI 1 1OO02 
+
+Telephones 23230131, 23233375 23239402 Fax 91+011 23239399, 23239382 
+
+E - Mail bisQvsn) com website http/Zwwwbis org in 
+
+Central Laboratory: Telephone 
+
+Plot No 20/9, Site IV, Sahibabad Industrial Area, SAHIBABAD 201010 2770032 
+
+Regional OHIces: 
+
+Central Manak Bhavan, 9 Bahadur Shah Zafar Marg, NEW DELH1 1 10002 2323 76 17 
+
+•Easlern 1/14 CIT Scheme VII M, V 1 P Road, Kankurgachi, KOLKATA 700054 2337 66 62 
+
+Northern SCO 335-336, Sector 34-A, CHANDIGARH 160022 260 38 43 
+
+Southern C I T Campus, !V Cross Road, CHENNAl 6001 13 2254 1 9 84 
+
+Western Manakalaya, E9, MIDC, Behind Marol Telephone Exchange, 2832 92 95 
+Andhen (East), MUMBAI 400093 
+
+Branch Offices: 
+
+'Pushpak', Nutmohamed Shaikh Marg, Kt^anpur, AHMEDABAD 380001 560 1 3 46 
+
+Peenya Industrial Area, 1" Stage, Bangalore-Tumkur Road, BANGALORE 839 49 55 
+
+Commercial-cum-Office Complex, Opp Dustiera IWaidan, E-5 Arera Cofony, 242 34 52 
+
+Bittan Market, BHOPAL 462016 
+
+62-63, Ganga Nagar, Unit VI, BHUBANESHWAR 751001 240 31 39 
+
+5'" Floor, Kovai Towers, 44 Bala Sundaram Road, COIMBATORE 641016 221 01 41 
+
+SCO 21 , Sector 12, Faridabad 121O07 229 21 75 
+
+Savrtri Complex, 116 G T Road, GHAZIABAD 201001 286 14 98 
+Ptot No A-20-21, Institutional Area, Sector 62, Goutam Budh Nagar, NOIDA-201307 240 22 06 
+
+53^5 Ward No 29, R G Barua Road, 5th By-lane, Apurba Sinha Path, 254 1 1 37 
+
+GUWAHATI 781003 
+
+5-e-56C, L N Gupta Marg, Nampally Station Road, HYDERABAD 500001 2320 10 64 
+
+E-S2, Chrtaranian Marg, C-Scheme, JAIPUR 302001 237 38 79 
+
+117M18 B, Sarvodaya Nagar. KANPUR 208005 22t 82 92 
+
+Sethi Bhawan, 2™" Floor, Behind Leela Cinema, Naval Kishore Road, 221 56 98 
+
+LUCKNOW 226001 
+
+NIT Building, Second Floor, Gokulpat Market, NAGPUR 440010 252 51 71 
+
+Mahabir Bhavan, l" Floor, Ropar Road, NALAGARH 174101 22 14 51 
+
+Patliputra Industnal Estate, PATNA 800013 226 28 08 
+
+First Floor, Plot Nos 657-660, Market Yard, Gultkdi, PUNE 41 1 037 426 86 59 
+
+"Sahaianand House' 3"" Floor, Bhaktinagar Circle, 80 Feet Road, 237 82 51 
+
+RAJKOT 360002 
+
+TO No 14/1421 , University PC Palayam, THIRUVANANTHAPURAM 695034 232 21 04 
+
+1" Floor, Udyog Bhavan, VUDA, Sinpuram Junction, VISHAKHAPATNAM-03 271 28 33 
+
+22 12 6215 
+2309 65 28 
+
+
+
+Sales Office is at 5 Chownnghee Approach, PO Pnncep Street, KOLKATA 700072 
+Sales Office is at Novelty Chambers, Grant Road, MUMBAI 400007 
+
+
+
+Printed at Simco Printing Press, Delhi 
+
+
+
