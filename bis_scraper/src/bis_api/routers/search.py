@@ -56,6 +56,7 @@ async def search_get(
     domain: Optional[str] = Query(None, description="BIS division filter"),
     committee: Optional[str] = Query(None),
     include_superseded: bool = Query(False),
+    include_passages: bool = Query(True, description="Include text passages in results"),
     intent: Optional[str] = Query(None, description="Override intent detection"),
     services: AppServices = Depends(get_services),
 ) -> SearchResponseOut:

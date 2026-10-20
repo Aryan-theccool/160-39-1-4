@@ -11,7 +11,7 @@
  * Override with NEXT_PUBLIC_API_URL to skip the proxy entirely (e.g. a deployed
  * API on another host, where CORS is already wide open).
  */
-const API_PROXY_TARGET = process.env.API_PROXY_TARGET ?? "http://127.0.0.1:8000";
+const API_PROXY_TARGET = process.env.API_PROXY_TARGET ?? "http://127.0.0.1:8001";
 
 /** @type {import('next').NextConfig} */
 const nextConfig = {
