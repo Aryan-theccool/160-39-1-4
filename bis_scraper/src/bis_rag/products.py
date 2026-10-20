@@ -73,8 +73,10 @@ def load_product_aliases(data_dir: Path) -> dict[str, dict[str, Any]]:
         log.warning(f"product_aliases.json not found at {aliases_path}")
         return {}
     
+    log.info(f"Loading product aliases from {aliases_path}")
     with open(aliases_path) as f:
         data = json.load(f)
+    log.info(f"Loaded {len(data.get('products', []))} products from aliases file")
     
     # Build a map: alias/phrase -> designations
     lookup = {}
@@ -131,9 +133,11 @@ def normalize_product(text: str, aliases: dict[str, dict[str, Any]]) -> ProductD
     
     # Match against aliases
     aliases_matched = []
+    log.debug(f"Alias lookup has {len(aliases)} entries")
     for phrase, data in aliases.items():
         if phrase in normalized:
             aliases_matched.append((phrase, data.get("designations", [])))
+            log.debug(f"  Matched phrase: '{phrase}' in '{normalized}'")
     
     # Sort by length (longest first, to avoid partial matches)
     aliases_matched.sort(key=lambda x: len(x[0]), reverse=True)
@@ -200,7 +204,9 @@ def recommend_for_product(
     started = time.perf_counter()
     
     if not aliases:
+        log.info(f"No aliases provided, loading from {data.root}")
         aliases = load_product_aliases(data.root)
+        log.info(f"Loaded {len(aliases)} alias entries")
     
     if not qco_db:
         try:

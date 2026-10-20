@@ -181,7 +181,11 @@ class SearchResult:
 
     @property
     def division(self) -> str:
-        return str(self.metadata.get("division") or "")
+        div = str(self.metadata.get("division") or "")
+        # Strip HTML tags from division field
+        import re
+        div = re.sub(r'<[^>]+>', '', div).strip()
+        return div
 
     @property
     def year(self) -> Optional[int]:
